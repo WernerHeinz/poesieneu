@@ -34,7 +34,8 @@ published: true
   <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
  Freies Schauspiel Ensemble Frankfurt
   </a>
-</div>
+</div>      
+
    
 # 7. September in Bacharach
 ## BACCHANALE. LANGE NACHT DER LYRIK UND MUSIK
