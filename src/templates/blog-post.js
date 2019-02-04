@@ -151,7 +151,7 @@ const Titelei = styled.div `
     }
     margin: 5px auto 0 auto;
   }
-  @media only screen and (orientation:landscape) and (max-width:700px){
+  @media only screen and (orientation:landscape) and (max-width:1200px){
     h1.mytit  {
       margin-top:20px;
       font-size:.8rem;
