@@ -25,10 +25,16 @@ published: true
 ## BÜCHNER SCHUBERT LENZ
 ![lenz1](/lenz1.png)
 
-# Termin N.N.  Oberwesel oder Kaub oder Lorch
-***Michael Quast und die Fliegende Volksbühne Frankfurt***
-## GLOTZT NICHT SO ROMANTISCH**
-![fvb](/fvb1.png)
+
+# 11. August  Oberwesel oder Kaub oder Lorch
+***Michael Quast und Bruno Kliegl (Glasharmonika)***
+## E.T.A. Hoffmann
+## Der goldene Topf 
+<div class="kontakt">
+  <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
+ Freies Schauspiel Ensemble Frankfurt
+  </a>
+</div>
    
 # 7. September in Bacharach
 ## BACCHANALE. LANGE NACHT DER LYRIK UND MUSIK
