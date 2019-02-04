@@ -103,7 +103,7 @@ font-weight:100;
  ul {
      list-style:none;
       padding:0;
-      margin:10px 0;
+      margin:0 0;
     }
     li {
         font-family:Roboto;
