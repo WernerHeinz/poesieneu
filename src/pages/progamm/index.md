@@ -30,7 +30,7 @@ published: true
 ***Michael Quast und Bruno Kliegl (Glasharmonika)***
 ## E.T.A. Hoffmann
 ## Der goldene Topf    
-![Quast](/goldtopf.jpg)
+![Quast](/e.t.a.jpg)
 <div class="kontakt">
   <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
  Freies Schauspiel Ensemble Frankfurt
