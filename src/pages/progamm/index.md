@@ -32,7 +32,7 @@ published: true
 ![Quast](/e.t.a.jpg)
 <div class="kontakt">
   <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
- Freies Schauspiel Ensemble Frankfurt
+ Fliegende Volksbühne Frankfurt
   </a>
 </div>      
 
