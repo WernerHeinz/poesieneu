@@ -9,7 +9,7 @@ under construction
 
 
 # Arbeitsgemeinschaft Festival
-**In den nächsten Wochen wird sich die Arbeitsgemeinschaft "Festival" im Welterbe konstituieren.**
+Am 3.2.2019 fand im Bacharacher Rathaus ein erstes Treffen der Arbeitsgemeinschaft "Festival" im Welterbe statt.
 
 In der  Arbeitsgemeinschaft sammeln sich die aktiven UnterstützerInnen des Festivals, Künstlerinnen und Künstler, VertreterInnen von Chören und Musikensembles in der Region sowie regionale RepräsentantInnen aus Politik und Verwaltung, denen das Festival als nachhaltiger kultureller Impuls in der Region am Herzen liegt.  
 
