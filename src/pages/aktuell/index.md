@@ -38,9 +38,9 @@ Wir wollen dazu keinen weiteren Verein gründen, sondern die Arbeitsgemeinschaft
 
 Der viereinhalbstündige theatrale Parcours führt dort von der Ruine der St. Werner-Kapelle zum Rheinufer und weiter zu fünf außergewöhnlichen Spielorten im schönen Rheinstädtchen. 
 
-Im vergangenen Jahr haben wir Heines „Rabbi von Bacharach“ um weitere Inszenierungen in den benachbarten Städtchen Lorch und Oberwesel zu einem Festival  „An den Ufern der Poesie“ erweitert, das zufünftig in biennalem Turnus im Weltkulturerbe Oberes Mittelrheintal stattfinden soll.
+2017 haben wir Heines „Rabbi von Bacharach“ um weitere Inszenierungen in Bacharach, Lorch und Oberwesel zu einem Festival  „An den Ufern der Poesie“ erweitert, das zufünftig in biennalem Turnus im Welterbe Oberes Mittelrheintal stattfinden soll.
 
-Und jetzt stecken wir mitten in den Planungen des Festivals 2019. An zwei Wochenenden im August 2019 wird es vier Aufführungen des „Rabbi von Bacharach“ geben. Unsere Freundinnen und Freunde vom Frankfurter Schauspiel-Ensemble werden – ebenfalls im August - ihre Inszenierung von Christa Wolfs „Kein Ort. Nirgends“ an den Rhein mitbringen und auch Michael Quast wird  mit seiner Fliegenden Volksbühne an den Ufern der Poesie im Weltkulturerbe landen. 
+Und jetzt stecken wir mitten in den Planungen des Festivals 2019. An zwei Wochenenden im August 2019 wird es drei Aufführungen des „Rabbi von Bacharach“ geben. Unsere Freundinnen und Freunde vom Frankfurter Schauspiel-Ensemble werden – ebenfalls im August - ihre Inszenierung von Christa Wolfs „Kein Ort. Nirgends“ an den Rhein mitbringen und auch der große hessische Komiker und Volksschauspieler Michael Quast wird  mit seiner Fliegenden Volksbühne an den Ufern der Poesie im Welterbe landen. 
  
 
 
