@@ -22,14 +22,13 @@ published: true
 
 # 30./31.8. & 1.9. in Bacharach
 ***Theater Willy Praml***
-## BÜCHNER SCHUBERT LENZ
+## BÜCHNER.LENZ & SCHUBERT.DIE SCHÖNE MÜLLERIN
 ![lenz1](/lenz1.png)
 
 
 # 11. August  Oberwesel oder Kaub oder Lorch
 ***Michael Quast und Bruno Kliegl (Glasharmonika)***
-## E.T.A. Hoffmann
-## Der goldene Topf    
+## E.T.A. Hoffmann  Der goldene Topf        
 ![Quast](/e.t.a.jpg)
 <div class="kontakt">
   <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
