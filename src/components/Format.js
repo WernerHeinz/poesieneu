@@ -174,4 +174,36 @@ export const Liste2 = styled.div`
         }
     }
 `
+export const MeineListe = styled.ul`
+padding:0;
+margin:0;
+text-align:left;
 
+opacitiy:1;
+> ul {
+  display:none; 
+  padding:0;
+  height:0;
+ 
+}
+
+&:hover {
+ 
+  > ul {
+    
+    display:block;
+    height:100%;
+    li  {
+      font-size:.95rem;
+      
+    } 
+  
+    a {
+      text-transform:unset !important;
+      letter-spacing:.0991rem;
+    }
+    
+  }
+
+}
+`
