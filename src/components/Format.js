@@ -109,7 +109,7 @@ font-weight:100;
  ul {
      list-style:none;
       padding:0;
-      margin:0 0;
+      margin:10px 0;
     }
     li {
         font-family:Roboto;
@@ -143,7 +143,7 @@ export const Liste2 = styled.div`
  flex-direction:column;
  align-items:center;
  justify-content:center;
- font-size:Roboto;
+ font-family:Roboto;
 
  ul {
      list-style:none;
