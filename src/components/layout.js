@@ -81,7 +81,7 @@ and (orientation : landscape){
     padding:0;
   }
   height:100vh;
-  border:red solid 1px;
+ 
   img {
     width:100%;
   }
