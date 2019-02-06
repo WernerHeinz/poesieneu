@@ -45,7 +45,7 @@ oceanBeachTheme.overrideStyles = () => ({
     '@media(min-width:551px)':{
           'html':{
             fontSize:'16px',
-             color:'red',
+            
 
           },
           'h1': {
@@ -109,7 +109,7 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
      'h2': {
       ...scale(8/9),
         fontFamily:`Roboto`,
-      fontWeight:600,
+      fontWeight:200,
       letterSpacing:'.04rem',
       fontSize: `1.15rem`,
       textAlign:'left',
@@ -118,7 +118,7 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
      'h3': {
       ...scale(1/5),
        fontFamily:`Roboto`,
-       fontWeight:600,
+       fontWeight:200,
        letterSpacing:'.03rem',
        fontSize: `1.05rem`,
        textAlign:'left',
@@ -127,7 +127,7 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
      'h4': {
       ...scale(1/5),
       fontFamily:`Roboto`,
-      fontWeight:600,
+      fontWeight:200,
       fontSize: `1rem`,
       textAlign:'left',
       color:'#000',
