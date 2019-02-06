@@ -14,7 +14,7 @@ h1.sitetitel a {
   letter-spacing:.18rem;
    margin-top:30px;
    font-family:"Roboto Slab",serif;
-   font-weight:100;
+   font-weight:200;
 }
 @media(max-width:550px){
  
@@ -24,7 +24,7 @@ h1.sitetitel a {
     margin-top:5px;
     padding:0 0 6px 0;
     font-family:"Roboto Slab",serif;
-   font-weight:100;
+   font-weight:200;
   }
     
 
@@ -37,7 +37,7 @@ h1.sitetitel a {
       margin-top:-10px;
       padding:0 0 5px 0;
       font-family:"Roboto Slab",serif;
-     font-weight:100;
+     font-weight:200;
     }
 }
 
@@ -53,7 +53,7 @@ and (orientation : landscape){
   letter-spacing:.08rem;
    padding-top:0;
    font-family:"Roboto Slab",serif;
-   font-weight:100;
+   font-weight:200;
   }
 }
  ` 
