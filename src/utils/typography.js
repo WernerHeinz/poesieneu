@@ -76,7 +76,7 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
         
       },
       'h1': {
-        textAlign:'center',
+       
         paddingLeft:0,
         paddingRight:0,
         marginLeft:0,
