@@ -5,22 +5,7 @@ import {Link} from 'gatsby'
 
 const Wrapper = styled.div`
   
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape){
-  height:74%;
-  h1.sitetitel a {
-  margin-top:9px;
-  letter-spacing: .09rem;
-  font-size: 1rem;
-  letter-spacing:.08rem;
-   
-   font-family:"Roboto Slab",serif;
-   font-weight:100;
-  }
-}
-  
+
   
 
 h1.sitetitel a {
@@ -48,17 +33,29 @@ h1.sitetitel a {
     h1.sitetitel a {
       letter-spacing: .1rem;
       font-size: 1.4rem;
-      margin-top:5px;
+      margin-top:-10px;
       padding:0 0 5px 0;
       font-family:"Roboto Slab",serif;
      font-weight:100;
     }
 }
 
-
-
-`
-
+@media only screen
+and (min-device-width : 701px)
+and (max-device-width : 1024px)
+and (orientation : landscape){
+  height:100%;
+  h1.sitetitel a {
+  margin-top:-10px;
+  letter-spacing: .09rem;
+  font-size: 1rem;
+  letter-spacing:.08rem;
+   padding-top:0;
+   font-family:"Roboto Slab",serif;
+   font-weight:100;
+  }
+}
+ ` 
 export default () => (
   <StaticQuery
     query={graphql`
