@@ -11,7 +11,10 @@ justify-content: flex-start;
 align-items: center;
 padding:0 20px 0 20px;  
 height:82vh;
-
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
 margin: 1vh auto 2vh auto;
 max-width:690px;
 width:100%;
@@ -109,6 +112,7 @@ and (orientation : landscape){
   }
   
 }
+
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 .imp {
