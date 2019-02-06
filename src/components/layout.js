@@ -42,7 +42,7 @@ display:flex;
  flex-direction:column;
  justify-content:center;
   background:rgba(255,255,255,.6);
-animation: ${keyFrameExampleOne} .2s ease-in-out;
+animation: ${keyFrameExampleOne} .3s ease-in;
  
 height:100vh;
  margin:0 auto 0 auto;
