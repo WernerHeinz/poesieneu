@@ -16,11 +16,9 @@ Oberwesel oder BaKaLoNi (= Bacharach/Kaub/Lorch/Niederheimbach)
 ***Michael Quast und Bruno Kliegl (Glasharmonika)***
 ## E.T.A. Hoffmann  Der goldene Topf        
 ![Quast](/e.t.a.jpg)
-<div class="kontakt">
-  <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
- Fliegende Volksbühne Frankfurt
-  </a>
-</div>      
+
+[Fliegende Volksbühne Frankfurt] (https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list)
+     
 
 # 23. /24. August (?)   
 in Oberwesel (?)     
@@ -46,4 +44,3 @@ in Bacharach
 ## BACCHANALE. TRUNKENE LYRIK UND MUSIK -  ABSCHLUSSFEST    
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
 in Höfen und Straßen und auf Plätzen in Bacharach
-
