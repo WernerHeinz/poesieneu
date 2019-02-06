@@ -76,16 +76,11 @@ height:100vh;
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : landscape){
-  header{
-    margin:0;
-    padding:0;
-  }
-  height:100vh;
  
   img {
     width:100%;
   }
- padding-bottom:0;
+
 }
 `
 const Layout = ({ location,children }) => {
