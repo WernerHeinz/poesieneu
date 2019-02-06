@@ -48,7 +48,7 @@ and (orientation : landscape){
   h1.sitetitel a {
   margin-top:-10px;
   letter-spacing: .09rem;
-  font-size: 1rem;
+  font-size: 1.8rem;
   letter-spacing:.08rem;
    padding-top:0;
    font-family:"Roboto Slab",serif;
