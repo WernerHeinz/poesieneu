@@ -9,8 +9,18 @@ published: true
 ## Heinrich Heine DER RABBI VON BACHERACH
 ### Theatraler Parcours 
  ![rhein1](/rhein1.jpg)
- 
-# 23. /24. August (?) in Oberwesel oder Kaub oder Lorch
+
+# 11. August  Oberwesel oder Kaub oder Lorch
+***Michael Quast und Bruno Kliegl (Glasharmonika)***
+## E.T.A. Hoffmann  Der goldene Topf        
+![Quast](/e.t.a.jpg)
+<div class="kontakt">
+  <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
+ Fliegende Volksbühne Frankfurt
+  </a>
+</div>      
+
+# 23. /24. August (?) in Oberwesel oder BaKaLoNi (= Bacharach/Kaub /Lorch/Niederheimbach )
 ***Freies Schauspiel Ensemble Frankfurt***
 ## Christa Wolf  KEIN ORT. NIRGENDS
 ![fse](/fse1.png)
@@ -26,15 +36,6 @@ published: true
 ![lenz1](/lenz1.png)
 
 
-# 11. August  Oberwesel oder Kaub oder Lorch
-***Michael Quast und Bruno Kliegl (Glasharmonika)***
-## E.T.A. Hoffmann  Der goldene Topf        
-![Quast](/e.t.a.jpg)
-<div class="kontakt">
-  <a  href="https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list" target="_blank" rel="noopener noreferrer">
- Fliegende Volksbühne Frankfurt
-  </a>
-</div>      
 
    
 # 7. September in Bacharach
