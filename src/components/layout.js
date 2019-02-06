@@ -45,7 +45,7 @@ display:flex;
 animation: ${keyFrameExampleOne} .3s ease-in;
  
 height:100vh;
- margin:20px auto 0 auto;
+ margin:0 auto 0 auto;
   align-items:center;
  width:100%; 
    padding:0 10px 25px 0;
