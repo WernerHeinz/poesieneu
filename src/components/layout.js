@@ -45,10 +45,10 @@ display:flex;
 animation: ${keyFrameExampleOne} .3s ease-in;
  
 height:100vh;
- margin:0 auto 0 auto;
+ margin:20px auto 0 auto;
   align-items:center;
  width:100%; 
-   padding:0 10px 40px 0;
+   padding:0 10px 0 0;
   max-width:690px;
   h1 {
     text-align:center;
