@@ -6,7 +6,7 @@ published: true
 ---
 # 10./17./18. August   
 in Bacharach   
-***Theater Willy Praml***
+***Theater Willy Praml***    
 ## Heinrich Heine DER RABBI VON BACHERACH
 ### Theatraler Parcours 
  ![rhein1](/rhein1.jpg)
@@ -43,7 +43,7 @@ in Bacharach
 
 # 8. September   
 in Bacharach    
-## BACCHANALE DER LYRIK UND MUSIK - GROSSES ABSCHLUSSFEST    
+## BACCHANALE. TRUNKENE LYRIK UND MUSIK -  ABSCHLUSSFEST    
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
 in Höfen und Straßen und auf Plätzen in Bacharach
 
