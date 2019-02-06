@@ -30,7 +30,7 @@ h1.sitetitel a {
 
   }
   @media only screen and (orientation:landscape) and (max-width:700px){
- height:98%;
+ 
     h1.sitetitel a {
       letter-spacing: .1rem;
       font-size: 1.4rem;
@@ -45,7 +45,7 @@ h1.sitetitel a {
 and (min-device-width : 701px)
 and (max-device-width : 1024px)
 and (orientation : landscape){
-  height:98%;
+ 
   h1.sitetitel a {
   margin-top:-25px;
   letter-spacing: .09rem;
