@@ -43,6 +43,7 @@ h1 {
   letter-spacing:.08rem;
   font-weight:200;
   font-family:Roboto;
+  text-align:left;
 
 }
 h1:first-child {
