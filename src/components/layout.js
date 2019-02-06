@@ -48,7 +48,7 @@ height:100vh;
  margin:20px auto 0 auto;
   align-items:center;
  width:100%; 
-   padding:0 10px 0 0;
+   padding:0 10px 25px 0;
   max-width:690px;
   h1 {
     text-align:center;
@@ -72,6 +72,21 @@ height:100vh;
 @media(max-width:800px) {
     height:97vh;
   }
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape){
+  header{
+    margin:0;
+    padding:0;
+  }
+  height:100vh;
+  border:red solid 1px;
+  img {
+    width:100%;
+  }
+ padding-bottom:0;
+}
 `
 const Layout = ({ location,children }) => {
   return (
