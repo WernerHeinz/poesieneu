@@ -84,10 +84,14 @@ export const Listen = styled.div`
  height:100vh;
  width:100%;
  margin:4vh 0 0 0;
- overflow-y:hidden;
+ overflow-y:scroll;
  font-family:Roboto;
  font-weight:100;
- }
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+ 
  
 `
 export const Liste = styled.div`
@@ -95,14 +99,11 @@ display:flex;
 flex-direction:column;
 justify-content:center;
 align-items:center;
-overflow-y:scroll;
+
 margin:0 0 0 0;
 font-family:Roboto;
 font-weight:100;
-::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
-}
+
 
  ul {
      list-style:none;
@@ -142,10 +143,7 @@ export const Liste2 = styled.div`
  align-items:center;
  justify-content:center;
  font-size:Roboto;
-::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
-}
+
  ul {
      list-style:none;
       padding:0;
