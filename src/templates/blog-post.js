@@ -38,6 +38,8 @@ img {
   
 h1 {
   letter-spacing:.08rem;
+  font-weight:200;
+  font-family:Roboto;
 
 }
 h1:first-child {
@@ -132,7 +134,7 @@ const Titelei = styled.div `
     font-family:Roboto; 
     font-size:1.2rem;
     font-family:Roboto;
-    font-weight:100;
+    font-weight:200;
     text-transform:uppercase;
     letter-spacing:0.08rem;
   }
@@ -145,7 +147,7 @@ const Titelei = styled.div `
       font-size:1rem;
       text-transform:uppercase;
       font-family:Roboto;
-      font-weight:100;
+      font-weight:200;
       letter-spacing:.05rem;
       padding:0;
     }
@@ -157,7 +159,7 @@ const Titelei = styled.div `
       font-size:.8rem;
       text-transform:uppercase;
       font-family:Roboto;
-      font-weight:100;
+      font-weight:200;
       letter-spacing:.04rem;
       padding:0;
     }
