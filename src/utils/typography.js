@@ -10,7 +10,7 @@ oceanBeachTheme.overrideStyles = () => ({
     'p':{
         fontSize:'1rem',
         color:'#333333',
-    },
+     },
     'a.gatsby-resp-image-link':{
         boxshadow:'none',
         textDecoration: 'none',
@@ -82,29 +82,30 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
         marginLeft:0,
         marginRight:0,
         display:'block',
-        color:'#333333',
+        color:'#000',
 
       },
       'a':{
-        color: 'black',
+        color: '#000',
         boxShadow: 'none',
-      },
+        },
       'a.gatsby-resp-image-link': {
         boxShadow: 'none',
-        color: 'black',
+        color: '#000',
         textDecoration:'none'
       },
      'html': {
       fontFamily:'Roboto',
-      color:'#333333',
+      color:'#000',
      },
      'li':{
       fontFamily:'Roboto',
-       color:'#333333',
+       color:'#000',
        listStyle:'none',
        padding:0,
       margin:0,
-     },
+      
+       },
      'h2': {
       ...scale(8/9),
         fontFamily:`Roboto`,
@@ -112,6 +113,7 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
       letterSpacing:'.04rem',
       fontSize: `1.15rem`,
       textAlign:'left',
+       color:'#000',
      },
      'h3': {
       ...scale(1/5),
@@ -120,6 +122,7 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
        letterSpacing:'.03rem',
        fontSize: `1.05rem`,
        textAlign:'left',
+       color:'#000',
      },
      'h4': {
       ...scale(1/5),
@@ -127,14 +130,14 @@ oceanBeachTheme.overrideThemeStyles = ({ rhythm, scale }, options) => {
       fontWeight:600,
       fontSize: `1rem`,
       textAlign:'left',
-
+      color:'#000',
 
     },
     'p': {
-       fontSize:'.999rem !important',
+     fontSize:'1rem',
        lineHeight:'1.5',
-
-     },
+      color:'#000',
+    },
      'span': {
       fontSize:'1.05rem !important',
       lineHeight:'1.5',
