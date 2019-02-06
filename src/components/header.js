@@ -46,9 +46,9 @@ and (max-device-width : 1024px)
 and (orientation : landscape){
   height:100%;
   h1.sitetitel a {
-  margin-top:-10px;
+  margin-top:-25px;
   letter-spacing: .09rem;
-  font-size: 1.8rem;
+  font-size: 2.1rem;
   letter-spacing:.08rem;
    padding-top:0;
    font-family:"Roboto Slab",serif;
