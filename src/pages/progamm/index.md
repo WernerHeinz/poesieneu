@@ -16,8 +16,7 @@ Oberwesel oder BaKaLoNi (= Bacharach/Kaub/Lorch/Niederheimbach)
 ***Michael Quast und Bruno Kliegl (Glasharmonika)***
 ## E.T.A. Hoffmann  Der goldene Topf        
 ![Quast](/e.t.a.jpg)
-
-[Fliegende Volksbühne Frankfurt] (https://www.fliegendevolksbuehne.de/programm/goldne-topf-der?base=list)
+***Fliegende Volksbühne Frankfurt***
      
 
 # 23. /24. August (?)   
