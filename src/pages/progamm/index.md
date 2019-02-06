@@ -10,7 +10,7 @@ published: true
 ### Theatraler Parcours 
  ![rhein1](/rhein1.jpg)
 
-# 11. August  Oberwesel oder Kaub oder Lorch
+# 11. August  Oberwesel oder BaKaLoNi (= Bacharach/Kaub/Lorch/Niederheimbach)
 ***Michael Quast und Bruno Kliegl (Glasharmonika)***
 ## E.T.A. Hoffmann  Der goldene Topf        
 ![Quast](/e.t.a.jpg)
@@ -20,7 +20,7 @@ published: true
   </a>
 </div>      
 
-# 23. /24. August (?) in Oberwesel oder BaKaLoNi (= Bacharach/Kaub /Lorch/Niederheimbach )
+# 23. /24. August (?) in Oberwesel (?) 
 ***Freies Schauspiel Ensemble Frankfurt***
 ## Christa Wolf  KEIN ORT. NIRGENDS
 ![fse](/fse1.png)
@@ -36,17 +36,8 @@ published: true
 ![lenz1](/lenz1.png)
 
 
-
-   
-# 7. September in Bacharach
-## BACCHANALE. LANGE NACHT DER LYRIK UND MUSIK
-Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region   
-in Winzerhöfen, Kellern, Kirchen, auf Straßen und Plätzen
-![fbastian](/friedr1.png)
-
 # 8. September in Bacharach
-## GROSSES ABSCHLUSSFEST    
-mit allen beteiligten Künstlern und Ensembles
-![abschluss](/absch1.png)
-![abschluss](/absch2.png)
-![abschluss](/absch3.png)
+## BACCHANALE DER LYRIK UND MUSIK - GROSSES ABSCHLUSSFEST    
+Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
+in Höfen und Straßen und auf Plätzen in Bacharach
+
