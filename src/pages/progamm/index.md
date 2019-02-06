@@ -12,7 +12,7 @@ in Bacharach
  ![rhein1](/rhein1.jpg)
 
 # 11. August   
-Oberwesel oder BaKaLoNi (= Bacharach/Kaub/Lorch/Niederheimbach)    
+Oberwesel oder BaKaLoNi (= Bacharach / Kaub / Lorch / Niederheimbach)    
 ***Michael Quast und Bruno Kliegl (Glasharmonika)***
 ## E.T.A. Hoffmann  Der goldene Topf        
 ![Quast](/e.t.a.jpg)
