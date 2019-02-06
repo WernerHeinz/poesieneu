@@ -36,8 +36,8 @@ h1.sitetitel a {
   h1.sitetitel a {
     letter-spacing: .1rem;
     font-size: 1.3rem;
-    margin-top:13px;
-    padding:0 0 16px 0;
+    margin-top:5px;
+    padding:0 0 6px 0;
     font-family:"Roboto Slab",serif;
    font-weight:100;
   }
