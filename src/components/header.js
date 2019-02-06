@@ -49,7 +49,7 @@ h1.sitetitel a {
       letter-spacing: .1rem;
       font-size: 1.4rem;
       margin-top:5px;
-      padding:0 0 16px 0;
+      padding:0 0 5px 0;
       font-family:"Roboto Slab",serif;
      font-weight:100;
     }
