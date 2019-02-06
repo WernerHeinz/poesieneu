@@ -192,7 +192,7 @@ opacitiy:1;
   > ul {
     
     display:block;
-    height:100%;
+    
     li  {
       font-size:.95rem;
       
@@ -201,6 +201,7 @@ opacitiy:1;
     a {
       text-transform:unset !important;
       letter-spacing:.0991rem;
+      display:block;
     }
     
   }
