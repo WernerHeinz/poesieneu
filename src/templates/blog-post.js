@@ -84,7 +84,7 @@ h1 + p {
 }
 a.links {
   font-size:1rem;
-  padding:20px;
+  padding:20px 0;
   font-weight:300;
   font-familiy:Roboto;
   letter-spacing:0.08rem;
