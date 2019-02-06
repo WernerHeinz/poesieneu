@@ -93,7 +93,7 @@ export const Listen = styled.div`
 export const Liste = styled.div`
 display:flex;
 flex-direction:column;
-justify-content:flex-start;
+justify-content:center;
 align-items:center;
 overflow-y:scroll;
 margin:0 0 0 0;
@@ -136,7 +136,7 @@ export const Liste2 = styled.div`
  padding-bottom:100px;
  flex-direction:column;
  align-items:center;
- justify-content:flex-start;
+ justify-content:center;
  font-size:Roboto;
  ul {
      list-style:none;
