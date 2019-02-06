@@ -6,7 +6,8 @@ import transition from 'styled-transition-group'
 export const InhaltsDiv = styled.div`
 display:flex;
 flex-direction:column;
-justify-content:flex-end;
+justify-content:flex-start;
+align-items:center;
 margin:auto;
 max-width:690px;
 `
