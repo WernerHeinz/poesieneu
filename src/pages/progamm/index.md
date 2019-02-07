@@ -35,9 +35,8 @@ BACHARACH FÜR TODESSEHNSÜCHTIGE
 ![lenz1](/lenz1.png)
 
 
-# 8. September   
-in Bacharach    
-## BACCHANALE. TRUNKENE LYRIK UND MUSIK -  ABSCHLUSSFEST    
+# So. 1. September in Bacharach    
+## BACCHANALE. TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE 
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
 in Höfen und Straßen und auf Plätzen in Bacharach
 
