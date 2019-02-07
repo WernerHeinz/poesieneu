@@ -149,6 +149,10 @@ and (orientation : landscape){
       
     }
 }
+img {
+  width:100vw;
+}
+
 const Titelei = styled.div `
   margin: -29px auto 0 auto;
   max-width: 690px;
