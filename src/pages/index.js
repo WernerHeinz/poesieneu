@@ -25,11 +25,7 @@ class Menu extends React.Component{
       this.setState({vorwort:!this.state.dflag})
       return 0;
   } 
-  /* vorwort = () => {
-    this.setState({vorwort:false})
-    navigate('/vorbereitungen')
-
-  } */
+  
   render(){
       let dflag=this.state.dflag
      
