@@ -62,7 +62,7 @@ Theater Willy Praml
 ## BACCHANALE.   
 TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE   
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
-in Höfen und Straßen und auf Plätzen in Bacharach
+in Höfen und Straßen und auf Plätzen in Bacharach   
 So. 1. 9. in Bacharach   
 
 # ---  
@@ -70,6 +70,12 @@ So. 1. 9. in Bacharach
 N.N. August im Günderode Filmhaus Oberwesel (?)   
 ## ZÜNDFUNKEN - HEIMATKUNDE mit Heine, Brecht, Dylan, Theodorakis   
 Heinrich Heine Chor Frankfurt & Friends   
-![hhc1](/hhc1.jpg)
+![hhc1](/hhc1.jpg)   
+
+# ---   
+
+## GLOTZT NICHT SO ROMANTISCH !!!    
+## PODIUM FÜR HOFFNUNGSFROHE RHEINTAL-EXPERTEN    
+Datum und Ort  offen
 
  
