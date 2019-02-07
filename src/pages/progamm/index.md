@@ -28,7 +28,7 @@ STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
 Friedrich Bastian (Bariton)	  
 Henriette Meyer-Ravenstein   
 & Instrumentalisten     
-**Fr. 16.8.in Niederheimbach (?)**
+**Fr. 16.8.in Niederheimbach (?)**   
 **Sa. 29.8. in Bacharach**
 
 # ---   
