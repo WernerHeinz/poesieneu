@@ -96,19 +96,7 @@ a.links {
     content: "-> ";
   }
 
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape){
-  height:100%;
-  
-  img {
-    width:100%;
-  }
-  margin:0;
-  padding:10px 20px 0 20px;
-  
-}
+
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 .imp {
@@ -124,8 +112,45 @@ and (orientation : landscape){
     text-align:left;
     padding-bottom:1rem;
   }
-`
 
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape){
+  height:100%;
+  
+  img {
+    width:100%;
+  }
+  margin:0 auto;
+  padding:10px 20px 0 20px;
+  
+}
+@media (max-width:550px){
+    h1.mytit {
+      margin-top:-10px;
+      font-size:1rem;
+      text-transform:uppercase;
+      font-family:Roboto;
+      font-weight:200;
+      letter-spacing:.05rem;
+      padding:0;
+    }
+    margin: 5px auto 0 auto;
+  }
+  @media only screen and (orientation:landscape) and (max-width:1024px){
+    h1.mytit  {
+      margin:20px auto;
+      font-size:.8rem;
+      text-transform:uppercase;
+      font-family:Roboto;
+      font-weight:200;
+      letter-spacing:.04rem;
+      padding:4px 20px 0px 20px;
+      text-decoration:none;
+      
+    }
+}
 const Titelei = styled.div `
   margin: -29px auto 0 auto;
   max-width: 690px;
@@ -138,35 +163,13 @@ const Titelei = styled.div `
     text-transform:uppercase;
     letter-spacing:0.08rem;
   }
-  
-  
-  
-  @media (max-width:550px){
-    h1.mytit {
-      margin-top:-10px;
-      font-size:1rem;
-      text-transform:uppercase;
-      font-family:Roboto;
-      font-weight:200;
-      letter-spacing:.05rem;
-      padding:0;
-    }
-    margin: 5px auto 0 auto;
-  }
-  @media only screen and (orientation:landscape) and (max-width:700px){
-    h1.mytit  {
-      margin-top:20px;
-      font-size:.8rem;
-      text-transform:uppercase;
-      font-family:Roboto;
-      font-weight:200;
-      letter-spacing:.04rem;
-      padding:4px 20px 0px 20px;
-      text-decoration:none;
-      
-    }
-}
+`
 
+
+  
+  
+  
+  
 `
 
 
