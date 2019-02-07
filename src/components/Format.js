@@ -91,9 +91,12 @@ overflow-y: scroll;
 
 `
 export const Listen = styled.div`
+ display:flex;
+ flex-direction:column;
+ justifyContent:flex-start;
  height:100vh;
  width:100%;
- margin:4vh 0 0 0;
+ margin:4vh auto 0 auto;
  overflow-y:scroll;
  font-family:Roboto;
  font-weight:100;
@@ -105,12 +108,6 @@ export const Listen = styled.div`
  
 `
 export const Liste = styled.div`
-display:flex;
-flex-direction:column;
-justify-content:center;
-align-items:center;
-
-margin:0 0 0 0;
 font-family:Roboto;
 font-weight:100;
 
@@ -147,14 +144,11 @@ font-weight:100;
 
 
 export const Liste2 = styled.div`
- display: flex;
- padding-bottom:100px;
- flex-direction:column;
- align-items:center;
- justify-content:center;
+ width:100%;
  font-family:Roboto;
 
  ul {
+     text-align:center;
      list-style:none;
       padding:0;
       margin:0;
@@ -191,9 +185,22 @@ export const Liste2 = styled.div`
     }
 `
 export const MeineListe = styled.ul`
+display:flex;
+
+flex-direction:column;
+justify-content:flex-center;
+align-items:center;
 padding:0;
-margin:0;
-text-align:left;
+margin:0 auto 0 auto;
+text-align:center;
+max-width:690px;
+width:100%;
+ul{
+    padding:0;
+    margin:0 auto 0 auto;
+    width:100%;
+    text-align:center;
+}
 
 opacitiy:1;
 > ul {
