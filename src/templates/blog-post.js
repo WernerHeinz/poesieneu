@@ -106,7 +106,7 @@ and (orientation : landscape){
     width:100%;
   }
   margin:0;
-  padding:0;
+  padding:10px 20px 0 20px;
   
 }
   overflow-y: scroll;
@@ -161,7 +161,7 @@ const Titelei = styled.div `
       font-family:Roboto;
       font-weight:200;
       letter-spacing:.04rem;
-      padding:0;
+      padding:4px 20px 0px 20px;
       text-decoration:none;
       
     }
