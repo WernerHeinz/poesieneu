@@ -13,7 +13,7 @@ padding:0 20px 0 20px;
 height:82vh;
 margin: 1vh auto 2vh auto;
 max-width:690px;
-width:100vw;
+width:100%;
 overflow-y: scroll;
 -webkit-overflow-scrolling: touch;
 img {
