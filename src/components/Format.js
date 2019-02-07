@@ -71,7 +71,14 @@ width:100vw;
 padding:5px;
 
 margin:auto;
-overflow-y:scroll;
+
+overflow-y: scroll;
+  ::-webkit-overflow-scrolling: touch;
+:-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
 @media(max-with:720px){
     li {
         display:block;
