@@ -9,7 +9,7 @@ published: true
 STATIONEN EINES TRAUMAS      
 Theatraler Parcours mit dem Theater Willy Praml
  ![rhein1](/rhein1.jpg)  
- # Sa 10./ Sa.17. & So. 18. August  in Bacharach   
+**Sa 10./ Sa.17. & So. 18. August in Bacharach**   
 
 # ----     
 
@@ -18,7 +18,7 @@ LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN
 Michael Quast und Bruno Kliegl (Glasharmonika)  
 Fliegende Volksbühne Frankfurt 
 ![Quast](/e.t.a.jpg)  
-# So. 11. August   in Lorch... 
+**So. 11. 8. in Lorch** 
 
 # ---   
 
@@ -26,15 +26,16 @@ Fliegende Volksbühne Frankfurt
 ## Schubert. DIE SCHÖNE MÜLLERIN. 
 STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
 Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & Instrumentalisten  
-# Fr. 16.8.in Niederheimbach (?)
-# Sa. 29.8. in Bacharach
+**Fr. 16.8.in Niederheimbach (?)**
+**Sa. 29.8. in Bacharach**
 
 # ---   
           
    
 ## Christa Wolf  KEIN ORT. NIRGENDS
 Freies Schauspiel Ensemble Frankfurt   
-![fse](/fse1.png)
+![fse](/fse1.png)   
+**Sa.24 & So. 25 August in Oberwesel** 
 
 # ---   
 
@@ -42,7 +43,7 @@ Freies Schauspiel Ensemble Frankfurt
 ## Schubert. DIE SCHÖNE MÜLLERIN. 
 STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
 Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & InstrumentalistenDONNERSTAG 29.AUGUST, BACHARACH   
-# Sa.24 & So. 25 August in Oberwesel 
+
 
 # ---   
 
