@@ -28,7 +28,7 @@ display:flex;
  justify-content:center;
  align-items:center;
   background:rgba(255,255,255,.6);
-animation: ${keyFrameExampleOne} .4s ease-in;
+animation: ${keyFrameExampleOne} .2s ease-in;
  
 height:100vh;
  margin:0 auto 0 auto;
