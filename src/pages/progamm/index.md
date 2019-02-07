@@ -5,8 +5,9 @@ title: Programm in Planung Stand 7.2.19
 published: true
 ---
 
-Bitte beachten: Das Programm ist noch in Arbeit. Termine und Orte können sich noch ändern.    
-Voorstellungen und Orte, die bereits definitiv feststehen, finden Sie unter "Termine"
+Bitte beachten: Das Programm ist noch in Arbeit.   
+Termine und Orte können sich noch ändern.      
+Vorstellungen und Orte, die bereits definitiv feststehen, finden Sie unter "Termine"
 
 # ----    
 
@@ -67,7 +68,7 @@ Theater Willy Praml
 ## BACCHANALE.   
 TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE   
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
-in Höfen und Straßen und auf Plätzen in Bacharach   
+in Höfen und Straßen und auf Plätzen in Bacharach      
 So. 1. 9. in Bacharach   
 
 # ---  
