@@ -19,9 +19,7 @@ width:100%;
   margin:10px 0;
 }
 
-h1:nth-child(n2) {
-  color:blue;
-}
+
 p,li {
   padding:5px 0 0 0;
   font-family:Roboto;
@@ -102,7 +100,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px) 
 and (orientation : landscape){
   height:100%;
-  border:red solid 1px;
+  
   img {
     width:100%;
   }
