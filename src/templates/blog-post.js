@@ -120,7 +120,7 @@ and (orientation : landscape){
   height:100%;
   
  
-  margin:0 auto;
+  margin:auto;
   padding:10px 20px 0 20px;
   
 }
@@ -138,7 +138,7 @@ and (orientation : landscape){
   }
   @media only screen and (orientation:landscape) and (max-width:1024px){
     h1.mytit  {
-      margin:20px auto;
+      margin:20px auto 0 auto;
       font-size:.8rem;
       text-transform:uppercase;
       font-family:Roboto;
