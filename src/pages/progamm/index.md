@@ -7,19 +7,19 @@ published: true
 # 10./17./18. August  in Bacharach   
 ## Heinrich Heine DER RABBI VON BACHERACH 
 **STATIONEN EINES TRAUMAS   
-**Theatraler Parcours mit dem Theater Willy Praml** 
+Theatraler Parcours mit dem Theater Willy Praml
  ![rhein1](/rhein1.jpg)   
 
-#----     
+# ----     
 
 # 11. August   in Lorch... 
 ## E.T.A. Hoffmann  DER GOLDENE TOPF  
 **LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN   
-**Michael Quast und Bruno Kliegl (Glasharmonika)**   
-***Fliegende Volksbühne Frankfurt***   
+Michael Quast und Bruno Kliegl (Glasharmonika)  
+Fliegende Volksbühne Frankfurt 
 ![Quast](/e.t.a.jpg)   
 
-#---   
+# ---   
 
 # 23. /24. August (?)   
 in Oberwesel (?)     
