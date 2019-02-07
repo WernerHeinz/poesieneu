@@ -91,8 +91,9 @@ overflow-y: scroll;
 `
 export const Listen = styled.div`
  height:100vh;
- width:100%;
- margin:4vh 0 0 0;
+ width:100vh;
+ max-width:690px;
+ margin:4vh auto 0 auto;
  overflow-y:scroll;
  font-family:Roboto;
  font-weight:100;
