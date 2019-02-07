@@ -83,13 +83,14 @@ h1 + p {
 a.links {
   font-size:1rem;
   padding:20px;
-  font-weight:300;
+  font-weight:200;
   font-familiy:Roboto;
   letter-spacing:0.08rem;
 }
   h1 {
     text-align:left;
     padding:20px 0;
+   font-weight:200;
   }
   a:before {
     content: "-> ";
@@ -133,7 +134,7 @@ const Titelei = styled.div `
     font-family:Roboto; 
     font-size:1.2rem;
     font-family:Roboto;
-    font-weight:100;
+    font-weight:200;
     text-transform:uppercase;
     letter-spacing:0.08rem;
   }
@@ -146,7 +147,7 @@ const Titelei = styled.div `
       font-size:1rem;
       text-transform:uppercase;
       font-family:Roboto;
-      font-weight:100;
+      font-weight:200;
       letter-spacing:.05rem;
       padding:0;
     }
@@ -154,15 +155,15 @@ const Titelei = styled.div `
   }
   @media only screen and (orientation:landscape) and (max-width:700px){
     h1.mytit  {
-      margin-top:20px;
+      margin-top:5px;
       font-size:.8rem;
       text-transform:uppercase;
       font-family:Roboto;
-      font-weight:100;
+      font-weight:200;
       letter-spacing:.04rem;
       padding:0;
       text-decoration:none;
-      color:red;
+      
     }
 }
 
