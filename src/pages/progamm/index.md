@@ -4,20 +4,19 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
-# 10./17./18. August   
-in Bacharach   
-***Theater Willy Praml***    
+# 10./17./18. August  in Bacharach   
 ## Heinrich Heine DER RABBI VON BACHERACH     
 STATIONEN EINES TRAUMAS   
-**Theatraler Parcours** 
- ![rhein1](/rhein1.jpg)
+**Theatraler Parcours mit dem Theater Willy Praml** 
+ ![rhein1](/rhein1.jpg)   
 
-# 11. August   
-Oberwesel oder BaKaLoNi (= Bacharach / Kaub / Lorch / Niederheimbach)    
-***Michael Quast und Bruno Kliegl (Glasharmonika)***
-## E.T.A. Hoffmann  Der goldene Topf        
-![Quast](/e.t.a.jpg)
-***Fliegende Volksbühne Frankfurt***
+# 11. August   in Lorch... 
+# E.T.A. Hoffmann  DER GOLDENE TOPF   
+## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN   
+**Michael Quast und Bruno Kliegl (Glasharmonika)**   
+***Fliegende Volksbühne Frankfurt***   
+![Quast](/e.t.a.jpg)   
+
      
 
 # 23. /24. August (?)   
