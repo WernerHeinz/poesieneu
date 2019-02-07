@@ -36,6 +36,8 @@ img {
   
 h1 {
   letter-spacing:.08rem;
+  font-weight:200px;
+font-family:Roboto;
 
 }
 h1:first-child {
