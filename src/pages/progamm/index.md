@@ -5,6 +5,11 @@ title: Programm in Planung Stand 7.2.19
 published: true
 ---
 
+Bitte beachten: Das Programm ist noch in Arbeit. Termine und Orte können sich noch ändern.    
+Voorstellungen und Orte, die bereits definitiv feststehen, finden Sie unter "Termine"
+
+# ----    
+
 ## Heinrich Heine DER RABBI VON BACHERACH 
 STATIONEN EINES TRAUMAS      
 Theatraler Parcours mit dem Theater Willy Praml
@@ -76,6 +81,10 @@ Heinrich Heine Chor Frankfurt & Friends
 
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 PODIUM FÜR HOFFNUNGSFROHE RHEINTAL-EXPERTEN        
-Datum und Ort  offen
-
+Datum und Ort  offen   
+ # ---   
+ 
+ 
+Bitte beachten: Das Programm ist noch in Arbeit. Termine und Orte können sich noch ändern.    
+Termine, die definitiv feststehen, finden Sie unter "Termine"
  
