@@ -9,7 +9,8 @@ published: true
 
 ![bild](/ufer-paddel.jpg)
 
-# 10.AUGUST - 1.SEPTEMBER    
+# 10. AUGUST - 1. SEPTEMBER 2019   
 # AN DEN UFERN DER POESIE III       
-**THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER**   
+**THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER**    
+im Welterbe Oberes Mittelrheintal
 
