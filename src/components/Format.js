@@ -198,19 +198,20 @@ opacitiy:1;
 > ul {
   display:none; 
   padding:0;
-  height:0;
+  height:100%;
  
 }
 
 &:hover {
  
   > ul {
-    
+    height:100%;
     display:block;
     
     li  {
       font-size:.95rem;
-      
+      letter-spacing:1.4rem;
+      font-style:italic;
     } 
   
     a {
