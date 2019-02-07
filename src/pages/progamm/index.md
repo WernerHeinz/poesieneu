@@ -30,7 +30,14 @@ Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & Instrumentalisten
 **Sa. 29.8. in Bacharach**
 
 # ---   
-          
+
+
+## HOCHROTH! DIE GÜNDERRODE   
+OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS   
+**Fr. 23.8. in Oberwesel**   
+
+# ---   
+
    
 ## Christa Wolf  KEIN ORT. NIRGENDS
 Freies Schauspiel Ensemble Frankfurt   
@@ -39,21 +46,13 @@ Freies Schauspiel Ensemble Frankfurt
 
 # ---   
 
-# Do. 29.8.in Bacharach 
-## Schubert. DIE SCHÖNE MÜLLERIN. 
-STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
-Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & InstrumentalistenDONNERSTAG 29.AUGUST, BACHARACH   
-
-
-# ---   
-
-
 ## Georg Büchner LENZ & Schubert DIE SCHÖNE MÜLLERIN 
 BACHARACH FÜR TODESSEHNSÜCHTIGE
 Theater Willy Praml   
 ![lenz1](/lenz1.png)   
-# Fr. 30. & Sa. 31.8. in Bacharach       
+**Fr. 30. & Sa 31.8. in Bacharach**  
 
+# ---
 
 # So. 1. September in Bacharach    
 ## BACCHANALE.   
