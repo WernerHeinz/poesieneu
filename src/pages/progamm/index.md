@@ -25,6 +25,7 @@ Fliegende Volksbühne Frankfurt
 
 ## Schubert. DIE SCHÖNE MÜLLERIN. 
 STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
+
 Friedrich Bastian (Bariton)	  
 Henriette Meyer-Ravenstein   
 & Instrumentalisten     
