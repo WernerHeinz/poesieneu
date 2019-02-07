@@ -25,7 +25,9 @@ Fliegende Volksbühne Frankfurt
 
 ## Schubert. DIE SCHÖNE MÜLLERIN. 
 STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
-Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & Instrumentalisten  
+Friedrich Bastian (Bariton)	  
+Henriette Meyer-Ravenstein   
+& Instrumentalisten     
 **Fr. 16.8.in Niederheimbach (?)**
 **Sa. 29.8. in Bacharach**
 
@@ -54,11 +56,12 @@ Theater Willy Praml
 
 # ---
 
-# So. 1. September in Bacharach    
+   
 ## BACCHANALE.   
 TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE   
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
 in Höfen und Straßen und auf Plätzen in Bacharach
+So. 1. 9. in Bacharach   
 
 # ---  
 
