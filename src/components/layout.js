@@ -22,7 +22,7 @@ display:flex;
 height:100vh;
  margin:0 auto 0 auto;
   align-items:center;
- width:100%; 
+ width:100vh; 
    padding:10px 0 20px 0;
   max-width:690px;
 `
