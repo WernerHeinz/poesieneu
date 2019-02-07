@@ -5,6 +5,16 @@ html {
  overflow:scroll;
   overflow-x:hidden;
 }
+.pseudolink {
+  cursor:pointer;
+  font-size: 1.1rem;
+       text-decoration:none;
+       color:#333333;
+       letter-spacing:.1rem;
+       text-transform:uppercase;
+       font-family:Roboto;
+        font-weight:100;
+}
 
 
 .linkis {
