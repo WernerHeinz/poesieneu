@@ -23,7 +23,7 @@ Fliegende Volksbühne Frankfurt
 
 # Sa.24 & So. 25 August in Oberwesel    
 ## Christa Wolf  KEIN ORT. NIRGENDS
-***Freies Schauspiel Ensemble Frankfurt***
+Freies Schauspiel Ensemble Frankfurt   
 ![fse](/fse1.png)
 
 # ---   
@@ -31,13 +31,13 @@ Fliegende Volksbühne Frankfurt
 # Fr. 30. & Sa. 31.8. in Bacharach       
 ## Georg Büchner LENZ & Schubert DIE SCHÖNE MÜLLERIN 
 BACHARACH FÜR TODESSEHNSÜCHTIGE
-***Theater Willy Praml***
+Theater Willy Praml   
 ![lenz1](/lenz1.png)
 
 
 # So. 1. September in Bacharach    
 ## BACCHANALE.   
-TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE 
+TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE   
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
 in Höfen und Straßen und auf Plätzen in Bacharach
 
@@ -45,7 +45,7 @@ in Höfen und Straßen und auf Plätzen in Bacharach
 
 N.N. August im Günderode Filmhaus Oberwesel (?)   
 ## ZÜNDFUNKEN - HEIMATKUNDE mit Heine, Brecht, Dylan, Theodorakis   
-***Heinrich Heine Chor Frankfurt & Friends*** 
+Heinrich Heine Chor Frankfurt & Friends   
 ![hhc1](/hhc1.jpg)
 
  
