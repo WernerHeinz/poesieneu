@@ -75,7 +75,7 @@ Heinrich Heine Chor Frankfurt & Friends
 # ---   
 
 ## GLOTZT NICHT SO ROMANTISCH !!!    
-## PODIUM FÜR HOFFNUNGSFROHE RHEINTAL-EXPERTEN    
+PODIUM FÜR HOFFNUNGSFROHE RHEINTAL-EXPERTEN        
 Datum und Ort  offen
 
  
