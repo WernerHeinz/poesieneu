@@ -7,7 +7,8 @@ published: true
 # 10./17./18. August   
 in Bacharach   
 ***Theater Willy Praml***    
-## Heinrich Heine DER RABBI VON BACHERACH    STATIONEN EINES TRAUMAS
+## Heinrich Heine DER RABBI VON BACHERACH     
+STATIONEN EINES TRAUMAS
 **Theatraler Parcours** 
  ![rhein1](/rhein1.jpg)
 
