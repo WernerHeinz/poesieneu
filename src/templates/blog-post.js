@@ -4,66 +4,21 @@ import Layout from '../components/layout'
 import styled from 'styled-components'
 import { Helmet } from "react-helmet"
 
-const BlogPost = styled.div`
+const Post = styled.div`
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
 padding:0 20px 0 20px;  
 height:82vh;
-
 margin: 1vh auto 2vh auto;
 max-width:690px;
 width:100vw;
-.linkis {
-  margin:10px 0;
-}
-
-
-p,li {
-  padding:5px 0 0 0;
-  font-family:Roboto;
-  font-weight:100;
-  font-size:1.1rem;
-}
-
-  
+overflow-y: scroll;
+-webkit-overflow-scrolling: touch;
 img {
   width:100vw;
-  height:auto;
-  padding: 5px 0;
 }
-  
-h1 {
-  letter-spacing:.08rem;
-  font-weight:200px;
-font-family:Roboto;
-
-}
-h1:first-child {
-  padding:15px 0 5px 0;
-  margin:0;
-  
-}
- p a {
-  
-  margin-top:-25px;
-  :before {
-    content:"-> ";
-  }
-  text-decoration:underline;
-  padding:0;
- 
-}
-h2,h3,h4 {
-  text-align:left;
-  text-transform:none;
-  line-height:1.35rem;
-  font-family:Roboto;
-  font-size:1.1rem;
-  font-weight:200;
-}
-
 p + h1 {
   padding:20px 0 0 0;
   margin:0;
@@ -74,109 +29,7 @@ h1 + p {
   margin:0;
   
 }
-
-.linkis {
-  margin:30px 0;
-  display:flex;
-  flex-direction:column;
-  justify-content:flex-start;
-  align-items:flex-start;
-}
-a.links {
-  font-size:1rem;
-  padding:20px;
-  font-weight:300;
-  font-familiy:Roboto;
-  letter-spacing:0.08rem;
-}
-  h1 {
-    text-align:left;
-    padding:20px 0;
-    font-weight:200;
-  }
-  a:before {
-    content: "-> ";
-  }
-
-
-  overflow-y: scroll;
-  -webkit-overflow-scrolling: touch;
-.imp {
-    display:flex;
-    flex-direction:column;
-    justify-content:flex-start;
-    align-items:baseline;
-    margin:auto;
-    max-width:690px;
-  }
-  .imp h1 {
-    font-size:1.5rem;
-    text-align:left;
-    padding-bottom:1rem;
-  }
-
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape){
-  height:100%;
-  
- 
-  margin:auto;
-  padding:10px 20px 0 20px;
-  
-}
-@media (max-width:550px){
-    h1.mytit {
-      margin-top:-10px;
-      font-size:1rem;
-      text-transform:uppercase;
-      font-family:Roboto;
-      font-weight:200;
-      letter-spacing:.05rem;
-      padding:0;
-    }
-    margin: 5px auto 0 auto;
-  }
-  @media only screen and (orientation:landscape) and (max-width:1024px){
-    h1.mytit  {
-      margin:20px auto 0 auto;
-      font-size:.8rem;
-      text-transform:uppercase;
-      font-family:Roboto;
-      font-weight:200;
-      letter-spacing:.04rem;
-      padding:4px 20px 0px 20px;
-      text-decoration:none;
-      
-    }
-}
-img {
-  width:100vw;
-}
-
-const Titelei = styled.div `
-  margin: -29px auto 0 auto;
-  max-width: 690px;
-  padding:0;
-  h1.mytit {
-    font-family:Roboto; 
-    font-size:1.2rem;
-    font-family:Roboto;
-    font-weight:200;
-    text-transform:uppercase;
-    letter-spacing:0.08rem;
-  }
 `
-
-
-  
-  
-  
-  
-`
-
-
 
 export default function Template({ data,location }) {
   const { markdownRemark } = data
@@ -186,8 +39,8 @@ export default function Template({ data,location }) {
         return(
           <Layout location={location}>
             <Helmet title={`An den Ufern der Poesie  - ${frontmatter.title}`} />
-            <Titelei><h1 className="mytit">{frontmatter.title}</h1></Titelei>
-            <BlogPost dangerouslySetInnerHTML={{__html: html}}/>
+            <h1 className="mytit">{frontmatter.title}</h1>
+            <Post dangerouslySetInnerHTML={{__html: html}}/>
           </Layout>
         )
       }

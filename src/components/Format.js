@@ -10,6 +10,7 @@ justify-content:flex-start;
 align-items:center;
 margin:auto;
 max-width:690px;
+padding:20px;
 `
 export const MyButton = styled.button`
   border:none;

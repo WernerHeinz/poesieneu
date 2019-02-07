@@ -8,7 +8,24 @@ import Abends from './hine.jpg'
 //import Hinter from './hinter.jpg'
 import Menuheader from '../components/menuheader'
 
+const StartWrap = styled.div`
+font-family:Roboto;
+display:flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+  background:rgba(255,255,255,.6);
+animation: ${keyFrameExampleOne} .4s ease-in;
+ 
+height:100vh;
+ margin:0 auto 0 auto;
+  align-items:center;
+ width:100%; 
+   padding:10px 0 20px 0;
+  max-width:690px;
+ 
 
+`
 const keyFrameExampleOne = keyframes`
   0% {
 
@@ -35,61 +52,7 @@ const Bild = {
   overflow:'hidden'
 
 }
-const HWrapper = styled.div`
 
-font-family:Roboto;
-display:flex;
- flex-direction:column;
- justify-content:center;
-  background:rgba(255,255,255,.6);
-animation: ${keyFrameExampleOne} .4s ease-in;
- 
-height:100vh;
- margin:0 auto 0 auto;
-  align-items:center;
- width:100%; 
-   padding:10px 0 20px 0;
-  max-width:690px;
-  h1 {
-    text-align:center;
-    font-family:Roboto;
-  }
-
-  @media(max-width:695px) {
-    background:rgba(255,255,255,.75);
-    padding-left:0;
-    padding-right:0;
-    
-    p,li,a,span {
-      font-weight:600;
-    }
-    h1{
-      font-size:1.2rem;
-    }
-  }
-  @media(min-width:696px) {
-    
-  }
-@media(max-width:800px) {
-    height:97vh;
-  }
-
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape){
-  header{
-    margin:0;
-    padding:0;
-  }
-  height:100vh;
-  
-  img {
-    width:100%;
-  }
- padding-bottom:0;
-}
-`
 const Layout = ({ location,children }) => {
   return (
   <StaticQuery
@@ -108,7 +71,7 @@ const Layout = ({ location,children }) => {
     <React.Fragment>
        <div style={Bild}>
         <Menuheader mypathname={location}/>
-         <HWrapper>
+         <StartWrap>
            <Header />
         <Helmet
           title={data.site.siteMetadata.title}
@@ -121,7 +84,7 @@ const Layout = ({ location,children }) => {
         </Helmet>
           {children}
           
-        </HWrapper>
+        </StartWrap>
         </div>
         </React.Fragment>
 
