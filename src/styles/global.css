@@ -9,7 +9,7 @@ body {
   display:flex;
   flex-direction: column;
   margin:auto;
-
+ 
 }
 
 .linkis {
@@ -49,6 +49,11 @@ a.links {
        text-transform:uppercase;
        font-family:Roboto;
         font-weight:100;
+}
+@media(max-width:600px){
+  .pseudolink {
+      font-size: 1rem;
+  }
 }
 a.links::before {
  
