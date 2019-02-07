@@ -94,7 +94,7 @@ export const Listen = styled.div`
  display:flex;
  flex-direction:column;
  justifyContent:flex-start;
- height:100vh;
+ height:100%;
  width:100%;
  margin:4vh auto 0 auto;
  overflow-y:scroll;
