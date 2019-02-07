@@ -88,23 +88,26 @@ overflow-y: scroll;
         margin:0
     }
 }
-
 `
 export const Listen = styled.div`
  display:flex;
  flex-direction:column;
  justifyContent:flex-start;
- height:100%;
+ height:90%;
  width:100%;
  margin:4vh auto 0 auto;
  overflow-y:scroll;
+ -webkit-overflow-scrolling: touch;
  font-family:Roboto;
  font-weight:100;
 ::-webkit-scrollbar {
     width: 0px;
     background: transparent;
 }
+@media only screen and (orientation:landscape) and (max-width:700px){
+   height:50vh;
  
+}
  
 `
 export const Liste = styled.div`
