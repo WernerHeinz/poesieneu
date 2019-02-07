@@ -35,7 +35,8 @@ Henriette Meyer-Ravenstein
 
 
 ## HOCHROTH! DIE GÜNDERRODE   
-OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS   
+OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
+ ![guenderode](/guend.jpg)  
 **Fr. 23.8. in Oberwesel**   
 
 # ---   
