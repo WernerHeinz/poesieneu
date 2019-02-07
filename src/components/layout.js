@@ -2,24 +2,13 @@ import React from 'react'
 
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import styled, {keyframes} from 'styled-components'
+import styled from 'styled-components'
 import Header from './header'
 import Abends from './hine.jpg'
 //import Hinter from './hinter.jpg'
 import Menuheader from '../components/menuheader'
 
-const keyFrameExampleOne = keyframes`
-  0% {
 
-    opacity: .2;
-
-  }
-  100% {
-
-      opacity: 1;
-
-  }
-`
 
 const StartWrap = styled.div`
 font-family:Roboto;
@@ -28,7 +17,7 @@ display:flex;
  justify-content:center;
  align-items:center;
   background:rgba(255,255,255,.75);
-animation: ${keyFrameExampleOne} .2s ease-in;
+
  
 height:100vh;
  margin:0 auto 0 auto;
