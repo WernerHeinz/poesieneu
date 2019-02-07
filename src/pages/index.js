@@ -58,6 +58,7 @@ class Menu extends React.Component{
             <li><Link to="/presse">Presse</Link></li>
             <li><Link to="/einblicke">Aus den Programmen</Link></li>
             <li><Link to="/stimmen">Kommentare zum Festival</Link></li>
+          <li><Link to="/konzerte">Unsere Konzerte</Link></li>
             <li><Link to="/praml">Who is Who im Festival?</Link></li>
             <li><Link to="/termine">Termine</Link></li>
             
