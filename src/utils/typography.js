@@ -9,7 +9,7 @@ oceanBeachTheme.overrideStyles = () => ({
 
     'p':{
         fontSize:'1rem',
-        color:'#333333',
+        color:'#000',
      },
     'a.gatsby-resp-image-link':{
         boxshadow:'none',
@@ -17,7 +17,7 @@ oceanBeachTheme.overrideStyles = () => ({
     },
     'a':{
       textDecoration:'none',
-      color:'#333333',
+     color:'#000',
     },
     'a:hover': {
         color:'#5984A5',
