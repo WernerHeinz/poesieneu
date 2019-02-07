@@ -8,13 +8,10 @@ const BlogPost = styled.div`
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
-align-items: center;
+align-items: flex-start;
 padding:0 20px 0 20px;  
 height:82vh;
-::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
-}
+
 margin: 1vh auto 2vh auto;
 max-width:690px;
 width:100%;
@@ -41,9 +38,6 @@ img {
   
 h1 {
   letter-spacing:.08rem;
-  font-weight:200;
-  font-family:Roboto;
-  text-align:left;
 
 }
 h1:first-child {
@@ -90,7 +84,7 @@ h1 + p {
 }
 a.links {
   font-size:1rem;
-  padding:20px 0;
+  padding:20px;
   font-weight:300;
   font-familiy:Roboto;
   letter-spacing:0.08rem;
@@ -107,13 +101,15 @@ a.links {
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : landscape){
-  height:74%;
+  height:100%;
+  border:red solid 1px;
   img {
     width:100%;
   }
+  margin:0;
+  padding:0;
   
 }
-
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 .imp {
@@ -139,7 +135,7 @@ const Titelei = styled.div `
     font-family:Roboto; 
     font-size:1.2rem;
     font-family:Roboto;
-    font-weight:200;
+    font-weight:100;
     text-transform:uppercase;
     letter-spacing:0.08rem;
   }
@@ -152,21 +148,23 @@ const Titelei = styled.div `
       font-size:1rem;
       text-transform:uppercase;
       font-family:Roboto;
-      font-weight:200;
+      font-weight:100;
       letter-spacing:.05rem;
       padding:0;
     }
     margin: 5px auto 0 auto;
   }
-  @media only screen and (orientation:landscape) and (max-width:1200px){
+  @media only screen and (orientation:landscape) and (max-width:700px){
     h1.mytit  {
       margin-top:20px;
       font-size:.8rem;
       text-transform:uppercase;
       font-family:Roboto;
-      font-weight:200;
+      font-weight:100;
       letter-spacing:.04rem;
       padding:0;
+      text-decoration:none;
+      color:red;
     }
 }
 
