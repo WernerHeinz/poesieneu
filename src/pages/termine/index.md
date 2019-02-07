@@ -1,11 +1,19 @@
 ---
 path: /termine
 title: Termine
-date: 2019-12-03
+date: {}
+published: true
 ---
 
-##Der Rabbi von Bacharach
+# Bacharach
+# 10. August /  17. August / 18. August   
+<br/> jeweils 16:00 Uhr bis ca. 20:30 Uhr   
 
-Bacharach, Werner-Kapelle und weitere Bühnen in der Stadt 
+### Heinrich Heine in Bacharach
+### Vom "Rabbi von Bacherach" bis zur Pariser Matratzengruft
 
-**Termine**: 8.August /  17. August / 18. August <br/> **jeweils** 16:00 Uhr
+Theatraler Parcours von der Werner-Kapelle über Rheinufer, Peterskirche, Josephskapelle, Bahnhof bis zum Rathaus    
+
+# -----
+
+***weitere Termine demnächst hier***
