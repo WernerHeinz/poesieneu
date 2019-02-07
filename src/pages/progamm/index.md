@@ -8,7 +8,7 @@ published: true
 in Bacharach   
 ***Theater Willy Praml***    
 ## Heinrich Heine DER RABBI VON BACHERACH     
-STATIONEN EINES TRAUMAS
+STATIONEN EINES TRAUMAS   
 **Theatraler Parcours** 
  ![rhein1](/rhein1.jpg)
 
