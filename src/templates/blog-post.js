@@ -83,14 +83,14 @@ h1 + p {
 a.links {
   font-size:1rem;
   padding:20px;
-  font-weight:200;
+  font-weight:300;
   font-familiy:Roboto;
   letter-spacing:0.08rem;
 }
   h1 {
     text-align:left;
     padding:20px 0;
-   font-weight:200;
+    font-weight:200;
   }
   a:before {
     content: "-> ";
@@ -155,7 +155,7 @@ const Titelei = styled.div `
   }
   @media only screen and (orientation:landscape) and (max-width:700px){
     h1.mytit  {
-      margin-top:5px;
+      margin-top:20px;
       font-size:.8rem;
       text-transform:uppercase;
       font-family:Roboto;
