@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from './layout'
 import {InhaltsDiv} from './Format'
-import Layout from './layout';
+
 export const Inhalt = () => (
     <Layout>
     <InhaltsDiv>
