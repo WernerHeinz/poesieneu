@@ -4,35 +4,54 @@ date: '2017-11-07'
 title: Programm in Planung Stand 7.2.19
 published: true
 ---
-# Sa 10./ Sa.17. & So. 18. August  in Bacharach   
+
 ## Heinrich Heine DER RABBI VON BACHERACH 
 STATIONEN EINES TRAUMAS      
 Theatraler Parcours mit dem Theater Willy Praml
- ![rhein1](/rhein1.jpg)   
+ ![rhein1](/rhein1.jpg)  
+ # Sa 10./ Sa.17. & So. 18. August  in Bacharach   
 
 # ----     
 
-# So. 11. August   in Lorch... 
 ## E.T.A. Hoffmann  DER GOLDENE TOPF  
 LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN     
 Michael Quast und Bruno Kliegl (Glasharmonika)  
 Fliegende Volksbühne Frankfurt 
-![Quast](/e.t.a.jpg)   
+![Quast](/e.t.a.jpg)  
+# So. 11. August   in Lorch... 
 
 # ---   
 
-# Sa.24 & So. 25 August in Oberwesel    
+
+## Schubert. DIE SCHÖNE MÜLLERIN. 
+STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
+Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & Instrumentalisten  
+# Fr. 16.8.in Niederheimbach (?)
+# Sa. 29.8. in Bacharach
+
+# ---   
+          
+   
 ## Christa Wolf  KEIN ORT. NIRGENDS
 Freies Schauspiel Ensemble Frankfurt   
 ![fse](/fse1.png)
 
 # ---   
 
-# Fr. 30. & Sa. 31.8. in Bacharach       
+# Do. 29.8.in Bacharach 
+## Schubert. DIE SCHÖNE MÜLLERIN. 
+STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
+Friedrich Bastian (Bariton)	& Henriette Meyer-Ravenstein & InstrumentalistenDONNERSTAG 29.AUGUST, BACHARACH   
+# Sa.24 & So. 25 August in Oberwesel 
+
+# ---   
+
+
 ## Georg Büchner LENZ & Schubert DIE SCHÖNE MÜLLERIN 
 BACHARACH FÜR TODESSEHNSÜCHTIGE
 Theater Willy Praml   
-![lenz1](/lenz1.png)
+![lenz1](/lenz1.png)   
+# Fr. 30. & Sa. 31.8. in Bacharach       
 
 
 # So. 1. September in Bacharach    
