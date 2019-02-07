@@ -48,7 +48,7 @@ height:100vh;
  margin:0 auto 0 auto;
   align-items:center;
  width:100%; 
-   padding:0 10px 0 0;
+   padding:10px 0 20px 0;
   max-width:690px;
   h1 {
     text-align:center;
@@ -83,7 +83,7 @@ and (orientation : landscape){
     padding:0;
   }
   height:100vh;
-  border:red solid 1px;
+  
   img {
     width:100%;
   }
