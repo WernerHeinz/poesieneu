@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
+
+html {
+ overflow:scroll;
+  overflow-x:hidden;
+}
+
+::webkit-scrollbar {
+ height:0;
+  background:transparent;
+}
+
  
 h2 + img,h3 + img {
     padding:0 0 0 0;
