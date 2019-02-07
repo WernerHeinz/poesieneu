@@ -8,6 +8,19 @@ import Abends from './hine.jpg'
 //import Hinter from './hinter.jpg'
 import Menuheader from '../components/menuheader'
 
+const keyFrameExampleOne = keyframes`
+  0% {
+
+    opacity: .2;
+
+  }
+  100% {
+
+      opacity: 1;
+
+  }
+`
+
 const StartWrap = styled.div`
 font-family:Roboto;
 display:flex;
@@ -23,20 +36,6 @@ height:100vh;
  width:100%; 
    padding:10px 0 20px 0;
   max-width:690px;
- 
-
-`
-const keyFrameExampleOne = keyframes`
-  0% {
-
-    opacity: .2;
-
-  }
-  100% {
-
-      opacity: 1;
-
-  }
 `
 const Bild = {
   position:'absolute',
