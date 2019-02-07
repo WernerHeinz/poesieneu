@@ -58,7 +58,7 @@ class Menu extends React.Component{
             <li><Link to="/praml">Who is Who im Festival?</Link></li>
             <li><Link to="/termine">Termine</Link></li>
             <MeineListe>
-            <li><Link to="/termine">Theater Willy Praml</Link></li>
+            <li className="pseudolink">Theater Willy Praml</li>
                 <ul>
                     <li><Link to="/pramlanfang">Die Anfänge</Link></li>
                     <li><Link to="/pramlerfolg">Die Höhepunkte</Link></li>
