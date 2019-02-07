@@ -5,11 +5,8 @@ html {
  overflow:scroll;
   overflow-x:hidden;
 }
-a {
-   &:before {
-     content: "-> ";
-   }
-}
+
+
 .linkis {
   margin:30px 0;
   display:flex;
@@ -38,7 +35,7 @@ a.links {
   text-align:left;
   padding-bottom:1rem;
 }
-`
+
 a.links::before {
  
     content: "-> ";
@@ -133,6 +130,7 @@ h1.sitetitel {
      padding-bottom:0;
      font-family:"Roboto Slab",serif;
      font-weight:200;
+     text-transform: uppercase;
   }
   @media(max-width:550px){
     h1.mytit{
