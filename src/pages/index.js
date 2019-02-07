@@ -48,17 +48,25 @@ class Menu extends React.Component{
              
         <li><Link to="/"><FaHome fontSize="2rem" /></Link></li>
             <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
-            <li><Link to="/programm">Programm</Link></li>
+            <li><Link to="/programm">Programm</Link> </li>
             <li><Link to="/aktuell">Aktuelles</Link></li>       
             <li><Link to="/archiv">Filme und Foto-Dokumentation</Link></li>
             <li><Link to="/presse">Presse</Link></li>
             <li><Link to="/einblicke">Aus den Programmen</Link></li>
             <li><Link to="/stimmen">Kommentare zum Festival</Link></li>
-          <li><Link to="/konzerte">Unsere Konzerte</Link></li>
+            <li><Link to="/konzerte">Unsere Konzerte</Link></li>
             <li><Link to="/praml">Who is Who im Festival?</Link></li>
             <li><Link to="/termine">Termine</Link></li>
+            <MeineListe>
+            <li><Link to="/termine">Theater Willy Praml</Link></li>
+                <ul>
+                    <li><Link to="/pramlanfang">Die Anfänge</Link></li>
+                    <li><Link to="/pramlerfolg">Die Höhepunkte</Link></li>
+                </ul>
+            </MeineListe>
             
          </ul>
+        
         </Liste>
         
         <Liste2>
