@@ -3,10 +3,11 @@ import Layout from '../components/layout'
 import { FaHome } from 'react-icons/fa';
 import {Link} from 'gatsby'
 import UserContext from '../components/UserContext'
-import {Listen,Liste,Liste2} from '../components/Format'
+import {Listen,Liste,Liste2,MeineListe} from '../components/Format'
 import Daten from '../components/Daten'
 //import { navigate } from '@reach/router';
 import ls from 'local-storage'
+
 
 class Menu extends React.Component{
   state={
@@ -50,16 +51,16 @@ class Menu extends React.Component{
         <ul>
              
         <li><Link to="/"><FaHome fontSize="2rem" /></Link></li>
-            <li><Link to="/vorbereitungen">Heine kehrt zurück. <br/></Link></li>
+            <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
             <li><Link to="/programm">Programm</Link></li>
             <li><Link to="/aktuell">Aktuelles</Link></li>       
             <li><Link to="/archiv">Filme und Foto-Dokumentation</Link></li>
             <li><Link to="/presse">Presse</Link></li>
             <li><Link to="/einblicke">Aus den Programmen</Link></li>
             <li><Link to="/stimmen">Kommentare zum Festival</Link></li>
-            <li><Link to="/konzerte">Unsere Konzerte</Link></li>
             <li><Link to="/praml">Who is Who im Festival?</Link></li>
             <li><Link to="/termine">Termine</Link></li>
+            
          </ul>
         </Liste>
         
