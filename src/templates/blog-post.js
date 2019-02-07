@@ -14,7 +14,7 @@ height:82vh;
 
 margin: 1vh auto 2vh auto;
 max-width:690px;
-width:100%;
+width:100vw;
 .linkis {
   margin:10px 0;
 }
