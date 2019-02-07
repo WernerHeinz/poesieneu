@@ -15,13 +15,7 @@ export default () => (
       }
     `}
     render={data => (
-     
-      
         <h1 className="sitetitel"><Link to="/">An den Ufern<br/> der Poesie</Link></h1>
-        
-
-
-
      
     )}
   />

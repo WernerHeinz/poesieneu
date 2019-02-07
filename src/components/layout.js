@@ -2,22 +2,32 @@ import React from 'react'
 
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import styled from 'styled-components'
+import styled, {keyframes} from 'styled-components'
 import Header from './header'
 import Abends from './hine.jpg'
 //import Hinter from './hinter.jpg'
 import Menuheader from '../components/menuheader'
+const keyFrameExampleOne = keyframes`
+  0% {
 
+    opacity: .2;
 
+  }
+  100% {
+
+      opacity: 1;
+
+  }
+`
 
 const StartWrap = styled.div`
 font-family:Roboto;
 display:flex;
  flex-direction:column;
- justify-content:center;
+ justify-content:flex-start;
  align-items:center;
-  background:rgba(255,255,255,.75);
-
+  background:rgba(255,255,255,.78);
+  animation: ${keyFrameExampleOne} .1s ease-in;
  
 height:100vh;
  margin:0 auto 0 auto;
@@ -25,6 +35,8 @@ height:100vh;
  width:100%; 
    padding:10px 0 20px 0;
   max-width:690px;
+ 
+
 `
 const Bild = {
   position:'absolute',

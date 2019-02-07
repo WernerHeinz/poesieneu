@@ -7,7 +7,7 @@ published: true
 
 # Bacharach
 # 10. August /  17. August / 18. August   
-<br/> jeweils 15:00 Uhr bis ca. 20:00 Uhr incl. Pausen  
+<br/> jeweils 16:00 Uhr bis ca. 20:30 Uhr   
 
 ### Heinrich Heine in Bacharach
 ### Vom "Rabbi von Bacherach" bis zur Pariser Matratzengruft

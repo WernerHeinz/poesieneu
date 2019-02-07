@@ -11,6 +11,7 @@ align-items:center;
 margin:auto;
 max-width:690px;
 padding:20px;
+backgrund:rgba(255,255,255,.7);
 `
 export const MyButton = styled.button`
   border:none;
@@ -92,8 +93,7 @@ overflow-y: scroll;
 export const Listen = styled.div`
  height:100vh;
  width:100%;
- max-width:690px;
- margin:4vh auto 0 auto;
+ margin:4vh 0 0 0;
  overflow-y:scroll;
  font-family:Roboto;
  font-weight:100;
@@ -219,6 +219,7 @@ opacitiy:1;
       text-transform:unset !important;
       letter-spacing:.0991rem;
       display:block;
+      color:rgb(0, 89, 179);
     }
     
   }

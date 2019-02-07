@@ -66,7 +66,6 @@ class Menu extends React.Component{
             </MeineListe>
             
          </ul>
-        
         </Liste>
         
         <Liste2>

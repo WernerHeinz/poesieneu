@@ -1,8 +1,11 @@
 ---
 path: /pramlerfolg/
-date: '2018-11-07'
+date: '2017-11-07'
 title: Theater Praml. Die großen Erfolge.
 published: true
 ---
 
-## Die Anfänge
+under construction
+
+
+# Theater Willy Praml: Die großen Produktionen

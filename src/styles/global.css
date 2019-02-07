@@ -5,17 +5,12 @@ html {
  overflow:scroll;
   overflow-x:hidden;
 }
-.pseudolink {
-  cursor:pointer;
-  font-size: 1.1rem;
-       text-decoration:none;
-       color:#333333;
-       letter-spacing:.1rem;
-       text-transform:uppercase;
-       font-family:Roboto;
-        font-weight:100;
+body {
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  border:1px blue solid;
 }
-
 
 .linkis {
   margin:8px 0 0 0;
@@ -45,7 +40,16 @@ a.links {
   text-align:left;
   padding-bottom:1rem;
 }
-
+.pseudolink {
+  cursor:pointer;
+  font-size: 1.1rem;
+       text-decoration:none;
+       color:#333333;
+       letter-spacing:.1rem;
+       text-transform:uppercase;
+       font-family:Roboto;
+        font-weight:100;
+}
 a.links::before {
  
     content: "-> ";
