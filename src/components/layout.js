@@ -42,16 +42,17 @@ display:flex;
  flex-direction:column;
  justify-content:center;
   background:rgba(255,255,255,.6);
-animation: ${keyFrameExampleOne} .2s ease-out;
+animation: ${keyFrameExampleOne} .4s ease-in;
  
 height:100vh;
  margin:0 auto 0 auto;
   align-items:center;
  width:100%; 
-   padding:10px 0 25px 0;
+   padding:0 10px 0 0;
   max-width:690px;
   h1 {
     text-align:center;
+    font-family:Roboto;
   }
 
   @media(max-width:695px) {
@@ -72,15 +73,21 @@ height:100vh;
 @media(max-width:800px) {
     height:97vh;
   }
+
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : landscape){
- 
+  header{
+    margin:0;
+    padding:0;
+  }
+  height:100vh;
+  border:red solid 1px;
   img {
     width:100%;
   }
-
+ padding-bottom:0;
 }
 `
 const Layout = ({ location,children }) => {
