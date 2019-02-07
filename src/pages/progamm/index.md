@@ -36,15 +36,16 @@ BACHARACH FÜR TODESSEHNSÜCHTIGE
 
 
 # So. 1. September in Bacharach    
-## BACCHANALE. TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE 
+## BACCHANALE.   
+TRUNKENES ABSCHLUSSFEST FÜR MITTELRHEINTAL-VERLIEBTE 
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
 in Höfen und Straßen und auf Plätzen in Bacharach
 
 # ---  
 
 N.N. August im Günderode Filmhaus Oberwesel (?)   
-***Heinrich Heine Chor Frankfurt & Friends*** 
 ## ZÜNDFUNKEN - HEIMATKUNDE mit Heine, Brecht, Dylan, Theodorakis   
+***Heinrich Heine Chor Frankfurt & Friends*** 
 ![hhc1](/hhc1.jpg)
 
  
