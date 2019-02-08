@@ -5,7 +5,8 @@ title: Vorläufige Programmplanung
 published: true
 ---
 *Bitte beachten: Unsere Programmpanung ist noch "under construction".   
-Die Stücke stehen fest - die Termine und Räume uwerden derzeit noch vor Ort geprüft.*    
+Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort geprüft.*   
+*Bereits gültige Vorstellungstermine finden Sie unter "Termine"*   
 
 
 
