@@ -24,7 +24,8 @@ Theatraler Parcours mit dem Theater Willy Praml       
 Michael Quast und Bruno Kliegl (Glasharmonika)   
 Fliegende Volksbühne Frankfurt       
 ***So. 11. 8. in Lorch***    
- # ----    
+
+# ----    
 
 # HOCHROTH! DIE GÜNDERRODE   
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS   
