@@ -46,7 +46,7 @@ class Menu extends React.Component{
         
         <ul>
              
-        <li><Link to="/"><FaHome fontSize="2rem" /></Link></li>
+      
             <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
             <li><Link to="/programm">Programm</Link> </li>
             <li><Link to="/aktuell">Aktuelles</Link></li>       
