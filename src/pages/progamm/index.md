@@ -4,6 +4,11 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
+*Bitte beachten: Unsere Programmpanung ist noch "under construction".   
+Die Stücke stehen fest - die Termine und Räume uwerden derzeit noch vor Ort geprüft.*    
+
+
+
 # Heinrich Heine DER RABBI VON BACHERACH    
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
