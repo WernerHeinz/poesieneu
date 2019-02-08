@@ -9,7 +9,7 @@ display: flex;
 flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-padding:0 20px 0 20px;  
+padding:0 20px 20px 20px;  
 height:82vh;
 margin: 1vh auto 2vh auto;
 max-width:690px;
