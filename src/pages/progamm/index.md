@@ -4,42 +4,52 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
-# 10./17./18. August   
-in Bacharach   
-***Theater Willy Praml***    
-## Heinrich Heine DER RABBI VON BACHERACH
-### Theatraler Parcours 
- ![rhein1](/rhein1.jpg)
+# Heinrich Heine DER RABBI VON BACHERACH    
+# STATIONEN EINES TRAUMAS    
+Theatraler Parcours mit dem Theater Willy Praml    
+Sa 10. / Sa.17. & So. 18. August in Bacharach   
 
-# 11. August   
-Oberwesel oder BaKaLoNi (= Bacharach / Kaub / Lorch / Niederheimbach)    
-***Michael Quast und Bruno Kliegl (Glasharmonika)***
-## E.T.A. Hoffmann  Der goldene Topf        
-![Quast](/e.t.a.jpg)
-***Fliegende Volksbühne Frankfurt***
+
+# GLOTZT NICHT SO ROMANTISCH !!!    
+# PODIUM FÜR WELTERBE-PIONIERE    
+
+So 11.8.  Matinee im Günderoderhaus Oberwesel 
+
+------------------------------------------------------------------------------------------------------------------------
+# E.T.A. Hoffmann DER GOLDENE TOPF
+# LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
+
+Michael Quast und Bruno Kliegl (Glasharmonika)   
+Fliegende Volksbühne Frankfurt    
+So. 11. 8. in Lorch
+---------------------------------------------------------------------------------------------------
+# HOCHROTH! DIE GÜNDERRODE   
+# OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS   
+Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)     
+Birgit Heuser (Theater Willy Praml)    
+Heinrich Heine Chor Frankfurt   
+
+Fr. 16.8.  Günderodehaus Oberwesel
      
 
-# 23. /24. August (?)   
-in Oberwesel (?)     
-***Freies Schauspiel Ensemble Frankfurt***
-## Christa Wolf  KEIN ORT. NIRGENDS
-![fse](/fse1.png)
-
-# 25. August   
-Oberwesel Günderode Filmhaus (?)    
-***Heinrich Heine Chor Frankfurt & Friends*** 
-## ZÜNDFUNKEN - HEIMATKUNDE mit Heine, Brecht, Dylan, Theodorakis   
-![hhc1](/hhc1.jpg)
-
-# 30./31.8. & 1.9.   
-in Bacharach    
-***Theater Willy Praml***
-## BÜCHNER.LENZ & SCHUBERT.DIE SCHÖNE MÜLLERIN
-![lenz1](/lenz1.png)
-
-
-# 8. September   
-in Bacharach    
-## BACCHANALE. TRUNKENE LYRIK UND MUSIK -  ABSCHLUSSFEST    
-Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region       
-in Höfen und Straßen und auf Plätzen in Bacharach
+# Schubert. DIE SCHÖNE MÜLLERIN.   
+# STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER    
+Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalisten    
+Fr. 23.8. in Lorch     
+Do. 29.8. in Bacharach   
+---------------------------------------------------------------------------------------------------
+# Christa Wolf KEIN ORT. NIRGENDS
+# OBERWESEL FÜR SELBSTMORDKANDIDATEN            
+Sa.24 & So. 25 August in Oberwesel
+--------------------------------------------------------------------------------------------------
+# Georg Büchner LENZ &    
+# Schubert DIE SCHÖNE MÜLLERIN   
+# BACHARACH FÜR TODESSEHNSÜCHTIGE    
+Theater Willy Praml   
+Fr. 30. & Sa 31.8. in Bacharach
+---------------------------------------------------------------------------------------------------
+# BACCHANALE.   
+# TRUNKENES ABSCHLUSSFEST    
+Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region   
+in Höfen und Straßen und auf Plätzen in Bacharach    
+So. 1. 9. in Bacharach  
