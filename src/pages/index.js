@@ -26,7 +26,7 @@ class Menu extends React.Component{
   
   render(){
       
-     let dflag=this.state.dflag
+     let dflag=true
       let testwert = ls.get("DSchutz")
       let loc=null;
        if(this.props && this.props.location){
