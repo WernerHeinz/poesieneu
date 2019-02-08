@@ -28,7 +28,7 @@ class Menu extends React.Component{
   
   render(){
       let dflag=this.state.dflag
-     
+      let testwert = ls.get("DSchutz")
       let loc=null;
        if(this.props && this.props.location){
          loc=this.props.location
@@ -40,7 +40,7 @@ class Menu extends React.Component{
              dflag:dflag
              }}>  
         <Layout location={loc}>
-        {dflag ?
+        {testwert ?
         (<Listen>
         <Liste>
         
