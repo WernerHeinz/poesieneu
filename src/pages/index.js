@@ -20,13 +20,13 @@ class Menu extends React.Component{
       e.preventDefault()
       ls.set('DSchutz',true)
       this.setState({dflag:true})
-      this.setState({vorwort:!this.state.dflag})
+     
       return 0;
   } 
   
   render(){
       
-     let dflag=true
+     let dflag=this.state.dflag
       let testwert = ls.get("DSchutz")
       let loc=null;
        if(this.props && this.props.location){
