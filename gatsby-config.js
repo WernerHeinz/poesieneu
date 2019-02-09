@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `An den Ufern der Poesie`,
-    description: `Theater- und Kulturfestival im Welterbe`,
-    keywords: `Heine,Bacharach,Poesie,Kultur,Musik,Willy Praml,mittelrheinfestival-poesie,Heinrich Heine`,
+    description: `Theater- und Kulturfestival am romantischen Mittelrhein`,
+    keywords: `Weltkulturerbe,Mittelrhein,Romantik,Bacharach,Poesie,Kultur,Musik,Bacharach,Willy Praml,Theaterfestspiele,Heine`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
