@@ -10,7 +10,7 @@ Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort gep
 
 
 
-# Heinrich Heine DER RABBI VON BACHERACH    
+## Heinrich Heine DER RABBI VON BACHERACH    
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
 
@@ -19,7 +19,7 @@ Sa 10. / Sa.17. & So. 18. August in Bacharach
 # -----     
 
 
-# GLOTZT NICHT SO ROMANTISCH !!!    
+## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
 So 11.8.  Matinee im Günderoderhaus Oberwesel    
@@ -27,7 +27,7 @@ So 11.8.  Matinee im Günderoderhaus Oberwesel
 # -----     
 
 
-# E.T.A. Hoffmann DER GOLDENE TOPF
+## E.T.A. Hoffmann DER GOLDENE TOPF
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
 Michael Quast und Bruno Kliegl (Glasharmonika)   
 Fliegende Volksbühne Frankfurt   
@@ -36,7 +36,7 @@ So. 11. 8. in Lorch
 
 # ----    
 
-# HOCHROTH! DIE GÜNDERRODE   
+## HOCHROTH! DIE GÜNDERRODE   
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS   
 Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)     
 Birgit Heuser (Theater Willy Praml)    
@@ -46,7 +46,7 @@ Fr. 16.8.  Günderodehaus Oberwesel
      
  # -----
  
-# Schubert. DIE SCHÖNE MÜLLERIN.   
+## Schubert. DIE SCHÖNE MÜLLERIN.   
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER    
 Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalisten        
 
@@ -56,7 +56,7 @@ Do. 29.8. in Bacharach
 # ----    
 
 
-# Christa Wolf KEIN ORT. NIRGENDS   
+## Christa Wolf KEIN ORT. NIRGENDS   
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 
 Sa.24 & So. 25 August in Oberwesel   
@@ -64,8 +64,7 @@ Sa.24 & So. 25 August in Oberwesel
 # ----   
 
 
-# Georg Büchner LENZ &    
-# Schubert DIE SCHÖNE MÜLLERIN   
+## Georg Büchner LENZ & Franz Schubert DIE SCHÖNE MÜLLERIN   
 ## BACHARACH FÜR TODESSEHNSÜCHTIGE      
 Theater Willy Praml    
 
@@ -74,7 +73,7 @@ Fr. 30. & Sa 31.8. in Bacharach
 # ----   
 
 
-# BACCHANALE.   
+## BACCHANALE.   
 ## TRUNKENES ABSCHLUSSFEST    
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region   
 in Höfen und Straßen und auf Plätzen in Bacharach    
