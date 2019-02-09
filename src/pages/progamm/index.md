@@ -14,7 +14,7 @@ Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort gep
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
 
-***Sa 10. / Sa.17. & So. 18. August in Bacharach***    
+Sa 10. / Sa.17. & So. 18. August in Bacharach  
 
 # -----     
 
@@ -22,7 +22,7 @@ Theatraler Parcours mit dem Theater Willy Praml
 # GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-***So 11.8.  Matinee im Günderoderhaus Oberwesel***    
+So 11.8.  Matinee im Günderoderhaus Oberwesel    
 
 # -----     
 
@@ -32,7 +32,7 @@ Theatraler Parcours mit dem Theater Willy Praml
 Michael Quast und Bruno Kliegl (Glasharmonika)   
 Fliegende Volksbühne Frankfurt   
 
-***So. 11. 8. in Lorch***    
+So. 11. 8. in Lorch   
 
 # ----    
 
@@ -42,7 +42,7 @@ Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)
 Birgit Heuser (Theater Willy Praml)    
 Heinrich Heine Chor Frankfurt   
 
-***Fr. 16.8.  Günderodehaus Oberwesel***    
+Fr. 16.8.  Günderodehaus Oberwesel  
      
  # -----
  
@@ -50,8 +50,8 @@ Heinrich Heine Chor Frankfurt
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER    
 Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalisten        
 
-***Fr. 23.8. in Lorch***     
-***Do. 29.8. in Bacharach***   
+Fr. 23.8. in Lorch 
+Do. 29.8. in Bacharach 
 
 # ----    
 
@@ -59,7 +59,7 @@ Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalist
 # Christa Wolf KEIN ORT. NIRGENDS   
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 
-***Sa.24 & So. 25 August in Oberwesel***   
+Sa.24 & So. 25 August in Oberwesel   
 
 # ----   
 
@@ -69,7 +69,7 @@ Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalist
 ## BACHARACH FÜR TODESSEHNSÜCHTIGE      
 Theater Willy Praml    
 
-***Fr. 30. & Sa 31.8. in Bacharach***    
+Fr. 30. & Sa 31.8. in Bacharach    
 
 # ----   
 
@@ -79,6 +79,7 @@ Theater Willy Praml
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region   
 in Höfen und Straßen und auf Plätzen in Bacharach    
 
-***So. 1. 9. in Bacharach***  
+So. 1. 9. in Bacharach   
+
  # ----    
  
