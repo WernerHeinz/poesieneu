@@ -10,7 +10,7 @@ Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort gep
 
 
 
-## Heinrich Heine DER RABBI VON BACHERACH    
+## DER RABBI VON BACHERACH. HEINE.   
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
 
