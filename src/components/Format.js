@@ -148,6 +148,8 @@ font-weight:100;
 
 
 export const Liste2 = styled.div`
+display:flex;
+justify-content:center;
  width:100%;
  font-family:Roboto;
 
