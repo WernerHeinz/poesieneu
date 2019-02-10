@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import transition from 'styled-transition-group'
 
 
 
@@ -26,18 +25,9 @@ export const MyButton = styled.button`
   
 `
 
-export const Dschutz = transition.div`
+export const Dschutz = styled.div`
 font-family:Roboto;
-&:enter { opacity: 0.01; }
-&:enter-active {
-  opacity: 1;
-  transition: opacity 1000ms ease-in;
-}
-&:exit { opacity: 1; }
-&:exit-active {
-  opacity: 0.01;
-  transition: opacity 800ms ease-in;
-}
+
 display:flex;
 justify-content:center;
 align-items:center;
