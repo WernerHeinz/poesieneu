@@ -12,6 +12,19 @@ body {
  
 }
 
+h1 + h1 {
+ padding:0;
+ margin:5px 0;
+}
+h2 + h2 {
+ padding:0;
+ margin:5px 0;
+}
+h1 + h2 {
+ padding:0;
+ margin:5px 0;
+}
+
 .linkis {
   margin:8px 0 0 0;
   display:flex;
