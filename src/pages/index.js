@@ -31,7 +31,7 @@ class Menu extends React.Component{
 
     let dflag = this.state.dflag
 
-       return dflag ?
+       return dflag ? (
        <Layout>
        <Listen>
          <Liste>
@@ -63,13 +63,15 @@ class Menu extends React.Component{
      </Liste2>
      </Listen>
      </Layout>
-      :
+       )
+      : (
             <React.Fragment>
 
 
          <Daten toggleDflag={this.toggleDflag}/>
 
       </React.Fragment>
+)
 
 }
 }
