@@ -4,7 +4,7 @@ import {InDiv} from './Format'
 
 export const Inhalt = () => (
     <Layout>
-    <InhaltsDiv>
+    <InDiv>
         <h1>Heine kommt wieder! - Im August 2019</h1>
            
         
