@@ -141,7 +141,8 @@ export const Listen = styled.div`
  justify-content:center;
  align-items:center;
  height:89%;
- width:100%;
+padding:0 1% 1% 1%;
+ width:98%;
 max-height:900px;
  margin:4vh auto 2vh auto;
 padding-bottom:30px;
