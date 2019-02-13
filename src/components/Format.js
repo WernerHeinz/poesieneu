@@ -7,9 +7,23 @@ display:flex;
 flex-direction:column;
 justify-content:flex-start;
 align-items:center;
-margin:auto;
+
 max-width:690px;
 padding:20px;
+
+max-height:900px;
+ margin:4vh auto 2vh auto;
+padding-bottom:30px;
+ overflow-y:scroll;
+ -webkit-overflow-scrolling: touch;
+ font-family:Roboto;
+ font-weight:100;
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+
 backgrund:rgba(255,255,255,.7);
 ul {
      list-style:none;
