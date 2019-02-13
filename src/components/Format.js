@@ -11,6 +11,48 @@ margin:auto;
 max-width:690px;
 padding:20px;
 backgrund:rgba(255,255,255,.7);
+ul {
+     list-style:none;
+      padding:0;
+      margin:10px 0;
+    }
+    li {
+        font-family:Roboto;
+      text-align:center;
+      padding:8px 0;
+      
+    }
+    li a {
+        font-size: 1.1rem;
+       text-decoration:none;
+       color:#333333;
+       letter-spacing:.1rem;
+       text-transform:uppercase;
+       font-family:Roboto;
+        font-weight:100;
+    }
+    li a:hover {
+        color:grey;
+    }
+    ul + ul {
+      display:flex;
+      align-items:center;
+     
+   }
+    ul + ul li {
+    padding-left:5px;
+   margin:auto;
+   }
+     ul + ul li a {
+     font-size:.8rem;
+}
+
+    @media(max-width:600px){
+        ul + ul {
+      display:flex;
+      align-items:center;
+     flex-direction:column;
+    }
 `
 export const MyButton = styled.button`
   border:none;
