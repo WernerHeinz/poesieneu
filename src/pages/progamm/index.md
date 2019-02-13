@@ -53,7 +53,7 @@ Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalist
 
 Fr. 23.8. in Lorch 
 Do. 29.8. in Bacharach 
-
+![Bild](/friedr1.jpg) 
 # ----    
 
 
@@ -70,7 +70,7 @@ Sa.24 & So. 25 August in Oberwesel
 Theater Willy Praml    
 
 Fr. 30. & Sa 31.8. in Bacharach    
-
+![Bild](/lenz1.png)
 # ----   
 
 
