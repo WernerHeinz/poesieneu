@@ -82,9 +82,10 @@ overflow-y: scroll;
 export const Listen = styled.div`
  display:flex;
  flex-direction:column;
- justifyContent:flex-start;
+ justify-content:flex-start;
  height:89%;
  width:100%;
+max-height:900px;
  margin:4vh auto 0 auto;
 padding-bottom:30px;
  overflow-y:scroll;
