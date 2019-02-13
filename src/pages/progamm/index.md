@@ -34,7 +34,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 Fliegende Volksbühne Frankfurt   
 
 So. 11. 8. in Lorch   
-![Bild](/e.t.a.jpg)
+
 # ----    
 
 ## HOCHROTH! DIE GÜNDERRODE   
@@ -44,7 +44,7 @@ Birgit Heuser (Theater Willy Praml)
 Heinrich Heine Chor Frankfurt   
 
 Fr. 16.8.  Günderodehaus Oberwesel  
-![Bild](/guend.jpg)    
+   
  # -----
  
 ## Schubert. DIE SCHÖNE MÜLLERIN.   
@@ -53,7 +53,7 @@ Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalist
 
 Fr. 23.8. in Lorch 
 Do. 29.8. in Bacharach 
-![Bild](/friedr1.png) 
+
 # ----    
 
 
@@ -61,7 +61,7 @@ Do. 29.8. in Bacharach
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 
 Sa.24 & So. 25 August in Oberwesel   
-![Bild](/fse1.jpg) 
+![Bild](/fse1.png) 
 # ----   
 
 
