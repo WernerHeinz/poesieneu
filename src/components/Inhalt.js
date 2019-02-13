@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from './layout'
-import {InhaltsDiv} from './Format'
+import {InDiv} from './Format'
 
 export const Inhalt = () => (
     <Layout>
@@ -21,7 +21,7 @@ und weiter zu fünf außergewöhnlichen Spielorten im schönen Rheinstädtchen. 
 </b></p>
         
         
-    </InhaltsDiv>
+    </InDiv>
     </Layout>     
     
     )
