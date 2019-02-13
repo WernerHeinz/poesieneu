@@ -8,6 +8,6 @@ published: true
 ![bild](/ufer-paddel.jpg)
 
 
-## 10. AUGUST - 1. SEPTEMBER 2019        
+# 10. AUGUST - 1. SEPTEMBER 2019        
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER   
 # im Welterbe Oberes Mittelrheintal
