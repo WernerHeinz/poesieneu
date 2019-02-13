@@ -51,16 +51,14 @@ class Menu extends React.Component{
          <li><Link to="/termine">Termine</Link></li>
          
       </ul>
-        </Liste>
-
-     <Liste2>
+      
      <ul>
          <li><Link to="/links">Links</Link></li>
          <li><Link to="/kontakt">Kontakt</Link></li>
          <li><Link to="/datenschutz">Datenschutz</Link></li>
          <li><Link to="/impressum">Impressum</Link></li>
      </ul>
-     </Liste2>
+     </Liste>
      </Listen>
      </Layout>
        )
