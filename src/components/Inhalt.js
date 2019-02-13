@@ -4,9 +4,9 @@ import {Listen,Liste} from './Format'
 
 export const Inhalt = () => (
     <Layout>
-    <Listen>
-         <Liste>
-       <div style={{padding:'20px',textAlign:'center'}}>
+     <Listen>
+      <Liste>
+       
         <h1>Heine kommt wieder! - Im August 2019</h1>
            
         
@@ -15,7 +15,8 @@ export const Inhalt = () => (
         <p style={{fontWeight:'600'}}>10. AUGUST - 1. SEPTEMBER 2019 </p> 
         <p style={{fontWeight:'600'}}>THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER <br/>im Welterbe Oberes Mittelrheintal</p> 
        
-        </div>
+       
+       
      </Liste>    
     </Listen>
     </Layout>     
