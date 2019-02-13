@@ -87,7 +87,7 @@ So. 1. 9. in Bacharach
  
  ![Bild](/fse1.png) 
  
- ![Bild](/lenz1.jpg)
+ ![Bild](/lenz1.png)
  
  ![Bild](/e.t.a.jpg)
  
