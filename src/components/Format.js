@@ -139,6 +139,7 @@ export const Listen = styled.div`
  display:flex;
  flex-direction:column;
  justify-content:flex-start;
+ align-items:space-between;
  height:89%;
  width:100%;
 max-height:900px;
