@@ -29,6 +29,10 @@ h1 + p {
   margin:0;
   
 }
+hr {
+ width:100%;
+ border-bottom:1px black solid;
+}
 `
 
 export default function Template({ data,location }) {
