@@ -40,7 +40,7 @@ class Menu extends React.Component{
 
 
          <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
-         <li><Link to="/programm">Programm</Link> </li>
+         <li><Link to="/programm">Programm 2019</Link> </li>
          <li><Link to="/aktuell">Aktuelles</Link></li>
          <li><Link to="/archiv">Filme und Foto-Dokumentation</Link></li>
          <li><Link to="/presse">Presse</Link></li>
