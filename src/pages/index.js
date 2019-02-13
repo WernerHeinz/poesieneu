@@ -29,7 +29,7 @@ class Menu extends React.Component{
 
   render(){
 
-    let dflag = this.state.dflag
+    let dflag = ls.get("DSchutz")
 
        return dflag ? (
        <Layout>
