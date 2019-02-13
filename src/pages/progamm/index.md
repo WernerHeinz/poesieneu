@@ -15,7 +15,7 @@ Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort gep
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. / Sa.17. & So. 18. August in Bacharach  
-![Bild](/dsc_0185.jpg) 
+
 
 # -----     
 
@@ -61,7 +61,7 @@ Do. 29.8. in Bacharach
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 
 Sa.24 & So. 25 August in Oberwesel   
-![Bild](/fse1.png) 
+
 # ----   
 
 
@@ -70,7 +70,7 @@ Sa.24 & So. 25 August in Oberwesel
 Theater Willy Praml    
 
 Fr. 30. & Sa 31.8. in Bacharach    
-![Bild](/lenz1.png)
+
 # ----   
 
 
@@ -82,4 +82,10 @@ in Höfen und Straßen und auf Plätzen in Bacharach
 So. 1. 9. in Bacharach   
 
  # ----    
+ 
+ ![Bild](/dsc_0185.jpg) 
+ 
+ ![Bild](/fse1.png) 
+ 
+ 
  
