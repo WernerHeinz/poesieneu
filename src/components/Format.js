@@ -86,7 +86,7 @@ export const Listen = styled.div`
  height:89%;
  width:100%;
 max-height:900px;
- margin:4vh auto 0 auto;
+ margin:4vh auto 2vh auto;
 padding-bottom:30px;
  overflow-y:scroll;
  -webkit-overflow-scrolling: touch;
