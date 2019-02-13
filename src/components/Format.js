@@ -130,10 +130,24 @@ font-weight:100;
     li a:hover {
         color:grey;
     }
+    ul + ul {
+      display:flex;
+      align-items:center;
+     
+   }
+    ul + ul li {
+    padding-left:5px;
+   margin:auto;
+   }
+     ul + ul li a {
+     font-size:.8rem;
+}
+
     @media(max-width:600px){
-        li a {
-            font-size: 1rem;
-        }
+        ul + ul {
+      display:flex;
+      align-items:center;
+     flex-direction:column;
     }
 `
 
