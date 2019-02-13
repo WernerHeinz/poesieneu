@@ -1,10 +1,11 @@
 import React from 'react'
 import Layout from './layout'
-import {InDiv} from './Format'
+import {Listen,Liste} from './Format'
 
 export const Inhalt = () => (
     <Layout>
-    <InDiv>
+    <Listen>
+         <Liste>
         <h1>Heine kommt wieder! - Im August 2019</h1>
            
         
@@ -20,8 +21,8 @@ und weiter zu fünf außergewöhnlichen Spielorten im schönen Rheinstädtchen. 
 <b>Bitte den August im Kalender vormerken. Wir halten Sie auf dem Laufenden.*
 </b></p>
         
-        
-    </InDiv>
+     </Liste>    
+    </Listen>
     </Layout>     
     
     )
