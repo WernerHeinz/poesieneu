@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 
 
-export const InhaltsDiv = styled.div`
+export const InDiv = styled.div`
 display:flex;
 flex-direction:column;
 justify-content:flex-start;
