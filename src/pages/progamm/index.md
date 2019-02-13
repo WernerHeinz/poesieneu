@@ -15,6 +15,7 @@ Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort gep
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. / Sa.17. & So. 18. August in Bacharach  
+![Bild](/dsc_0185.jpg) 
 
 # -----     
 
@@ -33,7 +34,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 Fliegende Volksbühne Frankfurt   
 
 So. 11. 8. in Lorch   
-
+![Bild](/e.t.a.jpg)
 # ----    
 
 ## HOCHROTH! DIE GÜNDERRODE   
@@ -43,7 +44,7 @@ Birgit Heuser (Theater Willy Praml)
 Heinrich Heine Chor Frankfurt   
 
 Fr. 16.8.  Günderodehaus Oberwesel  
-     
+![Bild](/guend.jpg)    
  # -----
  
 ## Schubert. DIE SCHÖNE MÜLLERIN.   
@@ -60,7 +61,7 @@ Do. 29.8. in Bacharach
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 
 Sa.24 & So. 25 August in Oberwesel   
-
+![Bild](/fse1.jpg) 
 # ----   
 
 
