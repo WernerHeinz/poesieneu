@@ -171,6 +171,7 @@ margin-top:30px;
     }
     @media(max-width:600px){
         flex-direction:column;
+        margin-top:30px;
         li { display:block;
         padding:5px 0;
         font-family:Roboto;
