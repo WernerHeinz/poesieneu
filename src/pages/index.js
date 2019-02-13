@@ -37,8 +37,6 @@ class Menu extends React.Component{
          <Liste>
 
      <ul>
-
-
          <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
          <li><Link to="/programm">Programm 2019</Link> </li>
          <li><Link to="/aktuell">Aktuelles</Link></li>
@@ -49,10 +47,6 @@ class Menu extends React.Component{
          <li><Link to="/konzerte">Unsere Konzerte</Link></li>
          <li><Link to="/praml">Who is Who im Festival?</Link></li>
          <li><Link to="/termine">Termine</Link></li>
-         
-      </ul>
-      
-     <ul>
          <li><Link to="/links">Links</Link></li>
          <li><Link to="/kontakt">Kontakt</Link></li>
          <li><Link to="/datenschutz">Datenschutz</Link></li>
