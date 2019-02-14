@@ -41,10 +41,8 @@ a.links {
   
 }
 .imp {
-  display:flex;
-  flex-direction:column;
-  justify-content:flex-start;
-  align-items:baseline;
+ position: relative;
+  top:-15%;
   margin:auto;
   max-width:690px;
 }
