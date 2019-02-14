@@ -45,9 +45,12 @@ const Post = styled.div`
   overflow-y: scroll;
 -webkit-overflow-scrolling: touch;
 h1 {
-  font-size:1.4rem;
+  font-size:1.3rem;
   padding:0;
   margin:50px 0 0 0;
+}
+h2,h3 {
+ font-size:1.1rem;
 }
 h1 + img, h1 + p,h2 + img,h2 + img,h3 + img {
   padding:5px 0 0 0;
