@@ -16,7 +16,6 @@ published: true
 > Fax: 069 43054734        
 
 >**Telefonische Kartenreservierung:** 069 43054734<br/>
->[Unsere Datenschutzbestimmungen]('/datenschutz') 
+>[Unsere Datenschutzbestimmungen](/datenschutz) 
 
  >Website programmiert von René Broich, Bacharach
-
