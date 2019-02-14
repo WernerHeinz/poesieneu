@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/layout'
 import {Link} from 'gatsby'
-import {Listen,Liste,Liste2,MeineListe} from '../components/Format'
+import {Listen} from '../components/Format'
 import Daten from '../components/Daten'
 import ls from 'local-storage'
 

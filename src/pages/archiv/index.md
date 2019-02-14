@@ -4,7 +4,7 @@ date: '2017-11-07'
 title: Film und Fotodokumentation
 published: true
 ---
-# **Filmdoku "An den Ufern der Poesie" 2017**
+# Filmdoku "An den Ufern der Poesie" 2017
 
 <iframe width="100%" height="380px" src="https://www.youtube.com/embed/bdF192KT_Hc" 
 
@@ -12,7 +12,7 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
-# **Heinrich Heines "Rabbi von Bacherach" 2015**   
+# Heinrich Heines "Rabbi von Bacherach" 2015**   
 Fotos (Linda Butz) mit Auszügen aus den Texten der Inszenierung
 
 

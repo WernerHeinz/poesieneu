@@ -7,12 +7,21 @@ import Header from './header'
 import Abends from './hine.jpg'
 import Menuheader from '../components/menuheader'
 
+const keyFrameExampleOne = keyframes`
+  0% {
+
+    opacity: .2;
+
+  }
+  100% {
+
+      opacity: 1;
+
+  }
+`
+
 const StartWrap = styled.div`
-font-family:Roboto;
-display:flex;
- flex-direction:column;
- justify-content:flex-start;
- align-items:center;
+
   background:rgba(255,255,255,.78);
   height:100vh;
  margin:0 auto 0 auto;
@@ -20,7 +29,10 @@ display:flex;
  width:100%; 
    padding:10px 0 20px 0;
   max-width:690px;
- 
+  overflow-y: scroll;
+-webkit-overflow-scrolling: touch;
+animation: ${keyFrameExampleOne} .3s linear;
+
 
 `
 const Bild = {
