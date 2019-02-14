@@ -34,7 +34,7 @@ class Menu extends React.Component{
        return dflag ? (
        <Layout>
        <Listen>
-         <Liste>
+        
 
      <ul>
          <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
@@ -52,7 +52,7 @@ class Menu extends React.Component{
          <li><Link to="/datenschutz">Datenschutz</Link></li>
          <li><Link to="/impressum">Impressum</Link></li>
      </ul>
-     </Liste>
+    
      </Listen>
      </Layout>
        )
