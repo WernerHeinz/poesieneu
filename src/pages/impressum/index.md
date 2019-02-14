@@ -5,19 +5,18 @@ title: Impressum
 published: true
 ---
 
-<div class="imp">
-<h2>Kulturelle Erziehung e.V. Theater Willy Praml </h2>
+
+> #Kulturelle Erziehung e.V. <br/>Theater Willy Praml 
 
 
-Waldschmidtstraße 19  
-60316 Frankfurt  
-Email: theater.willypraml [ at ] .t-online.de   
-Tel: 069 43054733   
-Fax: 069 43054734    
+> Waldschmidtstraße 19     
+> 60316 Frankfurt    
+> Email: theater.willypraml [ at ] .t-online.de       
+> Tel: 069 43054733      
+> Fax: 069 43054734        
 
-<b>Telefonische Kartenreservierung:</b> 069 43054734<br/>
+>**Telefonische Kartenreservierung:** 069 43054734<br/>
+>[Unsere Datenschutzbestimmungen]('/datenschutz') 
 
-<p>
- <em>Website programmiert von René Broich, Bacharach</em>
-</p>
-</div>
+ >Website programmiert von René Broich, Bacharach
+
