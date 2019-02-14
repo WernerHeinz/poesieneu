@@ -2,23 +2,12 @@ import React from 'react'
 
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import styled, {keyframes} from 'styled-components'
+import styled from 'styled-components'
 import Header from './header'
 import Abends from './hine.jpg'
 import Menuheader from '../components/menuheader'
 
-const keyFrameExampleOne = keyframes`
-  0% {
 
-    opacity: .2;
-
-  }
-  100% {
-
-      opacity: 1;
-
-  }
-`
 
 const StartWrap = styled.div`
 
@@ -31,9 +20,6 @@ const StartWrap = styled.div`
   max-width:690px;
   overflow-y: scroll;
 -webkit-overflow-scrolling: touch;
-animation: ${keyFrameExampleOne} .3s linear;
-
-
 `
 const Bild = {
   position:'absolute',
