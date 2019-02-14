@@ -26,15 +26,19 @@ h1 + h2 {
 }
 
 .linkis {
+  position: relative;
+  top:-20%;
   margin:8px 0 0 0;
   display:flex;
   flex-direction:column;
   justify-content:flex-start;
   align-items:flex-start;
+  margin:auto;
+
 }
 a.links {
   font-size:1rem;
-  padding:20px;
+  padding:5px;
   font-weight:300;
   font-family:Roboto;
   letter-spacing:0.08rem;
