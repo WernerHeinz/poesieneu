@@ -17,7 +17,7 @@ Theatraler Parcours mit dem Theater Willy Praml
 Sa 10. / Sa.17. & So. 18. August in Bacharach  
 
 
-# -----     
+-----     
 
 
 ## GLOTZT NICHT SO ROMANTISCH !!!    
@@ -25,7 +25,7 @@ Sa 10. / Sa.17. & So. 18. August in Bacharach
 
 So 11.8.  Matinee im Günderoderhaus Oberwesel    
 
-# -----     
+-----     
 
 
 ## E.T.A. Hoffmann DER GOLDENE TOPF
@@ -35,7 +35,7 @@ Fliegende Volksbühne Frankfurt
 
 So. 11. 8. in Lorch   
 
-# ----    
+----    
 
 ## HOCHROTH! DIE GÜNDERRODE   
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS   
@@ -45,7 +45,7 @@ Heinrich Heine Chor Frankfurt
 
 Fr. 16.8.  Günderodehaus Oberwesel  
    
- # -----
+-----
  
 ## Schubert. DIE SCHÖNE MÜLLERIN.   
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER    
@@ -54,7 +54,7 @@ Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalist
 Fr. 23.8. in Lorch 
 Do. 29.8. in Bacharach 
 
-# ----    
+----    
 
 
 ## Christa Wolf KEIN ORT. NIRGENDS   
@@ -62,7 +62,7 @@ Do. 29.8. in Bacharach
 
 Sa.24 & So. 25 August in Oberwesel   
 
-# ----   
+ ----   
 
 
 ## Georg Büchner LENZ & Franz Schubert DIE SCHÖNE MÜLLERIN   
@@ -71,7 +71,7 @@ Theater Willy Praml
 
 Fr. 30. & Sa 31.8. in Bacharach    
 
-# ----   
+----   
 
 
 ## BACCHANALE.   
@@ -81,7 +81,7 @@ in Höfen und Straßen und auf Plätzen in Bacharach
 
 So. 1. 9. in Bacharach   
 
- # ----    
+----    
  
  ![Bild](/dsc_0185.jpg) 
  
