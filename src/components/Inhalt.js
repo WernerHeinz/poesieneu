@@ -1,11 +1,11 @@
 import React from 'react'
 import Layout from './layout'
-import {Listen,Liste} from './Format'
+import {Listen} from './Format'
 
 export const Inhalt = () => (
     <Layout>
      <Listen>
-      <Liste>
+     
        
         <h1>Heine kommt wieder! - Im August 2019</h1>
            
@@ -17,10 +17,8 @@ export const Inhalt = () => (
        
        
        
-     </Liste>    
+     
     </Listen>
     </Layout>     
     
     )
-    
-  
