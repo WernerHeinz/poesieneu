@@ -234,11 +234,11 @@ h2 + h3 {
 }
 
 h1 {
-  font-size:1.4rem;
+  font-size:1.3rem;
 }
 
 h2,h3 {
-  font-size:1.2rem;
+  font-size:1.1rem;
   padding:0;
   margin:12px 0;
 }
@@ -247,9 +247,3 @@ iframe {
   padding:0;
   margin:0;
 }
-
-
-
-
-
-  
