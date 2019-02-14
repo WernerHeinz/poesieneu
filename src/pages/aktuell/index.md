@@ -15,9 +15,9 @@ In der  Arbeitsgemeinschaft sammeln sich die aktiven UnterstützerInnen des Fest
 
 **Die Arbeitsgemeinschaft soll das Sprachrohr des Festivals in der Region werden und**      
 
-**+ bei der inhaltlichen Vorbereitung   des Festivals  beratend mitwirken,**  
-**+ Kontakte zu Künstlerinnen und Künstlern, kulturellen Institutionen und Vereinen herstellen und sie als Mitwirkende beim Festival und evtl. auch als Mitglieder der Arbeitsgemeinschaft werben und**  
-**+ als Lobby für das Festival bei der Werbung um Sponsoren und bei der Akquise von Fördermitteln unterstützend tätig werden.**  
++ bei der inhaltlichen Vorbereitung   des Festivals  beratend mitwirken,**  
++ Kontakte zu Künstlerinnen und Künstlern, kulturellen Institutionen und Vereinen herstellen und sie als Mitwirkende beim Festival und evtl. auch als Mitglieder der Arbeitsgemeinschaft werben und 
++ **als Lobby für das Festival bei der Werbung um Sponsoren und bei der Akquise von Fördermitteln unterstützend tätig werden.** 
 
 Wir wollen dazu keinen weiteren Verein gründen, sondern die Arbeitsgemeinschaft als *Pool von Aktiven* zusammenbringen, die sich – je nach Aufgabe und Anliegen – in wechselnden Zusammensetzungen treffen und ihre Aktivitäten koordinieren.
 
