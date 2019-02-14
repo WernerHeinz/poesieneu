@@ -153,7 +153,34 @@ padding-bottom:30px;
     background: transparent;
 }
 
- 
+  ul {
+     list-style:none;
+      padding:0;
+      margin:10px 0;
+    }
+    li {
+        font-family:Roboto;
+      text-align:center;
+      padding:8px 0;
+      
+    }
+    li a {
+        font-size: 1.1rem;
+       text-decoration:none;
+       color:#333333;
+       letter-spacing:.1rem;
+       text-transform:uppercase;
+       font-family:Roboto;
+        font-weight:100;
+    }
+    li a:hover {
+        color:grey;
+    }
+    ul + ul {
+      display:flex;
+      align-items:center;
+     
+   }
 `
 export const Liste = styled.div`
 font-family:Roboto;
