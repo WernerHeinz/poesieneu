@@ -9,8 +9,8 @@ justify-content:flex-start;
 align-items:center;
 
 max-width:690px;
-padding:20px;
-
+padding:0 1% 0 1%;
+width:98%;
 max-height:900px;
  margin:4vh auto 2vh auto;
 padding-bottom:30px;
