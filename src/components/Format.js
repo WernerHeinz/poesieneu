@@ -136,15 +136,13 @@ overflow-y: scroll;
 }
 `
 export const Listen = styled.div`
- display:flex;
- flex-direction:column;
- justify-content:center;
- align-items:center;
- height:89%;
+
+width:98%;
 padding:0 1% 1% 1%;
  width:98%;
-max-height:900px;
- margin:4vh auto 2vh auto;
+max-width:690px;
+
+ margin:10px auto 2vh auto;
 padding-bottom:30px;
  overflow-y:scroll;
  -webkit-overflow-scrolling: touch;
@@ -154,10 +152,7 @@ padding-bottom:30px;
     width: 0px;
     background: transparent;
 }
-@media only screen and (orientation:landscape) and (max-width:700px){
-   height:50vh;
- 
-}
+
  
 `
 export const Liste = styled.div`
