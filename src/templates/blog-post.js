@@ -33,6 +33,9 @@ hr {
  width:100%;
  border-bottom:1px black solid;
 }
+li {
+  list-style-type:square;
+}
 `
 
 export default function Template({ data,location }) {
