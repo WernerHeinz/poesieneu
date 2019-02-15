@@ -10,6 +10,7 @@ import { Helmet } from "react-helmet"
 // justify-content: flex-start;
 // align-items: flex-start;
 // padding:0 20px 20px 20px;  
+
 // height:82vh;
 // margin: 1vh auto 2vh auto;
 // max-width:690px;
@@ -42,6 +43,7 @@ import { Helmet } from "react-helmet"
 // `
 const Post = styled.div`
   padding:20px;
+  margin-bottom:30px;
   overflow-y: scroll;
 -webkit-overflow-scrolling: touch;
 h1 {
