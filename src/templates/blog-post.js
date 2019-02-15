@@ -43,7 +43,7 @@ import { Helmet } from "react-helmet"
 // `
 const Post = styled.div`
   padding:20px;
-  margin-bottom:30px;
+  margin-bottom:50px;
   overflow-y: scroll;
 -webkit-overflow-scrolling: touch;
 h1 {
