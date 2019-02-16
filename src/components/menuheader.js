@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import { FaAlignJustify} from 'react-icons/fa'
 const Menu = styled.div`
   position:fixed;
-  z-index:5000;
+  z-index:25000;
   top:30px;
   right:4%;
   padding:1px;
