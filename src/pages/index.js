@@ -12,14 +12,14 @@ class Menu extends React.Component{
   }
 
   UNSAFE_componentWillMount(){
-      //let wert = ls.get('DSchutz')
-       let wert = sessionStorage.getItem('DSchutz')
+      let wert = ls.get('DSchutz')
+      // let wert = sessionStorage.getItem('DSchutz')
       if(wert) this.setState({dflag:true})
   }
   toggleDflag = (e) => {
       e.preventDefault()
-      //ls.set('DSchutz',true)
-    sessionStorage.setItem('DSchutz',true)
+      ls.set('DSchutz',true)
+    //sessionStorage.setItem('DSchutz',true)
       this.setState({dflag:true})
 
       return 0;
@@ -31,8 +31,8 @@ class Menu extends React.Component{
 
   render(){
 
-    //let dflag = ls.get("DSchutz")
-    let dflag = sessionStorage.getItem("DSchutz")
+    let dflag = ls.get("DSchutz")
+    //let dflag = sessionStorage.getItem("DSchutz")
 
        return dflag ? (
        <Layout>
