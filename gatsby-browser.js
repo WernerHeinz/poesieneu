@@ -5,4 +5,10 @@
  */
 
 // You can delete this file if you're not using it
+import ls from 'local-storage'
 import "./src/styles/global.css"
+
+export const onInitialClientRender = () => {
+    
+    ls.set("DSchutz",false)
+  }
