@@ -144,8 +144,7 @@ max-width:690px;
 
  margin:10px auto 2vh auto;
 padding-bottom:30px;
- overflow-y:scroll;
- -webkit-overflow-scrolling: touch;
+
  font-family:Roboto;
  font-weight:100;
 ::-webkit-scrollbar {
