@@ -11,6 +11,10 @@ import Menuheader from '../components/menuheader'
 
 const StartWrap = styled.div`
 
+display:flex;
+flex-direction:column;
+justify-content:flex-start;
+
   background:rgba(255,255,255,.78);
   height:100vh;
  margin:0 auto 0 auto;
