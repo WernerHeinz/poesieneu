@@ -44,8 +44,7 @@ import { Helmet } from "react-helmet"
 const Post = styled.div`
   padding:20px;
   margin-bottom:50px;
-  overflow-y: scroll;
--webkit-overflow-scrolling: touch;
+  
 h1 {
   font-size:1.3rem;
   padding:0;
