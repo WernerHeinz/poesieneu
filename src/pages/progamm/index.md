@@ -49,7 +49,9 @@ Fr. 16.8.  Günderodehaus Oberwesel
  
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
 ## Schubert. DIE SCHÖNE MÜLLERIN.   
-Friedrich Bastian (Bariton) & Henriette Meyer-Ravenstein (Alt) & Instrumentalisten        
+Friedrich Bastian (Bariton)   
+Henriette Meyer-Ravenstein (Alt)   
+& Instrumentalisten        
 
 Fr. 23.8. in Lorch 
 Do. 29.8. in Bacharach 
@@ -63,13 +65,6 @@ Sa.24 & So. 25 August in Oberwesel
 
  ----   
 
-## BACHARACH FÜR TODESSEHNSÜCHTIGE      
-## Georg Büchner LENZ & Franz Schubert DIE SCHÖNE MÜLLERIN   
-Theater Willy Praml    
-
-Fr. 30. & Sa 31.8. in Bacharach    
-
-----   
 
 
 ## BACCHANALE.   
@@ -85,8 +80,7 @@ So. 1. 9. in Bacharach
  
  ![Bild](/fse1.png) 
  
- ![Bild](/lenz1.png)
- 
+
  ![Bild](/e.t.a.jpg)
  
  ![Bild](/guend.jpg)
