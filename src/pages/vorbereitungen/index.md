@@ -10,5 +10,7 @@ published: true
 
 # 10. AUGUST - 1. SEPTEMBER 2019        
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER 
-# mit Heinrich Heine & Karoline von Günderode & E.T.A.Hoffmann & Heinrich v. Kleist     
+mit Heinrich Heine & Karoline von Günderode     
+& E.T.A.Hoffmann & Franz Schubert     
+& Heinrich v. Kleist     
 # im Welterbe Oberes Mittelrheintal
