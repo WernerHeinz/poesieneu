@@ -9,5 +9,6 @@ published: true
 
 
 # 10. AUGUST - 1. SEPTEMBER 2019        
-# THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER   
+# THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER 
+# heine & günderode & e.t.a. hoffmann & schubert & kleist
 # im Welterbe Oberes Mittelrheintal
