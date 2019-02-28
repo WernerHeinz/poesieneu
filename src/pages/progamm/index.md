@@ -14,7 +14,7 @@ Die Stücke stehen fest - Einige Spielstätten  werden  noch vor Ort geprüft.*
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
 
-Sa 10. / Sa.17. & So. 18. August in Bacharach  
+Sa 10. / Sa.17. & So. 18.August in Bacharach  
 
 
 -----     
@@ -23,7 +23,7 @@ Sa 10. / Sa.17. & So. 18. August in Bacharach
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11.8.  Matinee im Günderode-Filmhaus Oberwesel    
+So 11.August  Matinee im Günderode-Filmhaus Oberwesel    
 
 -----     
 
@@ -32,7 +32,7 @@ So 11.8.  Matinee im Günderode-Filmhaus Oberwesel
 ## E.T.A. Hoffmann DER GOLDENE TOPF
 Michael Quast und Bruno Kliegl (Glasharmonika)   
 Fliegende Volksbühne Frankfurt 
-So. 11. 8. im Hilchenhaus in Lorch   
+So. 11.August im Hilchenhaus in Lorch   
 
 ----
 
@@ -40,7 +40,7 @@ So. 11. 8. im Hilchenhaus in Lorch
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 ## Christa Wolf KEIN ORT. NIRGENDS   
 
-Fr. 16.August und Sa.24 August im Jugendheim in Oberwesel   
+Fr. 16.August und Sa. 24.August im Jugendheim in Oberwesel   
 
 ----    
  
@@ -50,8 +50,8 @@ Friedrich Bastian (Bariton)
 Henriette Meyer-Ravenstein (Mezzosopran)   
 & Instrumentalisten        
 
-Fr. 23.8. in Lorch 
-Do. 29.8. in Bacharach 
+Fr. 23.August in Lorch 
+Do. 29.August in Bacharach 
 
 ----    
 
@@ -62,23 +62,23 @@ Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)
 Birgit Heuser (Theater Willy Praml)    
 Heinrich Heine Chor Frankfurt   
 
-So. 25.8.  Matinee im Günderode-Filmhaus Oberwesel  
+So. 25.August  Matinee im Günderode-Filmhaus Oberwesel  
    
 -----
 
 ## Bacharach für Todessehnsüchtige
 ## Büchner Schubert LENZ    
 Theater Willy Paml    
-Fr.30. und Sa. 31. August  VIA-Halle Bacharach    
+Fr.30. und Sa. 31.August  VIA-Halle Bacharach    
 
 ----
 
 ## BACCHANALE.   
 ## TRUNKENES FEST ZUM NÜCHTERNWERDEN    
-Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region   
+Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 
-So. 1. 9. in der Oberstraße in Bacharach   
+So. 1.September in der Oberstraße in Bacharach   
 
 ----    
  
