@@ -4,9 +4,9 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
-* Unsere Programmpanung ist jetzt komplett 
-* Details zu Datum, Uhrzeit und Preisen siehe "Termine"   
+Unsere Programmpanung ist jetzt komplett - Details zu Datum, Uhrzeit und Preisen siehe "Termine"     
 
+---   
 
 
 ## DER RABBI VON BACHERACH. HEINE.   
