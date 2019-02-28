@@ -14,7 +14,8 @@ Die Stücke stehen fest - Einige Spielstätten  werden  noch vor Ort geprüft.*
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
 
-Sa 10. August / Sa.17. & So. 18. August in Bacharach  
+Sa 10. August / Sa.17. & So. 18. August   
+in Bacharach  
 
 
 -----     
@@ -23,7 +24,8 @@ Sa 10. August / Sa.17. & So. 18. August in Bacharach
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11. August  Matinee im Günderode-Filmhaus Oberwesel    
+So 11. August   
+Matinee im Günderode-Filmhaus Oberwesel    
 
 -----     
 
@@ -31,7 +33,7 @@ So 11. August  Matinee im Günderode-Filmhaus Oberwesel
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
 ## E.T.A. Hoffmann DER GOLDENE TOPF
 Michael Quast und Bruno Kliegl (Glasharmonika)   
-Fliegende Volksbühne Frankfurt 
+Fliegende Volksbühne Frankfurt   
 So. 11. August im Hilchenhaus in Lorch   
 
 ----
@@ -40,7 +42,8 @@ So. 11. August im Hilchenhaus in Lorch
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 ## Christa Wolf KEIN ORT. NIRGENDS   
 
-Fr. 16. August und Sa. 24.August im Jugendheim in Oberwesel   
+Fr. 16. August und Sa. 24.August   
+im Jugendheim in Oberwesel   
 
 ----    
  
@@ -62,14 +65,16 @@ Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)
 Birgit Heuser (Theater Willy Praml)    
 Heinrich Heine Chor Frankfurt   
 
-So. 25. August  Matinee im Günderode-Filmhaus Oberwesel  
+So. 25. August   
+Matinee im Günderode-Filmhaus Oberwesel  
    
 -----
 
 ## Bacharach für Todessehnsüchtige
 ## Büchner Schubert LENZ    
 Theater Willy Paml    
-Fr.30. und Sa. 31. August  VIA-Halle Bacharach    
+Fr.30. und Sa. 31. August   
+VIA-Halle Bacharach    
 
 ----
 
@@ -78,7 +83,8 @@ Fr.30. und Sa. 31. August  VIA-Halle Bacharach
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 
-So. 1.September in der Oberstraße in Bacharach   
+So. 1.September   
+in der Oberstraße in Bacharach   
 
 ----    
  
