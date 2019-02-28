@@ -4,8 +4,9 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
-* Unsere Programmpanung ist jetzt fast komplett 
-Die Stücke stehen fest - Einige Spielstätten  werden  noch vor Ort geprüft.*   
+*Unsere Programmpanung ist jetzt fast komplett 
+Die Stücke stehen fest    
+*Einige Spielstätten  werden  noch vor Ort geprüft.  
 * Genaueres über Datum, Uhrzeit und Preise siehe "Termine"*   
 
 
@@ -15,7 +16,7 @@ Die Stücke stehen fest - Einige Spielstätten  werden  noch vor Ort geprüft.*
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. August / Sa.17. & So. 18. August   
-in Bacharach  
+Bacharach Wernerkapelle und weitere Spielstätten 
 
 
 -----     
@@ -24,8 +25,8 @@ in Bacharach
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11. August   
-Matinee im Günderode-Filmhaus Oberwesel    
+So 11. August Matinee   
+im Günderode-Filmhaus Oberwesel    
 
 -----     
 
@@ -34,7 +35,8 @@ Matinee im Günderode-Filmhaus Oberwesel
 ## E.T.A. Hoffmann DER GOLDENE TOPF
 Michael Quast und Bruno Kliegl (Glasharmonika)   
 Fliegende Volksbühne Frankfurt   
-So. 11. August im Hilchenhaus in Lorch   
+So. 11. August   
+im Hilchenhaus in Lorch   
 
 ----
 
@@ -65,8 +67,8 @@ Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)
 Birgit Heuser (Theater Willy Praml)    
 Heinrich Heine Chor Frankfurt   
 
-So. 25. August   
-Matinee im Günderode-Filmhaus Oberwesel  
+So. 25. August  Matinee   
+im Günderode-Filmhaus Oberwesel  
    
 -----
 
