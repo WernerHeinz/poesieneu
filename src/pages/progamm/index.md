@@ -4,9 +4,9 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
-*Bitte beachten: Unsere Programmpanung ist noch "under construction".   
-Die Stücke stehen fest - die Termine und Räume werden derzeit noch vor Ort geprüft.*   
-*Bereits gültige Vorstellungstermine finden Sie unter "Termine"*   
+* Unsere Programmpanung ist jetzt fast komplett 
+Die Stücke stehen fest - Einige Spielstätten  werden  noch vor Ort geprüft.*   
+*Genaueres über Datum, Uhrzeit und Preise siehe "Termine"*   
 
 
 
@@ -23,7 +23,7 @@ Sa 10. / Sa.17. & So. 18. August in Bacharach
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11.8.  Matinee im Günderoderhaus Oberwesel    
+So 11.8.  Matinee im Günderode-Filmhaus Oberwesel    
 
 -----     
 
@@ -31,23 +31,23 @@ So 11.8.  Matinee im Günderoderhaus Oberwesel
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
 ## E.T.A. Hoffmann DER GOLDENE TOPF
 Michael Quast und Bruno Kliegl (Glasharmonika)   
-Fliegende Volksbühne Frankfurt   
+Fliegende Volksbühne Frankfurt 
+So. 11. 8. im Hilchenhaus in Lorch   
 
 ----
 
-So. 11. 8. in Lorch   
 
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 ## Christa Wolf KEIN ORT. NIRGENDS   
 
-Fr. 16.August und Sa.24 August in Oberwesel   
+Fr. 16.August und Sa.24 August im Jugendheim in Oberwesel   
 
 ----    
  
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
 ## Schubert. DIE SCHÖNE MÜLLERIN.   
 Friedrich Bastian (Bariton)   
-Henriette Meyer-Ravenstein (Alt)   
+Henriette Meyer-Ravenstein (Mezzosopran)   
 & Instrumentalisten        
 
 Fr. 23.8. in Lorch 
