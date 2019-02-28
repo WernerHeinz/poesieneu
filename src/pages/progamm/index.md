@@ -4,10 +4,8 @@ date: '2017-11-07'
 title: Vorläufige Programmplanung
 published: true
 ---
-*Unsere Programmpanung ist jetzt fast komplett 
-Die Stücke stehen fest    
-*Einige Spielstätten  werden  noch vor Ort geprüft.  
-* Genaueres über Datum, Uhrzeit und Preise siehe "Termine"*   
+* Unsere Programmpanung ist jetzt komplett 
+* Details zu Datum, Uhrzeit und Preisen siehe "Termine"   
 
 
 
@@ -15,7 +13,7 @@ Die Stücke stehen fest
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
 
-Sa 10. August / Sa.17. & So. 18. August   
+Sa 10. August / Sa. 17. & So. 18. August   
 Bacharach Wernerkapelle und weitere Spielstätten 
 
 
@@ -75,7 +73,7 @@ im Günderode-Filmhaus Oberwesel
 ## Bacharach für Todessehnsüchtige
 ## Büchner Schubert LENZ    
 Theater Willy Paml    
-Fr.30. und Sa. 31. August   
+Fr. 30. und Sa. 31. August   
 VIA-Halle Bacharach    
 
 ----
