@@ -33,19 +33,16 @@ So 11.8.  Matinee im Günderoderhaus Oberwesel
 Michael Quast und Bruno Kliegl (Glasharmonika)   
 Fliegende Volksbühne Frankfurt   
 
+----
+
 So. 11. 8. in Lorch   
 
+## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
+## Christa Wolf KEIN ORT. NIRGENDS   
+
+Fr. 16.August und Sa.24 August in Oberwesel   
+
 ----    
-
-## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
-## HOCHROTH! DIE GÜNDERRODE   
-Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)     
-Birgit Heuser (Theater Willy Praml)    
-Heinrich Heine Chor Frankfurt   
-
-Fr. 16.8.  Günderodehaus Oberwesel  
-   
------
  
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
 ## Schubert. DIE SCHÖNE MÜLLERIN.   
@@ -58,21 +55,30 @@ Do. 29.8. in Bacharach
 
 ----    
 
-## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
-## Christa Wolf KEIN ORT. NIRGENDS   
 
-Sa.24 & So. 25 August in Oberwesel   
+## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
+## HOCHROTH! DIE GÜNDERRODE   
+Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)     
+Birgit Heuser (Theater Willy Praml)    
+Heinrich Heine Chor Frankfurt   
 
- ----   
+So. 25.8.  Matinee im Günderode-Filmhaus Oberwesel  
+   
+-----
 
+## Bacharach für Todessehnsüchtige
+## Büchner Schubert LENZ    
+Theater Willy Paml    
+Fr.30. und Sa. 31. August  VIA-Halle Bacharach    
 
+----
 
 ## BACCHANALE.   
-## TRUNKENES ABSCHLUSSFEST    
-Dichter & Schauspieler & Solisten & Chöre & Musikkapellen aus der Region   
-in Höfen und Straßen und auf Plätzen in Bacharach    
+## TRUNKENES FEST ZUM NÜCHTERNWERDEN    
+Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region   
+in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 
-So. 1. 9. in Bacharach   
+So. 1. 9. in der Oberstraße in Bacharach   
 
 ----    
  
