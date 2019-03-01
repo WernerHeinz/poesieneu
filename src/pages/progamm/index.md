@@ -14,7 +14,8 @@ Unsere Programmpanung ist jetzt komplett - Details zu Datum, Uhrzeit und Preisen
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. August / Sa. 17. & So. 18. August   
-Bacharach Wernerkapelle und weitere Spielstätten   
+Bacharach Wernerkapelle und weitere Spielstätten    
+
 Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischen Rang, dem Romantiker und Gegner der Romantik in einem, im Gepäck machen wir uns auf den Weg, das mittelalterliche Städtchen Bacharach wandernd zu erforschen. Heines Erzählung DER RABBI VON BACHARACH ist der rote Faden unseres theatralen Parcours und wird flankiert von weiteren Texten und Textfragmenten, die um das Leben eines überzeugten Europäers erster Stunde kreisen.    
 
 
@@ -55,7 +56,8 @@ Henriette Meyer-Ravenstein (Mezzosopran)
 & Instrumentalisten        
 
 Fr. 23. August in Lorch 
-Do. 29. August in Bacharach 
+Do. 29. August in Bacharach    
+
 Kennen Sie die Orte im linksrheinischen Bacharach oder in Lorch, dem gegenüberliegenden, rechtsrheinischen Städtchen, wo es sich am besten sterben lässt?   
 Friedrich Bastian (Bariton und Winzer) und Henrielle Meyer – Ravenstein (Alt) führen Sie mit dem  berühmten Liederzyklus von Franz Schubert an diese Ihre Lieblingssterbeorte.
 Begleitet werden die beiden von verschiedenen Instrumentalisten und von den Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, der einzigen Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
@@ -93,10 +95,9 @@ Grandios auch die Kulisse für diese Inszenierung: die ehemalige Sektkellerei Ge
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 
-So. 1.September   
-in der Oberstraße in Bacharach   
-Und zum Schluss das Ende!    
-Natürlich ein Fest – aber ein außergewöhnliches.   
+So. 1.September  in der Oberstraße in Bacharach    
+
+Und zum Schluss das Ende! Natürlich ein Fest – aber ein außergewöhnliches.   
 Spazieren Sie, kulinarisch versorgt, durch Bacharachs „Obergasse“.    
 Hier begegnen Ihnen echte und gefälschte Mittelrheintaler in Höfen, Schaufenstern, Wohnzimmern, Imbißbuden, Friseurläden oder auf Tischen einfach auf der Gass´ –    
 erzählen Ihnen Lebensgeschichten, schwärmen und fluchen über das Leben am Rhein –     
@@ -112,7 +113,7 @@ An allen Ecken und Enden.
  
  ![Bild](/fse1.png) 
  
-
+ ![Bild](/lenz.png)
  ![Bild](/e.t.a.jpg)
  
  ![Bild](/guend.jpg)
