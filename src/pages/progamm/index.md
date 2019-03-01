@@ -14,7 +14,8 @@ Unsere Programmpanung ist jetzt komplett - Details zu Datum, Uhrzeit und Preisen
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. August / Sa. 17. & So. 18. August   
-Bacharach Wernerkapelle und weitere Spielstätten 
+Bacharach Wernerkapelle und weitere Spielstätten   
+Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischen Rang, dem Romantiker und Gegner der Romantik in einem, im Gepäck machen wir uns auf den Weg, das mittelalterliche Städtchen Bacharach wandernd zu erforschen. Heines Erzählung DER RABBI VON BACHARACH ist der rote Faden unseres theatralen Parcours und wird flankiert von weiteren Texten und Textfragmenten, die um das Leben eines überzeugten Europäers erster Stunde kreisen.    
 
 
 -----     
@@ -55,6 +56,10 @@ Henriette Meyer-Ravenstein (Mezzosopran)
 
 Fr. 23. August in Lorch 
 Do. 29. August in Bacharach 
+Kennen Sie die Orte im linksrheinischen Bacharach oder in Lorch, dem gegenüberliegenden, rechtsrheinischen Städtchen, wo es sich am besten sterben lässt?   
+Friedrich Bastian (Bariton und Winzer) und Henrielle Meyer – Ravenstein (Alt) führen Sie mit dem  berühmten Liederzyklus von Franz Schubert an diese Ihre Lieblingssterbeorte.
+Begleitet werden die beiden von verschiedenen Instrumentalisten und von den Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, der einzigen Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
+
 
 ----    
 
@@ -76,6 +81,11 @@ Theater Willy Paml
 Fr. 30. und Sa. 31. August   
 VIA-Halle Bacharach    
 
+BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben von einem Heimatlosen – unbehaust in der Welt und im eigenen Leib, von einem, der mit offenen Wunden in der Welt herumirrt.    
+SCHUBERT hat in seinem berühmten Liederzyklus DIE SCHÖNE MÜLLERIN einen ähnlichen Seelenzustand beschrieben: Die Stimme des verzweifelt wandernden Müllergesellen, der die Liebe sucht, und den Tod findet.    
+Die Verbindung der Musik Schuberts, in der Neubearbeitung des italienischen Komponisten Alberto Mompellio, klingt wie ein Echo der Sprachgewalten des Büchnerschen LENZ.    
+Grandios auch die Kulisse für diese Inszenierung: die ehemalige Sektkellerei Geiling, von der aus die Firma VIA heute die Welt mit erlesenen Fliesen  beliefert.    
+
 ----
 
 ## BACCHANALE.   
@@ -85,6 +95,16 @@ in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Ga
 
 So. 1.September   
 in der Oberstraße in Bacharach   
+Und zum Schluss das Ende!    
+Natürlich ein Fest – aber ein außergewöhnliches.   
+Spazieren Sie, kulinarisch versorgt, durch Bacharachs „Obergasse“.    
+Hier begegnen Ihnen echte und gefälschte Mittelrheintaler in Höfen, Schaufenstern, Wohnzimmern, Imbißbuden, Friseurläden oder auf Tischen einfach auf der Gass´ –    
+erzählen Ihnen Lebensgeschichten, schwärmen und fluchen über das Leben am Rhein –     
+singen im Chor oder allein –    
+lesen, tanzen, stellen Kunstwerke aus –     
+blasen Blech –    
+stoßen mit Ihnen an.     
+An allen Ecken und Enden.      
 
 ----    
  
