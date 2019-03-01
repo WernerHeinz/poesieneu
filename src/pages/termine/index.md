@@ -10,7 +10,7 @@ published: true
 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
 **Theatraler Parcours mit dem Theater Willy Praml**   
-Start in der Wernerkapelle    
+*Start in der Wernerkapelle*    
 
 
 ---   
@@ -20,7 +20,7 @@ Start in der Wernerkapelle
 12:00 Uhr bis ca. 14:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH       
 ## Podium für Welterbe-Pioniere    
-Günderode-Filmhaus Oberwesel 
+*Günderode-Filmhaus Oberwesel* 
 
 
    
@@ -41,7 +41,7 @@ Hilchenhaus  Lorch am Rhein
 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
 **Theatraler Parcours mit dem Theater Willy Praml**   
- Start in der Wernerkapelle  Bacharach      
+ *Start in der Wernerkapelle  Bacharach*      
    
  ---   
  
@@ -50,7 +50,7 @@ Hilchenhaus  Lorch am Rhein
 ## Christa Wolf  KEIN ORT.NIRGENDS.
 **Oberwesel für Selbstmordkandidaten**    
 Freies Schauspiel Ensemble Frankfurt    
-Jugendheim Oberwesel   
+*Jugendheim Oberwesel*   
     
  ---   
  
@@ -61,7 +61,7 @@ Jugendheim Oberwesel
 Friedrich Bastian (Bariton)     
 Henriette Meyer-Ravenstein (Mezzosopran)      
 & Instrumentalisten    
-
+*Startpunkt folgt moch*
 
 ---
 # 24. August  Oberwesel
@@ -69,7 +69,7 @@ Henriette Meyer-Ravenstein (Mezzosopran)
 ## Christa Wolf  KEIN ORT.NIRGENDS.      
 **Oberwesel für Selbstmordkandidaten**   
 Freies Schauspiel Ensemble Frankfurt    
-Jugendheim Oberwesel   
+*Jugendheim Oberwesel*   
     
 ---   
 
@@ -80,7 +80,7 @@ Jugendheim Oberwesel
 Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)    
 Birgit Heuser (Theater Willy Praml    
 Heinrich Heine Chor Frankfurt   
-Günderode-Filmhaus Oberwesel    
+*Günderode-Filmhaus Oberwesel*    
 ---   
 
 # 29. August  Bacharach
@@ -90,7 +90,7 @@ Günderode-Filmhaus Oberwesel
 Friedrich Bastian (Bariton)       
 Henriette Meyer-Ravenstein (Mezzosopran)     
 & Instrumentalisten     
-Start im Gasthof des Grünen Baum. Bacharach  
+*Start im Gasthof des Grünen Baum. Bacharach*  
 
 ---   
 
@@ -99,7 +99,7 @@ Start im Gasthof des Grünen Baum. Bacharach
 ## LENZ.  Georg Büchner &  SCHÖNE MÜLLERIN. Franz Schubert    
 **Bacharach für Todessehnsüchtige**    
 Theater Willy Praml    
-VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach 
+*VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach* 
 
 ---   
 
