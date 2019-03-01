@@ -16,99 +16,99 @@ Theatraler Parcours mit dem Theater Willy Praml
 ---   
 
 
-# 11. August 
+# 11. August Oberwesel
 12:00 Uhr bis ca. 14:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH   
 ## Podium für Welterbe-Pioniere
-# Oberwesel. Günderode-Filmhaus    
+- Günderode-Filmhaus Oberwesel 
+
 
    
 ---   
 
 
-# 11. August 
+# 11. August   Lorch am Rhein 
 19:30 Uhr bis ca. 21:30 Uhr
-## Lorch für weltüberdrüssige Phantasten
-## E.T.A. Hoffmann   DER GOLDENE TOPF
-**Michael Quast und Bruno Kliegl (Glasharmonika)**
-# Lorch am Rhein. Hilchenhaus   
+## E.T.A. Hoffmann   DER GOLDENE TOPF   
+*Lorch für weltüberdrüssige Phantasten*
+Michael Quast und Bruno Kliegl (Glasharmonika)
+- Hilchenhaus  Lorch am Rhein  
 
     
 ---   
 
-# 17. August / 18. August  
-jeweils 15:30 Uhr bis ca. 20:00 Uhr   
-## DER RABBI VON BACHERACH.HEINE
-## Stationen eines Traumas    
-**Theatraler Parcours mit dem Theater Willy Praml**  
-# Bacharach. Start in der Wernerkapelle      
+# 17. August / 18. August  Bacharach
+15:30 Uhr bis ca. 20:00 Uhr   
+## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas   
+Theatraler Parcours mit dem Theater Willy Praml 
+ - Start in der Wernerkapelle  Bacharach    
    
  ---   
  
- # 16. August
+ # 16. August  Oberwesel
 19:30 Uhr bis ca. 21:00 Uhr
-## Oberwesel für Selbstmordkandidaten
 ## Christa Wolf  KEIN ORT.NIRGENDS.
-**Freies Schauspiel Ensemble Frankfurt**
-# Oberwesel. Jugendheim    
+**Oberwesel für Selbstmordkandidaten**
+Freies Schauspiel Ensemble Frankfurt
+- Jugendheim Oberwesel   
     
  ---   
  
-# 23. August
+# 23. August  Lorch am Rhein
 19:00 Uhr bis ca. 20:45 Uhr
-## Stadtführung für lebensmüde Musikliebhaber
-## Franz Schubert  DIE SCHÖNE MÜLLERIN
-**Friedrich Bastian (Bariton)**      
-**Henriette Meyer-Ravenstein (Mezzosopran)**   
-**& Instrumentalisten**   
-# Lorch am Rhein
+## Franz Schubert  DIE SCHÖNE MÜLLERIN   
+**Stadtführung für lebensmüde Musikliebhaber**
+Friedrich Bastian (Bariton)     
+Henriette Meyer-Ravenstein (Mezzosopran)  
+& Instrumentalisten 
+
 
 ---
-# 24. August
+# 24. August  Oberwesel
 19:30 Uhr bis ca. 21:00 Uhr
-## Oberwesel für Selbstmordkandidaten
-## Christa Wolf  KEIN ORT.NIRGENDS.
-**Freies Schauspiel Ensemble Frankfurt**
-# Oberwesel. Jugendheim    
+## Christa Wolf  KEIN ORT.NIRGENDS.   
+**Oberwesel für Selbstmordkandidaten**
+Freies Schauspiel Ensemble Frankfurt
+- Jugendheim Oberwesel   
     
 ---   
 
-# 25. August
+# 25. August  Oberwesel
 12:00 Uhr bis 14:00 Uhr
 ## Oberwesel für Frauen am Rande des Nervenzusammenbruchs
 ## HOCHROTH!  DIE GÜNDERODE
-**Bettina Kamniski (Freies Schauspiel Ensemble Frankfurt)**
-**Birgit Heuser (Theater Willy Praml**
-**Heinrich Heine Chor Frankfurt**    
-
+Bettina Kamniski (Freies Schauspiel Ensemble Frankfurt)
+Birgit Heuser (Theater Willy Praml
+Heinrich Heine Chor Frankfurt  
+- Günderode-Filmhaus Oberwesel 
 ---   
 
-# 29. August
+# 29. August  Bacharach
 19:00 Uhr bis ca. 20:45 Uhr
-## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER
-## Franz Schubert  DIE SCHÖNE MÜLLERIN
-**Fridrich Bastian (Bariton)      
-**Henriette Meyer-Ravenstein (Mezzosopran)   
-**& Instrumentalisten   
-# Bacharach
+## Franz Schubert  DIE SCHÖNE MÜLLERIN   
+**Stadtführung für lebensmüde Musikliebhaber**
+Friedrich Bastian (Bariton)      
+Henriette Meyer-Ravenstein (Mezzosopran)   
+& Instrumentalisten   
+- Start im Gasthof des Grünen Baum. Bacharach
 
 ---   
 
-# 30. August / 31. August
+# 30. August / 31. August  Bacharach
 19:00 Uhr bis 21:00 Uhr
-## Bacharach für Todessehnsüchtige
 ## LENZ.  Georg Büchner &  SCHÖNE MÜLLERIN. Franz Schubert
-**Theater Willy Praml**
-# Bacharach. VIA-Halle in der ehem. Sektkellerei Geiling   
+**Bacharach für Todessehnsüchtige**
+Theater Willy Praml
+- VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach 
 
 ---   
 
-# 1. September
+# 1. September  Bacharach
 16:00 Uhr bis 20:00 Uhr
 ## BACCHANALE
-## Ein trunkenes Fest zum Nüchternwerden   
+**Ein trunkenes Fest zum Nüchternwerden**   
 **mit echten und gefälschten Mittelrheintalern** 
-# Bacharach. Oberstraße mit Schlussakkord im Rathaushof   
+# Oberstraße mit Schlussakkord im Rathaushof Bacharach  
 
 ---   
 
