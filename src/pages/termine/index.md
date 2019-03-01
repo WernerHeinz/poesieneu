@@ -108,12 +108,12 @@ VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach
 ## BACCHANALE   
 **Ein trunkenes Fest zum Nüchternwerden**       
 **mit echten und gefälschten Mittelrheintalern**    
-# Oberstraße mit Schlussakkord im Rathaushof Bacharach     
+*Oberstraße mit Schlussakkord im Rathaushof Bacharach*     
 
 ---   
 
 
-***Vorverkauf ab April***    
+# ***Vorverkauf ab April***    
 Eintritt "Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 17€ / erm. 10€    
 Ermäßigungen: Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis   
