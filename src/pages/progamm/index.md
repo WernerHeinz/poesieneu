@@ -28,8 +28,10 @@ Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischen Rang,
 So 11. August Matinee   
 im Günderode-Filmhaus Oberwesel    
 
-Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen sie von Ostern bis Oktober in und durch das romantische Mittelrheintal: Reisende ins geträumte Gestern der Burgen und Türmchen und Mäuerchen und Weinbergidyllen – beschallt vom Soundtrack mit dem Lied vom Märchen aus uralten Zeiten…  Aber die Leere und Tristesse der verödeten Schaufenster in so vielen Straßen, der aufgegebenen und sichtlich verarmten Häuserzeilen an den Verkehrsadern des Tales, der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge und die Flucht der Jungen hinein in die an- und aufregende Gegenwart der Städte...    
+Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen sie von Ostern bis Oktober in und durch das romantische Mittelrheintal: Reisende ins geträumte Gestern der Burgen und Türmchen und Mäuerchen und Weinbergidyllen – beschallt vom Soundtrack mit dem Lied vom Märchen aus uralten Zeiten…  Aber die Leere und Tristesse der verödeten Schaufenster in so vielen Straßen! Die aufgegebenen und verarmten Häuserzeilen an den Verkehrsadern des Tales! Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge und die Flucht der Jungen hinein in die an- und aufregende Gegenwart der Städte! ...    
+
 „Halt!“ ruft der Manager: „so kann man keine Podiumsdiskussion ausschreiben! Die Rheinromantik ist der Markenkern der Tourismuswerbung“.  „Nein, die Romantik war schon immer eine Flucht aus der kalten Gegenwart in ein geträumtes Mittelalter“ entlarvt der kritische Germanistik-Student die Eichendorffs und Brentanos.     
+
 Was nun? Wie müsste eine Kulturinitiative aussehen, die hilfreich wäre zur Selbstbeschreibung der Region und ihrer Gestaltung als lebenswerte Heimat?
 -----     
 
