@@ -1,10 +1,10 @@
 ---
 path: /programm/
 date: '2017-11-07'
-title: Vorläufige Programmplanung
+title: Infos zum Programm
 published: true
 ---
-Unsere Programmplanung ist jetzt komplett - Details zu Datum, Uhrzeit und Preisen siehe "Termine"     
+Unsere Programmplanung ist jetzt komplett -  Datum, Uhrzeiten und Preise siehe "Termine"     
 
 ---   
 
