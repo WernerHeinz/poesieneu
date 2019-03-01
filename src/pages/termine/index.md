@@ -10,7 +10,7 @@ published: true
 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
 **Theatraler Parcours mit dem Theater Willy Praml**   
- - Start in der Wernerkapelle    
+Start in der Wernerkapelle    
 
 
 ---   
@@ -20,7 +20,7 @@ published: true
 12:00 Uhr bis ca. 14:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH       
 ## Podium für Welterbe-Pioniere    
-- Günderode-Filmhaus Oberwesel 
+Günderode-Filmhaus Oberwesel 
 
 
    
@@ -32,7 +32,7 @@ published: true
 ## E.T.A. Hoffmann   DER GOLDENE TOPF      
 **Lorch für weltüberdrüssige Phantasten**    
 Michael Quast und Bruno Kliegl (Glasharmonika)    
-- Hilchenhaus  Lorch am Rhein  
+Hilchenhaus  Lorch am Rhein  
 
     
 ---   
@@ -41,7 +41,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
 **Theatraler Parcours mit dem Theater Willy Praml**   
- - Start in der Wernerkapelle  Bacharach      
+ Start in der Wernerkapelle  Bacharach      
    
  ---   
  
@@ -50,7 +50,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 ## Christa Wolf  KEIN ORT.NIRGENDS.
 **Oberwesel für Selbstmordkandidaten**    
 Freies Schauspiel Ensemble Frankfurt    
-- Jugendheim Oberwesel   
+Jugendheim Oberwesel   
     
  ---   
  
@@ -69,7 +69,7 @@ Henriette Meyer-Ravenstein (Mezzosopran)
 ## Christa Wolf  KEIN ORT.NIRGENDS.      
 **Oberwesel für Selbstmordkandidaten**   
 Freies Schauspiel Ensemble Frankfurt    
-- Jugendheim Oberwesel   
+Jugendheim Oberwesel   
     
 ---   
 
@@ -77,10 +77,10 @@ Freies Schauspiel Ensemble Frankfurt
 12:00 Uhr bis 14:00 Uhr
 ## HOCHROTH!  DIE GÜNDERODE   
 **Oberwesel für Frauen am Rande des Nervenzusammenbruchs**    
-Bettina Kamniski (Freies Schauspiel Ensemble Frankfurt)    
+Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)    
 Birgit Heuser (Theater Willy Praml    
 Heinrich Heine Chor Frankfurt   
-- Günderode-Filmhaus Oberwesel    
+Günderode-Filmhaus Oberwesel    
 ---   
 
 # 29. August  Bacharach
@@ -90,7 +90,7 @@ Heinrich Heine Chor Frankfurt
 Friedrich Bastian (Bariton)       
 Henriette Meyer-Ravenstein (Mezzosopran)     
 & Instrumentalisten     
-- Start im Gasthof des Grünen Baum. Bacharach  
+Start im Gasthof des Grünen Baum. Bacharach  
 
 ---   
 
@@ -99,7 +99,7 @@ Henriette Meyer-Ravenstein (Mezzosopran)
 ## LENZ.  Georg Büchner &  SCHÖNE MÜLLERIN. Franz Schubert    
 **Bacharach für Todessehnsüchtige**    
 Theater Willy Praml    
-- VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach 
+VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach 
 
 ---   
 
@@ -113,6 +113,10 @@ Theater Willy Praml
 ---   
 
 
-***Vorverkauf ab April***     
+***Vorverkauf ab April*** 
+Eintritt "Rabbi" = 25€ / erm. 12€      
+alle anderen Vorstellungen = 17€ / erm. 10€    
+Ermäßigungen: Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis   
+Bei gleichzeitiger Buchung von mehreren verschiedenen Vorstellungen: 50% Rabatt ab der 2. Veranstaltung
 
-siehe auch: www.theaterwillypraml.de  
+
