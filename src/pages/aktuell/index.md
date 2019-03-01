@@ -5,7 +5,10 @@ title: Aktuelles
 published: true
 ---
 
-under construction
+# 1.3.19  Das Programm steht endlich
+![Bild](/ghaus1.jpg)
+Die beiden Regie-Teams mit Blick ins Welterbe vom Günderode-Filmhaus Oberwesel    
+Nach einer Rundfahrt der Regie-Teams von Theater Willy Praml und Freies Schauspiel Ensemble zu den Spielstätten des Festival machen wir jetzt einen mKnopf dran: das Programm steht. Jetzt beginnt die Vorbereitung der Öffentlichkeitsarbeit.
 
 
 # Arbeitsgemeinschaft Festival
