@@ -17,7 +17,8 @@ jeweils 15:30 Uhr bis ca. 20:00 Uhr
 ---   
 
 
-# 11. August 12:00 Uhr bis ca. 14:00 Uhr
+# 11. August 
+12:00 Uhr bis ca. 14:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH   
 ## Podium für Welterbe-Pioniere
 # Günderode-Filmhaus Oberwesel   
@@ -26,10 +27,11 @@ jeweils 15:30 Uhr bis ca. 20:00 Uhr
 ---   
 
 
-# 11. August 19:30 Uhr bis ca. 21:30 Uhr
+# 11. August 
+19:30 Uhr bis ca. 21:30 Uhr
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN
 ## E.T.A. HOFFMANN: DER GOLDENE TOPF
-**Michael Quast und Bruno Kliegl (Glasharmonika)
+**Michael Quast und Bruno Kliegl (Glasharmonika)**
 # Lorch am Rhein. Hilchenhaus   
 
 
