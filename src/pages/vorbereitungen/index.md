@@ -10,7 +10,16 @@ published: true
 
 # 10. AUGUST - 1. SEPTEMBER 2019        
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER 
-mit Heinrich Heine & Karoline von Günderode     
-& E.T.A.Hoffmann & Franz Schubert     
-& Heinrich v. Kleist     
+mit Heinrich Heine & Karoline von Günderode & E.T.A.Hoffmann & Franz Schubert & Georg Büchner & Christa Wolf     
 # im Welterbe Oberes Mittelrheintal
+Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Oberwesel oder Lorch –
+staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Canyon –   
+
+und geraten Sie ins Schwärmen und Seufzen über tolle Texte und Lieder, wunderbare theatrale Spaziergänge und Inszenierungen in einer Kulisse, die schon Richard Wagner für die beste aller Bühnenbilder gehalten hat.   
+
+Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchsvolles Programm und möchte Sie verführen, nicht mal nur eine Veranstaltung zu besuchen.   
+Kommen Sie für zwei oder drei Tage.   
+Übernachten Sie am Rhein, wenn Sie nach Heine, E.T.A. Hoffmann, Schubert, Büchner, der Günderrode oder der Christa Wolf - von Auslese, Spätlese oder Kabinett berauscht – keine Lust mehr haben, den Heimweg anzutreten; wenn Sie nicht das Glück haben, sowieso Mittelrheintaler zu sein.   
+
+Unser biennales Festival findet in 2019 nun schon zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinde zu einem beträchtlichen Programm angewachsen.
+Wir wünschen Ihnen und uns großes Vergnügen bei der Entdeckung großer Texte in einer großen Landschaft.
