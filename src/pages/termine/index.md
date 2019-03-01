@@ -8,8 +8,7 @@ published: true
 
 # 10. August   Bacharach   
 15:30 Uhr bis ca. 20:00 Uhr   
-## DER RABBI VON BACHERACH.HEINE   
-*Stationen eines Traumas*   
+## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas   
 Theatraler Parcours mit dem Theater Willy Praml 
  - Start in der Wernerkapelle    
 
