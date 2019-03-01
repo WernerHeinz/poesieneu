@@ -9,7 +9,7 @@ published: true
 # 10. August /  17. August / 18. August  
 jeweils 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH.HEINE
-***Stationen eines Traumas***    
+## Stationen eines Traumas    
 **Theatraler Parcours mit dem Theater Willy Praml**  
 # Bacharach - Start in der Wernerkapelle   
 
@@ -19,7 +19,7 @@ jeweils 15:30 Uhr bis ca. 20:00 Uhr
 
 # 11. August 12:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH   
-**Podium für Welterbe-Pioniere**
+## Podium für Welterbe-Pioniere**
 # Günderode-Filmhaus Oberwesel
 
 
