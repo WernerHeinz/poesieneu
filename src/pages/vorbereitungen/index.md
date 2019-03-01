@@ -17,8 +17,7 @@ staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Ca
 
 und geraten Sie ins Schwärmen und Seufzen über tolle Texte und Lieder, wunderbare theatrale Spaziergänge und Inszenierungen in einer Kulisse, die schon Richard Wagner für die beste aller Bühnenbilder gehalten hat.   
 
-Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchsvolles Programm und möchte Sie verführen, nicht mal nur eine Veranstaltung zu besuchen.   
-Kommen Sie für zwei oder drei Tage.   
+Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchsvolles Programm und möchte Sie verführen, mal nicht  nur eine Veranstaltung zu besuchen: Kommen Sie für zwei oder drei Tage.   
 Übernachten Sie am Rhein, wenn Sie nach Heine, E.T.A. Hoffmann, Schubert, Büchner, der Günderrode oder der Christa Wolf - von Auslese, Spätlese oder Kabinett berauscht – keine Lust mehr haben, den Heimweg anzutreten; wenn Sie nicht das Glück haben, sowieso Mittelrheintaler zu sein.   
 
 Unser biennales Festival findet in 2019 nun schon zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinde zu einem beträchtlichen Programm angewachsen.
