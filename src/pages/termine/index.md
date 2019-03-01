@@ -9,7 +9,7 @@ published: true
 # 10. August   Bacharach   
 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
-Theatraler Parcours mit dem Theater Willy Praml   
+**Theatraler Parcours mit dem Theater Willy Praml**   
  - Start in der Wernerkapelle    
 
 
@@ -30,7 +30,7 @@ Theatraler Parcours mit dem Theater Willy Praml
 # 11. August   Lorch am Rhein 
 19:30 Uhr bis ca. 21:30 Uhr
 ## E.T.A. Hoffmann   DER GOLDENE TOPF      
-*Lorch für weltüberdrüssige Phantasten*    
+**Lorch für weltüberdrüssige Phantasten**    
 Michael Quast und Bruno Kliegl (Glasharmonika)    
 - Hilchenhaus  Lorch am Rhein  
 
@@ -40,7 +40,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 # 17. August / 18. August  Bacharach
 15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
-Theatraler Parcours mit dem Theater Willy Praml   
+**Theatraler Parcours mit dem Theater Willy Praml**   
  - Start in der Wernerkapelle  Bacharach      
    
  ---   
@@ -75,8 +75,8 @@ Freies Schauspiel Ensemble Frankfurt
 
 # 25. August  Oberwesel
 12:00 Uhr bis 14:00 Uhr
-## Oberwesel für Frauen am Rande des Nervenzusammenbruchs
 ## HOCHROTH!  DIE GÜNDERODE   
+**Oberwesel für Frauen am Rande des Nervenzusammenbruchs**    
 Bettina Kamniski (Freies Schauspiel Ensemble Frankfurt)    
 Birgit Heuser (Theater Willy Praml    
 Heinrich Heine Chor Frankfurt   
