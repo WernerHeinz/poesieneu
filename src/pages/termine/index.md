@@ -5,12 +5,22 @@ date: 2019-01-11T00:00:00.000Z
 published: true
 ---
 
-# Bacharach
-**10. August /  17. August / 18. August**   
-jeweils 15:00 Uhr bis ca. 20:00 Uhr   
-## Der Rabbi von Bacharach.
+
+# 10. August /  17. August / 18. August  
+jeweils 15:30 Uhr bis ca. 20:00 Uhr   
+## DER RABBI VON BACHERACH.HEINE
 ***Stationen eines Traumas***    
-**Theatraler Parcours mit dem Theater Willy Praml**   
+**Theatraler Parcours mit dem Theater Willy Praml**  
+# Bacharach - Start in der Wernerkapelle   
+
+
+---
+
+
+# 11. August 12:00 Uhr
+## GLOTZT NICHT SO ROMANTISCH   
+**Podium für Welterbe-Pioniere**
+# Günderode-Filmhaus Oberwesel
 
 
 
