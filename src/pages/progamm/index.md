@@ -60,7 +60,7 @@ Do. 29. August in Bacharach
 
 Kennen Sie die Orte im linksrheinischen Bacharach oder in Lorch, dem gegenüberliegenden, rechtsrheinischen Städtchen, wo es sich am besten sterben lässt?   
 Friedrich Bastian (Bariton und Winzer) und Henrielle Meyer – Ravenstein (Alt) führen Sie mit dem  berühmten Liederzyklus von Franz Schubert an diese Ihre Lieblingssterbeorte.
-Begleitet werden die beiden von verschiedenen Instrumentalisten und von den Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, der einzigen Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
+Begleitet werden die beiden von verschiedenen Instrumentalisten und von den Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
 
 
 ----    
@@ -113,7 +113,7 @@ An allen Ecken und Enden.
  
  ![Bild](/fse1.png) 
  
- ![Bild](/lenz.png)
+ ![Bild](/lenz1.png)
  ![Bild](/e.t.a.jpg)
  
  ![Bild](/guend.jpg)
