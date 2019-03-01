@@ -6,8 +6,8 @@ published: true
 ---
 
 
-# 10. August /  17. August / 18. August  
-jeweils 15:30 Uhr bis ca. 20:00 Uhr   
+# 10. August   
+15:30 Uhr bis ca. 20:00 Uhr   
 ## DER RABBI VON BACHERACH.HEINE
 ## Stationen eines Traumas    
 **Theatraler Parcours mit dem Theater Willy Praml**  
@@ -21,7 +21,7 @@ jeweils 15:30 Uhr bis ca. 20:00 Uhr
 12:00 Uhr bis ca. 14:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH   
 ## Podium für Welterbe-Pioniere
-# Günderode-Filmhaus Oberwesel   
+# Oberwesel. Günderode-Filmhaus    
 
 
 ---   
@@ -30,22 +30,37 @@ jeweils 15:30 Uhr bis ca. 20:00 Uhr
 # 11. August 
 19:30 Uhr bis ca. 21:30 Uhr
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN
-## E.T.A. HOFFMANN: DER GOLDENE TOPF
+## E.T.A. Hoffmann   DER GOLDENE TOPF
 **Michael Quast und Bruno Kliegl (Glasharmonika)**
 # Lorch am Rhein. Hilchenhaus   
 
 
 ---   
 
+# 17. August / 18. August  
+jeweils 15:30 Uhr bis ca. 20:00 Uhr   
+## DER RABBI VON BACHERACH.HEINE
+## Stationen eines Traumas    
+**Theatraler Parcours mit dem Theater Willy Praml**  
+# Bacharach. Start in der Wernerkapelle   
 
+ ---   
+ 
+ # 16. August & 24. August
+19:30 Uhr bis ca. 21:00 Uhr
+## OBERWESEL FÜR SELBSTMORDKANDIDATEN
+## Christa Wolf  KEIN ORT.NIRGENDS.
+** Freies Schauspiel Ensemble Frankfurt
+# Oberwesel. Jugendheim
 
-
+ ---   
+ 
+ 
 
 
 
 ---
 
-***weitere Termine demnächst hier***      
 
 ***Vorverkauf ab April***     
 
