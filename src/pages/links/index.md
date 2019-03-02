@@ -10,35 +10,31 @@ published: true
  
 <a class="links" href="http://theaterwillypraml.de" target="_blank" rel="noopener noreferrer">
 Theater Willy Praml    </a>
-  
-
-
-
+ 
  
  <a class="links" href="https://www.fliegendevolksbuehne.de/" target="_blank" rel="noopener noreferrer">
  Fliegende Volksbühne mit Michael Quast
   </a>
  
-
-
   
  <a class="links" href="http://freiesschauspiel.de" target="_blank" rel="noopener noreferrer">
  Freies Schauspiel Ensemble Frankfurt
   </a>
  
-
-
-
  
 <a class="links" href="http://heinrich-heine-chor.de" target="_blank" rel="noopener noreferrer">
  Heinrich Heine Chor Frankfurt
   </a>
   
-
-
-
- 
- <a class="links" href="https://bacharach-fcf41.firebaseapp.com" target="_blank" rel="noopener noreferrer">
-Social App Bakaloni, Rene Broich aus Bacharach   
+<a class="links" href="http://mittelrheingold.de" target="_blank" rel="noopener noreferrer">
+ Journalistisches Blog über das UNESCO-Welterbe Oberes Mittelrheintal
   </a>
+
+  
+  <a class="links" href="https://www.mittelrheinmusik.de/" target="_blank" rel="noopener noreferrer">
+ Mittelrhein Musikfestival
+  </a>
+
 </div>
+
+
