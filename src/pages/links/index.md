@@ -27,7 +27,7 @@ Theater Willy Praml    </a>
   </a>
   
 <a class="links" href="http://mittelrheingold.de" target="_blank" rel="noopener noreferrer">
- Journalistisches Blog über das UNESCO-Welterbe Oberes Mittelrheintal
+ Blog über das UNESCO-Welterbe Oberes Mittelrheintal
   </a>
 
   
