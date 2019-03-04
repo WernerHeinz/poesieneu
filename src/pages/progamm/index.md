@@ -6,7 +6,6 @@ published: true
 ---
 Vorstellungen mit Datum, Uhrzeiten und Preisen siehe "Termine"     
 
-Flyer Download hier:  ![Flyer](/Festival-Poesie-Flyer.jpg)
 ---   
 
 
