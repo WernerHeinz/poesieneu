@@ -4,7 +4,7 @@ date: '2017-11-07'
 title: Infos zum Programm
 published: true
 ---
-Unsere Programmplanung ist jetzt komplett -  Datum, Uhrzeiten und Preise siehe "Termine"     
+Vorstellungen mit Datum, Uhrzeiten und Preisen siehe "Termine"     
 
 ---   
 
