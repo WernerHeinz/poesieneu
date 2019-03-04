@@ -32,7 +32,7 @@ published: true
 ## E.T.A. Hoffmann   DER GOLDENE TOPF      
 **Lorch für weltüberdrüssige Phantasten**    
 Michael Quast und Bruno Kliegl (Glasharmonika)    
-Hilchenhaus  Lorch am Rhein  
+*Hilchenhaus  Lorch am Rhein*  
 
     
 ---   
@@ -61,7 +61,7 @@ Freies Schauspiel Ensemble Frankfurt
 Friedrich Bastian (Bariton)     
 Henriette Meyer-Ravenstein (Mezzosopran)      
 & Instrumentalisten    
-*Startpunkt folgt moch*
+*Startpunkt wird noch bekanntgegeben*
 
 ---
 # 24. August  Oberwesel
