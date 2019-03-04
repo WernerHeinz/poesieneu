@@ -15,7 +15,11 @@ export default () => (
       }
     `}
     render={data => (
+       <div style={{display:'blog',textAlign:'center'}} >
+       <img  src="/Logo50.png" alt="logo"/>
         <h1 className="sitetitel"><Link to="/">An den Ufern<br/> der Poesie</Link></h1>
+     
+      </div>
      
     )}
   />
