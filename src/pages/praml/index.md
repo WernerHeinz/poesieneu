@@ -11,7 +11,10 @@ published: true
  
 ## Theater Willy Praml
 
-[Theater Willy Praml - Spielstätte Naxoshalle Frankfurt](http://theaterwillypraml.de/Naxoshalle)
+<a class="links" href="http://theaterwillypraml.de/Naxoshalle" target="_blank" rel="noopener noreferrer">
+Theater Willy Praml - Spielstätte Naxoshalle Frankfurt
+  </a>
+
 ## Theater Willy Praml 
 
 [Theater Willy Praml - Spielplan](http://theaterwillypraml.de)
