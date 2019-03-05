@@ -65,9 +65,12 @@ Friedrich Bastian
  
 Zweckverband Welterbe Oberes Mittelrheintal    
   </a>   
- 
- 
- ---    
+    
+
+---   
+
+
+   
  
 ### Kulturstiftung des Bundes - Projekt TRAFO
 Das Festival wird gefördert aus Mitteln der Kulturstiftung des Bundes zur Vorbereitung einer Bewerbung um Aufnahme des Welterbetales das Projekt Trafo2 - Modelle für Kultur im Wandel     
@@ -76,19 +79,22 @@ Das Festival wird gefördert aus Mitteln der Kulturstiftung des Bundes zur Vorbe
 Bundeskulturstiftung - Projekt Trafo   
   </a>   
  
-  ---   
-  
+   
+
+---   
+
+
 ### Kultursommer Rheinland Pfalz   
 Der Zweckverband Welterbe hat Fördermittel zur Finanzierung des Festivals im Rahmen des *Kultursommers Rheinland Pfalz* beantragt    
 <a class="links" href="http://www.kultursommer.de/heimaten2019" target="_blank" rel="noopener noreferrer">   
  
 Kultursommer Rheinland Pfalz
   </a>    
-  
----    
+   
+
+---   
 
 
-  
   
 
  
