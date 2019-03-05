@@ -40,13 +40,13 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
 
  *Chor der Geflüchteten in Willy Pramls Rabbi-Inszenierung   
  Szene am Bacharacher Bahnhof, 2015*
-  ![hhc](/hhc.jpg)    
+  ![hhc](/hhc1.jpg)    
   
   ---   
   ## Freies Schauspiel Ensemble Frankfurt
- ![ffs](/sfe.jpg)
+ ![fse](/fse1.png)
 
-<a class="links" href="https://http://freiesschauspiel.de/" target="_blank" rel="noopener noreferrer">
+<a class="links" href="https://www.freiesschauspiel.de/" target="_blank" rel="noopener noreferrer">
 Freies Schauspiel Ensemble 
   </a>   
    
