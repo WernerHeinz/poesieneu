@@ -16,8 +16,10 @@ Theater Willy Praml - Spielstätte Naxoshalle Frankfurt
   </a>
 
 ## Theater Willy Praml 
+<a class="links" href="http://theaterwillypraml.de" target="_blank" rel="noopener noreferrer">
+Theater Willy Praml - Spielplan
+  </a>
 
-[Theater Willy Praml - Spielplan](http://theaterwillypraml.de)
 
 ***Filmdokumentation über "Das 25. Jahr" des Theaters Willy Praml 2016***   
 <iframe width="100%" height="250px" src="https://www.youtube.com/embed/DBoc4YrDGWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +27,10 @@ Theater Willy Praml - Spielstätte Naxoshalle Frankfurt
 # Der Heinrich Heine Chor Frankfurt
  
  ## Der Heine Chor in Bildern und Tönen
-[Heinrich Heine Chor](http://heinrich-heine-chor.de/bild-und-ton.htm) 
+<a class="links" href="http://heinrich-heine-chor.de/bild-und-ton.htm" target="_blank" rel="noopener noreferrer">
+Heinrich Heine Chor
+  </a>
+
 
 Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater Willy Praml in Frankfurt entstanden. Für die weiterhin bestehende  Zusammenarbeit mit dem Theater (zuletzt 2018 in Willy Pramls Inszenierung der "Walpurgisnacht" nach J.W.Goethe/Alexander Kluge/Heiner Müller und Friedrich Nietzsche) pflegt der Chor ein Repertoire der deutschen Romantik sowie von Vertonungen von Lyrik von Heinrich Heine und seinen bis in die gegenwart reichenden Geistesverwandtschaften.  
 
@@ -51,18 +56,40 @@ Friedrich Bastian
 ---   
 
 
-## Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen
+## Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen    
+    
+       
 
 - ### Zweckverband Welterbe Oberes Mittelrheintal
- [Zweckverband Welterbe Oberes Mittelrheintal](http://www.zv-welterbe.de/)
- - Das Festival wird gefördert aus Mitteln der Kulturstiftung des Bundes zur Vorbereitung einer Bewerbung um Aufnahme des Welterbetales das Projekt Trafo2 - Modelle für Kultur im Wandel
+ <a class="links" href="http://www.zv-welterbe.de" target="_blank" rel="noopener noreferrer">
+Heinrich Heine Chor
+  </a>
+ Zweckverband Welterbe Oberes Mittelrheintal 
+ 
+ ---   
+ 
+ 
+Das Festival wird gefördert aus Mitteln der Kulturstiftung des Bundes zur Vorbereitung einer Bewerbung um Aufnahme des Welterbetales das Projekt Trafo2 - Modelle für Kultur im Wandel
 
 - ### Kulturstiftung des Bundes: Projekt Trafo2
- [Bundfeskulturstiftung - Projekt Trafo](https://www.kulturstiftung-des-bundes.de/de/projekte/nachhaltigkeit_und_zukunft/detail/trafo_2.html)
 
-- Der Zweckverband Welterbe hat Fördermittel zur Finanzierung des Festivals *im Rahmen des Kultursommers Rheinland Pfalz* beantragt 
+
+<a class="links" href="https://www.kulturstiftung-des-bundes.de/de/projekte/nachhaltigkeit_und_zukunft/detail/trafo_2.html" target="_blank" rel="noopener noreferrer">
+Bundeskulturstiftung - Projekt Trafo
+  </a>   
+  
+  ---   
+  
+  
+Der Zweckverband Welterbe hat Fördermittel zur Finanzierung des Festivals im Rahmen des *Kultursommers Rheinland Pfalz* beantragt 
  
+<a class="links" href="http://www.kultursommer.de/heimaten2019" target="_blank" rel="noopener noreferrer">
+Kultursommer Rheinland Pfalz
+  </a>   
+  
+  ---   
+  
+  
 
- [Kultursommer Rheinland Pfalz](http://www.kultursommer.de/heimaten2019)
  
  
