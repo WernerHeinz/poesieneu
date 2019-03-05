@@ -59,23 +59,18 @@ Friedrich Bastian
 ## Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen    
     
        
-
 ### Zweckverband Welterbe Oberes Mittelrheintal    
- <a class="links" href="http://www.zv-welterbe.de" target="_blank" rel="noopener noreferrer">   
- 
+<a class="links" href="http://www.zv-welterbe.de" target="_blank" rel="noopener noreferrer">   
 Zweckverband Welterbe Oberes Mittelrheintal    
   </a>   
     
 
 ---   
-
-
    
  
 ### Kulturstiftung des Bundes - Projekt TRAFO
 Das Festival wird gefördert aus Mitteln der Kulturstiftung des Bundes zur Vorbereitung einer Bewerbung um Aufnahme des Welterbetales das Projekt Trafo2 - Modelle für Kultur im Wandel     
 <a class="links" href="https://www.kulturstiftung-des-bundes.de/de/projekte/nachhaltigkeit_und_zukunft/detail/trafo_2.html" target="_blank" rel="noopener noreferrer">   
- 
 Bundeskulturstiftung - Projekt Trafo   
   </a>   
  
@@ -87,7 +82,6 @@ Bundeskulturstiftung - Projekt Trafo
 ### Kultursommer Rheinland Pfalz   
 Der Zweckverband Welterbe hat Fördermittel zur Finanzierung des Festivals im Rahmen des *Kultursommers Rheinland Pfalz* beantragt    
 <a class="links" href="http://www.kultursommer.de/heimaten2019" target="_blank" rel="noopener noreferrer">   
- 
 Kultursommer Rheinland Pfalz
   </a>    
    
