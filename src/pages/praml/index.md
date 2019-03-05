@@ -5,17 +5,16 @@ date: 2019-12-01T00:00:00.000Z
 published: true
 ---
 
-# Das Theater Willy Praml Frankfurt
+###  Theater Willy Praml Frankfurt
  
 ![twp](/DSC_0185.jpg)
  
-## Theater Willy Praml
 
 <a class="links" href="http://theaterwillypraml.de/Naxoshalle" target="_blank" rel="noopener noreferrer">
 Theater Willy Praml - Spielstätte Naxoshalle Frankfurt
   </a>
 
-## Theater Willy Praml 
+ 
 <a class="links" href="http://theaterwillypraml.de" target="_blank" rel="noopener noreferrer">
 Theater Willy Praml - Spielplan
   </a>
@@ -24,7 +23,7 @@ Theater Willy Praml - Spielplan
 ***Filmdokumentation über "Das 25. Jahr" des Theaters Willy Praml 2016***   
 <iframe width="100%" height="250px" src="https://www.youtube.com/embed/DBoc4YrDGWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Der Heinrich Heine Chor Frankfurt
+###  Heinrich Heine Chor Frankfurt
  
  ## Der Heine Chor in Bildern und Tönen
 <a class="links" href="http://heinrich-heine-chor.de/bild-und-ton.htm" target="_blank" rel="noopener noreferrer">
@@ -43,7 +42,8 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
   ![hhc-bahnhof](/bf8.jpg)    
   
   ---   
-    ## Fliegend Volksbühne Frankfurt
+  
+ ### Fliegende Volksbühne Frankfurt
  ![fvb](topf_01.png/)
 
 <a class="links" href="https://www.fliegendevolksbuehne.de/programm/" target="_blank" rel="noopener noreferrer">
@@ -53,7 +53,7 @@ Fliegende Volksbühne Frankfurt
 
 ---   
 
-  ## Freies Schauspiel Ensemble Frankfurt
+### Freies Schauspiel Ensemble Frankfurt
  ![fse](/fse1.png)
 
 <a class="links" href="http://www.freiesschauspiel.de/ensemble/geschichte/" target="_blank" rel="noopener noreferrer">
@@ -63,7 +63,7 @@ Freies Schauspiel Ensemble
 
 ---   
 
-## Friedrich Bastian. Sänger und Spitzenwinzer in Bacharach  
+### Friedrich Bastian. Sänger und Spitzenwinzer in Bacharach  
  ![bastian](/f_bastian.jpg)
 
 <a class="links" href="http://www.weingut-bastian-bacharach.de/friedrich-bastian/" target="_blank" rel="noopener noreferrer">
