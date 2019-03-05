@@ -86,7 +86,7 @@ Friedrich Bastian
 ---   
 
 
-## Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen    
+# *Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen*    
     
        
 ### Zweckverband Welterbe Oberes Mittelrheintal    
