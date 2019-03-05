@@ -49,8 +49,8 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
  ![hhc](/f_bastian.jpg)
 
 <a class="links" href="http://www.weingut-bastian-bacharach.de/friedrich-bastian/" target="_blank" rel="noopener noreferrer">
-Friedrich Bastian
-  </a>
+Friedrich Bastian   
+  </a>   
    
 
 ---   
@@ -62,9 +62,9 @@ Friedrich Bastian
 
 - ### Zweckverband Welterbe Oberes Mittelrheintal
  <a class="links" href="http://www.zv-welterbe.de" target="_blank" rel="noopener noreferrer">
-Heinrich Heine Chor
-  </a>
- Zweckverband Welterbe Oberes Mittelrheintal 
+Zweckverband Welterbe Oberes Mittelrheintal    
+  </a>   
+ 
  
  ---   
  
@@ -81,13 +81,13 @@ Bundeskulturstiftung - Projekt Trafo
   ---   
   
   
-Der Zweckverband Welterbe hat Fördermittel zur Finanzierung des Festivals im Rahmen des *Kultursommers Rheinland Pfalz* beantragt 
+Der Zweckverband Welterbe hat Fördermittel zur Finanzierung des Festivals im Rahmen des *Kultursommers Rheinland Pfalz* beantragt    
  
 <a class="links" href="http://www.kultursommer.de/heimaten2019" target="_blank" rel="noopener noreferrer">
 Kultursommer Rheinland Pfalz
-  </a>   
+  </a>    
   
-  ---   
+  ---    
   
   
 
