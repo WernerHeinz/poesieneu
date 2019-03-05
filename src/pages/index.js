@@ -45,11 +45,11 @@ class Menu extends React.Component{
          <li><Link to="/programm">Programm 2019</Link> </li>
          <li><Link to="/aktuell">Aktuelles</Link></li>
          <li><Link to="/archiv">Filme und Foto-Dokumentation</Link></li>
-         <li><Link to="/presse">Presse</Link></li>
-         <li><Link to="/einblicke">Aus den Programmen</Link></li>
-         <li><Link to="/stimmen">Kommentare zum Festival</Link></li>
-         <li><Link to="/konzerte">Unsere Konzerte</Link></li>
          <li><Link to="/praml">Who is Who im Festival?</Link></li>
+         <li><Link to="/stimmen">Kommentare zum Festival</Link></li>
+         <li><Link to="/presse">Presse</Link></li>
+         <li><Link to="/konzerte">Unsere Konzerte</Link></li>
+         <li><Link to="/einblicke">Aus den Programmen</Link></li>
          <li><Link to="/links">Links</Link></li>
          <li><Link to="/kontakt">Kontakt</Link></li>
          <li><Link to="/datenschutz">Datenschutz</Link></li>
