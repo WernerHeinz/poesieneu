@@ -38,7 +38,7 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
   
 
 ## Friedrich Bastian   
- ![hhc](/bastian.jpg)
+ ![hhc](/f_bastian.jpg)
 
 http://www.weingut-bastian-bacharach.de/friedrich-bastian/    
 
