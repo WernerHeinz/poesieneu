@@ -12,17 +12,20 @@ published: true
 
 <a class="links" href="http://theaterwillypraml.de/Naxoshalle" target="_blank" rel="noopener noreferrer">   
 Theater Willy Praml - Spielstätte Naxoshalle Frankfurt
-  </a>
+  </a>    
 
  
 <a class="links" href="http://theaterwillypraml.de" target="_blank" rel="noopener noreferrer">   
-Theater Willy Praml - Spielplan
-  </a>
+Theater Willy Praml - Spielplan     
+  </a>     
+  
 
 
 ***Filmdokumentation über "Das 25. Jahr" des Theaters Willy Praml 2016***   
 <iframe width="100%" height="250px" src="https://www.youtube.com/embed/DBoc4YrDGWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+    
+    
+    
 ###  Heinrich Heine Chor Frankfurt
  
 <a class="links" href="http://heinrich-heine-chor.de/bild-und-ton.htm" target="_blank" rel="noopener noreferrer">
@@ -30,9 +33,7 @@ Heinrich Heine Chor
   </a>    
 
 
-Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater Willy Praml in Frankfurt entstanden. Für die weiterhin bestehende  Zusammenarbeit mit dem Theater (zuletzt 2018 in Willy Pramls Inszenierung der "Walpurgisnacht" nach J.W.Goethe/Alexander Kluge/Heiner Müller und Friedrich Nietzsche) pflegt der Chor ein Repertoire der deutschen Romantik sowie von Vertonungen von Lyrik von Heinrich Heine und seinen bis in die gegenwart reichenden Geistesverwandtschaften.      
-
- Seit Anfang 2016 probt der Chor wöchentlich und erarbeitet hierüber hinaus ein erweitertes und eigenständiges Männerchor-Programm unter Bezug auf humanistische und demokratische künstlerische Positionierungen  und Aufbrüche in der jüngeren Zeitgeschichte: Brecht/Weill/Eisler, Bob Dylan, Mikis Theodorakis, Pete Seeger, Billie Holiday sowie eigene Kompositionen und Pop-Arrangements des Leiters.    
+Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater Willy Praml in Frankfurt entstanden. Das Repertoire umfasst Kompositionen der deutschen Romantik und Vertonungen der Lyrik von Heine sowie von seinen in die Gegenwart reichenden Geistesverwandtschaften: Brecht/Weill/Eisler, Bob Dylan, Mikis Theodorakis, Pete Seeger, Billie Holiday. 
 
  ![hhc](/hhc-p.jpg)
 
@@ -42,6 +43,7 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
   
   ---   
   
+  
  ### Fliegende Volksbühne Frankfurt
  ![fvb](/topf_01.png/)
 
@@ -49,9 +51,11 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
 Fliegende Volksbühne Frankfurt 
   </a>   
    
-
+    
 ---   
 
+    
+    
 ### Freies Schauspiel Ensemble Frankfurt
  ![fse](/fse1.png)
 
@@ -59,9 +63,12 @@ Fliegende Volksbühne Frankfurt
 Freies Schauspiel Ensemble 
   </a>   
    
-
+   
+   
 ---   
 
+    
+    
 ### Friedrich Bastian. Sänger und Spitzenwinzer in Bacharach  
  ![bastian](/f_bastian.jpg)
 
