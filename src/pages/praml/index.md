@@ -40,7 +40,7 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
 
  *Chor der Geflüchteten in Willy Pramls Rabbi-Inszenierung   
  Szene am Bacharacher Bahnhof, 2015*
-  ![hhc](/hhc1.jpg)    
+  ![hhc-bahnhof](/bf8.jpg)    
   
   ---   
   ## Freies Schauspiel Ensemble Frankfurt
@@ -54,7 +54,7 @@ Freies Schauspiel Ensemble
 ---   
 
 ## Friedrich Bastian. Sänger und Spitzenwinzer in Bacharach  
- ![hhc](/f_bastian.jpg)
+ ![bastian](/f_bastian.jpg)
 
 <a class="links" href="http://www.weingut-bastian-bacharach.de/friedrich-bastian/" target="_blank" rel="noopener noreferrer">
 Friedrich Bastian   
