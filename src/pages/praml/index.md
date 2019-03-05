@@ -32,8 +32,17 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
 
  *Chor der Geflüchteten in Willy Pramls Rabbi-Inszenierung   
  Szene am Bacharacher Bahnhof, 2015*
-  ![hhc](/bf8.jpg)
+  ![hhc](/bf8.jpg)    
+  
+  ---   
+  
 
+## Friedrich Bastian   
+ ![hhc](/bastian.jpg)
+
+http://www.weingut-bastian-bacharach.de/friedrich-bastian/    
+
+---   
 
 
 ## Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen
