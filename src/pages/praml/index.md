@@ -26,13 +26,14 @@ Theater Willy Praml - Spielplan
 ***Filmdokumentation über "Das 25. Jahr" des Theaters Willy Praml 2016***   
 <iframe width="100%" height="250px" src="https://www.youtube.com/embed/DBoc4YrDGWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </a>  
- 
- 
+  
+
 ---   
  
+   
+# Heinrich Heine Chor Frankfurt    
     
-# Heinrich Heine Chor Frankfurt  
-
+    
  
 <a class="links" href="http://heinrich-heine-chor.de/bild-und-ton.htm" target="_blank" rel="noopener noreferrer">
 Heinrich Heine Chor
