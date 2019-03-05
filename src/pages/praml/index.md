@@ -84,13 +84,17 @@ Freies Schauspiel Ensemble
 <a class="links" href="http://www.weingut-bastian-bacharach.de/friedrich-bastian/" target="_blank" rel="noopener noreferrer">
 Friedrich Bastian   
   </a>   
-   
-
+ 
+ 
 ---   
-
+ 
 
 # *Das Festival wird unterstützt von den nachstehenden Körperschaften und Stiftungen*    
-    
+ 
+---   
+
+      
+       
        
 ### Zweckverband Welterbe Oberes Mittelrheintal    
 <a class="links" href="http://www.zv-welterbe.de" target="_blank" rel="noopener noreferrer">   
