@@ -5,9 +5,11 @@ date: 2019-12-01T00:00:00.000Z
 published: true
 ---
 
-###  Theater Willy Praml Frankfurt
+# Theater Willy Praml Frankfurt    
+
  
-![twp](/DSC_0185.jpg)
+![twp](/DSC_0185.jpg)    
+
  
 
 <a class="links" href="http://theaterwillypraml.de/Naxoshalle" target="_blank" rel="noopener noreferrer">   
@@ -29,7 +31,8 @@ Theater Willy Praml - Spielplan
 ---   
  
     
-###  Heinrich Heine Chor Frankfurt    
+# Heinrich Heine Chor Frankfurt  
+
  
 <a class="links" href="http://heinrich-heine-chor.de/bild-und-ton.htm" target="_blank" rel="noopener noreferrer">
 Heinrich Heine Chor
@@ -38,7 +41,7 @@ Heinrich Heine Chor
 
 Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater Willy Praml in Frankfurt entstanden. Das Repertoire umfasst Kompositionen der deutschen Romantik und Vertonungen der Lyrik von Heine sowie von seinen in die Gegenwart reichenden Geistesverwandtschaften: Brecht/Weill/Eisler, Bob Dylan, Mikis Theodorakis, Pete Seeger, Billie Holiday. 
 
- ![hhc](/hhc-p.jpg)    
+ ![hhc](/hhc-p.jpg)     
 
  *Chor der Geflüchteten in Willy Pramls Rabbi-Inszenierung   
  Szene am Bacharacher Bahnhof, 2015*
@@ -48,7 +51,7 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
 ---   
  
   
- ### Fliegende Volksbühne Frankfurt
+# Fliegende Volksbühne Frankfurt
  ![fvb](/topf_01.png/)
 
 <a class="links" href="https://www.fliegendevolksbuehne.de/programm/" target="_blank" rel="noopener noreferrer">
@@ -60,7 +63,7 @@ Fliegende Volksbühne Frankfurt
  
     
     
-### Freies Schauspiel Ensemble Frankfurt
+# Freies Schauspiel Ensemble Frankfurt
  ![fse](/fse1.png)
 
 <a class="links" href="http://www.freiesschauspiel.de/ensemble/geschichte/" target="_blank" rel="noopener noreferrer">
@@ -72,7 +75,7 @@ Freies Schauspiel Ensemble
 ---   
  
     
-### Friedrich Bastian. Sänger und Spitzenwinzer in Bacharach  
+# Friedrich Bastian. Sänger und Spitzenwinzer in Bacharach  
  ![bastian](/f_bastian.jpg)
 
 <a class="links" href="http://www.weingut-bastian-bacharach.de/friedrich-bastian/" target="_blank" rel="noopener noreferrer">
