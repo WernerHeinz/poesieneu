@@ -37,7 +37,7 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
   ---   
   
 
-## Friedrich Bastian   
+## Friedrich Bastian. Sänger und Spitzenwinzer   
  ![hhc](/f_bastian.jpg)
 
 <a class="links" href="http://www.weingut-bastian-bacharach.de/friedrich-bastian/" target="_blank" rel="noopener noreferrer">
