@@ -46,7 +46,7 @@ Der Heinrich Heine Chor ist 2013 als Projektchor für Aufführungen des Theater 
   ## Freies Schauspiel Ensemble Frankfurt
  ![fse](/fse1.png)
 
-<a class="links" href="https://www.freiesschauspiel.de/" target="_blank" rel="noopener noreferrer">
+<a class="links" href="https://www.freiesschauspiel.de/ensemble/geschichte/" target="_blank" rel="noopener noreferrer">
 Freies Schauspiel Ensemble 
   </a>   
    
