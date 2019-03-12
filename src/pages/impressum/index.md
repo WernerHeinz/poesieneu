@@ -19,4 +19,4 @@ published: true
 >[Unsere Datenschutzbestimmungen](/datenschutz) 
 
  >Website programmiert von René Broich, Bacharach
-
+ >Email: renbroi@icloud.com
