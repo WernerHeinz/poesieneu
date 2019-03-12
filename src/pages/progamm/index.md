@@ -31,11 +31,13 @@ Heinrich Heine, Einleitung zu Der Rabbi von Bacharach
 So 11. August Matinee   
 im Günderode-Filmhaus Oberwesel    
 
-Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen sie von Ostern bis Oktober durch das romantische Mittelrheintal: Reisende ins geträumte Gestern der Burgen und Türmchen und Mäuerchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten. Aber die verödeten Schaufenster in so vielen Straßen! Die verarmten Häuserzeilen an den Verkehrsadern des Tales! Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge und die Flucht der Jungen in die Gegenwart der Städte!   
+Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen sie von Ostern bis Oktober durch das Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.    
+Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
+„Halt!“ ruft der Manager: „Die Rheinromantik ist der Markenkern der Tourismuswerbung“.      
+In Wirklichkeit gehörten die Romantiker zur unglücklichsten Generation der neueren deutschen Geschichte: die utopisch erlebte Französische Revolution auf der einen Seite und die in einem der Vergangenheit anhängenden Staatsgebilde vorherrschende Lebensrealität auf der anderen Seite, die Anfänge des Industriezeitalters, die Arbeitsteilung, die Vergottung der Ratio und die neuen Ideale der Profitmaximierung führen zu einem unversöhnlichen Riss zwischen den materiellen und den geistigen Werten der Zeit und lassen die Dichter, die Musiker zu Außenseitern werden, weil man ihre Ideen, ihren Aufbruchsgeist, ihr Feuer der Erneuerung nicht braucht    
+Die Literatur der Deutschen als ein Schlachtfeld – auch das wäre eine Weise, sie zu betrachten. (Christa Wolf)    
 
-„Halt!“ ruft der Touristikmanager: "Die Rheinromantik ist der Markenkern der Tourismuswerbung“.  „Nein, die Romantik war schon immer eine Flucht aus den unüberschaubaren Beschleunigungen und Zumutungen  der Gegenwart in ein geträumtes Mittelalter“ entlarvt der kritische Germanistik-Student die Eichendorffs und Brentanos.     
 
-Was nun? Wie müsste eine Kulturinitiative aussehen, die hilfreich wäre zur Selbstbeschreibung der Region und ihrer Gestaltung als lebenswerte Heimat?
 -----     
 
 
