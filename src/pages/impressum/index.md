@@ -18,5 +18,5 @@ published: true
 >**Telefonische Kartenreservierung:** 069 43054734<br/>
 >[Unsere Datenschutzbestimmungen](/datenschutz) 
 
- >Website programmiert von René Broich, Bacharach
+ >Website programmiert von René Broich, Bacharach    
  >Email: renbroi@icloud.com
