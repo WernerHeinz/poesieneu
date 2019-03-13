@@ -7,7 +7,7 @@ title: "Die Bacchanale: Aufruf zur Beteiligung"
 # Bacchanale! Mitmachen!
 # Musiker! Sänger & Chöre & Blech-/Holzbläser! Künstler! Darsteller! Dichter! Rezitatoren!
 
-Wer sich an der Bacchareanale beteiligen möchte:    
+Wer sich an der Bacchanale beteiligen möchte   
 Fragen, Angebote, Anmeldungen:  whz.clubnaxos@gmail.com     
 
 
