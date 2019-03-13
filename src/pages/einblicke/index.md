@@ -4,9 +4,17 @@ date: "2017-11-07"
 title: "Die Bacchanale: Aufruf zur Beteiligung"
 
 ---
+# Bacchanale! Mitmachen!
+# Musiker! Sänger & Chöre & Blech-/Holzbläser! Künstler! Darsteller! Dichter! Rezitatoren!
+
+Wer sich an der Bacchareanale beteiligen möchte:    
+Fragen, Angebote, Anmeldungen:  whz.clubnaxxos@gmail.com     
 
 
-B a c c h a n a l e
+
+
+# B a c c h a n a l e: Das Programm:
+
 Trunkenes Fest zum Nüchternwerden
 
 
@@ -32,10 +40,6 @@ Eintritt frei.
 ![Bild](barb2.jpg)
 <hr />
 
-# Musiker! Sänger & Chöre & Blech-/Holzbläser! Künstler! Darsteller! Dichter! Rezitatoren!
-
-Wer sich an der Bacchareanale beteiligen möchte:  
-Fragen, Angebote, Anmeldungen:  whz.clubnaxxos@gmail.com
 
 
 
