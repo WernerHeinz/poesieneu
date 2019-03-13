@@ -13,7 +13,8 @@ Fragen, Angebote, Anmeldungen:  whz.clubnaxxos@gmail.com
 
 
 
-# B a c c h a n a l e: Das Programm:
+# B a c c h a n a l e     
+Das Programm:
 
 Trunkenes Fest zum Nüchternwerden
 
