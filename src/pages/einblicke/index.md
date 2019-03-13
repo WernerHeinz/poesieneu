@@ -11,7 +11,7 @@ Wer sich an der Bacchanale beteiligen möchte
 Fragen, Angebote, Anmeldungen:  whz.clubnaxos@gmail.com     
 
 
-![Bild](barb2.jpg)
+![Bild](/barb2.jpg)
 <hr />
 
 
