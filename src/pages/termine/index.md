@@ -56,12 +56,10 @@ Freies Schauspiel Ensemble Frankfurt
  
 # 23. August  Lorch am Rhein
 19:00 Uhr bis ca. 20:45 Uhr
-## Franz Schubert  DIE SCHÖNE MÜLLERIN   
+## Franz Schubert    
 **Stadtführung für lebensmüde Musikliebhaber**    
-Friedrich Bastian (Bariton)     
-Henriette Meyer-Ravenstein (Mezzosopran)      
-& Instrumentalisten    
-*Startpunkt wird noch bekanntgegeben*
+ 
+*Startpunkt Kirche St. Martin, Lorch*
 
 ---
 # 24. August  Oberwesel
@@ -85,11 +83,8 @@ Heinrich Heine Chor Frankfurt
 
 # 29. August  Bacharach
 19:00 Uhr bis ca. 20:45 Uhr
-## Franz Schubert  DIE SCHÖNE MÜLLERIN      
+## Franz Schubert      
 **Stadtführung für lebensmüde Musikliebhaber**    
-Friedrich Bastian (Bariton)       
-Henriette Meyer-Ravenstein (Mezzosopran)     
-& Instrumentalisten     
 *Start im Gasthof des Grünen Baum. Bacharach*  
 
 ---   
