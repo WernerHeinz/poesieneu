@@ -79,18 +79,14 @@ Ein Gastspiel des Freien Schauspielensembles Frankfurt a. M.
 
 ----    
  
-## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
-## Schubert. DIE SCHÖNE MÜLLERIN.   
-Friedrich Bastian (Bariton)   
-Henriette Meyer-Ravenstein (Mezzosopran)   
-& Instrumentalisten        
-
+## SCHUBERT. STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
+   
 Fr. 23. August in Lorch 
 Do. 29. August in Bacharach    
 
 Kennen Sie die Orte im linksrheinischen Bacharach oder in Lorch, dem gegenüberliegenden, rechtsrheinischen Städtchen, wo es sich am besten sterben lässt?   
-Friedrich Bastian (Bariton und Winzer) und Henrielle Meyer – Ravenstein (Alt) führen Sie mit dem  berühmten Liederzyklus von Franz Schubert an diese Ihre Lieblingssterbeorte.
-Begleitet werden die beiden von verschiedenen Instrumentalisten und von den Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
+Wir führen Sie mit einem berühmten Liederzyklus von Franz Schubert an diese Ihre Lieblingssterbeorte.
+Begleitet werden Sie dabei von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, in die einzige Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
 
 
 ----    
