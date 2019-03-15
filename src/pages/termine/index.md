@@ -20,7 +20,7 @@ published: true
 12:00 Uhr bis ca. 14:00 Uhr
 ## GLOTZT NICHT SO ROMANTISCH       
 ## Podium für Welterbe-Pioniere    
-*Günderode-Filmhaus Oberwesel* 
+*Günderrode-Filmhaus Oberwesel* 
 
 
    
@@ -73,12 +73,12 @@ Freies Schauspiel Ensemble Frankfurt
 
 # 25. August  Oberwesel
 12:00 Uhr bis 14:00 Uhr
-## HOCHROTH!  DIE GÜNDERODE   
+## HOCHROTH!  DIE GÜNDERRODE   
 **Oberwesel für Frauen am Rande des Nervenzusammenbruchs**    
 Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)    
 Birgit Heuser (Theater Willy Praml    
 Heinrich Heine Chor Frankfurt   
-*Günderode-Filmhaus Oberwesel*    
+*Günderrode-Filmhaus Oberwesel*    
 ---   
 
 # 29. August  Bacharach
