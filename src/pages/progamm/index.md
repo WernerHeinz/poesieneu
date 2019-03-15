@@ -29,7 +29,7 @@ Heinrich Heine, Einleitung zu Der Rabbi von Bacharach
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
 So 11. August Matinee   
-im Günderode-Filmhaus Oberwesel    
+im Günderrode-Filmhaus Oberwesel    
 
 Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen sie von Ostern bis Oktober durch das Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.    
 Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
@@ -96,7 +96,7 @@ Begleitet werden Sie dabei von dem Schauspieler Muawia Harb, den es aus Damaskus
 ## HOCHROTH! DIE GÜNDERRODE   
 
 So. 25. August  Matinee   
-im Günderode-Filmhaus Oberwesel    
+im Günderrode-Filmhaus Oberwesel    
 Bettina Kaminski, Freies Schauspielensemble Frankfurt a. M.
 Birgit Heuser, Theater Willy Praml, Frankfurt a. M.
 Heinrich Heine Chor Frankfurt    
