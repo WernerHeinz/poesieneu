@@ -79,14 +79,20 @@ Ein Gastspiel des Freien Schauspielensembles Frankfurt a. M.
 
 ----    
  
-## SCHUBERT. STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
+## SCHUBERT. Die Schöne Müllerin.   
+## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
    
 Fr. 23. August in Lorch 
 Do. 29. August in Bacharach    
 
-Kennen Sie die Orte im linksrheinischen Bacharach oder in Lorch, dem gegenüberliegenden, rechtsrheinischen Städtchen, wo es sich am besten sterben lässt?   
-Wir führen Sie mit einem berühmten Liederzyklus von Franz Schubert an diese Ihre Lieblingssterbeorte.
-Begleitet werden Sie dabei von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, in die einzige Stadt in Deutschland, deren Name eher arabisch als deutsch klingt.    
+Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorch, wo es sich am besten sterben lässt?   
+
+Der Sänger Thomas Hanelt führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
+Begleitet wird er von verschiedenen Instrumentalisten und von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige deutsche Stadt, deren Name mehr arabisch als deutsch klingt. 
+
+REGIE Willy Praml / GESANG Thomas Hanelt / MUSIKER Gitarre, Orgel, Klavier /
+DARSTELLER Muawia Harb
+
 
 
 ----    
