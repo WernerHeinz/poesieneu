@@ -31,11 +31,15 @@ Heinrich Heine, Einleitung zu Der Rabbi von Bacharach
 So 11. August Matinee   
 im Günderrode-Filmhaus Oberwesel    
 
-Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen sie von Ostern bis Oktober durch das Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.    
-Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
-„Halt!“ ruft der Manager: „Die Rheinromantik ist der Markenkern der Tourismuswerbung“.      
-In Wirklichkeit gehörten die Romantiker zur unglücklichsten Generation der neueren deutschen Geschichte: die utopisch erlebte Französische Revolution auf der einen Seite und die in einem der Vergangenheit anhängenden Staatsgebilde vorherrschende Lebensrealität auf der anderen Seite, die Anfänge des Industriezeitalters, die Arbeitsteilung, die Vergottung der Ratio und die neuen Ideale der Profitmaximierung führen zu einem unversöhnlichen Riss zwischen den materiellen und den geistigen Werten der Zeit und lassen die Dichter, die Musiker zu Außenseitern werden, weil man ihre Ideen, ihren Aufbruchsgeist, ihr Feuer der Erneuerung nicht braucht    
-Die Literatur der Deutschen als ein Schlachtfeld – auch das wäre eine Weise, sie zu betrachten. (Christa Wolf)    
+Die Rheinromantik ist der Markenkern der Tourismuswerbung. Mit Recht! Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen wir von Ostern bis Oktober ins Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.  Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
+
+Unser Festival sondiert in den Tiefenschichten der mit der Welterbe-Region verknüpften Romantik und will zu einer Erinnerungskultur der Region beitragen: Mit dem „Rabbi von Bacharach“ nehmen wir in diesem Jahr schon zum dritten Mal Heinrich Heines hier angesiedelte jüdische Geschichtserzählung auf und mit Kleist, Lenz, Schubert, Büchner, E.T.A. Hoffmann und der in diesem Jahr besonders gewürdigten Karoline von Günderrode bringen wir Dichterinnen, Dramatiker und Komponisten aus der Romantik und ihrem Umfeld, die zur unglücklichsten Generation der deutschen Geschichte gehören, ins Mittelrheintal.   
+„Die Literatur der Deutschen als ein Schlachtfeld – auch das wäre eine Weise, sie zu betrachten“.(Christa Wolf)   
+
+Das Podium stellt sich der Frage: Welche „Romantik“ und welcher künstlerische Zugang zur Romantik kann die Selbstbeschreibung des Welterbe-Tales befruchten? Und wie begegnen wir der marktgängigen Verkitschung und Verniedlichung dieser Tiefenschicht unseres kulturellen Gedächtnisses zum Tourismus-Trash?    
+
+Besetzung des Podiums mit namhaften Vertretern aus Kunst, Wissenschaft und Politik 
+
 
 
 -----     
