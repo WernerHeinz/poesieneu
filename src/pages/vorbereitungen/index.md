@@ -21,7 +21,6 @@ Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchs
 Übernachten Sie am Rhein, wenn Sie nach Heine, E.T.A. Hoffmann, Schubert, Büchner, der Günderrode oder der Christa Wolf - von Auslese, Spätlese oder Kabinett berauscht – keine Lust mehr haben, den Heimweg anzutreten; wenn Sie nicht das Glück haben, sowieso Mittelrheintaler zu sein.   
 
 Unser biennales Festival findet in 2019 nun schon zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinde zu einem beträchtlichen Programm angewachsen.
-Wir wünschen Ihnen und uns großes Vergnügen bei der Entdeckung großer Texte in einer großen Landschaft.
+Wir wünschen Ihnen und uns großes Vergnügen bei der Entdeckung großer Texte in einer großen Landschaft.     
 
-
-![Programm-Flyer](/Festival-Poesie-Flyer_oR.pdf)
+![bild](/Festival-Poesie-Flyer_oR.pdf)
