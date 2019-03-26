@@ -22,3 +22,6 @@ Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchs
 
 Unser biennales Festival findet in 2019 nun schon zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinde zu einem beträchtlichen Programm angewachsen.
 Wir wünschen Ihnen und uns großes Vergnügen bei der Entdeckung großer Texte in einer großen Landschaft.
+
+
+![Programm-Flyer](/Festival-Poesie-Flyer_oR.pdf)
