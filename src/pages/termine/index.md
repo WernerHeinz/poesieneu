@@ -56,7 +56,7 @@ Freies Schauspiel Ensemble Frankfurt
  
 # 23. August  Lorch am Rhein
 19:00 Uhr bis ca. 20:45 Uhr
-## Franz Schubert    
+## Franz Schubert DIE SCHÖNE MÜLLERIN   
 **Stadtführung für lebensmüde Musikliebhaber**    
  
 *Startpunkt Kirche St. Martin, Lorch*
