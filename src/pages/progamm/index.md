@@ -91,10 +91,10 @@ Do. 29. August in Bacharach
 
 Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorch, wo es sich am besten sterben lässt?   
 
-Der Sänger Thomas Hanelt führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
+Der Sänger führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
 Begleitet wird er von verschiedenen Instrumentalisten und von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige deutsche Stadt, deren Name mehr arabisch als deutsch klingt. 
 
-REGIE Willy Praml / GESANG Thomas Hanelt / MUSIKER Gitarre, Orgel, Klavier /
+REGIE Willy Praml / GESANG (wird noch bekannt gegeben) / MUSIKER Gitarre, Orgel, Klavier /
 DARSTELLER Muawia Harb
 
 
