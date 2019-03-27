@@ -20,7 +20,10 @@ Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischem Rang,
 *„Unterhalb des Rheingaus, wo die Ufer des Stromes ihre lachende Miene verlieren, Berg und Felsen, mit ihren abenteuerlichen Burgruinen, sich trotziger gebärden, und eine wildere, ernstere Herrlichkeit emporsteigt, dort liegt, wie eine schaurige Sage der Vorzeit, die finstere, uralte Stadt Bacharach ... Diese Mauern waren einst stolz und stark, und in diesen Gassen bewegte sich frisches, freies Leben, Macht und Pracht, Lust und Leid, viel Liebe und viel Haß.“*    
 
 
-REGIE Willy Praml / TEXTFASSUNG, DRAMATURGIE, RÄUME Michael Weber / KOSTÜME Paula Kern / DARSTELLER/INNEN Reinhold Behling, Jakob Gail, Gabriele Graf, Birgit Heuser, Ruth Klapperich, Ibrahim Mahmoud, Sam Michelson, Karl-Heinz Schleis, Claudio Vilardo, Michael Weber / MUSIKER Markus Rölz, Jakob Rullhusen, Sascha Wild / CHOR Heinrich Heine Chor Frankfurt
+REGIE Willy Praml / TEXTFASSUNG, DRAMATURGIE, RÄUME Michael Weber / KOSTÜME Paula Kern /   
+DARSTELLER/INNEN Reinhold Behling, Jakob Gail, Gabriele Graf, Birgit Heuser, Ruth Klapperich, Ibrahim Mahmoud, Sam Michelson, Karl-Heinz Schleis, Claudio Vilardo, Michael Weber /    
+MUSIKER Markus Rölz, Jakob Rullhusen, Sascha Wild /   
+CHOR Heinrich Heine Chor Frankfurt
 
 
 
@@ -83,8 +86,8 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
 
 ----    
  
-## SCHUBERT. Die Schöne Müllerin.   
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
+## Franz Schubert. DIE SCHÖNE MÜLLERIN   
    
 Fr. 23. August in Lorch 
 Do. 29. August in Bacharach    
@@ -94,7 +97,8 @@ Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorc
 Der Sänger führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
 Begleitet wird er von verschiedenen Instrumentalisten und von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige deutsche Stadt, deren Name mehr arabisch als deutsch klingt. 
 
-REGIE Willy Praml / SÄNGER Bariton (wird noch bekannt gegeben) / INSTRUMENTALISTEN  Orgel, Akkordeon, Piano /
+REGIE Willy Praml / SÄNGER Bariton (wird noch bekannt gegeben) /   
+INSTRUMENTALISTEN  Orgel, Akkordeon, Piano /   
 DARSTELLER Muawia Harb
 
 
@@ -116,14 +120,15 @@ Der Heinrich-Heine –Chor aus Frankfurt a. M.  begleitet die beiden Günderrode
 Höher hinaus kann man sich gar nicht versteigen!   
 
 
-DARSTELLERINNEN Bettina Kaminski / Birgit Heuser / CHOR Heinrich Heine Chor, Frankfurt am Main
+DARSTELLERINNEN Bettina Kaminski / Birgit Heuser /   
+CHOR Heinrich Heine Chor, Frankfurt am Main
 
 
  
 -----
 
 ## Bacharach für Todessehnsüchtige
-## Büchner Schubert LENZ    
+## Georg Büchner  LENZ.   
 Theater Willy Paml    
 Fr. 30. und Sa. 31. August   
 VIA-Halle Bacharach    
@@ -138,7 +143,9 @@ Die Verbindung der Musik Schuberts, in der Neubearbeitung des italienischen Komp
 Grandios auch die Kulisse für diese Inszenierung: die ehemalige Sektkellerei Geiling, von der aus die Firma VIA heute die Welt mit erlesenen Fliesen beliefert.   
 
 
-REGIE Willy Praml / DARSTELLER  Michael Weber / TÄNZER Andreas Bach / GESANG Jakob Gail /  MUSIKER Akkordeon & Bass
+REGIE Willy Praml / DARSTELLER  Michael Weber /   
+TÄNZER Andreas Bach / GESANG Jakob Gail /     
+MUSIKER Akkordeon & Bass
 
 
 
