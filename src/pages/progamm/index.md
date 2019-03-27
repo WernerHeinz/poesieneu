@@ -20,7 +20,7 @@ Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischem Rang,
 *„Unterhalb des Rheingaus, wo die Ufer des Stromes ihre lachende Miene verlieren, Berg und Felsen, mit ihren abenteuerlichen Burgruinen, sich trotziger gebärden, und eine wildere, ernstere Herrlichkeit emporsteigt, dort liegt, wie eine schaurige Sage der Vorzeit, die finstere, uralte Stadt Bacharach ... Diese Mauern waren einst stolz und stark, und in diesen Gassen bewegte sich frisches, freies Leben, Macht und Pracht, Lust und Leid, viel Liebe und viel Haß.“*    
 
 
-REGIE Willy Praml / TEXTFASSUNG, DRAMATURGIE, RÄUME Michael Weber / KOSTÜME Paula Kern / DARSTELLER/INNEN Reinhold Behling, Jakob Gail, Gabriele Graf, Birgit Heuser, Ruth Klapperich, Ibrahim Mahmoud, Sam Michelson, Karl-Heinz Schleis, Claudio Vilardo, Michael Weber / MUSIKER Markus Rölz, Jakob Rullhusen, Sascha Wild / Heinrich Heine Chor Frankfurt
+REGIE Willy Praml / TEXTFASSUNG, DRAMATURGIE, RÄUME Michael Weber / KOSTÜME Paula Kern / DARSTELLER/INNEN Reinhold Behling, Jakob Gail, Gabriele Graf, Birgit Heuser, Ruth Klapperich, Ibrahim Mahmoud, Sam Michelson, Karl-Heinz Schleis, Claudio Vilardo, Michael Weber / MUSIKER Markus Rölz, Jakob Rullhusen, Sascha Wild / CHOR Heinrich Heine Chor Frankfurt
 
 
 
@@ -30,7 +30,7 @@ REGIE Willy Praml / TEXTFASSUNG, DRAMATURGIE, RÄUME Michael Weber / KOSTÜME Pa
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11. August Matinee   
+So 11. August 12:00 Uhr Matinee   
 im Günderrode-Filmhaus Oberwesel    
 
 Die Rheinromantik ist der Markenkern der Tourismuswerbung. Mit Recht! Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen wir von Ostern bis Oktober ins Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.  Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
@@ -49,14 +49,15 @@ Besetzung des Podiums mit namhaften Vertretern aus Kunst, Wissenschaft und Polit
 
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
 ## E.T.A. Hoffmann DER GOLDENE TOPF
-Michael Quast und Bruno Kliegl (Glasharmonika)   
-Fliegende Volksbühne Frankfurt   
+
 So. 11. August   
 im Hilchenhaus in Lorch   
-„Der goldene Topf“, E. T. A. Hoffmanns 1814 erschienener Märchenroman, gilt als Höhepunkt romantischer Erzählkunst. Virtuos spielt er mit den Ebenen einer phantastischen Traumwelt und einer gutbürgerlich-spießigen Realität . Der Weg des Studenten Anselmus von Dresden nach Atlantis dürfte auch am Rhein seinen phantasievoll-humoristischen Widerhall finden.   
+„Der goldene Topf“, E. T. A. Hoffmanns 1814 erschienener Märchenroman, gilt als Höhepunkt romantischer Erzählkunst. Virtuos spielt er mit den Ebenen einer phantastischen Traumwelt und einer gutbürgerlich-spießigen Realität . Der Weg des Studenten Anselmus von Dresden nach Atlantis dürfte auch am Rhein seinen phantasievoll-humoristischen Widerhall finden.    
 
-Michael Quast wird beim Erzählen begleitet von Bruno Kliegl, einem der wenigen Glasharmonikaspieler Europas.   
-Ein Gastspiel der Fliegenden Volksbühne, Frankfurt a. M.
+Michael Quast wird beim Erzählen begleitet von Bruno Kliegl, einem der wenigen Glasharmonikaspieler Europas.    
+
+DARSTELLER Michael Quast / MUSIKER Bruno Kliegl   
+Eine Produktion von DIE FLIEGENDE VOLKSBÜHNE, Frankfurt am Main   
 
 ----
 
@@ -67,21 +68,18 @@ Ein Gastspiel der Fliegenden Volksbühne, Frankfurt a. M.
 Fr. 16. August und Sa. 24.August   
 im Jugendheim in Oberwesel   
 
-Ein Paar am Abgrund:    
+Ein Paar am Abgrund:   
 Karoline von Günderrode und Heinrich von Kleist, eine Dichterin und ein Dichter.   
-
-Eine Jahrhundertbegegnung, die es nie gegeben hat. Christa Wolf hat sie beschrieben:    
-
-Kein Ort. Nirgends.    
+Eine Jahrhundertbegegnung, die es nie gegeben hat. Christa Wolf hat sie beschrieben: Kein Ort. Nirgends.   
 Zwei Menschen, die – während die anderen den Anbruch eines neuen Zeitalters, des Zeitalters der Vernunft, der Wissenschaft, des Fortschritts, der Freiheit und Gerechtigkeit feiern – die Abgründe in sich selbst entdecken, die schwindelerregende Leere des Nichts. 
-Sie suchen Halt aneinander und finden sich in einem Augenblick von Wahrheit, Irrsinn, Liebe, Lachen.    
+Sie suchen Halt aneinander und finden sich in einem Augenblick von Wahrheit, Irrsinn, Liebe, Lachen.   
 Morbide Kulisse dafür ist das Jugendheim in Oberwesel – ein Ort, den man fast als verwunschen bezeichnen kann; und der doch durch die Beherbergung vieler Vereine ein ganz lebendiger Raum in Oberwesel ist.   
 
-Inszenierung: Reinhard Hinzpeter    
-Ausstattung: Gerd Friedrich   
-Es spielen: Bettina Kaminski, Adrian Scherschel   
 
-Ein Gastspiel des Freien Schauspielensembles Frankfurt a. M.   
+REGIE Reinhard Hinzpeter / BÜHNE Gerd Friedrich / DARSTELLER/IN Bettina Kaminski, Adrian Scherschel   
+Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
+
+
 
 ----    
  
@@ -107,16 +105,18 @@ DARSTELLER Muawia Harb
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
 ## HOCHROTH! DIE GÜNDERRODE   
 
-So. 25. August  Matinee   
+So. 25. August  12:00 Uhr  Matinee   
 im Günderrode-Filmhaus Oberwesel    
-Bettina Kaminski, Freies Schauspielensemble Frankfurt a. M.
-Birgit Heuser, Theater Willy Praml, Frankfurt a. M.
-Heinrich Heine Chor Frankfurt    
+
 
 „Warum ward´ ich kein Mann! Ich habe keinen Sinn für weibliche Tugenden, für Weiberglückseligkeit.“
-Das Frauen-Leben hat die Günderrode auch nicht lange ausgehalten; hat sich mit Mitte Zwanzig an den Ufern der Poesie sozusagen – am Rheinufer in Winkel im Rheingau – erdolcht. Zwei Schauspielerinnen greifen sich die grünfarbigen Briefblätter der Günderrode und heften sie – wie Waffen – gegen die profane Welt in die Landschaft . . . Eine Landschaft, die zum Sterben schön ist: Vor dem Günderrodehaus in Oberwesel schauen sie von ganz Oben aufs Rheintal hinunter. Ein Ort, an dem man am liebsten selber Anlauf nehmen möchte und  . . .
+Das Frauen-Leben hat die Günderrode auch nicht lange ausgehalten; hat sich mit Mitte Zwanzig an den Ufern der Poesie sozusagen – in Winkel im Rheingau – erdolcht.    
+Zwei Schauspielerinnen greifen sich die grünfarbigen Briefblätter der Günderrode und heften sie – wie Waffen – gegen die profane Welt in die Landschaft; eine Landschaft, die zum Sterben schön ist: Vor dem Günderrodehaus in Oberwesel (Filmkulisse aus Edgar Reitz´s „Heimat 2“) schauen sie von ganz Oben aufs Rheintal hinunter. Ein Ort, an dem man am liebsten selber Anlauf nehmen möchte und  . . .    
 Der Heinrich-Heine –Chor aus Frankfurt a. M.  begleitet die beiden Günderroden mit sechs Varianten des schmerzhaften Volksliedes „In einem kühlen Grunde“.   
-Höher hinaus kann man sich gar nicht versteigen!    
+Höher hinaus kann man sich gar nicht versteigen!   
+
+
+DARSTELLERINNEN Bettina Kaminski / Birgit Heuser / CHOR Heinrich Heine Chor, Frankfurt am Main
 
 
  
@@ -128,15 +128,18 @@ Theater Willy Paml
 Fr. 30. und Sa. 31. August   
 VIA-Halle Bacharach    
 
-BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben    
+BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben  
 von einem Heimatlosen – unbehaust in der Welt und im eigenen Leib,   
 von einem, der mit offenen Wunden in der Welt herumirrt.   
+Verschnitten ist die dramatisierte Erzählung mit Liedern aus SCHUBERTs berühmten Liederzyklus DIE SCHÖNE MÜLLERIN, die einen ähnlichen Seelenzustand beschreiben: Die Stimme des verzweifelt wandernden Müllergesellen, der die Liebe sucht, und den Tod findet.      
 
-SCHUBERT hat in seinem berühmten Liederzyklus DIE SCHÖNE MÜLLERIN einen ähnlichen Seelenzustand beschrieben: Die Stimme des verzweifelt wandernden Müllergesellen, der die Liebe sucht, und den Tod findet.   
+Die Verbindung der Musik Schuberts, in der Neubearbeitung des italienischen Komponisten Alberto Mompellio, klingt wie ein Echo der Sprachgewalten des Büchnerschen LENZ.   
 
-Die Verbindung der Musik Schuberts, in der Neubearbeitung des italienischen Komponisten Alberto Mompellio, klingt wie ein Echo der Sprachgewalten des Büchnerschen LENZ.    
+Grandios auch die Kulisse für diese Inszenierung: die ehemalige Sektkellerei Geiling, von der aus die Firma VIA heute die Welt mit erlesenen Fliesen beliefert.   
 
-Grandios auch die Kulisse für diese Inszenierung: die ehemalige Sektkellerei Geiling, von der aus die Firma VIA heute die Welt mit erlesenen Fliesen  beliefert.    
+
+REGIE Willy Praml / DARSTELLER  Michael Weber / TÄNZER Andreas Bach / GESANG Jakob Gail /  MUSIKER Akkordeon & Bass
+
 
 
 ----
