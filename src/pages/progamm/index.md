@@ -94,7 +94,7 @@ Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorc
 Der Sänger führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
 Begleitet wird er von verschiedenen Instrumentalisten und von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige deutsche Stadt, deren Name mehr arabisch als deutsch klingt. 
 
-REGIE Willy Praml / GESANG (wird noch bekannt gegeben) / MUSIKER Gitarre, Orgel, Klavier /
+REGIE Willy Praml / SÄNGER Bariton (wird noch bekannt gegeben) / INSTRUMENTALISTEN  Orgel, Akkordeon, Piano /
 DARSTELLER Muawia Harb
 
 
