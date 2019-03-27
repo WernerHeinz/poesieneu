@@ -83,7 +83,7 @@ Heinrich Heine Chor Frankfurt
 
 # 29. August  Bacharach
 19:00 Uhr bis ca. 20:45 Uhr
-## Franz Schubert      
+## Franz Schubert. DIE SCHÖNE MÜLLERIN    
 **Stadtführung für lebensmüde Musikliebhaber**    
 *Startpunkt Kirche St. Peter Bacharach*  
 
@@ -91,7 +91,7 @@ Heinrich Heine Chor Frankfurt
 
 # 30. August / 31. August  Bacharach
 19:00 Uhr bis 21:00 Uhr
-## LENZ. Georg Büchner       
+## Georg Büchner. LENZ.       
 **Bacharach für Todessehnsüchtige**    
 Theater Willy Praml    
 *VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach* 
