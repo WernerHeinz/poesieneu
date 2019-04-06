@@ -11,7 +11,7 @@ date: 2019-12-03
       
 ## Rheinhotel Bacharach
 
-**3 Tage Mittelrhein-Festival-Pauschale   
+## 3 Tage Mittelrhein-Festival-Pauschale   
 **195,-€ pro Person im Doppelzimmer**
 
 vom 09.08.2019 bis 11.08.2019   
