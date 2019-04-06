@@ -8,6 +8,7 @@ date: 2019-12-03
       
       
 ## Rheinhotel Bacharach
+![Rheinhotel](/rheinhotel2.jpg)
 Langstr. 50, 55422 Bacharach   
 Tel. 0049 6743 1243 -  Fax 0049 6743 1413   
 www.rhein-hotel-bacharach.de   
