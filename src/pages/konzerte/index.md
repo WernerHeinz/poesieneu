@@ -17,7 +17,6 @@ Mail: info@rhein-hotel-bacharach.de
 
 
 ## 3 Tage Mittelrhein-Festival-Pauschale  
-   
 **195,-€ pro Person im Doppelzimmer**
 
 vom 09.08.2019 bis 11.08.2019   
