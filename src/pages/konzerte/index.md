@@ -46,7 +46,7 @@ Hierfür verwenden wir zunehmend heimische Produkte: Fleisch und Käse aus artge
 
 ## 4 Tage Mittelrhein-Festival-Pauschale    
 
-**248,-€ pro Person im Doppelzimmer
+**248,-€ pro Person im Doppelzimmer**    
 
 vom 30.08.2019 bis 02.09.2019
 
