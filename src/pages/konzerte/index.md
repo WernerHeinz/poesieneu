@@ -12,7 +12,8 @@ date: 2019-12-03
 
 Langstr. 50, 55422 Bacharach   
 Tel. 0049 6743 1243 -  Fax 0049 6743 1413   
-www.rhein-hotel-bacharach.de   
+<a class="links" href="http://www.rhein-hotel-bacharach.de" target="_blank" rel="noopener noreferrer">
+Theater Willy Praml    </a>   
 Mail: info@rhein-hotel-bacharach.de    
 
 
