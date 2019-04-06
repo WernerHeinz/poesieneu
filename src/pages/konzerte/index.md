@@ -1,11 +1,11 @@
 ---
 path: /konzerte
-title: Heinrich-Heine-Lieder
+title: Unterkunft - Gastronomie - Festival-Pauschalen
 date: 2019-12-03
 ---
 
 
-# Unterkunft - Gstronomie - Festival: Pauschalangebote
+# Unterkunft - Gastronomie - Festival: Pauschalangebote
  
 ## Rheinhotel Bacharach
 
