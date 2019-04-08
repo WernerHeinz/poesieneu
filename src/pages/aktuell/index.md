@@ -18,7 +18,7 @@ Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in K
 Solche Zusammenkünfte in der Bachracher Obergasse signalisieren: die Bacchanale, das große Abschlussfest des festivals, wird geplant.
 Von besonderem Interesse: Leerstände in der Oberstraße: sie werden für einen Nachmittag zu Spielstätten und Ausstellungs-Orten einer ganz speziellen Performance von echten und gefälschten Mittelrheinern   
 ![Bild](/bacchanalefenster.jpg)   
-Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow
+Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow
 
 # 1.3.19  Das Programm steht
 ![Bild](/ghaus1.jpg)    
