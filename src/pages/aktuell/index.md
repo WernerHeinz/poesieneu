@@ -12,6 +12,13 @@ published: true
 
 Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Dabei wurde auch das Festival-Programm nochmals vorgestellt. Einigkeit besteht: Das Festival soll 2019 ein kulturelles Highlight im Verbund BaKaLoNi werden - und in Zukunft bitte Aufführungen in allen vier Gemeinden präsentieren.   
 
+# Ortstermin Bacchanale-Casting Oberstraße Bacharach   
+![Bild](/bacchanalevb2.jpg)   
+
+Solche Zusammenkünfte in der Bachracher Obergasse signalisieren: die Bacchanale, das große Abschlussfest des festivals, wird geplant.
+Von besonderem Interesse: Leerstände in der Oberstraße: sie werden für einen Nachmittag zu Spielstätten und Ausstellungs-Orten einer ganz speziellen Performance von echten und gefälschten Mittelrheinern
+![Bild](/bacchanalefenster.jpg)   
+Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow
 
 # 1.3.19  Das Programm steht
 ![Bild](/ghaus1.jpg)    
