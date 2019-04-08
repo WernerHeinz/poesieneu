@@ -12,13 +12,22 @@ published: true
 
 Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Dabei wurde auch das Festival-Programm nochmals vorgestellt. Einigkeit besteht: Das Festival soll 2019 ein kulturelles Highlight im Verbund BaKaLoNi werden - und in Zukunft bitte Aufführungen in allen vier Gemeinden präsentieren.   
 
+Fortsetzung: Sontag, 14. April 2019, um 14.30 Uhr in Niederheimbach    
+Unverbindliche Anmeldung beim Verkehrsverein Niederheimbach *verkehrsverein@niederheimbach.de*    
+
+# ----    
+
+
+
 # Ortstermin Bacchanale-Casting Oberstraße Bacharach   
 ![Bild](/bacchanalevb2.jpg)   
 ![Bild](/bacchanalevb1.jpg)
 Solche Zusammenkünfte in der Bacharacher Obergasse signalisieren: die Bacchanale, das große Abschlussfest des Festivals, wird geplant.
 Von besonderem Interesse: Leerstände in der Oberstraße. Sie werden für einen Nachmittag zu Spielstätten und Ausstellungs-Orten einer ganz speziellen Performance mit echten und gefälschten Mittelrheinern   
 ![Bild](/bacchanalefenster1.jpg)   
-Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow
+Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow     
+
+# ----
 
 # 1.3.19  Das Programm steht
 ![Bild](/ghaus1.jpg)    
@@ -26,7 +35,9 @@ Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow
 Begeistert vom Welterbetal: Die beiden Regie-Teams mit dem großartigen Blick vom Günderode-Filmhaus Oberwesel ins Mittelrheintal    
 
 Nach einer Rundfahrt der Regie-Teams von Theater Willy Praml und Freiem Schauspiel Ensemble zu den Spielstätten des Festivals machen wir jetzt einen Knopf dran: das Programm steht.    
-Jetzt beginnt die Öffentlichkeitsarbeit.
+Jetzt beginnt die Öffentlichkeitsarbeit.    
+
+#----    
 
 
 # Arbeitsgemeinschaft Festival
@@ -47,7 +58,6 @@ Wir wollen dazu keinen weiteren Verein gründen, sondern die Arbeitsgemeinschaft
 
 ----    
 
-<h2>Das Programm 2019 nimmt Konturen an...</h2>
 
 <h3>...und der Chor singt sich schon mal ein</h3>
 
