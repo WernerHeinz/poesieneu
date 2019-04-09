@@ -6,14 +6,14 @@ published: true
 ---
 
 # 7.4.19 BaKaLoNi Schlender-Weinprobe    
-# Das Festival soll ein Highlight im Verbund der Gemeinden Bacharach-Kaub-Lorch-Niederheimbach werden   
 
 ![Bild](/Schlender-Weinprobe Kaub 7.4.19.jpg)   
 
-Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Dabei wurde auch das Festival-Programm nochmals vorgestellt. Einigkeit besteht: Das Festival soll 2019 ein kulturelles Highlight im Verbund BaKaLoNi werden - und in Zukunft bitte Aufführungen in allen vier Gemeinden präsentieren.   
+Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Dabei wurde auch das Festival-Programm nochmals vorgestellt. 
+Einigkeit besteht: **Das Festival soll 2019 ein kulturelles Highlight im Verbund BaKaLoNi werden - und in Zukunft bitte Aufführungen in allen vier Gemeinden präsentieren**.   
 
-Fortsetzung: Sonntag, 14. April 2019, um 14.30 Uhr in Niederheimbach. Eingeladen sind alle Interessierten.       
-Unverbindliche Anmeldung beim Verkehrsverein Niederheimbach *verkehrsverein@niederheimbach.de*    
+# Fortsetzung: Sonntag, 14. April 2019, um 14.30 Uhr in Niederheimbach.   
+Eingeladen sind alle Interessierten. Unverbindliche Anmeldung beim Verkehrsverein Niederheimbach *verkehrsverein@niederheimbach.de*    
 
 # ----    
 
