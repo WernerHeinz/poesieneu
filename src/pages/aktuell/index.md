@@ -12,7 +12,7 @@ published: true
 
 Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Dabei wurde auch das Festival-Programm nochmals vorgestellt. Einigkeit besteht: Das Festival soll 2019 ein kulturelles Highlight im Verbund BaKaLoNi werden - und in Zukunft bitte Aufführungen in allen vier Gemeinden präsentieren.   
 
-Fortsetzung: Sontag, 14. April 2019, um 14.30 Uhr in Niederheimbach    
+Fortsetzung: Sonntag, 14. April 2019, um 14.30 Uhr in Niederheimbach. Eingeladen sind alle Interessierten.       
 Unverbindliche Anmeldung beim Verkehrsverein Niederheimbach *verkehrsverein@niederheimbach.de*    
 
 # ----    
@@ -22,8 +22,7 @@ Unverbindliche Anmeldung beim Verkehrsverein Niederheimbach *verkehrsverein@nied
 # Ortstermin Bacchanale-Casting Oberstraße Bacharach   
 ![Bild](/bacchanalevb2.jpg)   
 ![Bild](/bacchanalevb1.jpg)
-Solche Zusammenkünfte in der Bacharacher Obergasse signalisieren: die Bacchanale, das große Abschlussfest des Festivals, wird geplant.
-Von besonderem Interesse: Leerstände in der Oberstraße. Sie werden für einen Nachmittag zu Spielstätten und Ausstellungs-Orten einer ganz speziellen Performance mit echten und gefälschten Mittelrheinern   
+Solche Zusammenkünfte in der Bacharacher Obergasse signalisieren: die Bacchanale wird geplant, das große Abschlussfest des Festivals am 1.September. Von besonderem Interesse sind dabei die Leerstände in der Oberstraße. Sie werden für einen Nachmittag zu Spielstätten und Ausstellungs-Orten für eine ganz spezielle Performance mit echten und gefälschten Mittelrheinern   
 ![Bild](/bacchanalefenster1.jpg)   
 Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow     
 
