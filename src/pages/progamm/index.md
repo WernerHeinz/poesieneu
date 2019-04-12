@@ -14,6 +14,7 @@ Vorstellungen mit Datum, Uhrzeiten und Preisen siehe "Termine"
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. August / Sa. 17. & So. 18. August   
+jeweils 15:30 Uhr bis ca. 20:00 Uhr
 Bacharach Wernerkapelle und weitere Spielstätten    
 
 Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischem Rang, dem Romantiker und Gegner der Romantik in einem im Gepäck machen wir uns auf den Weg, das mittelalterliche Städtchen Bacharach wandernd zu erforschen. Heines Erzählung DER RABBI VON BACHARACH ist der rote Faden unseres theatralen Parcours und wird flankiert von weiteren Texten und Textfragmenten, die um das Leben eines überzeugten Europäers erster Stunde kreisen.    
@@ -33,8 +34,9 @@ CHOR Heinrich Heine Chor Frankfurt
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11. August 12:00 Uhr Matinee   
-im Günderrode-Filmhaus Oberwesel    
+So 11. August 12:00 Uhr Matinee  
+im Günderrode-Filmhaus Oberwesel  
+(Eintritt frei)    
 
 Die Rheinromantik ist der Markenkern der Tourismuswerbung. Mit Recht! Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen wir von Ostern bis Oktober ins Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.  Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
 
@@ -53,7 +55,7 @@ Besetzung des Podiums mit namhaften Vertretern aus Kunst, Wissenschaft und Polit
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
 ## E.T.A. Hoffmann DER GOLDENE TOPF
 
-So. 11. August   
+So. 11. August 19:30 Uhr - 21:30 Uhr  
 im Hilchenhaus in Lorch   
 „Der goldene Topf“, E. T. A. Hoffmanns 1814 erschienener Märchenroman, gilt als Höhepunkt romantischer Erzählkunst. Virtuos spielt er mit den Ebenen einer phantastischen Traumwelt und einer gutbürgerlich-spießigen Realität . Der Weg des Studenten Anselmus von Dresden nach Atlantis dürfte auch am Rhein seinen phantasievoll-humoristischen Widerhall finden.    
 
@@ -68,7 +70,8 @@ Eine Produktion von DIE FLIEGENDE VOLKSBÜHNE, Frankfurt am Main
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 ## Christa Wolf KEIN ORT. NIRGENDS   
 
-Fr. 16. August und Sa. 24.August   
+Fr. 16. August und Sa. 24.August  
+19:30 Uhr - 21:00 Uhr    
 im Jugendheim in Oberwesel   
 
 Ein Paar am Abgrund:   
@@ -89,8 +92,8 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
 ## Franz Schubert. DIE SCHÖNE MÜLLERIN   
    
-Fr. 23. August in Lorch 
-Do. 29. August in Bacharach    
+Fr. 23. August in Lorch 19:00 Uhr    
+Do. 29. August in Bacharach 19:00 Uhr    
 
 Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorch, wo es sich am besten sterben lässt?   
 
@@ -109,7 +112,7 @@ DARSTELLER Muawia Harb
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
 ## HOCHROTH! DIE GÜNDERRODE   
 
-So. 25. August  12:00 Uhr  Matinee   
+So. 25. August  12:00 Uhr - 14:00 Uhr       
 im Günderrode-Filmhaus Oberwesel    
 
 
@@ -131,6 +134,7 @@ CHOR Heinrich Heine Chor, Frankfurt am Main
 ## Georg Büchner  LENZ.   
 Theater Willy Paml    
 Fr. 30. und Sa. 31. August   
+19:30 Uhr  - 21::00 Uhr
 VIA-Halle Bacharach    
 
 BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben  
@@ -156,7 +160,9 @@ MUSIKER Akkordeon & Bass
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 
-So. 1.September  in der Oberstraße in Bacharach    
+So. 1.September ab 16:00 Uhr    
+in der Oberstraße in Bacharach
+ab 18:00 Uhr Schlussakkord im Rathaushof  
 
 Und zum Schluss das Ende! Natürlich ein Fest – aber ein außergewöhnliches.   
 Spazieren Sie, kulinarisch versorgt, durch Bacharachs „Obergasse“.    
