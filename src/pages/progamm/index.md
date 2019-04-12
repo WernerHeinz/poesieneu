@@ -90,8 +90,11 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
 ## Franz Schubert. DIE SCHÖNE MÜLLERIN   
    
-Fr. 23. August in Lorch 19:00 Uhr    
-Do. 29. August in Bacharach 19:00 Uhr    
+Fr. 23. August in Lorch   
+Start 19:00 Uhr Kirche St. Martin    
+    
+Do. 29. August in Bacharach   
+Start 19:00 Uhr Kirche St. Peter   
 
 Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorch, wo es sich am besten sterben lässt?   
 
