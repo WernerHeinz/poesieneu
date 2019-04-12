@@ -4,9 +4,7 @@ date: '2017-11-07'
 title: Infos zum Programm
 published: true
 ---
-Vorstellungen mit Datum, Uhrzeiten und Preisen siehe "Termine"     
-
----   
+ 
 
 
 ## DER RABBI VON BACHERACH. HEINE.   
@@ -14,7 +12,7 @@ Vorstellungen mit Datum, Uhrzeiten und Preisen siehe "Termine"
 Theatraler Parcours mit dem Theater Willy Praml   
 
 Sa 10. August / Sa. 17. & So. 18. August   
-jeweils 15:30 Uhr bis ca. 20:00 Uhr
+jeweils 15:30 Uhr bis ca. 20:00 Uhr    
 Bacharach Wernerkapelle und weitere Spielstätten    
 
 Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischem Rang, dem Romantiker und Gegner der Romantik in einem im Gepäck machen wir uns auf den Weg, das mittelalterliche Städtchen Bacharach wandernd zu erforschen. Heines Erzählung DER RABBI VON BACHARACH ist der rote Faden unseres theatralen Parcours und wird flankiert von weiteren Texten und Textfragmenten, die um das Leben eines überzeugten Europäers erster Stunde kreisen.    
@@ -34,7 +32,7 @@ CHOR Heinrich Heine Chor Frankfurt
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
 
-So 11. August 12:00 Uhr Matinee  
+So 11. August 12:00 Uhr Matinee   
 im Günderrode-Filmhaus Oberwesel  
 (Eintritt frei)    
 
@@ -134,7 +132,7 @@ CHOR Heinrich Heine Chor, Frankfurt am Main
 ## Georg Büchner  LENZ.   
 Theater Willy Paml    
 Fr. 30. und Sa. 31. August   
-19:30 Uhr  - 21::00 Uhr
+19:30 Uhr  - 21::00 Uhr    
 VIA-Halle Bacharach    
 
 BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben  
@@ -161,8 +159,8 @@ Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der R
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 
 So. 1.September ab 16:00 Uhr    
-in der Oberstraße in Bacharach
-ab 18:00 Uhr Schlussakkord im Rathaushof  
+in der Oberstraße in Bacharach    
+ab 18:00 Uhr Schlussakkord im Rathaushof    
 
 Und zum Schluss das Ende! Natürlich ein Fest – aber ein außergewöhnliches.   
 Spazieren Sie, kulinarisch versorgt, durch Bacharachs „Obergasse“.    
