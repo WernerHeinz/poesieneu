@@ -108,7 +108,7 @@ Theater Willy Praml
 ---   
 
 
-# ***Vorverkauf ab April***   
+# ***Vorverkauf ab Ostern***   
 Tickets:   
 www.ticket­regional.de oder www.rhein­nahe­touristik.de fon +49 (0) 6743 919303    
 
