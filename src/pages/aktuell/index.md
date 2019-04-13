@@ -4,6 +4,8 @@ date: '2017-11-07'
 title: Aktuelles
 published: true
 ---
+# Festival-Flyer geht jetzt in die Druckerei   
+![Bild](/festival-flyer S1.pdf)
 
 # 7.4.19 BaKaLoNi Schlender-Weinprobe    
 
