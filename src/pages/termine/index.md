@@ -114,8 +114,9 @@ www.ticket­regional.de oder www.rhein­nahe­touristik.de fon +49 (0) 6743 9193
 
 Eintritt "Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 19,50€ / erm. 10€  
-Kombi-Tickets: "Rabbi" + 1 weitere Vorstellung   =  35 €   
-               2 Vorstellungen (ohne "Rabbi)     =  30 €   
+Kombi-Tickets:    
+- "Rabbi" + eine weitere Vorstellung   =  35 €   
+- zwei Vorstellungen (ohne "Rabbi)     =  30 €   
 Ermäßigungen: Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis   
 
 
