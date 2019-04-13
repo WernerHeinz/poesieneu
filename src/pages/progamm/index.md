@@ -5,10 +5,9 @@ title: Infos zum Programm
 published: true
 ---
  
-<img src="/programm.jpg" width="200px" height="200px" alt="Programm" />
-
-![bild](/flyer-2.jpg) 
-
+<img src="/programm.jpg" width="200px" height="200px" alt="Programm" />    
+-> [Programm downloaden](/flyer-2.pdf)   
+   
 
 ## DER RABBI VON BACHERACH. HEINE.   
 ## STATIONEN EINES TRAUMAS       
