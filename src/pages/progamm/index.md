@@ -5,8 +5,8 @@ title: Infos zum Programm
 published: true
 ---
  
-![Bild](/Festival-Flyer S.1.pdf)
-!/Festival-Flyer S.1.pdf
+![Bild](/festivalflyer.jpg)    
+
 
 ## DER RABBI VON BACHERACH. HEINE.   
 ## STATIONEN EINES TRAUMAS       
