@@ -6,6 +6,8 @@ published: true
 ---
 # Festival-Flyer geht jetzt in die Druckerei   
 ![Bild](/festivalflyer.jpg)
+Katrin Gloggengießer hat einen wunderbaren Programm-Flyer gestaltet. Nach Ostern wird der Flyer in allen Gemeinden des Welterbes verteilt.     
+
 
 # 7.4.19 BaKaLoNi Schlender-Weinprobe    
 
