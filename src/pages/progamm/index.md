@@ -5,6 +5,9 @@ title: Infos zum Programm
 published: true
 ---
 
+
+![Bild](/flyer-2.jpg)   
+
 ## DER RABBI VON BACHERACH. HEINE.   
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
