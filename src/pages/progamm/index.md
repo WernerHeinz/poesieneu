@@ -1,10 +1,10 @@
-va---
+
 path: /programm/
 date: '2017-11-07'
 title: Infos zum Programm
 published: true
 ---
- 
+
 ## DER RABBI VON BACHERACH. HEINE.   
 ## STATIONEN EINES TRAUMAS       
 Theatraler Parcours mit dem Theater Willy Praml   
