@@ -5,7 +5,9 @@ title: Infos zum Programm
 published: true
 ---
  
-![Bild](/festivalflyer.jpg)    
+<img src="/programm.jpg" width="200px" height="200px" alt="Programm" />
+
+-> [Programm downloaden](/Festival-Flyer S.1.pdf) 
 
 
 ## DER RABBI VON BACHERACH. HEINE.   
