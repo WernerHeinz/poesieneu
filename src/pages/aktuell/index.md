@@ -5,7 +5,7 @@ title: Aktuelles
 published: true
 ---
 # Festival-Flyer geht jetzt in die Druckerei   
-![Bild](/Festival-Flyer S.1.pdf)
+![Bild](/festivalflyer.jpg)
 
 # 7.4.19 BaKaLoNi Schlender-Weinprobe    
 
