@@ -5,7 +5,7 @@ title: Aktuelles
 published: true
 ---
 # Festival-Flyer geht jetzt in die Druckerei   
-![Bild](/festivalflyer.jpg)   
+![Bild](/festivalflyer.png)   
 Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. Nach Ostern wird der Flyer in allen Gemeinden des Welterbes verteilt.     
 
 
