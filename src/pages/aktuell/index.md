@@ -5,8 +5,8 @@ title: Aktuelles
 published: true
 ---
 
-# 14.4.19 BaKaLoNi Schlender-Weinprobe in Niederheimbach
-Die Niederheimbacher hatten super originelle BaKaLoNi-Schenderweinprobe vorbereitet: mit 4 Bürgermeistern auf der Fähre...
+# 14.April -  BaKaLoNi Schlender-Weinprobe in Niederheimbach
+Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schenderweinprobe vorbereitet: mit 4 Bürgermeistern auf der Fähre...
 ![Bild](/buegermeister-fähre.jpg)
 ... und einer richtigen Blasmusi, zu der sich die Fähre im Dreivierteltakt mitten auf dem Rhein drehte und drehte und drehte, dass den wartenden Autofahrern auf der rechten Rheinseite recht mulmig wurde....
 ![Bild](/faehre-musi.jpg)
@@ -34,7 +34,7 @@ Wir arbeiten daran, in jeder BaKaLoNi-Gemeinde mindestens eine Vorstellung anzub
 Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. Nach Ostern wird der Flyer in allen Gemeinden des Welterbes verteilt.     
 
 
-# 7.4.19 BaKaLoNi Schlender-Weinprobe    
+# 7.April -  BaKaLoNi Schlender-Weinprobe in Kaub    
 
 ![Bild](/Schlender-Weinprobe Kaub 7.4.19.jpg)   
 
