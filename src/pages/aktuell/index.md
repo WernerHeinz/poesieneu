@@ -6,11 +6,12 @@ published: true
 ---
 
 # 14.4.19 BaKaLoNi Schlender-Weinprobe in Niederheimbach
-![Bild](/bürgermeister.jpg)
-![Bild](/fähre-musi.jpg)
+![Bild](/Buergermeister Faehre.jpg)
+![Bild](/faehre-musi.jpg)
 ![Bild](/keller.jpg)
-![Bild](/flyer-2.jpg)
-![Bild](/flyer-2.jpg)
+![Bild](/michael.jpg)
+![Bild](/orgel-riesling.jpg)
+![Bild](/kirche.jpg)
 
 # Festival-Flyer geht jetzt in die Druckerei   
 ![Bild](/flyer-2.jpg)   
