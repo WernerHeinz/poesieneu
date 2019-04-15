@@ -4,6 +4,14 @@ date: '2017-11-07'
 title: Aktuelles
 published: true
 ---
+
+# 14.4.19 BaKaLoNi Schlender-Weinprobe in Niederheimbach
+![Bild](/bürgermeister.jpg)
+![Bild](/fähre-musi.jpg)
+![Bild](/keller.jpg)
+![Bild](/flyer-2.jpg)
+![Bild](/flyer-2.jpg)
+
 # Festival-Flyer geht jetzt in die Druckerei   
 ![Bild](/flyer-2.jpg)   
 Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. Nach Ostern wird der Flyer in allen Gemeinden des Welterbes verteilt.     
