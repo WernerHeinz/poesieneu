@@ -10,7 +10,7 @@ Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schlenderweinprobe vo
 ![Bild](/buegermeister-fähre.jpg)
 ... und einer richtigen Blasmusi, zu der sich die Fähre im Dreivierteltakt mitten auf dem Rhein drehte und drehte und drehte wobei den wartenden Autofahrern auf der rechten Rheinseite schon recht mulmig wurde....
 ![Bild](/faehre-musi.jpg)
-... vorher schon eingestimmt mit einem feinen 2016er Riesling Spätlese feinherb in den 65-Meter-Stollen des Schiefer-Kellers vom Weingut Fendel 
+... vorher schon eingestimmt mit einer feinen 2016er Riesling Spätlese feinherb in den 65-Meter-Stollen des Schiefer-Kellers vom Weingut Fendel 
 ![Bild](/keller.png)
 ...dann ein trockener Riesling aus der Orgelpfeife
 ![Bild](/orgelwein.png)
