@@ -9,9 +9,9 @@ published: true
 ![Bild](/Buergermeister Faehre.jpg)
 ![Bild](/faehre-musi.jpg)
 ![Bild](/keller.jpg)
-![Bild](/michael.jpg)
-![Bild](/orgel-riesling.jpg)
+![Bild](/orgelwein.jpg)
 ![Bild](/kirche.jpg)
+![Bild](/michael.jpg)
 
 # Festival-Flyer geht jetzt in die Druckerei   
 ![Bild](/flyer-2.jpg)   
