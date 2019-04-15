@@ -19,7 +19,7 @@ Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schlenderweinprobe vo
 ....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.   
 (Suchbild: wie viele Weingläser und wie viele Gebetbücher finden Sie?...)
 ![Bild](/kirche.jpg)
-... im Übrigen gibt es bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst apirituellen Messwein-Wirkung bei den Engeln.
+... im Übrigen gibt es bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei den Engeln.
 ![Bild](/michael.jpg)
 
 Gratulation zum Erfolg des ersten Projektes "Schlender-Weinprobe" in den vier BaKaLoNi-Gemeinden.
