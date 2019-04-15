@@ -6,13 +6,25 @@ published: true
 ---
 
 # 14.4.19 BaKaLoNi Schlender-Weinprobe in Niederheimbach
+Die Niederheimbacher hatten sich eine originelle BaKaLoNi-Schenderweisprobe vorbereitet: mit 4 Bürgermeistern auf der Fähre...
 ![Bild](/buegermeister-fähre.jpg)
+... und einer richtigen Blasmusi, zu der sich die Fähre mitten auf dem Rhein drehte und drehte und drehte, dass dan Autofahrern, die  auf der rechten Seite warteten, schon mulmig wurde....
 ![Bild](/faehre-musi.jpg)
+... vorher schon mit einem feinen 2016er Riesling feinherb in den 65-Meter-Stollen des Schiefer-Kellers vom Weingut Fendel 
 ![Bild](/keller.png)
+...dann der trockene Riesling aus der Orgelpfeife
 ![Bild](/orgelwein.png)
+...und im Vorgriff auf die Liturgie-Reform des Vatikans mit Messwein für alle in die katholische Kirche 
 ![Bild](/kirche-riesling.jpg)
+....wo man die ökumenische Wirkung des neuen Stils der Kotaholen an der menge der Evangelen ablesen konnte.
 ![Bild](/kirche.jpg)
+...und im Übrigen gibt es bereits aus alten Zeiten überzeugende Zeugnisse der Messwein-Wirkung selbst bei den Engeln.
 ![Bild](/michael.jpg)
+
+Gratulation zum Erfolg des ersten BaKaLoNi-Projektes "Schlender-Weinprobe" in den vier Gemeinden.
+
+Und im August dann das zweite BaKaLoNi-Projekt: Das Festival "An den Ufern der Poesie".    
+Wir arbeiten daran, in jeder BaKaLoNi-Gemeinde mindestens eine Vorstellung anzubieten.
 
 # Festival-Flyer geht jetzt in die Druckerei   
 ![Bild](/flyer-2.jpg)   
