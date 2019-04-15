@@ -8,8 +8,8 @@ published: true
 # 14.4.19 BaKaLoNi Schlender-Weinprobe in Niederheimbach
 ![Bild](/buegermeister-fähre.jpg)
 ![Bild](/faehre-musi.jpg)
-![Bild](/keller.jpg)
-![Bild](/orgelwein.jpg)
+![Bild](/keller.png)
+![Bild](/orgelwein.png)
 ![Bild](/kirche-riesling.jpg)
 ![Bild](/kirche.jpg)
 ![Bild](/michael.jpg)
