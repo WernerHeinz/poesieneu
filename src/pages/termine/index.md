@@ -81,11 +81,11 @@ Heinrich Heine Chor Frankfurt
 *Günderrode-Filmhaus Oberwesel*    
 ---   
 
-# 29. August  Bacharach
+# 29. August  Kaub  *(Achtung: Spielort geändert!)*
 19:00 Uhr bis ca. 20:45 Uhr
 ## Franz Schubert. DIE SCHÖNE MÜLLERIN    
 **Stadtführung für lebensmüde Musikliebhaber**    
-*Startpunkt Kirche St. Peter Bacharach*  
+*Startpunkt Kirche*  
 
 ---   
 
