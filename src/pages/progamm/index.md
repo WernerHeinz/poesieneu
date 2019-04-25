@@ -94,10 +94,10 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
 Fr. 23. August in Lorch   
 Start 19:00 Uhr Kirche St. Martin    
     
-Do. 29. August in Bacharach   
-Start 19:00 Uhr Kirche St. Peter   
+Do. 29. August voraussichtlich in Kaub   *(Achtung: Änderung des Spielortes geplant!)*
+Start 19:00 Uhr Kirche    
 
-Kennen Sie die Orte im linksrheinischen Bacharach oder im rechtsrheinischen Lorch, wo es sich am besten sterben lässt?   
+Kennen Sie die Orte in Lorch und Kaub, wo es sich am besten sterben lässt?   
 
 Der Sänger führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
 Begleitet wird er von verschiedenen Instrumentalisten und von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige deutsche Stadt, deren Name mehr arabisch als deutsch klingt. 
