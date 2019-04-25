@@ -11,7 +11,13 @@ Entsprechend versuchen wir nun, auch in den Gemeinden Kaub und Niederheimbach je
 An diesem Samstag wird die Festival-Leitung in Kaub eruieren, ob die "Stadtführung für lebensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. dort stattfinden kann   
 Und in Niederheimbach suchen wir nun einen Termin für ein Konzert des Heinrich Heine Chors mit seinem ZÜNDFUNKEN-Programm: Lieder aus der Romantik bis zu Brecht/Eisler & Bob Dylan & Mikis Theodorakis/Pablo Neruda  
 
-Das Ergebnis finden Sie nächste Woche an diesem Ort.....    und ab übernächster Woche im ausführlichen Programm-Flyer
+Das Ergebnis finden Sie nächste Woche an diesem Ort.....      
+    
+und ab übernächster Woche im ausführlichen Programm-Flyer
+
+# Festival-Flyer geht jetzt in die Druckerei   
+![Bild](/flyer-2.jpg)   
+Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. In 14 Tagen wird der Flyer in allen Gemeinden des Welterbes verteilt.    
 
 #----    
 
@@ -39,11 +45,6 @@ Im August bringen wir dann dann das zweite BaKaLoNi-Projekt auf den Weg: Das Fes
 Wir arbeiten daran, in jeder BaKaLoNi-Gemeinde mindestens eine Vorstellung anzubieten.
 
 #---   
-
-
-# Festival-Flyer geht jetzt in die Druckerei   
-![Bild](/flyer-2.jpg)   
-Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. Nach Ostern wird der Flyer in allen Gemeinden des Welterbes verteilt.     
 
 
 # 7.April -  BaKaLoNi Schlender-Weinprobe in Kaub    
