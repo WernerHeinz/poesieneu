@@ -5,6 +5,17 @@ title: Aktuelles
 published: true
 ---
 
+# 25.April - Wir versuchen, alle vier BaKaLoNi-Gemeinden in das Festival-Programm einzubeziehen
+Bei den Schlender-Weinproben in Kaub und Niederheimbach haben wir mit den Bürgermeistern besprochen, dass das Festival in diesem Jahr das zweite gemeinsame BaKaLoNi-Projekt im Welterbetal werden soll.   
+Entsprechend versuchen wir nun, auch in den Gemeinden Kaub und Niederheimbach je eine Festival-Vorstellung anzusiedeln.   
+An diesem Samstag wird die Festival-Leitung in Kaub eruieren, ob die "Stadtführung für lebenensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. dort stattfinden kann   
+Und in Niederheimbach suchen wir nun einen Termin für ein Konzert des Heinrich Heine Chors mit seinem ZÜNDFUNKEN-Programm: Lieder aus der Romantik bis zu Brecht/Eisler & Bob Dylan & Mikis Theodorakis/Pablo Neruda  
+
+Das Ergebnis finden Sie nächste Woche an diesem Ort.....    
+
+#----    
+
+
 # 14.April -  BaKaLoNi Schlender-Weinprobe in Niederheimbach
 Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schlenderweinprobe vorbereitet: mit 4 Bürgermeistern auf der Fähre...
 ![Bild](/buegermeister-fähre.jpg)
