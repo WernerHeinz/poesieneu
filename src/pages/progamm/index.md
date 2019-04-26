@@ -114,7 +114,7 @@ DARSTELLER Muawia Harb
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
 ## HOCHROTH! DIE GÜNDERRODE   
 
-So. 25. August  12:00 Uhr - 14:00 Uhr       
+Termin ist noch unsicher      
 im Günderrode-Filmhaus Oberwesel    
 
 
