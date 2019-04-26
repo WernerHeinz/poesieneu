@@ -71,7 +71,7 @@ Freies Schauspiel Ensemble Frankfurt
     
 ---   
 
-# 25. August  Oberwesel
+# Termin offen - Klärung bis 28.4. 
 12:00 Uhr bis 14:00 Uhr
 ## HOCHROTH!  DIE GÜNDERRODE   
 **Oberwesel für Frauen am Rande des Nervenzusammenbruchs**    
