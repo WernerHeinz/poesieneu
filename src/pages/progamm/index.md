@@ -8,12 +8,11 @@ published: true
 
 ![Bild](/flyer-2.jpg)   
 
-
+#Theatraler Parcours mit dem Theater Willy Praml in Bacharach
 ![Bild](/rabbi-2.jpg)   
-#Theatraler Parcours mit dem Theater Willy Praml  
 #Sa 10. August / Sa. 17. & So. 18. August   
 #jeweils 15:30 Uhr bis ca. 20:00 Uhr    
-# Start Bacharach Wernerkapelle - Parcours zu weiteren Spielstätten    
+# Start in der Wernerkapelle Bacharach  
 
 Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischem Rang, dem Romantiker und Gegner der Romantik in einem im Gepäck machen wir uns auf den Weg, das mittelalterliche Städtchen Bacharach wandernd zu erforschen. Heines Erzählung DER RABBI VON BACHARACH ist der rote Faden unseres theatralen Parcours und wird flankiert von weiteren Texten und Textfragmenten, die um das Leben eines überzeugten Europäers erster Stunde kreisen.    
 *„Unterhalb des Rheingaus, wo die Ufer des Stromes ihre lachende Miene verlieren, Berg und Felsen, mit ihren abenteuerlichen Burgruinen, sich trotziger gebärden, und eine wildere, ernstere Herrlichkeit emporsteigt, dort liegt, wie eine schaurige Sage der Vorzeit, die finstere, uralte Stadt Bacharach ... Diese Mauern waren einst stolz und stark, und in diesen Gassen bewegte sich frisches, freies Leben, Macht und Pracht, Lust und Leid, viel Liebe und viel Haß.“*    
@@ -29,8 +28,7 @@ CHOR Heinrich Heine Chor Frankfurt
 -----     
 
 
-## GLOTZT NICHT SO ROMANTISCH !!!    
-## PODIUM FÜR WELTERBE-PIONIERE   
+  
 ![Bild](/Glotzt-nicht-2.jpg)
 #So 11. August 12:00 Uhr Matinee   
 #im Günderrode-Filmhaus Oberwesel  
@@ -50,8 +48,7 @@ Besetzung des Podiums mit namhaften Vertretern aus Kunst, Wissenschaft und Polit
 -----     
 
 
-## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
-## E.T.A. Hoffmann DER GOLDENE TOPF
+
 ![Bild](/Goldner-Topf-2.jpg)
 #So. 11. August 19:30 Uhr - 21:30 Uhr  
 #im Hilchenhaus in Lorch   
@@ -65,8 +62,7 @@ Eine Produktion von DIE FLIEGENDE VOLKSBÜHNE, Frankfurt am Main
 ----
 
 
-## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
-## Christa Wolf KEIN ORT. NIRGENDS   
+   
 ![Bild](/kein-Ort-2.jpg)
 #Fr. 16. August und Sa. 24.August  
 #19:30 Uhr - 21:00 Uhr    
@@ -87,8 +83,7 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
 
 ----    
  
-## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
-## Franz Schubert. DIE SCHÖNE MÜLLERIN   
+  
 ![Bild](/schoene-muellerin-2.jpg)   
 #Fr. 23. August in Lorch   
 #Start 19:00 Uhr Kirche St. Martin    
@@ -131,8 +126,7 @@ CHOR Heinrich Heine Chor, Frankfurt am Main
  
 -----
 
-## Bacharach für Todessehnsüchtige
-## Georg Büchner  LENZ.   
+
 Theater Willy Paml    
 ![Bild](/Lenz-2.jpg)
 
@@ -158,8 +152,7 @@ MUSIKER Akkordeon & Bass
 
 ----
 
-## BACCHANALE.   
-## TRUNKENES FEST ZUM NÜCHTERNWERDEN    
+  
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
 ![Bild](/Bacchanal-2.jpg)
