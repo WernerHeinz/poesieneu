@@ -33,7 +33,7 @@ die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrhe
 ![Bild](/keller.png)
 ...und nach einem trockenen Riesling aus der Orgelpfeife
 ![Bild](/orgelwein.png)
-...ging's  im Vorgriff auf die Liturgie-Reform des Vatikans mit "Messwein für alle" in die katholischen Kirche 
+...ging's  im Vorgriff auf die Liturgie-Reform des Vatikans mit "Messwein für alle" in die katholische Kirche 
 ![Bild](/kirche-riesling.jpg)
 ....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.*(Suchbild: wie viele Weingläser und wie viele Gebetbücher entdecken Sie?...)*   
 
