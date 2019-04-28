@@ -8,10 +8,9 @@ published: true
 
 ![Bild](/flyer-2.jpg)   
 
-## DER RABBI VON BACHERACH. HEINE.   
-## STATIONEN EINES TRAUMAS       
-Theatraler Parcours mit dem Theater Willy Praml   
+
 ![Bild](/rabbi-2.jpg)   
+#Theatraler Parcours mit dem Theater Willy Praml  
 #Sa 10. August / Sa. 17. & So. 18. August   
 #jeweils 15:30 Uhr bis ca. 20:00 Uhr    
 # Start Bacharach Wernerkapelle - Parcours zu weiteren Spielstätten    
