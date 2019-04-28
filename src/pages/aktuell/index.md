@@ -4,20 +4,22 @@ date: '2017-11-07'
 title: Aktuelles
 published: true
 ---
-
-# Festival-Programm für alle vier BaKaLoNi-Gemeinden plus Oberwesel
-Nach den eindrucksvollen  Schlender-Weinproben an den letzten Wochenenden steht fest: Das Festival soll in diesem Jahr unbedingt auch ein BaKaLoNi-Projekt im Welterbetal werden! *(Für diejenigen, die das Kürzel noch nicht kennen: BaKaLoNi steht für eine bürgerschaftliche Initiative der vier Gemeinden Bacharach - Kaub - Lorch - Niederheimbach, die sich als links-rechtsrheinischer Gemeinde-Verbund quer über den Strom enger zusammenarbeiten wollen)*.    
-Zusätzlich zu den bisher geplanten Aufführungorten Bacharach, Oberwesel und Lorch wird es auch in Kaub und Niederheimbach eigene Aufführungen geben.    
-  
-Dm Samstag hat das Regie-Team sich **Kaub** angeschaut - und einen wunderbaren und überzeugenden Parcours für die "Stadtführung für lebensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. gefunden.    
-Und in **Niederheimbach**  bereiten wir ein Konzert des Heinrich Heine Chors vor: Mit Liedern und Texten von Heinrich Heine und seinen poetischen Verwandtschaften aus der Romantik bis zu Brecht/Eisler & Bob Dylan & Mikis Theodorakis/Pablo Neruda  
-
-
 # Festival-Flyer geht jetzt in die Druckerei   
 ![Bild](/flyer-2.jpg)   
-Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. In 14 Tagen wird der Flyer in allen Gemeinden des Welterbes verteilt.    
+Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet. In 14 Tagen wird der Flyer in allen Gemeinden des Welterbes verteilt. 
 
-#----    
+# ---
+
+# Neu: Ein Festival-Programm für alle vier BaKaLoNi-Gemeinden plus Oberwesel
+Nach den eindrucksvollen BaKaLoNi-Schlender-Weinproben an den letzten Wochenenden steht fest: Das Festival soll in diesem Jahr unbedingt auch ein BaKaLoNi-Projekt im Welterbetal werden! *(Für diejenigen, die das Kürzel noch nicht kennen: BaKaLoNi steht für eine bürgerschaftliche Initiative der vier Gemeinden Bacharach - Kaub - Lorch - Niederheimbach, die als links-rechtsrheinischer Gemeinde-Verbund quer über den Strom enger zusammenarbeiten wollen)*.    
+Zusätzlich zu den bisher geplanten Aufführungorten Bacharach, Oberwesel und Lorch wird es also auch in Kaub und Niederheimbach eigene Aufführungen geben.    
+  
+Gestern, Samstag, hat das sich Festival-Regie-Team **Kaub** angeschaut - und einen überzeugenden Parcours für unsere "Stadtführung für lebensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. gefunden.    
+Und in **Niederheimbach**  bereitet der Heinrich Heine Chor ein *Zündfunken*-Konzert vor: mit Liedern und Texten von Heinrich Heine und seinen poetischen Verwandtschaften aus der Romantik bis zu Brecht/Eisler & Bob Dylan & Mikis Theodorakis/Pablo Neruda   
+(aktualisiert Sonntag 27.4.19, 14:00 Uhr)
+
+
+# ----    
 
 
 # 14.April -  BaKaLoNi Schlender-Weinprobe in Niederheimbach
@@ -42,7 +44,7 @@ Gratulation zum Erfolg des ersten Projektes "Schlender-Weinprobe" in den vier Ba
 Im August bringen wir dann dann das zweite BaKaLoNi-Projekt auf den Weg: Das Festival "An den Ufern der Poesie".    
 Wir arbeiten daran, in jeder BaKaLoNi-Gemeinde mindestens eine Vorstellung anzubieten.
 
-#---   
+# ---   
 
 
 # 7.April -  BaKaLoNi Schlender-Weinprobe in Kaub    
@@ -76,7 +78,7 @@ Begeistert vom Welterbetal: Die beiden Regie-Teams mit dem großartigen Blick vo
 Nach einer Rundfahrt der Regie-Teams von Theater Willy Praml und Freiem Schauspiel Ensemble zu den Spielstätten des Festivals machen wir jetzt einen Knopf dran: das Programm steht.    
 Jetzt beginnt die Öffentlichkeitsarbeit.    
 
-#----    
+# ----    
 
 
 # Arbeitsgemeinschaft Festival
@@ -95,7 +97,7 @@ Wir wollen dazu keinen weiteren Verein gründen, sondern die Arbeitsgemeinschaft
 **Wer das Festival aktiv unterstützen und in der Arbeitsgemeinschaft mitwirken möchte, richte seine/ihre Interessenbekundung bitte an:** 
 **whz.clubnaxos@gmail.com**     
 
-----    
+# ----    
 
 
 <h3>...und der Chor singt sich schon mal ein</h3>
@@ -103,11 +105,4 @@ Wir wollen dazu keinen weiteren Verein gründen, sondern die Arbeitsgemeinschaft
 ![Bild](/chor.jpg)     
 
 
-# Fortsetzung des Festivals in biennalem Turnus
-2015 und 2017 haben wir unser inzwischen legendäres Heine-Projekt, mit dem wir 2013  mehr als 3000 Zuschauer zu sieben Spieltstätten auf den  Fundamenten der Frankfurter Judengasse geführt hatten, mit großem Erfolg nach Bacharach am Rhein übertragen. 
 
-Der viereinhalbstündige theatrale Parcours führt dort von der Ruine der St. Werner-Kapelle zum Rheinufer und weiter zu fünf außergewöhnlichen Spielorten im schönen Rheinstädtchen. 
-
-2017 haben wir Heines „Rabbi von Bacharach“ um weitere Inszenierungen in Bacharach, Lorch und Oberwesel zu einem Festival  „An den Ufern der Poesie“ erweitert, das zufünftig in biennalem Turnus im Welterbe Oberes Mittelrheintal stattfinden soll.
-
-Und jetzt stecken wir mitten in den Planungen des Festivals 2019. An zwei Wochenenden im August 2019 wird es drei Aufführungen des „Rabbi von Bacharach“ geben. Unsere Freundinnen und Freunde vom Frankfurter Schauspiel-Ensemble werden – ebenfalls im August - ihre Inszenierung von Christa Wolfs „Kein Ort. Nirgends“ an den Rhein mitbringen und auch der große hessische Komiker und Volksschauspieler Michael Quast wird  mit seiner Fliegenden Volksbühne an den Ufern der Poesie im Welterbe landen.
