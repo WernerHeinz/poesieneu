@@ -22,16 +22,17 @@ Und in **Niederheimbach**  bereitet der Heinrich Heine Chor ein *Zündfunken*-Ko
 # ----    
 
 
-# 14.April -  BaKaLoNi Schlender-Weinprobe in Niederheimbach
-Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schlenderweinprobe vorbereitet: mit 4 Bürgermeistern auf der Fähre...
+# Große Gratulation zum Erfolg der "Schlender-Weinproben" in den vier BaKaLoNi-Gemeinden.    
+am 14. April: Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....    
+die mit 4 Bürgermeistern nahmen die Parade auf der Fähre ab ...
 ![Bild](/buegermeister-fähre.jpg)
-... und einer richtigen Blasmusi, zu der sich die Fähre im Dreivierteltakt mitten auf dem Rhein drehte und drehte und drehte wobei den wartenden Autofahrern auf der rechten Rheinseite schon recht mulmig wurde....
+... die Blasmusi blies mit dicken Backen und die Fähre drehte und dreht und drehte sich dazu im Dreivierteltakt mitten auf dem Rhein    ...dass den wartenden Autofahrern auf der rechten Rheinseite recht mulmig wurde....
 ![Bild](/faehre-musi.jpg)
-... vorher schon eingestimmt mit einer feinen 2016er Riesling Spätlese feinherb in den 65-Meter-Stollen des Schiefer-Kellers vom Weingut Fendel 
+... vorher hatte man sich schon - eingestimmt mit einer feinen 2016er Riesling Spätlese feinherb - den 65-Meter-Stollen des Schiefer-Kellers vom Weingut Fendel inspiziert.....     
 ![Bild](/keller.png)
-...dann ein trockener Riesling aus der Orgelpfeife
+...und nach einem trockenen Riesling aus der Orgelpfeife
 ![Bild](/orgelwein.png)
-...und im Vorgriff auf die Liturgie-Reform des Vatikans mit "Messwein für alle" in die katholischen Kirche 
+...ging's  im Vorgriff auf die Liturgie-Reform des Vatikans mit "Messwein für alle" in die katholischen Kirche 
 ![Bild](/kirche-riesling.jpg)
 ....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.   
 (Suchbild: wie viele Weingläser und wie viele Gebetbücher finden Sie?...)   
@@ -39,10 +40,9 @@ Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schlenderweinprobe vo
 ... im Übrigen gibt es bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei den Engeln.
 ![Bild](/michael.jpg)
 
-Gratulation zum Erfolg des ersten Projektes "Schlender-Weinprobe" in den vier BaKaLoNi-Gemeinden.
 
-Im August bringen wir dann dann das zweite BaKaLoNi-Projekt auf den Weg: Das Festival "An den Ufern der Poesie".    
-Wir arbeiten daran, in jeder BaKaLoNi-Gemeinde mindestens eine Vorstellung anzubieten.
+
+
 
 # ---   
 
