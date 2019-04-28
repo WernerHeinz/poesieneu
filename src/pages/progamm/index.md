@@ -32,7 +32,7 @@ CHOR Heinrich Heine Chor Frankfurt
 
 ## GLOTZT NICHT SO ROMANTISCH !!!    
 ## PODIUM FÜR WELTERBE-PIONIERE   
-
+![Bild](/Glotzt-nicht-2.jpg)
 So 11. August 12:00 Uhr Matinee   
 im Günderrode-Filmhaus Oberwesel  
 (Eintritt frei)    
@@ -53,7 +53,7 @@ Besetzung des Podiums mit namhaften Vertretern aus Kunst, Wissenschaft und Polit
 
 ## LORCH FÜR WELTÜBERDRÜSSIGE PHANTASTEN    
 ## E.T.A. Hoffmann DER GOLDENE TOPF
-
+![Bild](/Goldner-Topf-2.jpg)
 So. 11. August 19:30 Uhr - 21:30 Uhr  
 im Hilchenhaus in Lorch   
 „Der goldene Topf“, E. T. A. Hoffmanns 1814 erschienener Märchenroman, gilt als Höhepunkt romantischer Erzählkunst. Virtuos spielt er mit den Ebenen einer phantastischen Traumwelt und einer gutbürgerlich-spießigen Realität . Der Weg des Studenten Anselmus von Dresden nach Atlantis dürfte auch am Rhein seinen phantasievoll-humoristischen Widerhall finden.    
@@ -68,7 +68,7 @@ Eine Produktion von DIE FLIEGENDE VOLKSBÜHNE, Frankfurt am Main
 
 ## OBERWESEL FÜR SELBSTMORDKANDIDATEN                  
 ## Christa Wolf KEIN ORT. NIRGENDS   
-
+![Bild](/kein-Ort-2.jpg)
 Fr. 16. August und Sa. 24.August  
 19:30 Uhr - 21:00 Uhr    
 im Jugendheim in Oberwesel   
@@ -90,7 +90,7 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
  
 ## STADTFÜHRUNG FÜR LEBENSMÜDE MUSIKLIEBHABER   
 ## Franz Schubert. DIE SCHÖNE MÜLLERIN   
-   
+![Bild](/schoene-muellerin-2.jpg)   
 Fr. 23. August in Lorch   
 Start 19:00 Uhr Kirche St. Martin    
     
@@ -114,7 +114,7 @@ DARSTELLER Muawia Harb
 ## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
 ## HOCHROTH! DIE GÜNDERRODE   
 
-Termin ist noch unsicher      
+Termin  unsicher      
 im Günderrode-Filmhaus Oberwesel    
 
 
@@ -135,6 +135,8 @@ CHOR Heinrich Heine Chor, Frankfurt am Main
 ## Bacharach für Todessehnsüchtige
 ## Georg Büchner  LENZ.   
 Theater Willy Paml    
+![Bild](/Lenz-2.jpg)
+
 Fr. 30. und Sa. 31. August   
 19:30 Uhr  - 21::00 Uhr    
 VIA-Halle Bacharach    
@@ -161,7 +163,7 @@ MUSIKER Akkordeon & Bass
 ## TRUNKENES FEST ZUM NÜCHTERNWERDEN    
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
-
+![Bild](/Bacchanal-2.jpg)
 So. 1.September ab 16:00 Uhr    
 in der Oberstraße in Bacharach    
 ab 18:00 Uhr Schlussakkord im Rathaushof    
