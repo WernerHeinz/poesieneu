@@ -67,6 +67,7 @@ Eingeladen sind alle Interessierten. Unverbindliche Anmeldung beim Verkehrsverei
 Solche Zusammenkünfte in der Bacharacher Obergasse signalisieren: die Bacchanale wird geplant, das große Abschlussfest des Festivals am 1.September. Von besonderem Interesse sind dabei die Leerstände in der Oberstraße. Sie werden für einen Nachmittag zu Spielstätten und Ausstellungs-Orten für eine ganz spezielle Performance mit echten und gefälschten Mittelrheinern   
 ![Bild](/bacchanalefenster1.jpg)   
 Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow     
+![Bild](/Bacchanal-2.jpg)   
 
 # ----
 
