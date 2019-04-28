@@ -34,8 +34,8 @@ Die Niederheimbacher hatten eine super originelle BaKaLoNi-Schlenderweinprobe vo
 ...und im Vorgriff auf die Liturgie-Reform des Vatikans mit "Messwein für alle" in die katholischen Kirche 
 ![Bild](/kirche-riesling.jpg)
 ....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.   
-(Suchbild: wie viele Weingläser und wie viele Gebetbücher finden Sie?...)
-![Bild](/kirche.jpg)
+(Suchbild: wie viele Weingläser und wie viele Gebetbücher finden Sie?...)   
+
 ... im Übrigen gibt es bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei den Engeln.
 ![Bild](/michael.jpg)
 
