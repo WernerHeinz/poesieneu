@@ -49,7 +49,9 @@ die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrhe
 
 ![Bild](/Schlender-Weinprobe Kaub 7.4.19.jpg)   
 
-Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Der Lorcher Stadtbürgermeister Jürgen Helbing  stellte bei diesem Anlass auch das Festival-Programm nochmals vor. Man ist sich einig: **Das Festival soll in diesem Sommer ein kulturelles Highlight für den Verbund BaKaLoNi werden**.   
+Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Stadtbürgermeister Karl Heinz Lachmann führte ungefägr 90 Neugierige aus Kaub und den drei BaKaLoNi-Nachbar-Gemeinden auf eine rieslinggestützte historische Exkursion vom Blücher-Denkmal durch den Stadtkern zum Blücher-Museum. Und der Stadtbürgermeister Jürgen Helbing stellte als Gast aus Lorch bei diesem Anlass  unser Festival-Programm vor. Man ist sich einig:   
+**Das Festival soll in diesem Sommer ein kulturelles Highlight für den Verbund BaKaLoNi werden**.    
+**Und eigentlich müsste es doch auch eine Vorstellung in Kaub geben!** 
  
 
 # ----    
