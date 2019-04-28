@@ -12,19 +12,16 @@ published: true
 
 ![Bild](/rabbi-2.jpg)   
 # 10. August   Bacharach   
-15:30 Uhr bis ca. 20:00 Uhr   
-## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
+15:30 Uhr bis ca. 20:00 Uhr     
 **Theatraler Parcours mit dem Theater Willy Praml**   
-*Start in der Wernerkapelle*    
+*Start in der Wernerkapelle Bacharach*    
 
 
 #---   
 
 ![Bild](/glotzt-nicht-2.jpg)    
 # 11. August Oberwesel
-12:00 Uhr bis ca. 14:00 Uhr
-## GLOTZT NICHT SO ROMANTISCH       
-## Podium für Welterbe-Pioniere    
+12:00 Uhr bis ca. 14:00 Uhr     
 *Günderrode-Filmhaus Oberwesel* 
 
 
@@ -33,9 +30,7 @@ published: true
 
 ![Bild](/goldner-topf-2.jpg)   
 # 11. August   Lorch am Rhein 
-19:30 Uhr bis ca. 21:30 Uhr
-## E.T.A. Hoffmann   DER GOLDENE TOPF      
-**Lorch für weltüberdrüssige Phantasten**    
+19:30 Uhr bis ca. 21:30 Uhr       
 Michael Quast und Bruno Kliegl (Glasharmonika)    
 *Hilchenhaus  Lorch am Rhein*  
 
@@ -44,8 +39,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 
 ![Bild](/rabbi-2.jpg)    
 # 17. August / 18. August  Bacharach
-15:30 Uhr bis ca. 20:00 Uhr   
-## DER RABBI VON BACHERACH. HEINE -  Stationen eines Traumas      
+15:30 Uhr bis ca. 20:00 Uhr     
 **Theatraler Parcours mit dem Theater Willy Praml**   
  *Start in der Wernerkapelle  Bacharach*      
   
@@ -53,9 +47,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
  
 ![Bild](/kein-ort-2.jpg)    
  # 16. August  Oberwesel
-19:30 Uhr bis ca. 21:00 Uhr
-## Christa Wolf  KEIN ORT.NIRGENDS.
-**Oberwesel für Selbstmordkandidaten**    
+19:30 Uhr bis ca. 21:00 Uhr       
 Freies Schauspiel Ensemble Frankfurt    
 *Jugendheim Oberwesel*   
  
@@ -63,18 +55,14 @@ Freies Schauspiel Ensemble Frankfurt
  
 ![Bild](/schoene-muellerin-2.jpg)   
 # 23. August  Lorch am Rhein
-19:00 Uhr bis ca. 20:45 Uhr
-## Franz Schubert DIE SCHÖNE MÜLLERIN   
-**Stadtführung für lebensmüde Musikliebhaber**    
+19:00 Uhr bis ca. 20:45 Uhr      
 *Startpunkt Kirche St. Martin, Lorch*
 
 ---   
 
 ![Bild](/kein-ort-2.jpg)  
 # 24. August  Oberwesel
-19:30 Uhr bis ca. 21:00 Uhr
-## Christa Wolf  KEIN ORT.NIRGENDS.      
-**Oberwesel für Selbstmordkandidaten**   
+19:30 Uhr bis ca. 21:00 Uhr      
 Freies Schauspiel Ensemble Frankfurt    
 *Jugendheim Oberwesel*   
    
@@ -91,18 +79,14 @@ Heinrich Heine Chor Frankfurt
 
 ![Bild](/schoene-muellerin-2.jpg)   
 # 29. August  Kaub  *(Achtung: Spielort geändert!)*
-19:00 Uhr bis ca. 20:45 Uhr
-## Franz Schubert. DIE SCHÖNE MÜLLERIN    
-**Stadtführung für lebensmüde Musikliebhaber**    
-*Startpunkt Kirche*  
+19:00 Uhr bis ca. 20:45 Uhr       
+*Start ev.und kath. Kirche*  
  
 ---   
 
 ![Bild](/lenz-2.jpg)    
 # 30. August / 31. August  Bacharach
-19:00 Uhr bis 21:00 Uhr
-## Georg Büchner. LENZ.       
-**Bacharach für Todessehnsüchtige**    
+19:00 Uhr bis 21:00 Uhr       
 Theater Willy Praml    
 *VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach* 
 
@@ -110,9 +94,7 @@ Theater Willy Praml
 
 ![Bild](/bacchanal-2.jpg)   
 # 1. September  Bacharach
-16:00 Uhr bis 20:00 Uhr
-## BACCHANALE   
-**Ein trunkenes Fest zum Nüchternwerden**       
+16:00 Uhr bis 20:00 Uhr         
 **mit echten und gefälschten Mittelrheintalern**    
 *Oberstraße mit Schlussakkord im Rathaushof Bacharach*     
 
