@@ -23,12 +23,12 @@ Und in **Niederheimbach**  bereitet der Heinrich Heine Chor ein *Zündfunken*-Ko
 
 
 # Große Gratulation zum Erfolg der "Schlender-Weinproben" in den vier BaKaLoNi-Gemeinden.    
-am 14. April: Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....    
-die mit 4 Bürgermeistern nahmen die Parade auf der Fähre ab ...
+14. April: Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....    
+die  4 Bürgermeistern nahmen die Parade auf der Fähre ab ...
 ![Bild](/buegermeister-fähre.jpg)
 ... die Blasmusi blies mit dicken Backen und die Fähre drehte und dreht und drehte sich dazu im Dreivierteltakt mitten auf dem Rhein    ...dass den wartenden Autofahrern auf der rechten Rheinseite recht mulmig wurde....
 ![Bild](/faehre-musi.jpg)
-... vorher hatte man sich schon - eingestimmt mit einer feinen 2016er Riesling Spätlese feinherb - den 65-Meter-Stollen des Schiefer-Kellers vom Weingut Fendel inspiziert.....     
+... vorher hatte man schon - eingestimmt mit einer feinen 2016er Riesling Spätlese feinherb - den 65-Meter-Schiefer-Stollen-Keller des Weinguts Fendel inspiziert.....     
 ![Bild](/keller.png)
 ...und nach einem trockenen Riesling aus der Orgelpfeife
 ![Bild](/orgelwein.png)
@@ -37,10 +37,8 @@ die mit 4 Bürgermeistern nahmen die Parade auf der Fähre ab ...
 ....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.   
 (Suchbild: wie viele Weingläser und wie viele Gebetbücher finden Sie?...)   
 
-... im Übrigen gibt es bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei den Engeln.
+... im Übrigen gibt es dort bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei den Engeln.
 ![Bild](/michael.jpg)
-
-
 
 
 
@@ -51,11 +49,8 @@ die mit 4 Bürgermeistern nahmen die Parade auf der Fähre ab ...
 
 ![Bild](/Schlender-Weinprobe Kaub 7.4.19.jpg)   
 
-Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Dabei wurde auch das Festival-Programm nochmals vorgestellt. 
-Einigkeit besteht: **Das Festival soll 2019 ein kulturelles Highlight im Verbund BaKaLoNi werden - und in Zukunft bitte Aufführungen in allen vier Gemeinden präsentieren**.   
-
-# Fortsetzung: Sonntag, 14. April 2019, um 14.30 Uhr in Niederheimbach.   
-Eingeladen sind alle Interessierten. Unverbindliche Anmeldung beim Verkehrsverein Niederheimbach *verkehrsverein@niederheimbach.de*    
+Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in Kaub statt. Der Lorcher Stadtbürgermeister Jürgen Helbing  stellte bei diesem Anlass auch das Festival-Programm nochmals vor. Man ist sich einig: **Das Festival soll in diesem Sommer ein kulturelles Highlight für den Verbund BaKaLoNi werden**.   
+ 
 
 # ----    
 
