@@ -6,10 +6,10 @@ published: true
 ---
 
 # Festival-Programm für alle vier BaKaLoNi-Gemeinden plus Oberwesel
-Nach den eindrucksvollen  Schlender-Weinproben an den letzten Wochenenden steht fest: Das Festival soll in diesem Jahr unbedingt auch ein BaKaLoNi-Projekt im Welterbetal werden!   
+Nach den eindrucksvollen  Schlender-Weinproben an den letzten Wochenenden steht fest: Das Festival soll in diesem Jahr unbedingt auch ein BaKaLoNi-Projekt im Welterbetal werden! *(Für diejenigen, die das Kürzel noch nicht kennen: BaKaLoNi steht für eine bürgerschaftliche Initiative der vier Gemeinden Bacharach - Kaub - Lorch - Niederheimbach, die sich als links-rechtsrheinischer Gemeinde-Verbund quer über den Strom enger zusammenarbeiten wollen).   
   
-Dm Samstag hat das Regie-Team sich Kaub angeschaut - und einen wunderbaren und überzeugenden Parcours für die "Stadtführung für lebensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. gefunden.    
-Und in Niederheimbach klären wird es ein Konzert des Heinrich Heine Chors geben: Mit Liedern und Texten von Heinrich Heine und seinen poetischen Verwandtschaften aus der Romantik bis zu Brecht/Eisler & Bob Dylan & Mikis Theodorakis/Pablo Neruda  
+Dm Samstag hat das Regie-Team sich **Kaub** angeschaut - und einen wunderbaren und überzeugenden Parcours für die "Stadtführung für lebensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. gefunden.    
+Und in **Niederheimbach**  wird es ein Konzert des Heinrich Heine Chors geben: Mit Liedern und Texten von Heinrich Heine und seinen poetischen Verwandtschaften aus der Romantik bis zu Brecht/Eisler & Bob Dylan & Mikis Theodorakis/Pablo Neruda  
 
 
 # Festival-Flyer geht jetzt in die Druckerei   
