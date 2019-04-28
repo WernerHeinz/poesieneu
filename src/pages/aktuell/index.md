@@ -23,10 +23,11 @@ Und in **Niederheimbach**  bereitet der Heinrich Heine Chor ein *Zündfunken*-Ko
 
 
 # Große Gratulation zum Erfolg der "Schlender-Weinproben" in den vier BaKaLoNi-Gemeinden.    
-14. April: Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....    
+14. April: Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....   
+
 die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrheinischen Ämterwürde die Parade auf der Fähre ab ...
 ![Bild](/buegermeister-fähre.jpg)
-... die Blasmusi blies mit dicken Backen und die Fähre drehte und drehte und drehte sich dazu im Dreivierteltakt mitten auf dem Rhein    ...dass den wartenden Autofahrern auf der rechten Rheinseite recht mulmig wurde....
+... die Blasmusi blies mit dicken Backen...und die Fähre drehte und drehte und drehte sich im Dreivierteltakt mitten auf dem Rhein    ...dass den wartenden Autofahrern auf der rechten Rheinseite recht mulmig wurde....
 ![Bild](/faehre-musi.jpg)
 ... vorher hatte man schon - eingestimmt mit einer anregenden 2016er Riesling Spätlese feinherb - den 65-Meter-Schiefer-Stollen-Keller des Weinguts Fendel inspiziert.....     
 ![Bild](/keller.png)
@@ -34,9 +35,9 @@ die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrhe
 ![Bild](/orgelwein.png)
 ...ging's  im Vorgriff auf die Liturgie-Reform des Vatikans mit "Messwein für alle" in die katholischen Kirche 
 ![Bild](/kirche-riesling.jpg)
-....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.*(Suchbild: wie viele Weingläser und wie viele Gebetbücher entdecken Sie?...)   
+....wo man die ökumenische Wirkung des neuen katholischen Stils am Andrang der Evangelen ablesen konnte.*(Suchbild: wie viele Weingläser und wie viele Gebetbücher entdecken Sie?...)*   
 
-... im Übrigen gibt es dort bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei den Engeln.
+... im Übrigen gibt es dort bereits aus alten Zeiten überzeugende bildnerische Studien zur äußerst spirituellen Messwein-Wirkung bei  Erzengeln.
 ![Bild](/michael.jpg)
 
 
