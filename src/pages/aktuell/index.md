@@ -5,7 +5,7 @@ title: Aktuelles
 published: true
 ---
 
-# 25.April - Festival-Programm für alle vier BaKaLoNi-Gemeinden plus Oberwesel
+# Festival-Programm für alle vier BaKaLoNi-Gemeinden plus Oberwesel
 Nach den eindrucksvollen  Schlender-Weinproben an den letzten Wochenenden steht fest: Das Festival soll in diesem Jahr unbedingt auch ein BaKaLoNi-Projekt im Welterbetal werden!   
   
 Dm Samstag hat das Regie-Team sich Kaub angeschaut - und einen wunderbaren und überzeugenden Parcours für die "Stadtführung für lebensmüde Musikliebhaber" mit Franz Schuberts Schöner Müllerin am 29.8. gefunden.    
