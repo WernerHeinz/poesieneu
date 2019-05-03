@@ -111,9 +111,21 @@ DOPPELGÄNGER Muawia Harb
 
 ----    
 
+# HonneyPain.  Männerchor trifft LoopMachine
+*Niederheimbach für zum Weinen schöne Männerstimmen*   
+#So. 25.August in Niederheimbach   
+Start: 14:00 Uhr bis 17:00 Uhr
+Start im Hof der Heimburg Niederheimbach - Abschluss in der katholischen Pfarrkirche   
+Was passiert, wenn sich der Heinrich Heine Chor mit Liedern von Schumann bis Bob Dylan, Marcus Plath mit Texten von Heinrich Heine und Gregor Praml mit Bass und LoopMachine im Innenhof der Heimburg in Niederheimbach treffen?   
+Wir können Ihnen zumindest garantieren, dass Sie an diesem Sonntagnachmittag statt der üblichen Schwarzwälderkirschtorte „In Honig getauchten Schmerz“ (H. Heine) genießen können.  
+GESANG  Heinrich Heine Chor Frankfurt/Main    
+BASS & LOOPMACHINE Gregor Praml   
+REZITATION Marcus Plath
 
 
-Theater Willy Paml    
+----    
+
+Theater Willy Praml    
 ![Bild](/Lenz-2.jpg)
 
 #Fr. 30. und Sa. 31. August   
