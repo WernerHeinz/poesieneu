@@ -10,15 +10,14 @@ published: true
 
 # 10. AUGUST - 1. SEPTEMBER 2019        
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER 
-mit Heinrich Heine & Karoline von Günderrode & E.T.A.Hoffmann & Franz Schubert & Georg Büchner & Christa Wolf     
-# im Welterbe Oberes Mittelrheintal   
-
+# im Welterbe Oberes Mittelrheintal 
+von -mit - über: Heinrich Heine, Karoline von Günderrode, Heinrich von Kleist, Jakob Michael Reinhold Lenz, E.T.A.Hoffmann, Franz Schubert, Georg Büchner & Christa Wolf   
+  
 # SCHIRMHERRSCHAFT: Malu Dreyer   
-**Ministerpräsidentin Rheinland-Pfalz**    
-
+**Ministerpräsidentin des Landes Rheinland-Pfalz**    
+   
 Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Oberwesel oder Lorch –
 staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Canyon –   
-
 und geraten Sie ins Schwärmen und Seufzen über tolle Texte und Lieder, wunderbare theatrale Spaziergänge und Inszenierungen in einer Kulisse, die schon Richard Wagner für die beste aller Bühnenbilder gehalten hat.   
 
 Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchsvolles Programm und möchte Sie verführen, mal nicht  nur eine Veranstaltung zu besuchen: Kommen Sie für zwei oder drei Tage.   
