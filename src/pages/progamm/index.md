@@ -110,9 +110,7 @@ DOPPELGÄNGER Muawia Harb
 
 
 ----    
-![Bild](/screenshot.png)
-# HonneyPain.  Männerchor trifft LoopMachine
-*Niederheimbach für zum Weinen schöne Männerstimmen*   
+![Bild](/honeypain-2.jpg)       
 #So. 25.August in Niederheimbach   
 Start: 14:00 Uhr bis 17:00 Uhr   
 Start im Hof der Heimburg Niederheimbach - Abschluss in der katholischen Pfarrkirche   
