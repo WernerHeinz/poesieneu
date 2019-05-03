@@ -76,7 +76,7 @@ Freies Schauspiel Ensemble Frankfurt
 *Startpunkt: evangelische Kirche Kaub*  
  
 #---   
-![Bild](/Schreenshot.png)   
+![Bild](/honeypain-2.jpg)   
 # HoneyPain / Männerchor trifft LoopMachine   
 Niederheimbach für zum Weinen schöne Männerstimmen    
 # 25. August  Niederheimbach   
