@@ -11,7 +11,7 @@ published: true
 #Theatraler Parcours mit dem Theater Willy Praml in Bacharach
 ![Bild](/rabbi-2.jpg)   
 #Sa 10. August / Sa. 17. & So. 18. August   
-#jeweils 15:30 Uhr bis ca. 20:00 Uhr    
+jeweils 15:30 Uhr bis ca. 20:00 Uhr    
 # Start in der Wernerkapelle Bacharach  
 
 Mit Heinrich Heine, dem deutschen und jüdischen Dichter von europäischem Rang, dem Romantiker und Gegner der Romantik in einem im Gepäck machen wir uns auf den Weg, das mittelalterliche Städtchen Bacharach wandernd zu erforschen. Heines Erzählung DER RABBI VON BACHARACH ist der rote Faden unseres theatralen Parcours und wird flankiert von weiteren Texten und Textfragmenten, die um das Leben eines überzeugten Europäers erster Stunde kreisen.    
@@ -30,7 +30,7 @@ CHOR Heinrich Heine Chor Frankfurt
 
   
 ![Bild](/Glotzt-nicht-2.jpg)
-#So 11. August 12:00 Uhr Matinee   
+#So 11. August 12:00 Uhr - 14:00 Uhr Matinee   
 #im Günderrode-Filmhaus Oberwesel  
 (Eintritt frei)    
 
@@ -41,12 +41,17 @@ Unser Festival sondiert in den Tiefenschichten der mit der Welterbe-Region verkn
 
 Das Podium stellt sich der Frage: Welche „Romantik“ und welcher künstlerische Zugang zur Romantik kann die Selbstbeschreibung des Welterbe-Tales befruchten? Und wie begegnen wir der marktgängigen Verkitschung und Verniedlichung dieser Tiefenschicht unseres kulturellen Gedächtnisses zum Tourismus-Trash?    
 
-Besetzung des Podiums mit namhaften Vertretern aus Kunst, Wissenschaft und Politik 
-
+GÄSTE:   
+Davide Brocchi (Projektberatung Trafo2)   
+Prof. Jürgen Hardeck (Kultursommer Rld-Pfalz)   
+Dr. Konrad Heumann (Deutsches Romantik-Museum)
+Willy Praml (Festival-Leitung),   
+Prof. Wolfgang Schneider (Kulturpolitikforscher Uni Hildesheim)      
+MODERATION:   
+Prof. Dieter Kramer (Ethnologe, Kulturwissenschaftler)
 
 
 -----     
-
 
 
 ![Bild](/Goldner-Topf-2.jpg)
