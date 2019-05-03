@@ -9,8 +9,7 @@ published: true
 
 
 # 10. AUGUST - 1. SEPTEMBER 2019   
-# SCHIRMHERRSCHAFT:    
-# Malu Dreyer   
+# SCHIRMHERRSCHAFT Malu Dreyer
 **Ministerpräsidentin des Landes Rheinland-Pfalz**    
 
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER   
