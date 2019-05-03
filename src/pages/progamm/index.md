@@ -44,7 +44,7 @@ Das Podium stellt sich der Frage: Welche „Romantik“ und welcher künstlerisc
 GÄSTE:   
 Davide Brocchi (Projektberatung Trafo2)   
 Prof. Jürgen Hardeck (Kultursommer Rld-Pfalz)   
-Dr. Konrad Heumann (Deutsches Romantik-Museum)
+Dr. Konrad Heumann (Deutsches Romantik-Museum)   
 Willy Praml (Festival-Leitung),   
 Prof. Wolfgang Schneider (Kulturpolitikforscher Uni Hildesheim)      
 MODERATION:   
