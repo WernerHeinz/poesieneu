@@ -69,10 +69,11 @@ Eine Produktion von DIE FLIEGENDE VOLKSBÜHNE, Frankfurt am Main
 #im Jugendheim in Oberwesel   
 
 Ein Paar am Abgrund:   
-Karoline von Günderrode und Heinrich von Kleist, eine Dichterin und ein Dichter.   
-Eine Jahrhundertbegegnung, die es nie gegeben hat. Christa Wolf hat sie beschrieben: Kein Ort. Nirgends.   
+Karoline von Günderrode und Heinrich von Kleist, eine Dichterin und ein Dichter.     
+Eine Jahrhundertbegegnung, die es nie gegeben hat. Christa Wolf hat sie beschrieben: Kein Ort. Nirgends.    
 Zwei Menschen, die – während die anderen den Anbruch eines neuen Zeitalters, des Zeitalters der Vernunft, der Wissenschaft, des Fortschritts, der Freiheit und Gerechtigkeit feiern – die Abgründe in sich selbst entdecken, die schwindelerregende Leere des Nichts. 
 Sie suchen Halt aneinander und finden sich in einem Augenblick von Wahrheit, Irrsinn, Liebe, Lachen.   
+
 Morbide Kulisse dafür ist das Jugendheim in Oberwesel – ein Ort, den man fast als verwunschen bezeichnen kann; und der doch durch die Beherbergung vieler Vereine ein ganz lebendiger Raum in Oberwesel ist.   
 
 
@@ -85,46 +86,28 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
  
   
 ![Bild](/schoene-muellerin-2.jpg)   
-#Fr. 23. August in Lorch   
+#Fr. 23. August in **Lorch   
 #Start 19:00 Uhr Kirche St. Martin    
     
-#Do. 29. August in Kaub   *(Achtung: Änderung des Spielortes!)*
+#So. 25. August und Do. 29. August in **Kaub   
 #Start 19:00 Uhr Kirche    
 
-Kennen Sie die Orte in Lorch und Kaub, wo es sich am besten sterben lässt?   
+Kennen Sie die Orte in **Lorch und Kaub**, wo es sich am besten sterben lässt?   
 
 Der Sänger führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
-Begleitet wird er von verschiedenen Instrumentalisten und von dem Schauspieler Muawia Harb, den es aus Damaskus nach Bacharach verschlagen hat, die einzige deutsche Stadt, deren Name mehr arabisch als deutsch klingt. 
+Begleitet wird er dabei von zwei Musikern und dem Schauspieler Muawia Harb, den es aus Damaskus ins Mittelrheintal verschlagen hat:   
+weil es hier Städte wie Bacharach, Lorch und Kaub gibt, die mehr arabisch als deutsch klingen.   
 
-REGIE Willy Praml / SÄNGER Bariton (wird noch bekannt gegeben) /   
-INSTRUMENTALISTEN  Orgel, Akkordeon, Piano /   
-DARSTELLER Muawia Harb
-
+REGIE Willy Praml   
+MUSIKALISCHE LEITUNG, ORGEL und KLAVIER     
+Leonhard Dering   
+AKKORDEON Mathias Matzke   
+GESANG Graham F. Valentine   
+DOPPELGÄNGER Muawia Harb   
 
 
 ----    
 
-
-## OBERWESEL FÜR FRAUEN AM RANDE DES NERVENZUSAMMENBRUCHS  
-## HOCHROTH! DIE GÜNDERRODE   
-
-Planung noch offen  
-im Günderrode-Filmhaus Oberwesel    
-
-
-„Warum ward´ ich kein Mann! Ich habe keinen Sinn für weibliche Tugenden, für Weiberglückseligkeit.“
-Das Frauen-Leben hat die Günderrode auch nicht lange ausgehalten; hat sich mit Mitte Zwanzig an den Ufern der Poesie sozusagen – in Winkel im Rheingau – erdolcht.    
-Zwei Schauspielerinnen greifen sich die grünfarbigen Briefblätter der Günderrode und heften sie – wie Waffen – gegen die profane Welt in die Landschaft; eine Landschaft, die zum Sterben schön ist: Vor dem Günderrodehaus in Oberwesel (Filmkulisse aus Edgar Reitz´s „Heimat 2“) schauen sie von ganz Oben aufs Rheintal hinunter. Ein Ort, an dem man am liebsten selber Anlauf nehmen möchte und  . . .    
-Der Heinrich-Heine –Chor aus Frankfurt a. M.  begleitet die beiden Günderroden mit sechs Varianten des schmerzhaften Volksliedes „In einem kühlen Grunde“.   
-Höher hinaus kann man sich gar nicht versteigen!   
-
-
-DARSTELLERINNEN Bettina Kaminski / Birgit Heuser /   
-CHOR Heinrich Heine Chor, Frankfurt am Main
-
-
- 
------
 
 
 Theater Willy Paml    
@@ -144,8 +127,10 @@ Die Verbindung der Musik Schuberts, in der Neubearbeitung des italienischen Komp
 Grandios auch die Kulisse für diese Inszenierung: die ehemalige Sektkellerei Geiling, von der aus die Firma VIA heute die Welt mit erlesenen Fliesen beliefert.   
 
 
-REGIE Willy Praml / DARSTELLER  Michael Weber /   
-TÄNZER Andreas Bach / GESANG Jakob Gail /     
+REGIE Willy Praml    
+DARSTELLER  Michael Weber  
+TÄNZER Andreas Bach   
+GESANG Jakob Gail      
 MUSIKER Akkordeon & Bass
 
 
@@ -158,7 +143,9 @@ in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Ga
 ![Bild](/Bacchanal-2.jpg)
 #So. 1.September ab 16:00 Uhr    
 #in der Oberstraße in Bacharach    
-#ab 18:00 Uhr Schlussakkord im Rathaushof    
+#ab 18:00 Uhr Schlussakkord im Rathaushof  
+
+#EINTRITT FREI
 
 Und zum Schluss das Ende! Natürlich ein Fest – aber ein außergewöhnliches.   
 Spazieren Sie, kulinarisch versorgt, durch Bacharachs „Obergasse“.    
