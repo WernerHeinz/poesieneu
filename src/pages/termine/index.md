@@ -76,14 +76,14 @@ Freies Schauspiel Ensemble Frankfurt
 *Startpunkt: evangelische Kirche Kaub*  
  
 #---   
-![Bild](/heinechor.jpg)
+![Bild](/mgchor.jpg)
 # Honeypain / Männerchor trifft LoopMachine   
-Niederheimbach für zum Weinen schöne Männerstimmen
-# 25. August  Niederheimbach
-14:00 Uhr bis 17:00 Uhr 
-*Teil 1: Hof der Heimburg
-*Teil 2: Pfarrkirche Niederheimbach
-EINTRITT: einheitlich 10 € - nur Tageskasse
+Niederheimbach für zum Weinen schöne Männerstimmen    
+# 25. August  Niederheimbach   
+14:00 Uhr bis 17:00 Uhr   
+*Teil 1: Hof der Heimburg   
+*Teil 2: Pfarrkirche Niederheimbach    
+EINTRITT:  10 € - nur Tageskasse
 
 #----
 
