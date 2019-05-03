@@ -34,8 +34,17 @@ published: true
 Michael Quast und Bruno Kliegl (Glasharmonika)    
 *Hilchenhaus  Lorch am Rhein*  
 
-    
----   
+  
+ #---- 
+   
+![Bild](/kein-ort-2.jpg)    
+ # 16. August  Oberwesel
+19:30 Uhr bis ca. 21:00 Uhr       
+Freies Schauspiel Ensemble Frankfurt    
+*Jugendheim Oberwesel*   
+  
+  
+#---   
 
 ![Bild](/rabbi-2.jpg)    
 # 17. August / 18. August  Bacharach
@@ -43,22 +52,14 @@ Michael Quast und Bruno Kliegl (Glasharmonika)
 **Theatraler Parcours mit dem Theater Willy Praml**   
  *Start in der Wernerkapelle  Bacharach*      
   
- ---   
- 
-![Bild](/kein-ort-2.jpg)    
- # 16. August  Oberwesel
-19:30 Uhr bis ca. 21:00 Uhr       
-Freies Schauspiel Ensemble Frankfurt    
-*Jugendheim Oberwesel*   
- 
- ---   
+ #---   
  
 ![Bild](/schoene-muellerin-2.jpg)   
 # 23. August  Lorch am Rhein
 19:00 Uhr bis ca. 20:45 Uhr      
 *Startpunkt: Kirche St. Martin, Lorch*
 
----   
+#---   
 
 ![Bild](/kein-ort-2.jpg)  
 # 24. August  Oberwesel
@@ -66,7 +67,7 @@ Freies Schauspiel Ensemble Frankfurt
 Freies Schauspiel Ensemble Frankfurt    
 *Jugendheim Oberwesel*   
    
----   
+#---   
   
 
 ![Bild](/schoene-muellerin-2.jpg)   
@@ -74,7 +75,17 @@ Freies Schauspiel Ensemble Frankfurt
 19:00 Uhr bis ca. 20:45 Uhr       
 *Startpunkt: evangelische Kirche Kaub*  
  
----   
+#---   
+![Bild](/heinechor.jpg)
+# Honeypain / Männerchor trifft LoopMachine   
+Niederheimbach für zum Weinen schöne Männerstimmen
+# 25. August  Niederheimbach
+14:00 Uhr bis 17:00 Uhr 
+*Teil 1: Hof der Heimburg
+*Teil 2: Pfarrkirche Niederheimbach
+EINTRITT: einheitlich 10 € - nur Tageskasse
+
+#----
 
 ![Bild](/lenz-2.jpg)    
 # 30. August / 31. August  Bacharach
@@ -82,7 +93,7 @@ Freies Schauspiel Ensemble Frankfurt
 Theater Willy Praml    
 *VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach* 
 
----   
+#---   
 
 ![Bild](/bacchanal-2.jpg)   
 # 1. September  Bacharach
@@ -90,7 +101,7 @@ Theater Willy Praml
 **mit echten und gefälschten Mittelrheintalern**    
 *Oberstraße mit Schlussakkord im Rathaushof Bacharach*     
 
----   
+#---   
 
 
 # ***Vorverkauf ab Ostern***   
