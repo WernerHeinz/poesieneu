@@ -86,15 +86,13 @@ Eine Produktion von FREIES SCHAUSPIEL ENSEMBLE, Frankfurt am Main
  
   
 ![Bild](/schoene-muellerin-2.jpg)   
-#Fr. 23. August in **Lorch   
-#Start 19:00 Uhr Kirche St. Martin    
-    
-#So. 25. August und Do. 29. August in **Kaub   
-#Start 19:00 Uhr Kirche    
+#Fr. 23. August in **Lorch**   
+Start 19:00 Uhr Kirche St. Martin Lorch  
+#So. 25. August und Do. 29. August in **Kaub**     
+Start 19:00 Uhr Evangelische Kirche Kaub   
 
-Kennen Sie die Orte in **Lorch und Kaub**, wo es sich am besten sterben lässt?   
-
-Der Sänger führt Sie - mit dem  berühmten Liederzyklus von Franz Schubert – an seine Lieblings(sterbe)Orte.
+Kennen Sie die Orte am Rhein, wo es sich am schönsten sterben lässt?    
+Der Brexit-fliehende Schotte Graham F.Valentine führt Sie mit dem Liederzyklus „Die schöne Müllerin“ von Franz Schubert an seine Lieblings(sterbe)Orte in Lorch und Kaub.   
 Begleitet wird er dabei von zwei Musikern und dem Schauspieler Muawia Harb, den es aus Damaskus ins Mittelrheintal verschlagen hat:   
 weil es hier Städte wie Bacharach, Lorch und Kaub gibt, die mehr arabisch als deutsch klingen.   
 
