@@ -11,7 +11,11 @@ published: true
 # 10. AUGUST - 1. SEPTEMBER 2019        
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER 
 mit Heinrich Heine & Karoline von Günderrode & E.T.A.Hoffmann & Franz Schubert & Georg Büchner & Christa Wolf     
-# im Welterbe Oberes Mittelrheintal
+# im Welterbe Oberes Mittelrheintal   
+
+# SCHIRMHERRSCHAFT: Malu Dreyer   
+**Ministerpräsidentin Rheinland-Pfalz**    
+
 Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Oberwesel oder Lorch –
 staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Canyon –   
 
