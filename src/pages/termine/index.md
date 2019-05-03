@@ -56,7 +56,7 @@ Freies Schauspiel Ensemble Frankfurt
 ![Bild](/schoene-muellerin-2.jpg)   
 # 23. August  Lorch am Rhein
 19:00 Uhr bis ca. 20:45 Uhr      
-*Startpunkt Kirche St. Martin, Lorch*
+*Startpunkt: Kirche St. Martin, Lorch*
 
 ---   
 
@@ -67,20 +67,12 @@ Freies Schauspiel Ensemble Frankfurt
 *Jugendheim Oberwesel*   
    
 ---   
-
-*Planung noch unsicher
-## HOCHROTH!  DIE GÜNDERRODE   
-**Oberwesel für Frauen am Rande des Nervenzusammenbruchs**    
-Bettina Kaminski (Freies Schauspiel Ensemble Frankfurt)    
-Birgit Heuser (Theater Willy Praml    
-Heinrich Heine Chor Frankfurt   
-*Günderrode-Filmhaus Oberwesel*    
----   
+  
 
 ![Bild](/schoene-muellerin-2.jpg)   
-# 29. August  Kaub  *(Achtung: Spielort geändert!)*
+# 25. August & 29. August  Kaub  
 19:00 Uhr bis ca. 20:45 Uhr       
-*Start ev.und kath. Kirche*  
+*Startpunkt: evangelische Kirche Kaub*  
  
 ---   
 
