@@ -16,7 +16,7 @@ published: true
 **im Welterbe Oberes Mittelrheintal**   
 von -mit - über: Heinrich Heine, Karoline von Günderrode, Heinrich von Kleist, Jakob Michael Reinhold Lenz, E.T.A.Hoffmann, Franz Schubert, Georg Büchner & Christa Wolf   
    
-Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Oberwesel oder Lorch –
+Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Kaub, Oberwesel, Lorch und Niederheimbach –   
 staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Canyon –   
 und geraten Sie ins Schwärmen und Seufzen über tolle Texte und Lieder, wunderbare theatrale Spaziergänge und Inszenierungen in einer Kulisse, die schon Richard Wagner für die beste aller Bühnenbilder gehalten hat.   
 
