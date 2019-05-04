@@ -14,7 +14,7 @@ published: true
 
 # THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER   
 **im Welterbe Oberes Mittelrheintal**   
-von -mit - über: Heinrich Heine, Karoline von Günderrode, Heinrich von Kleist, Jakob Michael Reinhold Lenz, E.T.A.Hoffmann, Franz Schubert, Georg Büchner & Christa Wolf   
+von - mit - über: Heinrich Heine, Karoline von Günderrode, Heinrich von Kleist, Jakob Michael Reinhold Lenz, E.T.A.Hoffmann, Franz Schubert, Georg Büchner & Christa Wolf   
    
 Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Kaub, Oberwesel, Lorch und Niederheimbach –   
 staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Canyon –   
