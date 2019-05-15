@@ -106,7 +106,8 @@ Theater Willy Praml
 Tickets: 
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
  https://www.ticket­regional.de 
-  </a>
+  </a>     
+  
 oder www.rhein­nahe­touristik.de fon +49 (0) 6743 919303    
 
 Eintritt "Rabbi" = 25€ / erm. 12€      
