@@ -6,7 +6,7 @@ published: true
 ---
 
 
-[Bild](/Flyer Festival Ufer-der-Poesie.jpg)  
+[Bild](/Flyer Festival Ufer-der-Poesie.pdf)  
 
 #Theatraler Parcours mit dem Theater Willy Praml in Bacharach
 ![Bild](/rabbi-2.jpg)   
