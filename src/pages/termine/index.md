@@ -117,20 +117,17 @@ Tel.  06743 919303
 
 # Preise VVK
 "Rabbi" = 25€ / erm. 12€      
-alle anderen Vorstellungen = 19,50€ / erm. 10€  
-     
-**Kombi-Tickets:    
+alle anderen Vorstellungen = 19,50€ / erm. 10€    
+**Kombi-Tickets:**    
 - "Rabbi" + eine weitere Vorstellung   =  35 €      
-- zwei Vorstellungen (ohne "Rabbi)     =  30 €    
+- zwei Vorstellungen (ohne "Rabbi)     =  30 €      
+**Ermäßigungen:**    
+Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
 
-Ermäßigungen: Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis 
 
-# siehe auch Festival-Pauschal-Angebote 
+# siehe auch Festival-Pauschal-Angebote unter: unterkunft-pauschalen
 
- <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
- https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen
 
-  </a> 
 
 
 
