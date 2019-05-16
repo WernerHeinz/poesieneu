@@ -107,14 +107,16 @@ Theater Willy Praml**
 # **Tickets im Vorverkauf***   
  
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
- https://www.ticket­regional.de 
+ https://www.ticket-regional.de 
   </a>     
-      
-      
-oder www.rhein­nahe­touristik.de     
-fon +49 (0) 6743 919303    
+                
+oder    
+https://www.rhein-nahe-touristik.de     
+Tel.  06743 919303    
 
-Eintritt "Rabbi" = 25€ / erm. 12€      
+
+# Preise VVK
+"Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 19,50€ / erm. 10€  
 
 Kombi-Tickets:    
