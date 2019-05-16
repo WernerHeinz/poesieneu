@@ -1,7 +1,7 @@
 ---
-path: /termine
+path: /termine/
+date: '2017-11-07'
 title: Alle Termine im Überblick
-date: '2019-01-11'
 published: true
 ---
 
