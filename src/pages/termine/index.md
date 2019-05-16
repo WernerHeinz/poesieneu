@@ -82,7 +82,7 @@ Stadtführung für lebensmüde Musikliebhaber**
 Heinrich heine Chor. Gregor Praml. Marcus Plath.**     
 * Teil 1: Hof der Heimburg   
 * Teil 2: Pfarrkirche Niederheimbach    
-Kein Ticket-Vorverkauf. Nur Tageskasse.
+Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
 
 #----
     
@@ -109,8 +109,10 @@ Theater Willy Praml**
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
  https://www.ticket­regional.de 
   </a>     
-  
-oder www.rhein­nahe­touristik.de fon +49 (0) 6743 919303    
+      
+      
+oder www.rhein­nahe­touristik.de     
+fon +49 (0) 6743 919303    
 
 Eintritt "Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 19,50€ / erm. 10€  
