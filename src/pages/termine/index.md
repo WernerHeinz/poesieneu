@@ -1,12 +1,10 @@
 ---
 path: /termine
-title:Alle Termine
+title: Alle Termine im Überblick
 date: 2019-01-11T00:00:00.000Z
 published: true
----    
+---
  
-
-#---   
 
 # 10. August   Bacharach   
 15:30 Uhr bis ca. 20:00 Uhr     
@@ -106,7 +104,7 @@ Theater Willy Praml**
 #---   
 
 
-# ***Tickets Vorverkauf***   
+# **Tickets im Vorverkauf***   
  
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
  https://www.ticket­regional.de 
