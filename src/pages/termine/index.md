@@ -1,6 +1,6 @@
 ---
 path: /termine
-title: Termine
+title: Alle Termine: Übersicht
 date: 2019-01-11T00:00:00.000Z
 published: true
 ---    
@@ -9,101 +9,106 @@ published: true
 
 #---   
 
-
-![Bild](/rabbi-2.jpg)   
 # 10. August   Bacharach   
 15:30 Uhr bis ca. 20:00 Uhr     
-**Theatraler Parcours mit dem Theater Willy Praml**   
-*Start in der Wernerkapelle Bacharach*    
-
+**Der Rabbi von Bacherach. Heine. Stationen eines Traumas.           
+Theatraler Parcours mit dem Theater Willy Praml**   
+* Start in der Wernerkapelle Bacharach*    
 
 #---   
-
-![Bild](/glotzt-nicht-2.jpg)    
+    
 # 11. August Oberwesel
-12:00 Uhr bis ca. 14:00 Uhr     
-*Günderrode-Filmhaus Oberwesel* 
+12:00 Uhr bis ca. 14:00 Uhr
+**Glotzt nicht so romantisch. Podium für Welterbe-Pioniere.**         
+* Günderrode-Filmhaus. Siebenjungfrauenblick Oberwesel.* 
 
-
-   
+  
 #---   
 
-![Bild](/goldner-topf-2.jpg)   
+  
 # 11. August   Lorch am Rhein 
 19:30 Uhr bis ca. 21:30 Uhr       
-Michael Quast und Bruno Kliegl (Glasharmonika)    
-*Hilchenhaus  Lorch am Rhein*  
+**E.T.A. Hoffmann. Der Goldne Topf.    
+Michael Quast und Bruno Kliegl (Glasharmonika)**        
+* Hilchenhaus  Lorch am Rhein*  
 
   
  #---- 
    
-![Bild](/kein-ort-2.jpg)    
+   
  # 16. August  Oberwesel
 19:30 Uhr bis ca. 21:00 Uhr       
-Freies Schauspiel Ensemble Frankfurt    
-*Jugendheim Oberwesel*   
+**Christa Wolf. Kein Ort. Nirgends.         
+Freies Schauspiel Ensemble Frankfurt**    
+* Jugendheim Oberwesel*   
   
   
 #---   
 
-![Bild](/rabbi-2.jpg)    
+  
 # 17. August / 18. August  Bacharach
 15:30 Uhr bis ca. 20:00 Uhr     
-**Theatraler Parcours mit dem Theater Willy Praml**   
- *Start in der Wernerkapelle  Bacharach*      
+**Der Rabbi von Bacherach. Heine. Stationen eines Traumas.                
+Theatraler Parcours mit dem Theater Willy Praml**   
+ * Start in der Wernerkapelle  Bacharach*      
   
  #---   
  
-![Bild](/schoene-muellerin-2.jpg)   
 # 23. August  Lorch am Rhein
-19:00 Uhr bis ca. 20:45 Uhr      
-*Startpunkt: Kirche St. Martin, Lorch*
+19:00 Uhr bis ca. 20:45 Uhr
+**Die Schöne Müllerin.Franz Schubert.    
+Stadtführung für lebensmüde Musikliebhaber** 
+* Startpunkt: Kirche St. Martin, Lorch*
 
 #---   
 
-![Bild](/kein-ort-2.jpg)  
 # 24. August  Oberwesel
 19:30 Uhr bis ca. 21:00 Uhr      
-Freies Schauspiel Ensemble Frankfurt    
-*Jugendheim Oberwesel*   
+**Christa Wolf. Kein Ort. Nirgends.        
+Freies Schauspiel Ensemble Frankfurt**        
+* Jugendheim Oberwesel*   
    
 #---   
   
-
-![Bild](/schoene-muellerin-2.jpg)   
+   
 # 25. August & 29. August  Kaub  
-19:00 Uhr bis ca. 20:45 Uhr       
-*Startpunkt: evangelische Kirche Kaub*  
+19:00 Uhr bis ca. 20:45 Uhr
+**Die Schöne Müllerin.Franz Schubert.    
+Stadtführung für lebensmüde Musikliebhaber**   
+* Startpunkt: Evangelische Kirche Kaub*  
  
 #---   
-![Bild](/honeypain-2.jpg)   
+
 # 25. August  Niederheimbach   
-14:00 Uhr bis 17:00 Uhr   
-*Teil 1: Hof der Heimburg   
-*Teil 2: Pfarrkirche Niederheimbach    
-EINTRITT:  10 € - nur Tageskasse
+14:00 Uhr bis 17:00 Uhr
+**Honeypain. Männerchor trifft LoopMachine     
+Heinrich heine Chor. Gregor Praml. Marcus Plath.**     
+* Teil 1: Hof der Heimburg   
+* Teil 2: Pfarrkirche Niederheimbach    
+nur Tageskasse
 
 #----
-
-![Bild](/lenz-2.jpg)    
+    
 # 30. August / 31. August  Bacharach
 19:00 Uhr bis 21:00 Uhr       
-Theater Willy Praml    
+**Lenz. Georg Büchner.       
+Theater Willy Praml**       
 *VIA-Halle in der ehem. Sektkellerei Geiling  Bacharach* 
 
 #---   
 
-![Bild](/bacchanal-2.jpg)   
+ 
 # 1. September  Bacharach
-16:00 Uhr bis 20:00 Uhr         
-**mit echten und gefälschten Mittelrheintalern**    
-*Oberstraße mit Schlussakkord im Rathaushof Bacharach*     
+16:00 Uhr bis 20:00 Uhr  
+**Bacchanale. Trunkenes Fest zum NüchternWerden**    
+*mit echten und gefälschten Mittelrheintalern*        
+* Oberstraße Bacharach mit Schlussakkord im Rathaushof*     
 
 #---   
 
 
-# ***Vorverkauf ab 7. Mai 2019***   
-Tickets: 
+# ***Tickets Vorverkauf***   
+ 
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
  https://www.ticket­regional.de 
   </a>     
