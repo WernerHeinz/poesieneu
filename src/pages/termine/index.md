@@ -1,6 +1,6 @@
 ---
 path: /termine
-title: Alle Termine
+title:Alle Termine
 date: 2019-01-11T00:00:00.000Z
 published: true
 ---    
