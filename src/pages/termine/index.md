@@ -125,7 +125,8 @@ alle anderen Vorstellungen = 19,50€ / erm. 10€
 Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
 
 
-# siehe auch Festival-Pauschal-Angebote unter: unterkunft-pauschalen
+# siehe auch Festival-Pauschal-Angebote unter:   
+**unterkunft-pauschalen
 
 
 
