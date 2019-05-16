@@ -1,7 +1,7 @@
 ---
 path: /termine
 title: Alle Termine im Überblick
-date: 2019-01-11T00:00:00.000Z
+date: '2019-01-11'
 published: true
 ---
 
