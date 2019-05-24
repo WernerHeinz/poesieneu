@@ -13,7 +13,7 @@ Aktuell steht nun die Vorbereitung des großen Abschlussfestes "Bacchanale" am 1
 Die Festival-Leitung  und Sandra Meurer, die die Regie und Koordination für die Bacchanale übernommen hat, werden am Mittwoch, 29.5. ab 17:00 Uhr in der Mittelrheinhalle Bacharach sein, um die bisher entwickelten Ideen für die Bacchanale vorstellen, weitere Vorschläge sammeln und zu beraten, welche Talente / Akteuren / Originale aus der Festival-Region als Mitwirkende eingeladen werden sollen.    
 Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, zum mit Akteuren, Darstellern, Künstlern ihre möglichen Beiträge und Auftritte besprechen.    
 
-![Bild](/Bacchanale Brief-01-05.pdf)     
+[Bacchanalebrief anzeigen](/Bacchanale Brief-01-05.pdf)     
 
 # ----
 
