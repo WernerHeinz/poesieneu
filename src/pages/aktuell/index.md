@@ -10,25 +10,31 @@ published: true
 
 Aktuell steht nun die Vorbereitung des großen Abschlussfestes "Bacchanale" am 1.9.  in der Bacharacher Oberstraße an.
 
-Die Festival-Leitung  und Sandra Meurer, die die Regie und Koordination für die Bacchanale übernommen hat, werden am Mittwoch, 29.5. ab 17:00 Uhr in der Mittelrheinhalle Bacharach sein, um die bisher entwickelten Ideen für die Bacchanale vorstellen, weitere Vorschläge sammeln und zu beraten, welche Talente / Akteuren / Originale aus der Festival-Region als Mitwirkende eingeladen werden sollen.
-Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, zum mit Akteuren, Darstellern, Künstlern ihre möglichen Beiträge und Auftritte besprechen. 
+Die Festival-Leitung  und Sandra Meurer, die die Regie und Koordination für die Bacchanale übernommen hat, werden am Mittwoch, 29.5. ab 17:00 Uhr in der Mittelrheinhalle Bacharach sein, um die bisher entwickelten Ideen für die Bacchanale vorstellen, weitere Vorschläge sammeln und zu beraten, welche Talente / Akteuren / Originale aus der Festival-Region als Mitwirkende eingeladen werden sollen.    
+Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, zum mit Akteuren, Darstellern, Künstlern ihre möglichen Beiträge und Auftritte besprechen.    
 
-[Bild](/Bacchanale Brief-01-05.pdf) 
+![Bild](/Bacchanale Brief-01-05.pdf)     
+
+# ----
 
 # Ticket-Vorverkauf gestartet
 Der Vorverkauf über www.ticket-regional.de ist nach einigen Anlauf-Verzögerungen vor etwas über einer Woche endlich gestartet. Außerdem können Karten in allen TI-Büros der Rhein-Nahe-Toruistik gekauft und auch telefonisch geordert werden. Danke lieber Christian Kuhn und liebes Team der Rhein-Nahe-Touristik.   
-Insbesondere beim "Rabbi von Bacherach" und bei der "Schönen Müllerin - Musikalische Stadtführung für lebensmüde Musikliebhaber" rechnen wir wegen der sehr begrenzten Zuschauer-Kontingente damit, dass sie schnell ausverkauft sein werden.  Bitte beachten: Es gibt keinen Vorverkauf durch das Theater WillyPraml. Und da wir aufgrund der sehr knappen Kalkulation dringend auf die Einnahmen aus den Eintrittskarten angewiesen sind, gibt es nur sehr kleine Gastkarten-Kontingente für "Offizielle" und Sponsoren. Wir empfehlen deshalb sehr, rechtzeitig Eintrittskarten im Vorverkauf zu sichern.
+Insbesondere beim "Rabbi von Bacherach" und bei der "Schönen Müllerin - Musikalische Stadtführung für lebensmüde Musikliebhaber" rechnen wir wegen der sehr begrenzten Zuschauer-Kontingente damit, dass sie schnell ausverkauft sein werden.  Bitte beachten: Es gibt keinen Vorverkauf durch das Theater WillyPraml. Und da wir aufgrund der sehr knappen Kalkulation dringend auf die Einnahmen aus den Eintrittskarten angewiesen sind, gibt es nur sehr kleine Gastkarten-Kontingente für "Offizielle" und Sponsoren. Wir empfehlen deshalb sehr, rechtzeitig Eintrittskarten im Vorverkauf zu sichern.    
+
+# ----
 
 
 # Festival-Flyer ist gedruckt und wird jetzt in den Festival-Gemeinden und im Welterbetal verteilt   
 ![Bild](/flyer-2.jpg)   
 Die Bacharacher Grafikerin Katrin Gloggengießer hat uns einen wunderbaren Programm-Flyer gestaltet.   
 Wir haben 20.000 Programmflyer drucken lassen.   
-Davon gehen 10.000 in die Verteiler der Frankfurter Theaterensembles, die bei dem Festival mitwirken. Das ist eine massive Werbekampagne für das Welterbetal in der Kulturszene in Frankfurt und im engeren  Rhein-Main-Gebiet.
-10.000 Exemplare haben wir noch, um die Einwohner und Gäste der Festival-Gemeinden Bacharach, Oberwesel, Niederheimbach, Kaub und Lorch sowie des  Welterbetals anzusprechen. Wir bitten euch um Unterstützung und Anregungen, damit die Flyer auch wirklich bei unseren Zielgruppen ankommen und nicht zwischen den Stapeln von Prospekten in den TI-Büros und Geschäften untergehen.
-Flyer können geordert werden beim Team des Zweckverbandes m.siech@zv-welterbe.de oder bei der Festival-Koordination whz.clubnaxos@gmail.com.    
-Wir deponieren außerdem jeweils Vorräte bei den Tourist-Informationsbüros der Festival-Gemeinden, wo man dann auch größere Posten abholen kann.    
-Mitte Juni legen wir dann mit einer Plakat-Aktion nach - und ab Juli wollen wir in den Festival-Gemeinden auch die Banner-Werbung starten
+Davon gehen 10.000 in die Verteiler der Frankfurter Theaterensembles, die bei dem Festival mitwirken. Das ist eine massive Werbekampagne für das Welterbetal in der Kulturszene in Frankfurt und im engeren  Rhein-Main-Gebiet.    
+10.000 Exemplare haben wir noch, um die Einwohner und Gäste der Festival-Gemeinden Bacharach, Oberwesel, Niederheimbach, Kaub und Lorch sowie des  Welterbetals anzusprechen. Wir bitten herzlich  um Unterstützung und Anregungen, damit die Flyer auch wirklich bei unseren Zielgruppen ankommen und nicht zwischen den Stapeln von Prospekten in den TI-Büros und Geschäften untergehen.    
+Flyer können geordert werden    
+beim Team des Zweckverbandes    *m.siech@zv-welterbe.de     
+oder bei der Festival-Koordination: *whz.clubnaxos@gmail.com       
+Vorräte werden außerdem bei den Tourist-Informationsbüros der Festival-Gemeinden deponiert, wo man  auch größere Posten abholen kann.        
+Mitte Juni folgt dann eine Plakat-Aktion  - und ab Juli wird in den Festival-Gemeinden auch die Banner-Werbung starten
 
 # ---
 
