@@ -5,7 +5,29 @@ title: Termine
 published: true
 ---
 
+# **Tickets im Vorverkauf**  
+ 
+ <a class="links" href="https://www.ticketregional.de/" target="_blank" rel="noopener noreferrer">
+ https://www.ticket-regional.de 
+  </a>     
+                
+oder telefonisch bei:    
+# Rhein-Nahe-Touristik Bacharach    
+Tel.  06743 919303    
 
+
+# Preise VVK
+"Rabbi" = 25€ / erm. 12€      
+alle anderen Vorstellungen = 19,50€ / erm. 10€    
+**Kombi-Tickets:**    
+- "Rabbi" + eine weitere Vorstellung   =  35 €      
+- zwei Vorstellungen (ohne "Rabbi)     =  30 €      
+**Ermäßigungen:**    
+Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
+
+
+# siehe auch Festival-Pauschal-Angebote unter:   
+**unterkunft-pauschalen
 # Alle Termine im Überblick
 
 # 10. August   Bacharach   
