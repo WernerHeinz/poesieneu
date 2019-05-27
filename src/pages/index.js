@@ -41,7 +41,7 @@ class Menu extends React.Component{
 
      <ul>
          <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
-          <li><Link to="/termine">Tickets und Termine</Link></li>
+         <li><Link to="/termine">Termine</Link></li>
          <li><Link to="/programm">Programm 2019</Link> </li>
          <li><Link to="/aktuell">Aktuelles</Link></li>
          <li><Link to="/unterkunft-pauschalen">Unterkunft-Pauschalen</Link></li>
