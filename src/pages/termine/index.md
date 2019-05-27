@@ -1,18 +1,19 @@
 ---
 path: /termine/
 date: '2017-11-07'
-title: Termine
+title: Tickets und Termin-Übersicht
 published: true
 ---
 
 # **Tickets im Vorverkauf**  
  
  <a class="links" href="https://www.ticketregional.de/" target="_blank" rel="noopener noreferrer">
- https://www.ticket-regional.de 
+ https://www.ticket-regional.de    
   </a>     
                 
 oder telefonisch bei:    
-# Rhein-Nahe-Touristik Bacharach    
+
+# Rhein-Nahe-Touristik Bacharach   
 Tel.  06743 919303    
 
 
