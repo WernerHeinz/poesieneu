@@ -6,9 +6,8 @@ published: true
 ---
 
 # **Tickets im Vorverkauf**  
- 
 
-www.ticketregional.de     
+www.ticket-regional.de     
      
                          
 oder telefonisch bei 
@@ -136,7 +135,7 @@ Theater Willy Praml**
 
 # **Tickets im Vorverkauf***   
  
- <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
+ <a class="links" href="https://www.ticketregional.de/" target="_blank" rel="noopener noreferrer">
  https://www.ticket-regional.de 
   </a>     
                 
