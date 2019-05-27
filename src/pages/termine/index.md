@@ -1,14 +1,10 @@
 ---
 path: /termine/
 date: '2017-11-07'
-title: Tickets und Alle Termine im Überblick
+title: Termine
 published: true
 ---
-# Tickets im Vorverkauf
-https://www.ticket-regional.de
-oder
-https://www.rhein-nahe-touristik.de
-Tel. 06743 919303
+
 
 # Alle Termine im Überblick
 
