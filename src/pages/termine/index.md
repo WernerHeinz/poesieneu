@@ -8,10 +8,11 @@ published: true
 # **Tickets im Vorverkauf***   
  
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
- https://www.ticket-regional.de 
+ https://www.ticketregional.de     
   </a>     
                 
-oder  
+oder     
+
  <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
 https://www.rhein-nahe-touristik.de     
 Tel.  06743 919303    
