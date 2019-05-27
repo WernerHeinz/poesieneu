@@ -5,16 +5,16 @@ title: Tickets und Alle Termine im Überblick
 published: true
 ---
 
-# **Tickets im Vorverkauf***   
+# **Tickets im Vorverkauf**  
  
 
- <a class="links" href="https://www.ticketregional.de/" target="_blank" rel="noopener noreferrer">
- https://www.ticketregional.de     
-  </a>     
-          
+
+www.ticketregional.de     
+   
+         
                          
 oder   
-https/www.rhein-nahe-touristik.de    
+www.rhein-nahe-touristik.de    
 Tel.  06743 919303   
 
 
