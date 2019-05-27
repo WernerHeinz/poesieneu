@@ -5,13 +5,13 @@ title: Aktuelles
 published: true
 ---
 
-# Bacchanale Workshop am 29.5. ab 17:00 Uhr in der  Mittelrheinhalle Bacharach
- Mittwoch 29.5. 17:00 Uhr und an Christi Himmelfahrt 30.5. ganztägig in der Mittelrheinhalle Bacharach
+# Bacchanale Workshop am Mittwoch 29.5. ab 17:00 Uhr und am Donnerstag 30.5. ab 10:00 Uhr in der Mittelrheinhalle Bacharach
+ 
 
 Aktuell steht nun die Vorbereitung des großen Abschlussfestes "Bacchanale" am 1.9.  in der Bacharacher Oberstraße an.
 
-Die Festival-Leitung  und Sandra Meurer, die die Regie und Koordination für die Bacchanale übernommen hat, werden am Mittwoch, 29.5. ab 17:00 Uhr in der Mittelrheinhalle Bacharach sein, um die bisher entwickelten Ideen für die Bacchanale vorstellen, weitere Vorschläge sammeln und zu beraten, welche Talente / Akteuren / Originale aus der Festival-Region als Mitwirkende eingeladen werden sollen.    
-Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, zum mit Akteuren, Darstellern, Künstlern ihre möglichen Beiträge und Auftritte besprechen.    
+Das Regie-Team wird am Mittwoch, 29.5. ab 17:00 Uhr die bisher entwickelten Ideen für die Bacchanale vorstellen, weitere Vorschläge sammeln und  beraten, welche Talente / Akteure / Darsteller noch geworben werden sollen.    
+Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, um mit Akteuren, Darstellern, Künstlern ihre Beiträge und Auftritte zu konzipieren.    
 
 [Bacchanalebrief anzeigen](/Bacchanale Brief-01-05.pdf)     
 
