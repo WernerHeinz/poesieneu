@@ -8,7 +8,7 @@ published: true
 # **Tickets im Vorverkauf***   
  
  über www.ticketregional.de   
- <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
+ <a class="links" href="https://www.ticketregional.de/" target="_blank" rel="noopener noreferrer">
  http://www.ticketregional.de     
   </a>     
           
