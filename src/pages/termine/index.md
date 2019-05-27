@@ -11,10 +11,11 @@ published: true
  https://www.ticket-regional.de 
   </a>     
                 
-oder    
+oder  
+ <a class="links" href="https://www.ticket­regional.de/" target="_blank" rel="noopener noreferrer">
 https://www.rhein-nahe-touristik.de     
 Tel.  06743 919303    
-
+  </a> 
 
 # Preise VVK
 "Rabbi" = 25€ / erm. 12€      
