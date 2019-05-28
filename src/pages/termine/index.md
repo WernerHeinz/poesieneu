@@ -8,7 +8,7 @@ published: true
 # **Tickets im Vorverkauf**  
  
  <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
- https://www.ticket-regional.de    
+ https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach  
   </a>     
                 
 oder telefonisch bei:    
@@ -132,8 +132,8 @@ Theater Willy Praml**
 
 # **Tickets im Vorverkauf***   
  
- <a class="links" href="https://www.ticketregional.de/" target="_blank" rel="noopener noreferrer">
- https://www.ticket-regional.de 
+ <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach"_blank" rel="noopener noreferrer">
+ https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach 
   </a>     
                 
 oder    
