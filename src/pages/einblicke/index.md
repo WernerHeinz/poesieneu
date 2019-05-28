@@ -14,6 +14,7 @@ Fragen, Angebote, Anmeldungen:  whz.clubnaxos@gmail.com
 ![Bild](/barb2.jpg)
 <hr />
 
+[Bacchanalebrief anzeigen](/Bacchanale Brief-01-05.pdf)  
 
 # B a c c h a n a l e     
 Das Programm:    
