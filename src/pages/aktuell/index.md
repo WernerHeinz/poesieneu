@@ -18,7 +18,18 @@ Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, u
 # ----
 
 # Ticket-Vorverkauf gestartet
-Der Vorverkauf über www.ticket-regional.de ist nach einigen Anlauf-Verzögerungen vor etwas über einer Woche endlich gestartet. Außerdem können Karten in allen TI-Büros der Rhein-Nahe-Toruistik gekauft und auch telefonisch geordert werden. Danke lieber Christian Kuhn und liebes Team der Rhein-Nahe-Touristik.   
+Der Vorverkauf über Ticket-Regional ist nach einigen Anlauf-Verzögerungen vor etwas über einer Woche endlich gestartet. Außerdem können Karten in allen TI-Büros der Rhein-Nahe-Toruistik gekauft und auch telefonisch geordert werden. Danke lieber Christian Kuhn und liebes Team der Rhein-Nahe-Touristik.   
+
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">     
+ https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach     
+  </a>     
+  
+                
+oder telefonisch über:    
+
+# Rhein-Nahe-Touristik Bacharach   
+Tel.  06743 919303    
+
 Insbesondere beim "Rabbi von Bacherach" und bei der "Schönen Müllerin - Musikalische Stadtführung für lebensmüde Musikliebhaber" rechnen wir wegen der sehr begrenzten Zuschauer-Kontingente damit, dass sie schnell ausverkauft sein werden.  Bitte beachten: Es gibt keinen Vorverkauf durch das Theater WillyPraml. Und da wir aufgrund der sehr knappen Kalkulation dringend auf die Einnahmen aus den Eintrittskarten angewiesen sind, gibt es nur sehr kleine Gastkarten-Kontingente für "Offizielle" und Sponsoren. Wir empfehlen deshalb sehr, rechtzeitig Eintrittskarten im Vorverkauf zu sichern.    
 
 # ----
