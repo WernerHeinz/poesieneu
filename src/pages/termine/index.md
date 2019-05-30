@@ -21,7 +21,8 @@ Tel.  06743 919303
 # Preise VVK
 "Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 19,50€ / erm. 10€    
-**Kombi-Tickets:**    
+**Kombi-Tickets:(Bestellung nur telefonisch 06743 919303)    
+ **    
 - "Rabbi" + eine weitere Vorstellung   =  35 €      
 - zwei Vorstellungen (ohne "Rabbi)     =  30 €      
 **Ermäßigungen:**    
@@ -145,7 +146,8 @@ Tel.  06743 919303
 # Preise VVK
 "Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 19,50€ / erm. 10€    
-**Kombi-Tickets:**    
+*Kombi-Tickets:(Bestellung nur telefonisch 06743 919303)    
+ *    
 - "Rabbi" + eine weitere Vorstellung   =  35 €      
 - zwei Vorstellungen (ohne "Rabbi)     =  30 €      
 **Ermäßigungen:**    
