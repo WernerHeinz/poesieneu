@@ -5,7 +5,6 @@ title: Tickets und Termin-Übersicht
 published: true
 ---
 
-![Bild](/uebersicht.png) 
 
 
 # **Tickets im Vorverkauf**  
@@ -38,6 +37,8 @@ https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>
 
 # Alle Termine im Überblick
 
+![Bild](/uebersicht.png) 
+
 # 10. August   Bacharach   
 15:30 Uhr bis ca. 20:00 Uhr     
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.           
@@ -68,10 +69,10 @@ Michael Quast und Bruno Kliegl (Glasharmonika)**
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
   
- #---- 
+ #----     
    
    
- # 16. August  Oberwesel
+# 16. August  Oberwesel
 19:30 Uhr bis ca. 21:00 Uhr       
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**    
@@ -80,7 +81,7 @@ Freies Schauspiel Ensemble Frankfurt**
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
   
-#---   
+#---      
 
   
 # 17. August / 18. August  Bacharach     
@@ -90,8 +91,10 @@ Theatraler Parcours mit dem Theater Willy Praml**
  * Start in der Wernerkapelle Bacharach      
    
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
- #---   
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>    
+
+ #---     
+ 
  
 # 23. August  Lorch am Rhein     
 19:00 Uhr bis ca. 20:45 Uhr     
@@ -101,6 +104,7 @@ Stadtführung für lebensmüde Musikliebhaber**
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+
 #---   
 
 # 24. August  Oberwesel    
@@ -110,7 +114,8 @@ Freies Schauspiel Ensemble Frankfurt**
 * Jugendheim Oberwesel  
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>        
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>     
+
 #---   
   
    
@@ -121,7 +126,8 @@ Stadtführung für lebensmüde Musikliebhaber**
 * Startpunkt: Evangelische Kirche Kaub 
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>    
+
 #---   
 
 # 25. August  Niederheimbach   
@@ -141,7 +147,8 @@ Theater Willy Praml**
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach     
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>   
+
 #---   
 
  
@@ -152,7 +159,8 @@ www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>
 * Oberstraße Bacharach mit Schlussakkord im Rathaushof     
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>  
+
 #---   
 
 
