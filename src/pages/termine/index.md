@@ -41,7 +41,8 @@ Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.           
 Theatraler Parcours mit dem Theater Willy Praml**   
 * Start in der Wernerkapelle Bacharach    
-
+<a class="links" href="https://www.ticket-regional.de/stage_1006.php?eventtimeID=468054"_blank" rel="noopener noreferrer">
+  </a> 
 #---   
     
 # 11. August Oberwesel
