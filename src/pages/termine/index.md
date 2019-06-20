@@ -60,7 +60,6 @@ Podium für Welterbe-Pioniere.**
 Michael Quast und Bruno Kliegl (Glasharmonika)**        
 * Hilchenhaus  Lorch am Rhein     
  <a class="links" href="https://www.ticket-regional.de/stage_1006.php?eventtimeID=468055"_blank" rel="noopener noreferrer">
- https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach 
   </a>  
   
  #---- 
