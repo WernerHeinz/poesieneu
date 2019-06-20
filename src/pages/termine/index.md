@@ -5,7 +5,7 @@ title: Tickets und Termin-Übersicht
 published: true
 ---
 
-[Übersicht anzeigen](/Plakat_PRINT.pdf)  
+![Bild](/uebersicht.png) 
 
 
 # **Tickets im Vorverkauf**  
