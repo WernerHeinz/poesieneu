@@ -10,28 +10,25 @@ published: true
 # **Tickets im Vorverkauf**  
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>                                                                                                                       
-  
-                
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>                                                                                                                                     
 oder telefonisch bei:    
-
-# Rhein-Nahe-Touristik Bacharach   
-Tel.  06743 919303    
-
+*Rhein-Nahe-Touristik Bacharach Tel.  06743 919303     
 
 # Preise VVK
 "Rabbi" = 25€ / erm. 12€      
 alle anderen Vorstellungen = 19,50€ / erm. 10€    
-**Kombi-Tickets:(Bestellung nur telefonisch 06743 919303)    
- **    
+
+**Kombi-Tickets:(Bestellung nur telefonisch 06743 919303)**      
 - "Rabbi" + eine weitere Vorstellung   =  35 €      
-- zwei Vorstellungen (ohne "Rabbi)     =  30 €      
+- zwei Vorstellungen (ohne "Rabbi)     =  30 €    
+
 **Ermäßigungen:**    
 Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
 
-# Festival-Pauschal-Angebote unter:   
+# Pauschal-Angebote Ticket + Hotel:   
 <a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
 https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
+
 #---      
 
 
@@ -46,7 +43,8 @@ Theatraler Parcours mit dem Theater Willy Praml**
 * Start in der Wernerkapelle Bacharach    
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>   
+
 #---   
     
 # 11. August Oberwesel
@@ -165,7 +163,7 @@ www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>
 
 
 
-# Festival-Pauschal-Angebote unter:   
+# Pauschal-Angebote Tickets + Hotel:   
 <a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
 https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
 #---   
