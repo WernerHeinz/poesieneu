@@ -10,7 +10,7 @@ published: true
 # **Tickets im Vorverkauf**  
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>                                                                                                                                     
+Ticket bestellen   </a>                                                                                                                                    
 oder telefonisch bei:    
 *Rhein-Nahe-Touristik Bacharach Tel.  06743 919303     
 
@@ -43,7 +43,7 @@ Theatraler Parcours mit dem Theater Willy Praml**
 * Start in der Wernerkapelle Bacharach    
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>   
+Ticket bestellen   </a>    
 
 #---      
     
@@ -65,7 +65,7 @@ Michael Quast und Bruno Kliegl (Glasharmonika)**
 * Hilchenhaus  Lorch am Rhein     
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+Ticket bestellen   </a>       
 
 #----       
 
@@ -77,7 +77,7 @@ Freies Schauspiel Ensemble Frankfurt**
 * Jugendheim Oberwesel*     
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>         
+Ticket bestellen   </a>         
 
 #---      
 
@@ -89,7 +89,7 @@ Theatraler Parcours mit dem Theater Willy Praml**
  * Start in der Wernerkapelle Bacharach      
    
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>    
+Ticket bestellen   </a>   
 
  #---     
  
@@ -101,7 +101,7 @@ Stadtführung für lebensmüde Musikliebhaber**
 * Startpunkt: Kirche St. Martin, Lorch
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+Ticket bestellen   </a>      
 
 #---   
 
@@ -112,7 +112,7 @@ Freies Schauspiel Ensemble Frankfurt**
 * Jugendheim Oberwesel  
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>     
+Ticket bestellen   </a>    
 
 #---   
   
@@ -124,7 +124,7 @@ Stadtführung für lebensmüde Musikliebhaber**
 * Startpunkt: Evangelische Kirche Kaub 
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>    
+Ticket bestellen   </a>    
 
 #---   
 
@@ -145,7 +145,7 @@ Theater Willy Praml**
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach     
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>   
+Ticket bestellen   </a>    
 
 #---   
 
@@ -156,8 +156,7 @@ www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>
 *mit echten und gefälschten Mittelrheintalern*        
 * Oberstraße Bacharach mit Schlussakkord im Rathaushof     
  
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>  
+ 
 
 #---   
 
