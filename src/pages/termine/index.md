@@ -30,9 +30,12 @@ alle anderen Vorstellungen = 19,50€ / erm. 10€
 **Ermäßigungen:**    
 Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
 
+# Festival-Pauschal-Angebote unter:   
+<a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
+https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
+#---      
 
-# siehe auch Festival-Pauschal-Angebote unter:   
-**unterkunft-pauschalen
+
 # Alle Termine im Überblick
 
 # 10. August   Bacharach   
@@ -40,8 +43,9 @@ Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.           
 Theatraler Parcours mit dem Theater Willy Praml**   
 * Start in der Wernerkapelle Bacharach    
-<a class="links" href="https://www.ticket-regional.de/stage_1006.php?eventtimeID=468054"_blank" rel="noopener noreferrer">
-  </a> 
+ 
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
 #---   
     
 # 11. August Oberwesel
@@ -60,8 +64,9 @@ Eintritt kostenlos
 **E.T.A. Hoffmann. Der Goldne Topf.    
 Michael Quast und Bruno Kliegl (Glasharmonika)**        
 * Hilchenhaus  Lorch am Rhein     
- <a class="links" href="https://www.ticket-regional.de/stage_1006.php?eventtimeID=468055"_blank" rel="noopener noreferrer">
-  </a>  
+ 
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
   
  #---- 
    
@@ -71,7 +76,9 @@ Michael Quast und Bruno Kliegl (Glasharmonika)**
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**    
 * Jugendheim Oberwesel*   
-  
+   
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
   
 #---   
 
@@ -81,7 +88,9 @@ Freies Schauspiel Ensemble Frankfurt**
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.                
 Theatraler Parcours mit dem Theater Willy Praml**   
  * Start in der Wernerkapelle Bacharach      
-  
+   
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
  #---   
  
 # 23. August  Lorch am Rhein     
@@ -89,7 +98,9 @@ Theatraler Parcours mit dem Theater Willy Praml**
 **Die Schöne Müllerin.Franz Schubert.    
 Stadtführung für lebensmüde Musikliebhaber**    
 * Startpunkt: Kirche St. Martin, Lorch
-
+ 
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
 #---   
 
 # 24. August  Oberwesel    
@@ -97,7 +108,9 @@ Stadtführung für lebensmüde Musikliebhaber**
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**        
 * Jugendheim Oberwesel  
-   
+  
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>        
 #---   
   
    
@@ -106,7 +119,9 @@ Freies Schauspiel Ensemble Frankfurt**
 **Die Schöne Müllerin.Franz Schubert.    
 Stadtführung für lebensmüde Musikliebhaber**   
 * Startpunkt: Evangelische Kirche Kaub 
- 
+  
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
 #---   
 
 # 25. August  Niederheimbach   
@@ -124,7 +139,9 @@ Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
 **Lenz. Georg Büchner.       
 Theater Willy Praml**       
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach     
-
+ 
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
 #---   
 
  
@@ -133,34 +150,17 @@ Theater Willy Praml**
 **Bacchanale. Trunkenes Fest zum NüchternWerden**    
 *mit echten und gefälschten Mittelrheintalern*        
 * Oberstraße Bacharach mit Schlussakkord im Rathaushof     
-
+ 
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
 #---   
 
 
-# **Tickets im Vorverkauf***   
- 
- <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach"_blank" rel="noopener noreferrer">
- https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach 
-  </a>     
-                
-oder    
-https://www.rhein-nahe-touristik.de     
-Tel.  06743 919303    
 
-
-# Preise VVK
-"Rabbi" = 25€ / erm. 12€      
-alle anderen Vorstellungen = 19,50€ / erm. 10€    
-*Kombi-Tickets:(Bestellung nur telefonisch 06743 919303)    
- *    
-- "Rabbi" + eine weitere Vorstellung   =  35 €      
-- zwei Vorstellungen (ohne "Rabbi)     =  30 €      
-**Ermäßigungen:**    
-Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
-
-
-# siehe auch Festival-Pauschal-Angebote unter:   
-**unterkunft-pauschalen
+# Festival-Pauschal-Angebote unter:   
+<a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
+https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
+#---   
 
 
 
