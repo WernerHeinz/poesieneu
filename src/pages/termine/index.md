@@ -45,7 +45,7 @@ Theatraler Parcours mit dem Theater Willy Praml**
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>   
 
-#---   
+#---      
     
 # 11. August Oberwesel
 12:00 Uhr bis ca. 14:00 Uhr     
@@ -66,19 +66,19 @@ Michael Quast und Bruno Kliegl (Glasharmonika)**
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
-  
- #----     
-   
-   
+
+#----       
+
+
 # 16. August  Oberwesel
 19:30 Uhr bis ca. 21:00 Uhr       
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**    
-* Jugendheim Oberwesel*   
-   
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>      
+* Jugendheim Oberwesel*     
   
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+www.ticket-regional.de/events.php?mysearchEventtype=bacharach    </a>         
+
 #---      
 
   
