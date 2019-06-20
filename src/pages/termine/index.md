@@ -58,8 +58,10 @@ Podium für Welterbe-Pioniere.**
 19:30 Uhr bis ca. 21:30 Uhr       
 **E.T.A. Hoffmann. Der Goldne Topf.    
 Michael Quast und Bruno Kliegl (Glasharmonika)**        
-* Hilchenhaus  Lorch am Rhein  
-
+* Hilchenhaus  Lorch am Rhein     
+ <a class="links" href="https://www.ticket-regional.de/stage_1006.php?eventtimeID=468055"_blank" rel="noopener noreferrer">
+ https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach 
+  </a>  
   
  #---- 
    
