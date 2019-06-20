@@ -10,7 +10,8 @@ published: true
 
 # **Tickets im Vorverkauf**  
  
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach"_blank" rel="noopener noreferrer">    
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+</a> 
                                                                                                                               https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach  </a>   
   
                 
