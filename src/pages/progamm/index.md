@@ -5,6 +5,7 @@ title: Infos zum Programm
 published: true
 ---
 
+![Bild](/uebersicht.png)    
 
 [Programmflyer anzeigen](/Flyer Festival Ufer-der-Poesie.pdf)  
 
