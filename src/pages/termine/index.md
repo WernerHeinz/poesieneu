@@ -11,7 +11,6 @@ published: true
 # **Tickets im Vorverkauf**  
  
  <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">     
- https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach     
   </a>     
   
                 
@@ -49,7 +48,8 @@ Theatraler Parcours mit dem Theater Willy Praml**
 12:00 Uhr bis ca. 14:00 Uhr     
 **Glotzt nicht so romantisch.   
 Podium für Welterbe-Pioniere.**             
-* Günderrode-Filmhaus. Siebenjungfrauenblick Oberwesel. 
+* Günderrode-Filmhaus. Siebenjungfrauenblick Oberwesel.   
+Eintritt kostenlos    
 
   
 #---   
