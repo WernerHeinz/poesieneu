@@ -5,12 +5,20 @@ title: Aktuelles
 published: true
 ---
 
-<a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
-Bericht in mittelrheingold   </a>        
+# Publicity     
+Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.    
 
+<a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
+Link zum Bericht in mittelrheingold   </a>        
+
+Und Jochen Werner - etwas ausführlicher - in der Allgemeinen Zeitung vom 28.6.19      
 
 <a class="links" href="https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rabbi-kehrt-bei-theaterfestival-nach-bacharach-zurucl_20244688/" target="_blank" rel="noopener noreferrer">
-Bericht Allgemeine Zeitung   </a>  
+Link zum Bericht Allgemeine Zeitung   </a>  
+
+
+Der Erfolg und die Zukunft des Festivals wird sehr von der Aufmerksamkeit abhängigen, die wir in der region finden.   
+Also hurtig: leitet die links weiter an eure Omas und Omas, FreundInnen und Bekannten, Kinder und Kindeskinder.   
 
 
 # Bacchanale Workshop am Mittwoch 29.5. ab 17:00 Uhr und am Donnerstag 30.5. ab 10:00 Uhr in der Mittelrheinhalle Bacharach
