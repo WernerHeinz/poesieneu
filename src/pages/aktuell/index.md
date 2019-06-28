@@ -20,7 +20,7 @@ Der Erfolg und die Zukunft des Festivals werden sehr von der Aufmerksamkeit abh�
 
 *"Für die Touristiker ist das Festival ein Jackpot..."  behauptet der Autor.  
 
-Also nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder zur Not auch mit der Schneckenpost weiterleiten an  Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
+Also nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder Whattsapp zur Not auch mit der Schneckenpost weiterleiten an Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
 
 
 
