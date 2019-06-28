@@ -9,16 +9,16 @@ published: true
 Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.    
 
 <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
-Link zum Bericht in mittelrheingold   </a>        
-
+* zum Bericht in mittelrheingold   </a>        
+         
 Und Jochen Werner - etwas ausführlicher - in der Allgemeinen Zeitung vom 28.6.19      
-
 <a class="links" href="https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rabbi-kehrt-bei-theaterfestival-nach-bacharach-zurucl_20244688/" target="_blank" rel="noopener noreferrer">
-Link zum Bericht Allgemeine Zeitung   </a>  
+* zum Bericht Allgemeine Zeitung   </a>  
 
 
-Der Erfolg und die Zukunft des Festivals wird sehr von der Aufmerksamkeit abhängigen, die wir in der region finden.   
-Also hurtig: leitet die links weiter an eure Omas und Omas, FreundInnen und Bekannten, Kinder und Kindeskinder.   
+Der Erfolg und die Zukunft des Festivals werden sehr von der Aufmerksamkeit abhängen, die wir jetzt im Endspurt vor dem Start des Festivalos in der Region und in den großstädtischen Nachbarschaften des Welterbetals finden.     
+
+Also hurtig die links weiterleiten an  Oma und Oma, FreundIn und Bekanntn, Kinder und Kindeskinder!!!   
 
 
 
