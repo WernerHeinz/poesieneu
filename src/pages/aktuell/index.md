@@ -14,7 +14,7 @@ Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung 
 *zum Bericht Allgemeine Zeitung*   </a>          
 
 "Für die Touristiker ist das Festival ein Jackpot..."  behauptet der Autor.     
-Damit er recht behält: nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder Whattsapp zur Not auch mit der Schneckenpost weiterleiten an Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
+Damit er recht behält: nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder WhatsApp oder zur Not auch mit der Schneckenpost weiterleiten an Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
 
 
 
