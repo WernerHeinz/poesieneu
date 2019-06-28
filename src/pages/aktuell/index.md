@@ -9,11 +9,11 @@ published: true
 Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht....          
 
 <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
-* zum Bericht in mittelrheingold   </a>        
+*zum Bericht in mittelrheingold*   </a>        
          
 ....und Jochen Werner - etwas ausführlicher - in der Allgemeinen Zeitung vom 28.6.19            
 <a class="links" href="https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rabbi-kehrt-bei-theaterfestival-nach-bacharach-zurucl_20244688/" target="_blank" rel="noopener noreferrer">
-* zum Bericht Allgemeine Zeitung   </a>      
+*zum Bericht Allgemeine Zeitung*   </a>      
 
 
 Der Erfolg und die Zukunft des Festivals werden sehr von der Aufmerksamkeit abhängen, die wir jetzt im Endspurt vor dem Start des Festivals in der Region und in den großstädtischen Nachbarschaften des Welterbetals finden.   
@@ -70,8 +70,9 @@ Und in **Niederheimbach**  bereitet der Heinrich Heine Chor ein *Zündfunken*-Ko
 # ----    
 
 
-# Große Gratulation zum Erfolg der "Schlender-Weinproben" in den vier BaKaLoNi-Gemeinden.    
-14. April: Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....   
+# 14.4.19   Große Gratulation zum Erfolg der "Schlender-Weinproben" in den vier BaKaLoNi-Gemeinden.    
+![Bild](/kirche-riesling.jpg)     
+Die Niederheimbacher hatten die vierte BaKaLoNi-Schlender-Weinprobe mit Gästen aus Bacharach, Kaub und Lorch in ihrer Gemeinde super originell vorbereitet. Es kam an die 120 Schlenderinnen und Schlenderer....   
 
 die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrheinischen Ämterwürde die Parade auf der Fähre ab ...
 ![Bild](/buegermeister-fähre.jpg)
@@ -93,7 +94,7 @@ die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrhe
 # ---   
 
 
-# 7.April -  BaKaLoNi Schlender-Weinprobe in Kaub    
+# 7.4.19 -  BaKaLoNi Schlender-Weinprobe in Kaub    
 
 ![Bild](/Schlender-Weinprobe Kaub 7.4.19.jpg)   
 
@@ -127,8 +128,7 @@ Jetzt beginnt die Öffentlichkeitsarbeit.
 # ----    
 
 
-# Arbeitsgemeinschaft Festival
-Am 3.2.2019 fand im Bacharacher Rathaus ein erstes Treffen der Arbeitsgemeinschaft "Festival" im Welterbe statt.
+# 3.2.19    Arbeitsgemeinschaft Festival
 
 In der  Arbeitsgemeinschaft sammeln sich die aktiven UnterstützerInnen des Festivals, Künstlerinnen und Künstler, VertreterInnen von Chören und Musikensembles in der Region sowie regionale RepräsentantInnen aus Politik und Verwaltung, denen das Festival als nachhaltiger kultureller Impuls in der Region am Herzen liegt.  
 
