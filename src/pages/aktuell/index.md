@@ -5,6 +5,13 @@ title: Aktuelles
 published: true
 ---
 
+<a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
+Bericht in mittelrheingold   </a>  
+
+<a class="links" href="https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rabbi-kehrt-bei-theaterfestival-nach-bacharach-zurucl_20244688/" target="_blank" rel="noopener noreferrer">
+Bericht Allgemeine Zeitung   </a>  
+
+
 # Bacchanale Workshop am Mittwoch 29.5. ab 17:00 Uhr und am Donnerstag 30.5. ab 10:00 Uhr in der Mittelrheinhalle Bacharach
  
 
