@@ -6,7 +6,8 @@ published: true
 ---
 
 <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
-Bericht in mittelrheingold   </a>  
+Bericht in mittelrheingold   </a>        
+
 
 <a class="links" href="https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rabbi-kehrt-bei-theaterfestival-nach-bacharach-zurucl_20244688/" target="_blank" rel="noopener noreferrer">
 Bericht Allgemeine Zeitung   </a>  
