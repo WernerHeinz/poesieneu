@@ -5,7 +5,7 @@ title: Aktuelles
 published: true
 ---
 
-# Publicity     
+# 28.6.19   Publicity     
 Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.    
 
 <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
@@ -21,15 +21,6 @@ Der Erfolg und die Zukunft des Festivals wird sehr von der Aufmerksamkeit abhän
 Also hurtig: leitet die links weiter an eure Omas und Omas, FreundInnen und Bekannten, Kinder und Kindeskinder.   
 
 
-# Bacchanale Workshop am Mittwoch 29.5. ab 17:00 Uhr und am Donnerstag 30.5. ab 10:00 Uhr in der Mittelrheinhalle Bacharach
- 
-
-Aktuell steht nun die Vorbereitung des großen Abschlussfestes "Bacchanale" am 1.9.  in der Bacharacher Oberstraße an.
-
-Das Regie-Team wird am Mittwoch, 29.5. ab 17:00 Uhr die bisher entwickelten Ideen für die Bacchanale vorstellen, weitere Vorschläge sammeln und  beraten, welche Talente / Akteure / Darsteller noch geworben werden sollen.    
-Am Donnerstag (Christi Himmelfahrt) steht das  Bacchanale-Team zur Verfügung, um mit Akteuren, Darstellern, Künstlern ihre Beiträge und Auftritte zu konzipieren.    
-
-[Bacchanalebrief anzeigen](/Bacchanale Brief-01-05.pdf)     
 
 # ----
 
