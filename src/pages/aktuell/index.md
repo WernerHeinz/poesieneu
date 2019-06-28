@@ -6,21 +6,15 @@ published: true
 ---
 
 # 28.6.19   Publicity     
-Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht....          
-
-<a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
-*zum Bericht in mittelrheingold*   </a>        
+Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.... <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
+*zum Bericht in mittelrheingold*   </a>              
          
 ....und Jochen Werner - etwas ausführlicher - in der Allgemeinen Zeitung vom 28.6.19            
 <a class="links" href="https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rabbi-kehrt-bei-theaterfestival-nach-bacharach-zurucl_20244688/" target="_blank" rel="noopener noreferrer">
-*zum Bericht Allgemeine Zeitung*   </a>      
+*zum Bericht Allgemeine Zeitung*   </a>          
 
-
-Der Erfolg und die Zukunft des Festivals werden sehr von der Aufmerksamkeit abhängen, die wir jetzt im Endspurt vor dem Start des Festivals in der Region und in den großstädtischen Nachbarschaften des Welterbetals finden.   
-
-*"Für die Touristiker ist das Festival ein Jackpot..."  behauptet der Autor.  
-
-Also nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder Whattsapp zur Not auch mit der Schneckenpost weiterleiten an Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
+"Für die Touristiker ist das Festival ein Jackpot..."  behauptet der Autor.     
+Damit er recht behält: nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder Whattsapp zur Not auch mit der Schneckenpost weiterleiten an Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
 
 
 
