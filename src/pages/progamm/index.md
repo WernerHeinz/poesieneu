@@ -123,10 +123,10 @@ Wir können Ihnen zumindest garantieren, dass Sie an diesem Sonntagnachmittag st
 GESANG  Heinrich Heine Chor Frankfurt/Main    
 BASS & LOOPMACHINE Gregor Praml   
 REZITATION Marcus Plath     
-  <a class="links" href="https://www.heinrich-heine-chor.de/" target="_blank" rel="noopener noreferrer">
+  <a class="links" href="http://heinrich-heine-chor.de/" target="_blank" rel="noopener noreferrer">
  Heinrich Heine Chor Frankfurt
   </a>     
-  <a class="links" href="https:/gregorpraml.de/" target="_blank" rel="noopener noreferrer">
+  <a class="links" href="http://gregorpraml.de/" target="_blank" rel="noopener noreferrer">
  Gregor Praml
   </a>      
 
