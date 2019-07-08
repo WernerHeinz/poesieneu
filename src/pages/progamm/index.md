@@ -31,10 +31,13 @@ CHOR Heinrich Heine Chor Frankfurt
 
   
 ![Bild](/Glotzt-nicht-2.jpg)
-#So 11. August 12:00 Uhr - 14:00 Uhr Matinee       
+#So 11. August 12:00 Uhr - 14:00 Uhr   
+Matinee mit einem der schönsten Ausblicke auf das Rheintal    
+
 <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
-im Günderode Filmhaus, Siebenjungsfrauenblick, Oberwesel 
-  </a>    
+im Garten des Günderode Filmhauses, Siebenjungfrauenblick, Oberwesel 
+  </a>   
+  
 (Eintritt frei)    
 
 Die Rheinromantik ist der Markenkern der Tourismuswerbung. Mit Recht! Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen wir von Ostern bis Oktober ins Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.  Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
