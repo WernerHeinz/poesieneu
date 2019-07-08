@@ -31,7 +31,11 @@ Theater Willy Praml    </a>
   </a>
   
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
-Günderode Filhaus in Oberwesel   </a>
+Günderode Filmhaus in Oberwesel   </a>
+
+<a class="links" href="https://www.lorch-rhein.de/staticsite/staticsite.php?menuid=169&topmenu=41/" target="_blank" rel="noopener noreferrer">
+Hilchenhaus in Lorch   </a>
+
 
   
   <a class="links" href="https://www.mittelrheinmusik.de/" target="_blank" rel="noopener noreferrer">
