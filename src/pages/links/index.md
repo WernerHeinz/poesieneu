@@ -38,8 +38,8 @@ Hilchenhaus in Lorch   </a>
 
 
   
-  <a class="links" href="https://www.mittelrheinmusik.de/" target="_blank" rel="noopener noreferrer">
- Mittelrhein Musikfestival
+  <a class="links" href="https://gregorpraml.de//" target="_blank" rel="noopener noreferrer">
+ Gregor Praml
   </a>
 
 </div>
