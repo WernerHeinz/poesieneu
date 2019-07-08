@@ -120,15 +120,15 @@ Abschluss in der katholischen Pfarrkirche
 Was passiert, wenn sich der Heinrich Heine Chor mit Liedern von Schumann bis Bob Dylan, Marcus Plath mit Texten von Heinrich Heine und Gregor Praml mit Bass und LoopMachine im Hof der Heimburg in Niederheimbach treffen?   
 Wir können Ihnen zumindest garantieren, dass Sie an diesem Sonntagnachmittag statt der üblichen Schwarzwälderkirschtorte „In Honig getauchten Schmerz“ (H. Heine) genießen können.   
 
-GESANG  Heinrich Heine Chor Frankfurt/Main    
-BASS & LOOPMACHINE Gregor Praml   
-REZITATION Marcus Plath     
-  <a class="links" href="http://heinrich-heine-chor.de/" target="_blank" rel="noopener noreferrer">
+GESANG  <a class="links" href="http://heinrich-heine-chor.de/" target="_blank" rel="noopener noreferrer">
  Heinrich Heine Chor Frankfurt
-  </a>     
-  <a class="links" href="http://gregorpraml.de/" target="_blank" rel="noopener noreferrer">
+  </a>       
+BASS & LOOPMACHINE <a class="links" href="http://gregorpraml.de/" target="_blank" rel="noopener noreferrer">
  Gregor Praml
-  </a>      
+  </a>    
+REZITATION Marcus Plath     
+   
+    
 
 
 ----    
