@@ -37,7 +37,7 @@ Matinee mit einem der schönsten Ausblicke auf das Rheintal
 <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 im Garten des Günderode Filmhauses, Siebenjungfrauenblick, Oberwesel 
   </a>   
-  
+      
 (Eintritt frei)    
 
 Die Rheinromantik ist der Markenkern der Tourismuswerbung. Mit Recht! Auf Schiffen und in Bussen, in Autokarawanen und vollbesetzten Zügen strömen wir von Ostern bis Oktober ins Mittelrheintal, von wegen der Romantik: Reisende ins geträumte Gestern der Burgen und Türmchen und Weinbergidyllen – zum Soundtrack vom Märchen aus uralten Zeiten.  Und die verödeten Schaufenster? Die verarmten Häuserzeilen an den Verkehrsadern des Tales? Der  Bevölkerungsschwund weg vom ratternden Lärm der Güterzüge? Die Flucht der Jungen in die Städte?   
@@ -51,10 +51,10 @@ GÄSTE:
 Prof. Jürgen Hardeck (Kultursommer Rld-Pfalz)   
 Dr. Konrad Heumann (Deutsches Romantik-Museum)   
 Willy Praml (Festival-Leitung),   
-Prof. Wolfgang Schneider (Kulturpolitikforscher Uni Hildesheim) 
-N.N., VertreterIn aus der Region
+Prof. Wolfgang Schneider (Kulturpolitikforscher Uni Hildesheim)     
+N.N., VertreterIn aus der Region     
 MODERATION:   
-Prof. Dieter Kramer (Ethnologe, Kulturwissenschaftler)
+Prof. Dieter Kramer (Ethnologe, Kulturwissenschaftler)     
 
 
 -----     
