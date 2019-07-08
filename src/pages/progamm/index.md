@@ -31,9 +31,9 @@ CHOR Heinrich Heine Chor Frankfurt
 
   
 ![Bild](/Glotzt-nicht-2.jpg)
-#So 11. August 12:00 Uhr - 14:00 Uhr Matinee   
-#im <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
- Günderode Filmhaus Oberwesel
+#So 11. August 12:00 Uhr - 14:00 Uhr Matinee       
+<a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
+im Günderode Filmhaus, Siebenjungsfrauenblick, Oberwesel 
   </a>    
 (Eintritt frei)    
 
@@ -45,11 +45,11 @@ Unser Festival sondiert in den Tiefenschichten der mit der Welterbe-Region verkn
 Das Podium stellt sich der Frage: Welche „Romantik“ und welcher künstlerische Zugang zur Romantik kann die Selbstbeschreibung des Welterbe-Tales befruchten? Und wie begegnen wir der marktgängigen Verkitschung und Verniedlichung dieser Tiefenschicht unseres kulturellen Gedächtnisses zum Tourismus-Trash?    
 
 GÄSTE:   
-Davide Brocchi (Projektberatung Trafo2)   
 Prof. Jürgen Hardeck (Kultursommer Rld-Pfalz)   
 Dr. Konrad Heumann (Deutsches Romantik-Museum)   
 Willy Praml (Festival-Leitung),   
-Prof. Wolfgang Schneider (Kulturpolitikforscher Uni Hildesheim)      
+Prof. Wolfgang Schneider (Kulturpolitikforscher Uni Hildesheim) 
+N.N., VertreterIn aus der Region
 MODERATION:   
 Prof. Dieter Kramer (Ethnologe, Kulturwissenschaftler)
 
