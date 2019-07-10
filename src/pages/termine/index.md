@@ -64,7 +64,7 @@ Eintritt kostenlos
 Michael Quast und Bruno Kliegl (Glasharmonika)**        
 * Hilchenhaus  Lorch am Rhein    
 
-Es verkehrt eine Sonderfähre Lorch - Niederheimbach nach der Vorstellung um 22:30 Uhr      
+Nach der Vorstellung verkehrt eine **Sonderfähre Lorch - Niederheimbach um 22:30 Uhr**      
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>       
@@ -78,7 +78,7 @@ Ticket bestellen   </a>
 Freies Schauspiel Ensemble Frankfurt**    
 * Jugendheim Oberwesel   
 
-Fährverbindung nach der Vorstellung St.Goar-St.Goarshausen um 22:35     
+**Fährverbindung** nach der Vorstellung St.Goar - St.Goarshausen um 22:35     
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>         
@@ -92,7 +92,7 @@ Ticket bestellen   </a>
 Theatraler Parcours mit dem Theater Willy Praml**   
  * Start in der Wernerkapelle Bacharach      
  
-Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 17.August um 22:00 Uhr      
+Nach der Vorstellung am **17.August** verkehrt eine **Sonderfähre Niederheimbach-Lorch um 22:00 Uhr**      
    
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>   
@@ -117,7 +117,7 @@ Ticket bestellen   </a>
 Freies Schauspiel Ensemble Frankfurt**        
 * Jugendheim Oberwesel      
 
-Fährverbindung nach der Vorstellung: St.Goar-St.Goarshausen um 22:35    
+**Fährverbindung** nach der Vorstellung: St.Goar-St.Goarshausen um 22:35    
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
@@ -131,7 +131,7 @@ Ticket bestellen   </a>
 Stadtführung für lebensmüde Musikliebhaber**   
 * Startpunkt: Evangelische Kirche Kaub     
 
-Fährverbindung nach der Vorstellung St.Goarshausen-St.Goar um 22:30     
+**Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30     
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
@@ -154,7 +154,7 @@ Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
 Theater Willy Praml**       
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach   
 
-Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 31.August um 22:00 Uhr    
+Nach der Vorstellung am **31.August** verkehrt eine **Sonderfähre Niederheimbach-Lorch um 22:00 Uhr**    
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
