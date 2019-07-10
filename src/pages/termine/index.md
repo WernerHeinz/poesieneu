@@ -76,7 +76,7 @@ Ticket bestellen   </a>
 19:30 Uhr bis ca. 21:00 Uhr       
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**    
-*Jugendheim Oberwesel   
+* Jugendheim Oberwesel   
 
 Fährverbindung nach der Vorstellung St.Goar-St.Goarshausen um 22:35     
   
@@ -90,7 +90,7 @@ Ticket bestellen   </a>
 15:30 Uhr bis ca. 20:00 Uhr     
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.                
 Theatraler Parcours mit dem Theater Willy Praml**   
- * Start in der Wernerkapelle Bacharach    
+ * Start in der Wernerkapelle Bacharach      
  
 Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 17.August um 22:00 Uhr      
    
@@ -103,7 +103,7 @@ Ticket bestellen   </a>
 # 23. August  Lorch am Rhein     
 19:00 Uhr bis ca. 20:45 Uhr     
 **Die Schöne Müllerin.Franz Schubert.    
-Stadtführung für lebensmüde Musikliebhaber**    
+Stadtführung für lebensmüde Musikliebhaber**      
 * Startpunkt: Kirche St. Martin, Lorch
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
@@ -115,7 +115,7 @@ Ticket bestellen   </a>
 19:30 Uhr bis ca. 21:00 Uhr       
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**        
-*Jugendheim Oberwesel   
+* Jugendheim Oberwesel      
 
 Fährverbindung nach der Vorstellung: St.Goar-St.Goarshausen um 22:35    
   
@@ -129,7 +129,7 @@ Ticket bestellen   </a>
 19:00 Uhr bis ca. 20:45 Uhr    
 **Die Schöne Müllerin.Franz Schubert.    
 Stadtführung für lebensmüde Musikliebhaber**   
-* Startpunkt: Evangelische Kirche Kaub  
+* Startpunkt: Evangelische Kirche Kaub     
 
 Fährverbindung nach der Vorstellung St.Goarshausen-St.Goar um 22:30     
   
@@ -152,7 +152,7 @@ Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
 19:00 Uhr bis 21:00 Uhr       
 **Lenz. Georg Büchner.       
 Theater Willy Praml**       
-*VIA-Halle in der ehem. Sektkellerei Geiling Bacharach  
+* VIA-Halle in der ehem. Sektkellerei Geiling Bacharach   
 
 Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 31.August um 22:00 Uhr    
  
@@ -165,7 +165,7 @@ Ticket bestellen   </a>
 # 1. September  Bacharach    
 16:00 Uhr bis 20:00 Uhr  
 **Bacchanale. Trunkenes Fest zum NüchternWerden**    
-*mit echten und gefälschten Mittelrheintalern*        
+mit echten und gefälschten Mittelrheintalern        
 * Oberstraße Bacharach mit Schlussakkord im Rathaushof     
  
  
