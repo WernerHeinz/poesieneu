@@ -62,8 +62,8 @@ Eintritt kostenlos
 19:30 Uhr bis ca. 21:30 Uhr       
 **E.T.A. Hoffmann. Der Goldne Topf.    
 Michael Quast und Bruno Kliegl (Glasharmonika)**        
-* Hilchenhaus  Lorch am Rhein
-**Es verkehrt eine Sonderfähre Lorch - Niederheimbach nach der Vorstellung um 22:30 Uhr     
+* Hilchenhaus  Lorch am Rhein    
+**Es verkehrt eine Sonderfähre Lorch - Niederheimbach nach der Vorstellung um 22:30 Uhr**       
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>       
@@ -75,8 +75,8 @@ Ticket bestellen   </a>
 19:30 Uhr bis ca. 21:00 Uhr       
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**    
-*Jugendheim Oberwesel* 
-**Fährverbindung nach der Vorstellung St.Goar-St.Goarshausen um 22:35
+*Jugendheim Oberwesel*    
+**Fährverbindung nach der Vorstellung St.Goar-St.Goarshausen um 22:35**
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>         
@@ -88,8 +88,8 @@ Ticket bestellen   </a>
 15:30 Uhr bis ca. 20:00 Uhr     
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.                
 Theatraler Parcours mit dem Theater Willy Praml**   
- * Start in der Wernerkapelle Bacharach    
- **Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 17.August um 22:00 Uhr    
+ * Start in der Wernerkapelle Bacharach     
+ **Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 17.August um 22:00 Uhr**       
    
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>   
@@ -112,8 +112,8 @@ Ticket bestellen   </a>
 19:30 Uhr bis ca. 21:00 Uhr       
 **Christa Wolf. Kein Ort. Nirgends.         
 Freies Schauspiel Ensemble Frankfurt**        
-*Jugendheim Oberwesel
-**Fährverbindung nach der Vorstellung: St.Goar-St.Goarshausen um 22:35
+*Jugendheim Oberwesel   
+**Fährverbindung nach der Vorstellung: St.Goar-St.Goarshausen um 22:35**    
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
@@ -126,7 +126,7 @@ Ticket bestellen   </a>
 **Die Schöne Müllerin.Franz Schubert.    
 Stadtführung für lebensmüde Musikliebhaber**   
 * Startpunkt: Evangelische Kirche Kaub    
-**Fährverbindung nach der Vorstellung St.Goarshausen-St.Goar um 22:30
+**Fährverbindung nach der Vorstellung St.Goarshausen-St.Goar um 22:30     
   
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
@@ -148,7 +148,7 @@ Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
 **Lenz. Georg Büchner.       
 Theater Willy Praml**       
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach  
-**Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 31.August um 22:00 Uhr    
+**Es verkehrt eine Sonderfähre Niederheimbach-Lorch nach der Vorstellung am 31.August um 22:00 Uhr**     
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
