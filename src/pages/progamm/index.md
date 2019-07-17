@@ -166,6 +166,7 @@ MUSIKER Akkordeon & Bass
 
 ----
 # Bacchanale
+![Bild](/Bacchanal-2.jpg)  
   
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
