@@ -143,7 +143,7 @@ REZITATION Marcus Plath
 
 #Fr. 30. und Sa. 31. August   
 #19:30 Uhr  - 21::00 Uhr    
-#VIA-Halle Bacharach    
+#VIA-Halle Bacharach    ![Bild](/VIA Banner.jpg)
 
 BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben  
 von einem Heimatlosen – unbehaust in der Welt und im eigenen Leib,   
@@ -168,7 +168,7 @@ MUSIKER Akkordeon & Bass
   
 Dichter & Schauspieler & Solisten & Chöre & Musikkapellen & Ensembles aus der Region 
 in Höfen, Schaufenstern, Wohnzimmern, Imbissbuden, Friseurläden und auf der Gass     
-![Bild](/Bacchanal-2.jpg)
+
 #So. 1.September ab 16:00 Uhr    
 #in der Oberstraße in Bacharach    
 #ab 18:00 Uhr Schlussakkord im Rathaushof  
