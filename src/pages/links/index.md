@@ -5,10 +5,14 @@ title: Sponsoren - Unterstützer - Kooperationspartner
 published: true
 ---
 
-# Für tatkräftige und finanzielle Unterstützung danken wir herzlich 
+# Sponsoren und Unterstützer    
+Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren 
 
-Sponsoren_17.7.komp.jpg
+![Bild](/Sponsoren_17.7.komp.jpg)
 
+
+
+# Die Akteure des Festivals:
 
 <div class="linkis">
 
