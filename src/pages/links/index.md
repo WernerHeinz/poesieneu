@@ -43,7 +43,7 @@ Theater Willy Praml    </a>
 Günderode Filmhaus in Oberwesel   </a>
 
 <a class="links" href="https://www.viaplatten.de/aktuelles.html/" target="_blank" rel="noopener noreferrer">
-![Bild](/Sponsoren_17.7.komp.jpg)   </a>
+![Bild](/VIA Banner.jpg)   </a>
 
 
 
