@@ -6,16 +6,15 @@ published: true
 ---
 
 # Sponsoren und Unterstützer    
-Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren 
+Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren    
 
-![Bild](/Sponsoren_17.7.komp.jpg)
+![Bild](/Sponsoren_17.7.komp.jpg)  
 
 
 
-# Die Akteure des Festivals:
+# Die Akteure des Festivals:     
 
 <div class="linkis">
-
  
 <a class="links" href="http://theaterwillypraml.de" target="_blank" rel="noopener noreferrer">
 Theater Willy Praml    </a>
