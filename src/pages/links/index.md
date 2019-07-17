@@ -1,7 +1,7 @@
 ---
 path: /links/
 date: '2017-11-07'
-title: Interessante Links
+title: Sponsoren - Unterstützer - Kooperationspartner
 published: true
 ---
 
