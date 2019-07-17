@@ -34,9 +34,10 @@ Theater Willy Praml    </a>
  Heinrich Heine Chor Frankfurt
   </a>
   
-<a class="links" href="http://mittelrheingold.de" target="_blank" rel="noopener noreferrer">
- Blog über das UNESCO-Welterbe Oberes Mittelrheintal
-  </a>
+    
+  <a class="links" href="https://gregorpraml.de//" target="_blank" rel="noopener noreferrer">
+ Gregor Praml
+  </a>     
   
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 Günderode Filmhaus in Oberwesel   </a>
@@ -44,10 +45,9 @@ Günderode Filmhaus in Oberwesel   </a>
 <a class="links" href="https://www.lorch-rhein.de/staticsite/staticsite.php?menuid=169&topmenu=41/" target="_blank" rel="noopener noreferrer">
 Hilchenhaus in Lorch   </a>
 
-
   
-  <a class="links" href="https://gregorpraml.de//" target="_blank" rel="noopener noreferrer">
- Gregor Praml
+  <a class="links" href="http://mittelrheingold.de" target="_blank" rel="noopener noreferrer">
+ Mittelrheingold. Blogüber das UNESCO-Welterbe Oberes Mittelrheintal
   </a>
 
 </div>
