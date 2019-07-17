@@ -42,6 +42,11 @@ Theater Willy Praml    </a>
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 Günderode Filmhaus in Oberwesel   </a>
 
+<a class="links" href="https://www.viaplatten.de/aktuelles.html/" target="_blank" rel="noopener noreferrer">
+![Bild](/Sponsoren_17.7.komp.jpg)   </a>
+
+
+
 <a class="links" href="https://www.lorch-rhein.de/staticsite/staticsite.php?menuid=169&topmenu=41/" target="_blank" rel="noopener noreferrer">
 Hilchenhaus in Lorch   </a>
 
