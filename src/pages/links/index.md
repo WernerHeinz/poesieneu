@@ -42,18 +42,17 @@ Theater Willy Praml    </a>
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 Günderode Filmhaus in Oberwesel   </a>
 
-<a class="links" href="https://www.viaplatten.de/aktuelles.html/" target="_blank" rel="noopener noreferrer">
-![Bild](/VIA Banner.jpg)   </a>
-
+<a class="links" href="https://www.viaplatten.de//" target="_blank" rel="noopener noreferrer">
+VIA Platten Bacharach </a>     
 
 
 <a class="links" href="https://www.lorch-rhein.de/staticsite/staticsite.php?menuid=169&topmenu=41/" target="_blank" rel="noopener noreferrer">
-Hilchenhaus in Lorch   </a>
+Hilchenhaus in Lorch   </a>      
 
   
   <a class="links" href="http://mittelrheingold.de" target="_blank" rel="noopener noreferrer">
  Mittelrheingold. Blogüber das UNESCO-Welterbe Oberes Mittelrheintal
-  </a>
+  </a>     
 
 </div>
 
