@@ -143,7 +143,8 @@ REZITATION Marcus Plath
 
 #Fr. 30. und Sa. 31. August   
 #19:30 Uhr  - 21::00 Uhr    
-#VIA-Halle Bacharach    ![Bild](/VIA Banner.jpg)
+#VIA-Halle Bacharach    
+![Bild](/VIA Banner.jpg)     
 
 BÜCHNER hat in seinem LENZ einen schonungslosen Bericht gegeben  
 von einem Heimatlosen – unbehaust in der Welt und im eigenen Leib,   
