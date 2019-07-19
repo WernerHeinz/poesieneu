@@ -31,6 +31,10 @@ Die **Loreley-Fähre** bringt Sie nach den Vorstellungen in Oberwesel und Kaub j
 
 
 # Publicity     
+Frisch gepostet: der Festival-NMewsletter des Zweckverbandes Welterbe Oberes Mittelrheintal
+<a class="links" href="https://cs.5newsletter.de/t/ViewEmail/j/C0E0FFECDE2DC7C62540EF23F30FEDED/9CC9A4F263C7E367A10BC276F201ED4B/" target="_blank" rel="noopener noreferrer">
+*zum Festival-Newsletter*   </a>    
+
 Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.... <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
 *zum Bericht in mittelrheingold*   </a>              
          
