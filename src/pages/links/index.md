@@ -6,7 +6,9 @@ published: true
 ---
 
 # Sponsoren und Unterstützer    
-Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren    
+Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren  
+
+![Bild](/kuso_logo.png)    
 
 ![Bild](/Sponsoren_20.jpg)  
 
