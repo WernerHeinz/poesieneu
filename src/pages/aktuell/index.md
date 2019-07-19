@@ -5,14 +5,14 @@ title: Aktuelles
 published: true
 ---
 
-19.7.19    
-# Super. Festival-Werbeaktionen im Welterbetal
+**19.7.19  # Super. Festival-Werbeaktionen im Welterbetal
 ![Bild](/Kauerpost.jpg)     
 
-16.7.19 
-# Sonderfähren nach den Vorstellungen     
+**16.7.19** # Sonderfähren nach den Vorstellungen     
 am 11.8. / 17.8. und 31.8.   
-Das Festival will auch die beiden Ufer des Rheins verbinden. Nach den Vorstellungen von "Der Goldene Topf" (Lorch 11.8.), "Der Rabbi von Bacharach" (Bacharach 17.8.) und "Lenz". Georg Büchner (VIA in Bacharach 30.8.) können Sie nach noch in aller Ruhe einen Riesling genießen und Ihre Eindrücke austauschen - und erreichen dann um 22:00 Uhr entspannt unsere **Sonderfähre** zwischen Lorch und Niederheimbach (bzw. Niederheimbach-Lorch). Am 31.7. verkehrt die Fähre zwischen Bacharach/Oberwesel Engelsburg) und Kaub nach dem PUR-Konzert auf der Loreley als Spätfähre.     
+Das Festival verbindet die beiden Ufer des Rheins.   
+Nach den Vorstellungen von "Der Goldene Topf" (Lorch 11.8.), "Der Rabbi von Bacharach" (Bacharach 17.8.) und "Lenz". Georg Büchner (VIA in Bacharach 30.8.) können Sie nach noch in aller Ruhe einen Riesling genießen und Ihre Eindrücke austauschen - und erreichen dann um 22:00 Uhr entspannt unsere **Sonderfähre** zwischen Lorch und Niederheimbach (bzw. Niederheimbach-Lorch).   
+Und am 31.7. nach unserer "Lenz"-Vorstellung in der VIA verkehrt die Fähre zwischen Bacharach/Oberwesel und Kaub wegen des PUR-Konzerts auf der Loreley als **Spätfähre**     
     
     
 Die **Loreley-Fähre** bringt Sie nach den Vorstellungen in Oberwesel und Kaub jeweils bis 22:30 (St. Goar) bzw. 22:35 (St. Goarshausen) ans gegenüberliegende Ufer. Sonderfahrten der Loreley-Fähre gibt es am 30.8. bis 23:45 und am 31.8. bis 0:30    
@@ -23,7 +23,7 @@ Die **Loreley-Fähre** bringt Sie nach den Vorstellungen in Oberwesel und Kaub j
 
 
 
-# 28.6.19   Publicity     
+**28.6.19**   # Publicity     
 Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.... <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
 *zum Bericht in mittelrheingold*   </a>              
          
