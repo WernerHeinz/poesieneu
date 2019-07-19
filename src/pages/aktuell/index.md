@@ -5,10 +5,10 @@ title: Aktuelles
 published: true
 ---
 
-**19.7.19  # Super. Festival-Werbeaktionen im Welterbetal
-![Bild](/Kauerpost.jpg)     
+# Super. Festival-Werbeaktionen im Welterbetal
+![Bild](/Kauerpost.jpg) gepostet am 19.7.19       
 
-**16.7.19** # Sonderfähren nach den Vorstellungen     
+ # Sonderfähren nach den Vorstellungen     
 am 11.8. / 17.8. und 31.8.   
 Das Festival verbindet die beiden Ufer des Rheins.   
 Nach den Vorstellungen von "Der Goldene Topf" (Lorch 11.8.), "Der Rabbi von Bacharach" (Bacharach 17.8.) und "Lenz". Georg Büchner (VIA in Bacharach 30.8.) können Sie nach noch in aller Ruhe einen Riesling genießen und Ihre Eindrücke austauschen - und erreichen dann um 22:00 Uhr entspannt unsere **Sonderfähre** zwischen Lorch und Niederheimbach (bzw. Niederheimbach-Lorch).   
@@ -18,12 +18,12 @@ Und am 31.7. nach unserer "Lenz"-Vorstellung in der VIA verkehrt die Fähre zwis
 Die **Loreley-Fähre** bringt Sie nach den Vorstellungen in Oberwesel und Kaub jeweils bis 22:30 (St. Goar) bzw. 22:35 (St. Goarshausen) ans gegenüberliegende Ufer. Sonderfahrten der Loreley-Fähre gibt es am 30.8. bis 23:45 und am 31.8. bis 0:30    
 <a class="links" href="https://faehre-loreley.de/fahrplan/#tabs_desc_8773_4 " target="_blank" rel="noopener noreferrer">     
     Loreley-Fähre
-  </a>     
+  </a>   gepostet am 16.7.19**  
 
 
 
 
-**28.6.19**   # Publicity     
+# Publicity     
 Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung "Mittelrheingold" einen schönen konzentrierten Bericht über unser Festival-Projekt veröffentlicht.... <a class="links" href="https://mittelrheingold.de/ein-festival-rund-um-bacharach-und-ein-musical-fuer-bingen/" target="_blank" rel="noopener noreferrer">
 *zum Bericht in mittelrheingold*   </a>              
          
@@ -33,7 +33,7 @@ Wunderbar. Der Exil-BacharacherFrank Zimmer hat in seiner Internet-Tageszeitung 
 
 "Für die Touristiker ist das Festival ein Jackpot..."  behauptet der Autor.     
 Damit er recht behält: nicht lange gezögert und hurtig die links via Mail oder Facebook oder Twitter oder WhatsApp oder zur Not auch mit der Schneckenpost weiterleiten an Oma und Oma, FreundIn und Bekannte, Kinder und Kindeskinder!!!   
-
+gepostet am 28.6.19  
 
 
 # ----
