@@ -43,9 +43,8 @@ Theater Willy Praml    </a>
  Gregor Praml
   </a>     
   
-  
-  
- # Partner  
+   
+# Partner    
  
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 Günderode Filmhaus in Oberwesel   </a>
