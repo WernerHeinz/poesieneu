@@ -50,7 +50,7 @@ class Menu extends React.Component{
          <li><Link to="/praml">Who is Who im Festival?</Link></li>
          <li><Link to="/stimmen">Kommentare zum Festival</Link></li>
          <li><Link to="/presse">Presse</Link></li>
-         <li><Link to="/links">Links</Link></li>
+         <li><Link to="/links">Sponsoren-Unterstützer-Partner</Link></li>
          <li><Link to="/kontakt">Kontakt</Link></li>
          <li><Link to="/datenschutz">Datenschutz</Link></li>
          <li><Link to="/impressum">Impressum</Link></li>
