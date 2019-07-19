@@ -9,7 +9,7 @@ published: true
 ![Bild](/Kauerpost.jpg) gepostet am 19.7.19 
 ![Bild](/banner_kaub.jpg)
 ![Bild](/VIA Banner.jpg)
-![Bild](/banner-bacharach.jpg)
+![Bild](/banner_bacharach.jpg)
 ![Bild](/plakatfenster_mimo.jpg)
 ![Bild](/plakate-vorbereiten.jpg)
 ![Bild](/plakate-aufziehen.jpg)
