@@ -8,7 +8,8 @@ published: true
 # Sponsoren und Unterstützer    
 Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren  
 
-![Bild](/kuso_pagelogo_2015_home.jpg)  [Programm Kultursommer 2019](/KUSO2019.pdf)  
+![Bild](/kuso_pagelogo_2015_home.jpg)  
+[Kultursommer](/KUSO2019.pdf)  
 
 ![Bild](/Sponsoren_20.jpg)  
 
