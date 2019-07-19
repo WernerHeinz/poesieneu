@@ -8,7 +8,7 @@ published: true
 # Sponsoren und Unterstützer    
 Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren    
 
-![Bild](/Sponsoren Welterbe-Info.jpg)  
+![Bild](/Sponsoren_20.jpg)  
 
 
 
