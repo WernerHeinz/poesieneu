@@ -5,7 +5,12 @@ title: Aktuelles
 published: true
 ---
 
-# 16.7.19 Sonderfähren nach den Vorstellungen     
+19.7.19  
+# Super. Festival-Werbeaktionen im Welterbetal
+![Bild](/Kauerpost.jpg)
+
+16.7.19 
+# Sonderfähren nach den Vorstellungen     
 # am 11.8. / 17.8. und 31.8.   
 Das Festival will auch die beiden Ufer des Rheins verbinden. Nach den Vorstellungen von "Der Goldene Topf" (Lorch 11.8.), "Der Rabbi von Bacharach" (Bacharach 17.8.) und "Lenz". Georg Büchner (VIA in Bacharach 31.8.) können Sie nach noch in aller Ruhe einen Riesling genießen und Ihre Eindrücke austauschen - und erreichen dann um 22:00 Uhr entspannt unsere **Sonderfähre** zwischen Lorch und Niederheimbach (bzw. Niederheimbach-Lorch).   
     
