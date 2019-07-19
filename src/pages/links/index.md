@@ -9,7 +9,8 @@ published: true
 Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren  
 
 ![Bild](/kuso_pagelogo_2015_home.jpg)  
-[Kultursommer_Heimat/en](/KUSO2019.pdf)  
+[Kultursommer_Heimat/en](/KUSO2019.pdf) 
+![Bild](/LOGO-HMWK.png)   
 
 ![Bild](/Sponsoren_20.jpg)  
 
