@@ -16,7 +16,7 @@ Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer
 
 
 
-# Die Akteure des Festivals:     
+# Akteure des Festivals     
 
 <div class="linkis">
  
@@ -45,7 +45,8 @@ Theater Willy Praml    </a>
   
   
   
- # Partner    
+ # Partner  
+ 
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 Günderode Filmhaus in Oberwesel   </a>
 
