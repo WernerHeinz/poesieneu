@@ -7,10 +7,10 @@ published: true
 
 # Super. Festival-Werbeaktionen im Welterbetal
 ![Bild](/Kauerpost.jpg) gepostet am 19.7.19 
-![Bild](/banner-kaub.jpg)
+![Bild](/banner_kaub.jpg.jpg)
 ![Bild](/VIA Banner.jpg)
 ![Bild](/banner-bacharach.jpg)
-![Bild](/plakatfenster-mimo.jpg)
+![Bild](/plakatfenster_mimo.jpg)
 ![Bild](/plakate-vorbereiten.jpg)
 ![Bild](/plakate-aufziehen.jpg)
 
