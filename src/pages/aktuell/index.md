@@ -6,7 +6,14 @@ published: true
 ---
 
 # Super. Festival-Werbeaktionen im Welterbetal
-![Bild](/Kauerpost.jpg) gepostet am 19.7.19       
+![Bild](/Kauerpost.jpg) gepostet am 19.7.19 
+![Bild](/banner-kaub.jpg)
+![Bild](/VIA Banner.jpg)
+![Bild](/banner-bacharach.jpg)
+![Bild](/plakatfenster-mimo.jpg)
+![Bild](/plakate-vorbereiten.jpg)
+![Bild](/plakate-aufziehen.jpg)
+
 
  # Sonderfähren nach den Vorstellungen     
 am 11.8. / 17.8. und 31.8.   
