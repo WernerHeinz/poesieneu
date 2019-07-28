@@ -92,9 +92,10 @@ Ticket bestellen   </a>
 Theatraler Parcours mit dem Theater Willy Praml**   
  * Start in der Wernerkapelle Bacharach      
  
-Fährverbindung nach den Vorstellungen: 
-St.Goar - St.Goarshausen um 22:35          
- **17.August** verkehrt eine **Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**      
+Fährverbindung nach den Vorstellungen:     
+
+**St.Goar - St.Goarshausen um 22:35          
+ **17.August: Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**      
    
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>   
