@@ -147,7 +147,8 @@ Ticket bestellen   </a>
 Heinrich heine Chor. Gregor Praml. Marcus Plath.**     
 * Teil 1: Hof der Heimburg   
 * Teil 2: Pfarrkirche Niederheimbach    
-Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
+Tageskasse & VVK: Einheitspreis 10 €    
+VVK bei Tourist-Information Niederheimbach
 
 #----
     
@@ -157,7 +158,9 @@ Kein Ticket-Vorverkauf. Nur Tageskasse. Einheitspreis 10 €
 Theater Willy Praml**       
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach   
 
-Nach der Vorstellung am **31.August** verkehrt eine **Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**    
+**Extra Fahrplan Loreley Fähre St. Goar  
+30.8. bis 23.45 Uhr / 31.8. bis 0.30 Uhr      
+31.August: Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**    
  
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
