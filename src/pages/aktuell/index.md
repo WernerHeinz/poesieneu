@@ -5,6 +5,21 @@ title: Aktuelles
 published: true
 ---
 
+# Lebhafter Vorverkauf der Karten für die Festival-Premiere "Der Rabbi von Bacherach.Heine.Stationen eines Traumas"   
+am Samstag, 10.8. 15:30 - 20:00     
+
+Wir haben heute die letzten Kartenkontingente für die Rabbi-Vorstellung am 10.8. in den Vorverkauf gegeben. Wer noch Karten für kommenden Samstag sichern will: Bitte sputen!   
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">     
+ https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach     
+  </a>     
+  
+                
+oder telefonisch bei:    
+
+*Rhein-Nahe-Touristik Bacharach  
+Tel.  06743 919303     
+
+
 # Super. Festival-Werbeaktionen im Welterbetal
 ![Bild](/Kauerpost.jpg) gepostet am 19.7.19 
 ![Bild](/banner_kaub.jpg)
