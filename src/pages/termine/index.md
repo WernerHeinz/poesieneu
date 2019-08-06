@@ -29,7 +29,22 @@ Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis
 <a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
 https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
 
-#---      
+#---
+
+# Lebhafter Vorverkauf der Karten für die Festival-Premiere "Der Rabbi von Bacherach.Heine.Stationen eines Traumas"   
+am Samstag, 10.8. 15:30 - 20:00     
+
+Wir haben inzwischen die letzten Kartenkontingente für die Rabbi-Vorstellung am 10.8. in den Vorverkauf gegeben. Wer noch Karten für kommenden Samstag sichern will: Bitte sputen! (Information Stand 5.8.19)  
+<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">     
+ https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach     
+  </a>     
+  
+                
+oder telefonisch bei:    
+
+*Rhein-Nahe-Touristik Bacharach  
+Tel.  06743 919303     
+
 
 
 # Alle Termine im Überblick
