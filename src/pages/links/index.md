@@ -12,7 +12,7 @@ Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer
 [Kultursommer_Heimat/en](/KUSO2019.pdf) 
 ![Bild](/LOGO-HMWK.png)   
 
-![Bild](/Sponsoren_20.jpg)  
+![Bild](/Sponsoren 5.8.19.png)  
 
 
 
