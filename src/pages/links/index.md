@@ -51,7 +51,7 @@ Theater Willy Praml    </a>
   </a>     
   
    
-# Partner    
+<h1>Partner</h1>    
  
   <a class="links" href="https://www.guenderodefilmhaus.de/" target="_blank" rel="noopener noreferrer">
 Günderode Filmhaus in Oberwesel   </a>
