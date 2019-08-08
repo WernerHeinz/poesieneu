@@ -6,13 +6,16 @@ published: true
 ---
 
 
-
 # **Tickets im Vorverkauf**  
- 
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-Ticket bestellen   </a>                                                                                                                                    
+
+<a class="links"
+href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
+Ticket bestellen
+</a>                                                                                                                                     
 oder telefonisch bei:    
-*Rhein-Nahe-Touristik Bacharach Tel.  06743 919303     
+**Rhein-Nahe-Touristik**   
+Bacharach    
+Tel.  06743 919303     
 
 # Preise VVK
 "Rabbi" = 25€ / erm. 12€      
@@ -27,41 +30,43 @@ Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis
 
 # Pauschal-Angebote Ticket + Hotel:   
 <a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
-https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
+https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>         
 
-#---
+---
 
 # Lebhafter Vorverkauf der Karten für die Festival-Premiere "Der Rabbi von Bacherach.Heine.Stationen eines Traumas"   
 am Samstag, 10.8. 15:30 - 20:00     
 
 Wir haben inzwischen die letzten Kartenkontingente für die Rabbi-Vorstellung am 10.8. in den Vorverkauf gegeben. Wer noch Karten für kommenden Samstag sichern will: Bitte sputen! (Information Stand 5.8.19)  
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">     
- https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach     
+
+<a class="links"
+href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer"> Ticket bestellen    
   </a>     
-  
-                
+
+
 oder telefonisch bei:    
 
-*Rhein-Nahe-Touristik Bacharach  
+*Rhein-Nahe-Touristik*   
+Bacharach     
 Tel.  06743 919303     
 
-
+---
 
 # Alle Termine im Überblick
 
-![Bild](/uebersicht.png) 
+![Bild](/uebersicht.png)
 
 # 10. August   Bacharach   
 15:30 Uhr bis ca. 20:00 Uhr     
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.           
 Theatraler Parcours mit dem Theater Willy Praml**   
 * Start in der Wernerkapelle Bacharach    
- 
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
 
-#---      
-    
+---
+
 # 11. August Oberwesel
 12:00 Uhr bis ca. 14:00 Uhr     
 **Glotzt nicht so romantisch.   
@@ -69,10 +74,10 @@ Podium für Welterbe-Pioniere.**
 * Günderrode-Filmhaus. Siebenjungfrauenblick Oberwesel.   
 Eintritt kostenlos    
 
-  
-#---   
 
-  
+---   
+
+
 # 11. August   Lorch am Rhein    
 19:30 Uhr bis ca. 21:30 Uhr       
 **E.T.A. Hoffmann. Der Goldne Topf.    
@@ -80,11 +85,11 @@ Michael Quast und Bruno Kliegl (Glasharmonika)**
 * Hilchenhaus  Lorch am Rhein    
 
 Nach der Vorstellung verkehrt eine **Sonderfähre Lorch - Niederheimbach um 22:30 Uhr**      
- 
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>       
 
-#----       
+---       
 
 
 # 16. August  Oberwesel
@@ -94,40 +99,40 @@ Freies Schauspiel Ensemble Frankfurt**
 * Jugendheim Oberwesel   
 
 **Fährverbindung** nach der Vorstellung St.Goar - St.Goarshausen um 22:35     
-  
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>         
 
-#---      
+---      
 
-  
+
 # 17. August / 18. August  Bacharach     
 15:30 Uhr bis ca. 20:00 Uhr     
 **Der Rabbi von Bacherach. Heine. Stationen eines Traumas.                
 Theatraler Parcours mit dem Theater Willy Praml**   
  * Start in der Wernerkapelle Bacharach      
- 
-Fährverbindung nach den Vorstellungen:     
+
+**Fährverbindung nach den Vorstellungen:**     
 
 **St.Goar - St.Goarshausen um 22:35          
  **17.August: Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**      
-   
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>   
 
- #---     
- 
- 
+---     
+
+
 # 23. August  Lorch am Rhein     
 19:00 Uhr bis ca. 20:45 Uhr     
 **Die Schöne Müllerin.Franz Schubert.    
 Stadtführung für lebensmüde Musikliebhaber**      
 * Startpunkt: Kirche St. Martin, Lorch
- 
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>      
 
-#---   
+---   
 
 # 24. August  Oberwesel    
 19:30 Uhr bis ca. 21:00 Uhr       
@@ -136,13 +141,13 @@ Freies Schauspiel Ensemble Frankfurt**
 * Jugendheim Oberwesel      
 
 **Fährverbindung** nach der Vorstellung: St.Goar-St.Goarshausen um 22:35    
-  
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
 
-#---   
-  
-   
+---   
+
+
 # 25. August & 29. August  Kaub  
 19:00 Uhr bis ca. 20:45 Uhr    
 **Die Schöne Müllerin.Franz Schubert.    
@@ -150,11 +155,11 @@ Stadtführung für lebensmüde Musikliebhaber**
 * Startpunkt: Evangelische Kirche Kaub     
 
 **Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30     
-  
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
 
-#---   
+---   
 
 # 25. August  Niederheimbach   
 14:00 Uhr bis 17:00 Uhr    
@@ -165,44 +170,46 @@ Heinrich heine Chor. Gregor Praml. Marcus Plath.**
 Tageskasse & VVK: Einheitspreis 10 €    
 VVK bei Tourist-Information Niederheimbach
 
-#----
-    
+---
+
 # 30. August / 31. August  Bacharach    
 19:00 Uhr bis 21:00 Uhr       
 **Lenz. Georg Büchner.       
 Theater Willy Praml**       
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach   
 
-**Extra Fahrplan Loreley Fähre St. Goar  
-30.8. bis 23.45 Uhr / 31.8. bis 0.30 Uhr      
-31.August: Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**    
- 
+
+
+***Extra Fahrplan Loreley Fähre St. Goar***    
+30.8. bis 23.45 Uhr / 31.8. bis 0.30 Uhr         
+31.August: **Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**  
+
+
+
+
+
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
 
-#---   
+---   
 
- 
+
 # 1. September  Bacharach    
 16:00 Uhr bis 20:00 Uhr  
 **Bacchanale. Trunkenes Fest zum NüchternWerden**    
 mit echten und gefälschten Mittelrheintalern        
 * Oberstraße Bacharach mit Schlussakkord im Rathaushof     
- 
- 
 
-#---   
+
+
+---   
 
 
 
 # Pauschal-Angebote Tickets + Hotel:   
 <a class="links" href="https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen" target="_blank" rel="noopener noreferrer">
 https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>      
-#---   
 
-
-
-
-
+---   
 
 
