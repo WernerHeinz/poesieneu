@@ -16,7 +16,7 @@ Wir haben heute die letzten Kartenkontingente für die Rabbi-Vorstellung am 10.8
                 
 oder telefonisch bei:    
 
-*Rhein-Nahe-Touristik Bacharach  
+**Rhein-Nahe-Touristik Bacharach**      
 Tel.  06743 919303     
 
 
@@ -62,7 +62,7 @@ Damit er recht behält: nicht lange gezögert und hurtig die links via Mail oder
 gepostet am 28.6.19  
 
 
-# ----
+----
 
 # Ticket-Vorverkauf gestartet
 Der Vorverkauf über Ticket-Regional ist nach einigen Anlauf-Verzögerungen vor etwas über einer Woche endlich gestartet. Außerdem können Karten in allen TI-Büros der Rhein-Nahe-Toruistik gekauft und auch telefonisch geordert werden. Danke lieber Christian Kuhn und liebes Team der Rhein-Nahe-Touristik.   
@@ -72,14 +72,14 @@ Der Vorverkauf über Ticket-Regional ist nach einigen Anlauf-Verzögerungen vor 
   </a>     
   
                 
-oder telefonisch über:    
+oder telefonisch über:      
 
-*Rhein-Nahe-Touristik Bacharach  
+**Rhein-Nahe-Touristik Bacharach**     
 Tel.  06743 919303    
 
 Insbesondere beim "Rabbi von Bacherach" und bei der "Schönen Müllerin - Musikalische Stadtführung für lebensmüde Musikliebhaber" rechnen wir wegen der sehr begrenzten Zuschauer-Kontingente damit, dass sie schnell ausverkauft sein werden.  Bitte beachten: Es gibt keinen Vorverkauf durch das Theater WillyPraml. Und da wir aufgrund der sehr knappen Kalkulation dringend auf die Einnahmen aus den Eintrittskarten angewiesen sind, gibt es nur sehr kleine Gastkarten-Kontingente für "Offizielle" und Sponsoren. Wir empfehlen deshalb sehr, rechtzeitig Eintrittskarten im Vorverkauf zu sichern.    
 
-# ----
+---
 
 
 # Festival-Flyer ist gedruckt und wird jetzt in den Festival-Gemeinden und im Welterbetal verteilt   
@@ -94,7 +94,7 @@ oder bei der Festival-Koordination: *whz.clubnaxos@gmail.com
 Vorräte werden außerdem bei den Tourist-Informationsbüros der Festival-Gemeinden deponiert, wo man  auch größere Posten abholen kann.        
 Mitte Juni folgt dann eine Plakat-Aktion  - und ab Juli wird in den Festival-Gemeinden auch die Banner-Werbung starten
 
-# ---
+---
 
 # Neu: Ein Festival-Programm für alle vier BaKaLoNi-Gemeinden plus Oberwesel
 Nach den eindrucksvollen BaKaLoNi-Schlender-Weinproben an den letzten Wochenenden steht fest: Das Festival soll in diesem Jahr unbedingt auch ein BaKaLoNi-Projekt im Welterbetal werden! *(Für diejenigen, die das Kürzel noch nicht kennen: BaKaLoNi steht für eine bürgerschaftliche Initiative der vier Gemeinden Bacharach - Kaub - Lorch - Niederheimbach, die als links-rechtsrheinischer Gemeinde-Verbund quer über den Strom enger zusammenarbeiten wollen)*.    
@@ -105,7 +105,7 @@ Und in **Niederheimbach**  bereitet der Heinrich Heine Chor ein *Zündfunken*-Ko
 (aktualisiert Sonntag 27.4.19, 14:00 Uhr)
 
 
-# ----    
+---    
 
 
 # 14.4.19   Große Gratulation zum Erfolg der "Schlender-Weinproben" in den vier BaKaLoNi-Gemeinden.    
@@ -128,8 +128,7 @@ die  vier Bürgermeister nahmen mit den einschlägigen Insignien ihrer mittelrhe
 ![Bild](/michael.jpg)
 
 
-
-# ---   
+---   
 
 
 # 7.4.19 -  BaKaLoNi Schlender-Weinprobe in Kaub    
@@ -141,7 +140,7 @@ Am 7.4. fand die dritte Schlender-Weinprobe des Gemeinde-Verbundes BaKaLoNi in K
 **Und eigentlich müsste es doch auch eine Vorstellung in Kaub geben!** 
 ![Bild](/Blücher-Denkmal.jpg)
 
-# ----    
+---    
 
 
 
@@ -153,7 +152,7 @@ Solche Zusammenkünfte in der Bacharacher Obergasse signalisieren: die Bacchanal
 Zum Beispiel hier: Ein idealer Showroom für eine spezielle Mittelrhein-Peepshow     
 ![Bild](/Bacchanal-2.jpg)   
 
-# ----
+---
 
 # 1.3.19  Das Programm steht
 ![Bild](/ghaus1.jpg)    
@@ -163,10 +162,10 @@ Begeistert vom Welterbetal: Die beiden Regie-Teams mit dem großartigen Blick vo
 Nach einer Rundfahrt der Regie-Teams von Theater Willy Praml und Freiem Schauspiel Ensemble zu den Spielstätten des Festivals machen wir jetzt einen Knopf dran: das Programm steht.    
 Jetzt beginnt die Öffentlichkeitsarbeit.    
 
-# ----    
+---    
 
 
-# 3.2.19    Arbeitsgemeinschaft Festival
+# 3.2.19  Arbeitsgemeinschaft Festival
 
 In der  Arbeitsgemeinschaft sammeln sich die aktiven UnterstützerInnen des Festivals, Künstlerinnen und Künstler, VertreterInnen von Chören und Musikensembles in der Region sowie regionale RepräsentantInnen aus Politik und Verwaltung, denen das Festival als nachhaltiger kultureller Impuls in der Region am Herzen liegt.  
 
@@ -181,7 +180,7 @@ Wir wollen dazu keinen weiteren Verein gründen, sondern die Arbeitsgemeinschaft
 **Wer das Festival aktiv unterstützen und in der Arbeitsgemeinschaft mitwirken möchte, richte seine/ihre Interessenbekundung bitte an:** 
 **whz.clubnaxos@gmail.com**     
 
-# ----    
+---    
 
 
 <h3>...und der Chor singt sich schon mal ein</h3>
