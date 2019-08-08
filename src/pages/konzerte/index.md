@@ -42,9 +42,7 @@ Hierfür verwenden wir zunehmend heimische Produkte: Fleisch und Käse aus artge
 
 **- eine Festival-Eintrittskarte pro Person** 
 
-
-
-# ---
+---
 
 ## 4 Tage Mittelrhein-Festival-Pauschale    
 **248,-€ pro Person im Doppelzimmer**       
@@ -71,6 +69,6 @@ Hierfür verwenden wir zunehmend heimische Produkte: Fleisch und Käse aus artge
 
 **- eine Festival-Eintrittskarte pro Person** 
 
-#----
+---
 
  
