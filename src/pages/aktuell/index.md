@@ -43,6 +43,7 @@ Und am 31.7. nach unserer "Lenz"-Vorstellung in der VIA verkehrt die Fähre zwis
 Die **Loreley-Fähre** bringt Sie nach den Vorstellungen in Oberwesel und Kaub jeweils bis 22:30 (St. Goar) bzw. 22:35 (St. Goarshausen) ans gegenüberliegende Ufer. Sonderfahrten der Loreley-Fähre gibt es am 30.8. bis 23:45 und am 31.8. bis 0:30    
 <a class="links" href="https://faehre-loreley.de/fahrplan/#tabs_desc_8773_4 " target="_blank" rel="noopener noreferrer">     
     Loreley-Fähre
+
   </a>   gepostet am 16.7.19**  
 
 
