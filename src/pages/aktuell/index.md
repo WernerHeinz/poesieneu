@@ -7,7 +7,7 @@ published: true
 
 #Eröffnung des Festivals in Bacharach und Lorch   
 Bericht in der Allgemeinen Zeitung v. 15.8.19
-<a class="links" href= "https://wwww.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach " target="_blank" rel="noopener noreferrer"> *zum Bericht* </a>
+<a class="links" href= "https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rathaushof-wird-zur-matratzengruft_20356113" target="_blank" rel="noopener noreferrer"> *zum Bericht* </a>
 
 # Lebhafter Vorverkauf der Karten für die Festival-Premiere "Der Rabbi von Bacherach.Heine.Stationen eines Traumas"   
 Das Wochenende, 17./18.8. 15:30 - 20:00     
