@@ -9,13 +9,13 @@ published: true
 Bericht in der Allgemeinen Zeitung v. 15.8.19
 <a class="links" href= "https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rathaushof-wird-zur-matratzengruft_20356113" target="_blank" rel="noopener noreferrer"> *zum Bericht* </a>
 
-# Lebhafter Vorverkauf der Karten für die Festival-Premiere "Der Rabbi von Bacherach.Heine.Stationen eines Traumas"   
-Das Wochenende, 17./18.8. 15:30 - 20:00     
-
-Wir haben heute die Kartenkontingente für die Rabbi-Vorstellung am 17./18. in den Vorverkauf gegeben. Wer noch Karten für kommenden Samstag sichern will: Bitte sputen!   
+# Lebhafter Vorverkauf der Karten für das zweite Festival-Wochenende    
+ "Der Rabbi von Bacherach.Heine.Stationen eines Traumas".  
+ 17./18.8. 15:30 - 20.00 in Bacharach.   
 
                 
-oder telefonisch bei:    
+Karten direkt in den VVK- Stellen von ticket-regional
+oder telefonische Reservierung bei:   
 
 **Rhein-Nahe-Touristik Bacharach**      
 Tel.  06743 919303     
