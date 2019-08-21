@@ -10,14 +10,13 @@ Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer
 
 <div class="sponsor">
  
-<imm src="/Sponsoren 5.8.19.png" alt=""/>
-<img src="/01_ZSC_anker_cmyk_blau (2).jpg" alt=""/>
 
-<imm src="/kuso_pagelogo_2015_home.jpg" alt=""/>
+<img src="/kuso_pagelogo_2015_home.jpg" alt=""/>
 <a href="/KUSO2019.pdf">PDF öffnen/downloaden</a>   
 
 <img src="/LOGO-HMWK.png" alt=""/>
 <img src="/Sponsoren 5.8.19.png" alt=""/>
+<img src="/01_ZSC_anker_cmyk_blau (2).jpg" alt=""/>
 
 
  
