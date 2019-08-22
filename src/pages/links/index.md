@@ -16,7 +16,7 @@ Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer
 
 <img src="/LOGO-HMWK.png" alt=""/>
 <img src="/Sponsoren 5.8.19.png" alt=""/>
-<img src="/Ufer-der-Poesie-SPONSOREN.pdf" alt=""/>
+<img src="/Ufer-der-Poesie-SPONSOREN.jpg" alt=""/>
 
 
  
