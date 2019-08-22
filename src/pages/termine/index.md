@@ -108,7 +108,7 @@ Theater Willy Praml
 
 ***Extra Fahrplan Loreley Fähre St. Goar***    
 30.8. bis 23.45 Uhr / 31.8. bis 0.30 Uhr         
-31.August: **Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**  
+30.August: **Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**  
 
 
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
