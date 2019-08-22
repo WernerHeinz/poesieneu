@@ -15,7 +15,6 @@ Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer
 <a href="/KUSO2019.pdf">PDF öffnen/downloaden</a>   
 
 <img src="/LOGO-HMWK.png" alt=""/>
-<img src="/Sponsoren 5.8.19.png" alt=""/>
 <img src="/Ufer-der-Poesie-SPONSOREN.jpg" alt=""/>
 
 
