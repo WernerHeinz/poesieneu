@@ -34,7 +34,7 @@ Tel.  06743 919303
  # Sonderfähren nach den Vorstellungen     
 am 11.8. / 17.8. und 30.8.   
 Das Festival verbindet die beiden Ufer des Rheins.   
-Nach den Vorstellungen von "Der Goldene Topf" (Lorch 11.8.), "Der Rabbi von Bacharach" (Bacharach 17.8.) und "Lenz". Georg Büchner (VIA in Bacharach 30.8.) können Sie nach noch in aller Ruhe einen Riesling genießen und Ihre Eindrücke austauschen - und erreichen dann um 22:00 Uhr entspannt unsere **Sonderfähre** zwischen Lorch und Niederheimbach (bzw. Niederheimbach-Lorch).   
+Nach den Vorstellungen von "Der Goldene Topf" (Lorch 11.8.), "Der Rabbi von Bacharach" (Bacharach 17.8.) und "Lenz". Georg Büchner (VIA in Bacharach 30.8.) können Sie nach noch in aller Ruhe einen Riesling genießen und Ihre Eindrücke austauschen - und erreichen dann um 23:00 Uhr entspannt unsere **Sonderfähre** zwischen Lorch und Niederheimbach (bzw. Niederheimbach-Lorch).   
 Und am 31.8. nach unserer "Lenz"-Vorstellung in der VIA verkehrt die Fähre zwischen Bacharach/Oberwesel und Kaub wegen des PUR-Konzerts auf der Loreley als **Spätfähre**     
     
     
