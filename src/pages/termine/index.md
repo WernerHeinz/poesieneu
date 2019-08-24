@@ -66,7 +66,8 @@ Ticket bestellen   </a>
 Freies Schauspiel Ensemble Frankfurt**        
 * Jugendheim Oberwesel      
 
-**Fährverbindung** nach der Vorstellung: St.Goar-St.Goarshausen um 22:35    
+**Fährverbindung** nach der Vorstellung: St.Goar-St.Goarshausen um 22:35
+Einmalige Sonderfahrt heute 01.00 Uhr  Engelsburg  nach Kaub  
 
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
