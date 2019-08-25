@@ -5,6 +5,15 @@ title: Aktuelles
 published: true
 ---
 
+#Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum - braucht aber weiterhin noch Sponsaoren und Unterstützer   
+Wir freuen uns sehr über die äußerst positive Resonanz: ausverkaufte Vorstellungen in Bacharach und Lorch, enthusiastisches Publikum, öffentliche Förderung durch die Kulturstiftung des Bundes, die beiden Bundesländer Rheinland-Pfalz unnd Hessen und großzügige private Spender und Sponsoring durch Unternehmen in der Region. Aber trotz enamtlichen Leistungen vieler UnterstützerInnen und der entgeltlosen Leistungen für Vorbereitung, Konzeption und Planung: wir mussten eine Finanzierungslücke in Ksuf nehmen, damit das Festival überhaupt zustande kam.
+Erfreulich, dass sich nach den Vorstellungen immer weitere Sponsoren und Spender melden, die vom Konzept und Ziel überzeugt sind und uns mit finanziellen Zuwendungen oder Sachleistungen unterstützen. Zuletzt dss Rheinhotel in Bacharach, das z.B. die komplette Hotelrechnung für unseren "Schöne-Müllerin"-Star Graham F. Valentine spendet.
+
+Hier eine aktuelle Übersicht über unsere Sponsoren - zur Nachahmung empfohlen! 
+Kontakt gerne über whz.clubnaxos@gmail.com
+
+<img src="/Ufer-der-Poesie-SPONSOREN-neu.jpg" alt=""/>
+
 #Eröffnung des Festivals in Bacharach und Lorch   
 Bericht in der Allgemeinen Zeitung v. 15.8.19
 <a class="links" href= "https://www.allgemeine-zeitung.de/lokales/bingen/vg-rhein-nahe/bacharach/rathaushof-wird-zur-matratzengruft_20356113" target="_blank" rel="noopener noreferrer"> *zum Bericht* </a>
