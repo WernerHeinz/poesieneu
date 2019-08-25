@@ -5,8 +5,8 @@ title: Aktuelles
 published: true
 ---
 
-#Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum - braucht aber weiterhin noch Sponsaoren und Unterstützer   
-Wir freuen uns sehr über die äußerst positive Resonanz: ausverkaufte Vorstellungen in Bacharach und Lorch, enthusiastisches Publikum, öffentliche Förderung durch die Kulturstiftung des Bundes, die beiden Bundesländer Rheinland-Pfalz unnd Hessen und großzügige private Spender und Sponsoring durch Unternehmen in der Region. Aber trotz enamtlichen Leistungen vieler UnterstützerInnen und der entgeltlosen Leistungen für Vorbereitung, Konzeption und Planung: wir mussten eine Finanzierungslücke in Ksuf nehmen, damit das Festival überhaupt zustande kam.
+#Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum - braucht aber weiterhin noch Sponsoren und Unterstützer   
+Wir freuen uns sehr über die äußerst positive Resonanz: ausverkaufte Vorstellungen in Bacharach und Lorch, enthusiastisches Publikum, öffentliche Förderung durch die Kulturstiftung des Bundes, die beiden Bundesländer Rheinland-Pfalz unnd Hessen und großzügige private Spender und Sponsoring durch Unternehmen in der Region. Aber trotz ehrenamtliche Leistungen vieler UnterstützerInnen und der entgeltlosen Leistungen für Vorbereitung, Konzeption und Planung: wir mussten eine Finanzierungslücke in Kauf nehmen, damit das Festival überhaupt zustande kam.
 Erfreulich, dass sich nach den Vorstellungen immer weitere Sponsoren und Spender melden, die vom Konzept und Ziel überzeugt sind und uns mit finanziellen Zuwendungen oder Sachleistungen unterstützen. Zuletzt dss Rheinhotel in Bacharach, das z.B. die komplette Hotelrechnung für unseren "Schöne-Müllerin"-Star Graham F. Valentine spendet.
 
 Hier eine aktuelle Übersicht über unsere Sponsoren - zur Nachahmung empfohlen! 
