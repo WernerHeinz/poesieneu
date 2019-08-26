@@ -17,7 +17,9 @@ BACCHANALE in der Oberstraße Bacharach am Sonntag ab 16:00 Uhr
 
 Hier einige Impressionen von der Schönen Müllerin gestern in Kaub mit Graham F. Valentine, Leonhard Dering und Muawia Harb   
 Fotos peter grün    
-
+![Bild](/schöne Müllerin_1_kl.jpeg)
+![Bild](/schöne Müllerin_2_kl.jpeg)
+![Bild](/schöne Müllerin_3_kl.jpeg) 
 gepostet Montag, 26.8.
 
 
