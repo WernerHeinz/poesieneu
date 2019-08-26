@@ -58,8 +58,9 @@ Stadtführung für lebensmüde Musikliebhaber**
 * Startpunkt: Evangelische Kirche Kaub     
 
 **Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30  
-
-
+![Bild](/schöne Müllerin_1_kl.jpeg)
+![Bild](/schöne Müllerin_2_kl.jpeg)
+![Bild](/schöne Müllerin_3_kl.jpeg)     
 
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
