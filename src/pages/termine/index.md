@@ -49,30 +49,6 @@ Tel.  06743 919303
 ![Bild](/uebersicht.png)
  
 
-# 23. August  Lorch am Rhein     
-19:00 Uhr bis ca. 20:45 Uhr     
-**Die Schöne Müllerin.Franz Schubert.    
-Stadtführung für lebensmüde Musikliebhaber**      
-* Startpunkt: Kirche St. Martin, Lorch
-
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-Ticket bestellen   </a>      
-
----   
-
-# 24. August  Oberwesel    
-19:30 Uhr bis ca. 21:00 Uhr       
-**Christa Wolf. Kein Ort. Nirgends.         
-Freies Schauspiel Ensemble Frankfurt**        
-* Jugendheim Oberwesel      
-
-**Fährverbindung** nach der Vorstellung: St.Goar-St.Goarshausen um 22:35
-Einmalige Sonderfahrt heute 01.00 Uhr  Engelsburg  nach Kaub  
-
-<a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
-Ticket bestellen   </a>    
-
----   
 
 
 # 25. August & 29. August  Kaub  
@@ -88,16 +64,6 @@ Ticket bestellen   </a>
 
 ---   
 
-# 25. August  Niederheimbach   
-14:00 Uhr bis 17:00 Uhr    
-**Honeypain. Männerchor trifft LoopMachine     
-Heinrich heine Chor. Gregor Praml. Marcus Plath.**     
-* Teil 1: Hof der Heimburg   
-* Teil 2: Pfarrkirche Niederheimbach    
-Tageskasse & VVK: Einheitspreis 10 €    
-VVK nur bei Tourist-Information Niederheimbach
-
----
 
 # 30. August / 31. August  Bacharach    
 19:00 Uhr bis 21:00 Uhr       
