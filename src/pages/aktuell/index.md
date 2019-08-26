@@ -5,6 +5,22 @@ title: Aktuelles
 published: true
 ---
 
+Nach einem sehr erfolgreichen dritten Festival-Wochenende mit Schubert. Schöne Müllerin in Kaub a.Rh. und dem Heinrich Heine Chor und "Honeypain" in Niederheimbach biegen wir diese Woche auf die Endstrecke des Festivals ein.    
+
+Festival-ENDSPURT mit    
+
+SCHUBERT.Schöne Müllerin - noch einmal am Donnerstag 29.8.  in Kaub a.Rh. 19:00 ab ev. Kirche 
+
+Büchner. LENZ in der VIA-Halle Bacharach am Freitag und Samstag  19:30 Uhr
+
+BACCHANALE in der Oberstraße Bacharach am Sonntag ab 16:00 Uhr 
+
+Hier einige Impressionen von der Schönen Müllerin gestern in Kaub mit Graham F. Valentine, Leonhard Dering und Muawia Harb   
+Fotos peter grün    
+
+gepostet Montag, 26.8.
+
+
 #Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum - braucht aber weiterhin noch Sponsoren und Unterstützer   
 Wir freuen uns sehr über die äußerst positive Resonanz: ausverkaufte Vorstellungen in Bacharach und Lorch, enthusiastisches Publikum, öffentliche Förderung durch die Kulturstiftung des Bundes, die beiden Bundesländer Rheinland-Pfalz und Hessen und großzügige private Spender und Sponsoring durch Unternehmen in der Region. Aber trotz ehrenamtlichen Leistungen vieler UnterstützerInnen und der entgeltlosen Leistungen für Vorbereitung, Konzeption und Planung: wir mussten eine Finanzierungslücke in Kauf nehmen, damit das Festival überhaupt zustande kam.
 Erfreulich, dass sich nach den Vorstellungen immer weitere Sponsoren und Spender melden, die vom Konzept und Ziel überzeugt sind und uns mit finanziellen Zuwendungen oder Sachleistungen unterstützen. Zuletzt dss Rheinhotel in Bacharach, das z.B. die komplette Hotelrechnung für unseren "Schöne-Müllerin"-Star Graham F. Valentine spendet.
