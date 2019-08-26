@@ -63,6 +63,8 @@ noch eine Vorstellung am 29. August  in Kaub
 Stadtführung für lebensmüde Musikliebhaber**   
 * Startpunkt: Evangelische Kirche Kaub     
  
+Senenfotos aus der Vorstellung 25.8. in Kaub von peter grün     
+mit Graham F. Valentine, Leonhard Dering und Muawia Harb    
 ![Bild](/schöne Müllerin_1_kl.jpeg)
 ![Bild](/schöne Müllerin_2_kl.jpeg)
 ![Bild](/schöne Müllerin_3_kl.jpeg) 
