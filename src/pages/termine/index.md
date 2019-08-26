@@ -49,18 +49,26 @@ Tel.  06743 919303
 ![Bild](/uebersicht.png)
  
 
+ENDSPURT DES FESTIVALS mit    
+SCHUBERT.Schöne Müllerin in Kaub am Donnerstag   
+
+Büchner. LENZ   in der VIA-Halle Bacharach am Freitag und Samstag    
+
+BACCHANALE in der Oberstraße Bacharach am Sonntag    
 
 
-# 25. August & 29. August  Kaub  
+noch eine Vorstellung am 29. August  in Kaub  
 19:00 Uhr bis ca. 20:45 Uhr    
 **Die Schöne Müllerin.Franz Schubert.    
 Stadtführung für lebensmüde Musikliebhaber**   
 * Startpunkt: Evangelische Kirche Kaub     
-
-**Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30  
+ 
 ![Bild](/schöne Müllerin_1_kl.jpeg)
 ![Bild](/schöne Müllerin_2_kl.jpeg)
-![Bild](/schöne Müllerin_3_kl.jpeg)     
+![Bild](/schöne Müllerin_3_kl.jpeg) 
+
+
+**Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30 
 
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
