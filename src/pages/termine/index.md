@@ -57,7 +57,9 @@ Tel.  06743 919303
 Stadtführung für lebensmüde Musikliebhaber**   
 * Startpunkt: Evangelische Kirche Kaub     
 
-**Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30     
+**Fährverbindung** nach der Vorstellung St.Goarshausen-St.Goar um 22:30  
+
+
 
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 Ticket bestellen   </a>    
