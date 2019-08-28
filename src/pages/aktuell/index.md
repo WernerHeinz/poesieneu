@@ -5,6 +5,28 @@ title: Aktuelles
 published: true
 ---
 
+# BACCHANALE! „Trunkenes (Abschluss-)Fest zum nüchtern-werden“
+
+Wenn man über die Oberstraße in Bacharach geht, trifft man eigentlich immer jemanden, den man kennt – sie ist die Hauptstraße des Orts. Will man niemanden treffen, geht man die Gasse unterhalb der Oberstraße. Die Oberstraße ist der öffentlichste Ort Bacharachs, die Flaniermeile, die Champs-Élysées und am 1. September wird sie auch noch die Weltbühne des Mittelrheintals.    
+
+Als Abschluss des Festivals „An den Ufern der Poesie“ (Theaterfestival für rheinsüchtige Melancholiker) inszeniert das Theater Willy Praml mit der Bühnenbildnerin Sandra Meurer diese wunderbare Hauptverkehrsschlagader in Bacharach und hat der ganzen Veranstaltung den Namen Bacchanale! gegeben. Denn die Zuschauer sitzen bei dieser Inszenierung nicht bequem vor der Bühne, sondern sie schlendern hindurch, halten an, entdecken selbst, gehen vor und zurück - puzzeln sich also ihr eigenes Theaterstück – von der Peterskirche bis zur Garage gegenüber dem Rathaus.    
+
+In Geschäften, Wirtshäusern, in Kirchen, Vorgärten, Leerständen, auf Garagendächern, in Schaufenstern, selbst im ehrwürdigen Rathaussaal finden an diesem Tag Szenen, Installationen und Choreografien statt. Mit echten und gefälschten Mittelrheintalern. Und das Publikum wird so manchen Schauspieler, so manche Schauspielerin des Festivals wiedererkennen, den, die man inzwischen für hier behaust halten könnte. 
+
+Das Besondere ist aber die Auftritte der Ortsansässigen selber. Mittelrheintaler zwischen 22 und 86 Jahren präsentieren sich hier in eigenartigen Szenen mit Titeln wie „BUGA 2029“ oder „Trolli, Trolli!“ oder „Arabisch für Eingeborene“ oder „Rotlichtviertel Bacharach“.
+
+Man kann den geheimen Geständnissen des gerade aus dem Amt geschiedenen Bürgermeisters Karl-Heinz Schleis lauschen. Man kann dem berühmten Maler Michael Apitz beim Entstehen eines Werks zusehen, und selbst der japanische Kaiser und Papst Benedikt, beide Ruheständler, lassen sich zu einer Weinprobe bitten. Man hört dem „Heimatdichter“ Friedrich Paff im eigenen Haus bei einer seiner Poesie-Kaskaden zu, und man begegnet den schönsten Mädchen des Orts in blau-silbernen Gardekostümen usw. usw. usw.     
+Keine Mühen werden gescheut, dem Festivalpublikum einen großen Abschluss zu bieten – auf dass am Ende wirklich die Melancholie ausbricht – weil man auf das nächste Festival halt bis 2021 warten muss.
+
+Die Bacchanale findet am Sonntag, 1.9.  zwischen 16 Uhr und 20 Uhr statt und endet mit einem Abschluss-Akkord auf dem Marktplatz unter der heimischen Weinkrone. Das Publikum muss sich natürlich nicht um die Verpflegung kümmern – das Städtchen hat herrliche Wirtshäuser und auf der Oberstraße selber gibt es Verköstigungen. Man sollte genügend Zeit mitbringen, um die über 20 Programmpunkte anzusehen, und man sollte sich vor allem des Rieslings nicht enthalten!!!
+
+Dessen Gott Bacchus ja der Namensgeber der Inszenierung (und natürlich anwesend) ist.
+
+Genug der Verlockungen! Den vorzüglichen Mittelrhein-Riesling unserer Winzer-FreundInnen wollen wir allerdings nicht unerwähnt lassen!
+
+*Sehen wir uns in der Oberstraße?
+ 
+# Festival in der Zielkurve
 Nach einem sehr erfolgreichen dritten Festival-Wochenende mit Schubert. Schöne Müllerin in Kaub a.Rh. und dem Heinrich Heine Chor und "Honeypain" in Niederheimbach biegen wir diese Woche auf die Endstrecke des Festivals ein.    
 
 Festival-ENDSPURT mit    
