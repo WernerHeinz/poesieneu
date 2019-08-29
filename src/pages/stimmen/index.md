@@ -9,10 +9,19 @@ published: true
 „Ich war und bin begeistert über die kreative Atmosphäre die schon in den Tagen vor der Aufführung der schönen Müllerin durch die Proben und die äußerst sympathische Theater Crew in Kaub zu sprühen war. 
 Wir schätzen uns glücklich, dass die Stadt Kaub, gerade auch als Teil des neuen BAKALONI Verbundes, Teil des Projektes An den Ufern der Poesie geworden ist. Zukünftige Vorhaben werden wir begrüßen und nach Kräften unterstützen.
 Die Vorstellung selbst muss man erlebt haben - unkonventionell, tragisch, humorvoll und beeindruckend.“
-Martin Buschfort. Stadtbürgermeister in Kaub am Rhein
+***Martin Buschfort. Stadtbürgermeister in Kaub am Rhein***     
 
-![Bild](/pul.jpg)
+![Bild](/schöne Müllerin_1_kl.jpeg) ![Bild](/schöne Müllerin_2_kl.jpeg) ![Bild](/schöne Müllerin_3_kl.jpeg) 
 
+
+"Keine noch so protzige Opernhauskulisse könnte schöner sein als die Gassen und Winkel des wildromantischen Rheinstädtchens Kaub. Inmitten von Weinbergen auf luftiger Höhe thront Burg Gutenfels und auf der Rheininsel trotzt die Zollburg Pfalzgrafenstein seit ewigen Zeiten den Wellen. Dort wo der Papst sich vom fernen Rom an den Zöllen der Rheinschiffer bereicherte.
+
+Diese Landschaft inspirierte auch schon immer Künstler. Willy Praml schaffte es, den Liederzyklus „Die schöne Müllerin“ von Franz Schubert in das Mittelrheintal einzubetten, als hätte Schubert seine 20 Lieder bewußt für diesen Ort vertont. Die „Stadtführung für lebensmüde Musikliebhaber“ so der Praml’sche Untertitel, wurde von Graham F. Valentine als Sänger der Müllerrolle hervorragend und bewußt grotesk abgeliefert. Ebenso die musikalische Begleitung von Leonhard Dering und Matthias Matzke. Das Groteske der Inszenierung wurde durch die clownesk-pantomimische Unterstützung von Muawia Herb und Ibrahim Mahmoud zu einem mittelrheinischen Rund-um-Erlebnis.
+
+Ich hatte das Gefühl, dass William Turner, der pinselschwingende Zeitgenosse Schuberts, von der Burg Gutenfels herabblickend bei einem Gläschen Riesling wohlwollend das Ensemble und seine Gäste betrachtete."
+
+***Bernhard E. Ochs
+Frankfurter Stadtverordneter mit mittelrheinischem Migrationshintergrund***     
 
 # Weingut Toni Jost
 
