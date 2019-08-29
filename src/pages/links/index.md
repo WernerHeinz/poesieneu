@@ -5,6 +5,14 @@ title: Sponsoren - Unterstützer - Kooperationspartner
 published: true
 ---
 
+# Das Festival braucht Sponsoren   
+
+Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum - braucht aber weiterhin noch Sponsoren und Unterstützer.   
+
+Wir freuen uns sehr über die äußerst positive Resonanz: ausverkaufte Vorstellungen in Bacharach und Lorch, enthusiastisches Publikum, öffentliche Förderung durch die Kulturstiftung des Bundes, die beiden Bundesländer Rheinland-Pfalz und Hessen und großzügige private Spender und Sponsoring durch Unternehmen in der Region. Aber trotz ehrenamtlichen Leistungen vieler UnterstützerInnen und der entgeltlosen Leistungen für Vorbereitung, Konzeption und Planung: wir mussten eine Finanzierungslücke in Kauf nehmen, damit das Festival überhaupt zustande kam. Erfreulich, dass sich nach den Vorstellungen immer weitere Sponsoren und Spender melden, die vom Konzept und Ziel überzeugt sind und uns mit finanziellen Zuwendungen oder Sachleistungen unterstützen. Zuletzt dss Rheinhotel in Bacharach, das z.B. die komplette Hotelrechnung für unseren "Schöne-Müllerin"-Star Graham F. Valentine spendet.
+
+Hier eine aktuelle Übersicht über unsere Sponsoren - zur Nachahmung empfohlen! Kontakt gerne über whz.clubnaxos@gmail.com
+
 # Sponsoren und Unterstützer    
 Das Festival wird unterstützt durch großzügige finanzielle Förderung unserer Sponsoren  
 
