@@ -4,7 +4,17 @@ title: Kommentare zum Festival
 published: true
 ---
 
-#Weingut Toni Jost
+# Kaub am Rhein. Schubert. Schöne Müllerin
+
+„Ich war und bin begeistert über die kreative Atmosphäre die schon in den Tagen vor der Aufführung der schönen Müllerin durch die Proben und die äußerst sympathische Theater Crew in Kaub zu sprühen war. 
+Wir schätzen uns glücklich, dass die Stadt Kaub, gerade auch als Teil des neuen BAKALONI Verbundes, Teil des Projektes An den Ufern der Poesie geworden ist. Zukünftige Vorhaben werden wir begrüßen und nach Kräften unterstützen.
+Die Vorstellung selbst muss man erlebt haben - unkonventionell, tragisch, humorvoll und beeindruckend.“
+Martin Buschfort. Stadtbürgermeister in Kaub am Rhein
+
+![Bild](/pul.jpg)
+
+
+# Weingut Toni Jost
 
 
 ![Bild](/pul.jpg)
