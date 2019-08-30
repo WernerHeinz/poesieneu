@@ -18,7 +18,8 @@ Fotos peter grün
 Und am letzten August-Wochenende biegen wir in die Zielkurve des diesjährigen Festivals „An den Ufern der Poesie“ ein. 
 
 **Freitag und Samstag 30. /31.8. um 19:30 Uhr**            
-haben Sie die Gelegenheit, Willy Pramls Übertragung seiner LENZ-Inszenierung aus der Frankfurter Naxoshalle in die gerade mit dem Baukulturpreis Rheinland-Pfalz ausgezeichnete VIA-Halle in der ehemaligen Sektkellerei Geiling in Bacharach zu erleben: mit Michael Weber, Andreas Bach und Jakob Geil und dem Soundtrack von Gregor Praml und Vassily Dück.   
+haben Sie die Gelegenheit, Willy Pramls Übertragung seiner LENZ-Inszenierung aus der Frankfurter Naxoshalle in die gerade mit dem Baukulturpreis Rheinland-Pfalz ausgezeichnete VIA-Halle in der ehemaligen Sektkellerei Geiling in Bacharach zu erleben: mit Michael Weber, Andreas Bach und Jakob Geil und dem Soundtrack von Gregor Praml und Vassily Dück. 
+![Bild](/VIA Banner.jpg)
 
 **Sonntag 1.9.**     
 gibt es ab 16:00 Uhr eine Straßeninszenierung der Bacharacher Oberstraße, wie man sie bisher im Welterbetal noch nicht erlebt haben dürfte       
