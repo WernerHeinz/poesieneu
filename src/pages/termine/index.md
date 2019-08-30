@@ -6,16 +6,14 @@ published: true
 ---
 
 
-# Tickets im Vorverkauf
+# Tickets an der Tageskasse 
 
-<a class="links"
-href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
 telefonisch reservieren bei:    
 **Rhein-Nahe-Touristik**   
 Bacharach    
 Tel.  06743 919303     
 
-# Preise VVK   
+# Preise 
 alle Vorstellungen = 19,50€ / erm. 10€    
 
 **Ermäßigungen:**    
