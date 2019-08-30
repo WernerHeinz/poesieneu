@@ -5,6 +5,24 @@ title: Aktuelles
 published: true
 ---
 
+# Festival An den Ufern der Poesie in der Zielkurve – und Abschluss mit Büchners LENZ und einer BACCHANALE in Bacharach
+
+Es sieht so aus, als wäre Willy Praml und seinem Ensemble die Integration als Neubürger mit Frankfurter Migrationshintergrund in das UNESCO Welterbe Oberes Mittelrheintal erfolgreich gelungen. Jedenfalls hat das Ensemble samt Technik seit Anfang August seinen gewöhnlichen Aufenthalt in Bacharach genommen, dort drei große Aufführungen des „Rabbi“ absolviert, Gastspiele von Michael Quast, dem Frankfurter Schauspiel Ensemble und dem Heinrich Heine Chor in den Nachbar-Gemeinden organisiert und jetzt selbst auf der rechten Rheinseite in Lorch und Kaub a.Rh. Schuberts Schöne Müllerin als Stadtführung für lebensmüde Musikliebhaber neu und auf sehr spezielle Weise inszeniert.    
+
+Hier einige Impressionen von der Schönen Müllerin gestern in Kaub mit Graham F. Valentine, Leonhard Dering und Muawia Harb   
+Fotos peter grün    
+![Bild](/schöne Müllerin_1_kl.jpeg)
+![Bild](/schöne Müllerin_2_kl.jpeg)
+![Bild](/schöne Müllerin_3_kl.jpeg) 
+
+Und am letzten August-Wochenende biegen wir in die Zielkurve des diesjährigen Festivals „An den Ufern der Poesie“ ein. 
+
+**Freitag und Samstag 30. /31.8. um 19:30 Uhr     
+haben Sie die Gelegenheit, Willy Pramls Übertragung seiner LENZ-Inszenierung aus der Frankfurter Naxoshalle in die gerade mit dem Baukulturpreis Rheinland-Pfalz ausgezeichnete VIA-Halle in der ehemaligen Sektkellerei Geiling in Bacharach zu erleben: mit Michael Weber, Andreas Bach und Jakob Geil und dem Soundtrack von Gregor Praml und Vassily Dück.   
+
+**Sonntag 1.9. gibt es ab 16:00 Uhr eine Straßeninszenierung der Bacharacher Oberstraße, wie man sie bisher im Welterbetal noch nicht erlebt haben dürfte   
+
+
 # BACCHANALE! „Trunkenes (Abschluss-)Fest zum nüchtern-werden“
 
 Wenn man über die Oberstraße in Bacharach geht, trifft man eigentlich immer jemanden, den man kennt – sie ist die Hauptstraße des Orts. Will man niemanden treffen, geht man die Gasse unterhalb der Oberstraße. Die Oberstraße ist der öffentlichste Ort Bacharachs, die Flaniermeile, die Champs-Élysées und am 1. September wird sie auch noch die Weltbühne des Mittelrheintals.    
@@ -24,28 +42,11 @@ Dessen Gott Bacchus ja der Namensgeber der Inszenierung (und natürlich anwesend
 
 Genug der Verlockungen! Den vorzüglichen Mittelrhein-Riesling unserer Winzer-FreundInnen wollen wir allerdings nicht unerwähnt lassen!
 
-*Sehen wir uns in der Oberstraße?
+**Sehen wir uns in der Oberstraße?
  
-# Festival in der Zielkurve
-Nach einem sehr erfolgreichen dritten Festival-Wochenende mit Schubert. Schöne Müllerin in Kaub a.Rh. und dem Heinrich Heine Chor und "Honeypain" in Niederheimbach biegen wir diese Woche auf die Endstrecke des Festivals ein.    
 
-Festival-ENDSPURT mit    
-
-SCHUBERT.Schöne Müllerin - noch einmal am Donnerstag 29.8.  in Kaub a.Rh. 19:00 ab ev. Kirche 
-
-Büchner. LENZ in der VIA-Halle Bacharach am Freitag und Samstag  19:30 Uhr
-
-BACCHANALE in der Oberstraße Bacharach am Sonntag ab 16:00 Uhr 
-
-Hier einige Impressionen von der Schönen Müllerin gestern in Kaub mit Graham F. Valentine, Leonhard Dering und Muawia Harb   
-Fotos peter grün    
-![Bild](/schöne Müllerin_1_kl.jpeg)
-![Bild](/schöne Müllerin_2_kl.jpeg)
-![Bild](/schöne Müllerin_3_kl.jpeg) 
-gepostet Montag, 26.8.
-
-
-#Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum - braucht aber weiterhin noch Sponsoren und Unterstützer   
+# Das Festival braucht weiterhin Sponsoren und Unterstützer    
+Das Festival ist künstlerisch sehr erfolgreich, findet ein großes Publikum.    
 Wir freuen uns sehr über die äußerst positive Resonanz: ausverkaufte Vorstellungen in Bacharach und Lorch, enthusiastisches Publikum, öffentliche Förderung durch die Kulturstiftung des Bundes, die beiden Bundesländer Rheinland-Pfalz und Hessen und großzügige private Spender und Sponsoring durch Unternehmen in der Region. Aber trotz ehrenamtlichen Leistungen vieler UnterstützerInnen und der entgeltlosen Leistungen für Vorbereitung, Konzeption und Planung: wir mussten eine Finanzierungslücke in Kauf nehmen, damit das Festival überhaupt zustande kam.
 Erfreulich, dass sich nach den Vorstellungen immer weitere Sponsoren und Spender melden, die vom Konzept und Ziel überzeugt sind und uns mit finanziellen Zuwendungen oder Sachleistungen unterstützen. Zuletzt dss Rheinhotel in Bacharach, das z.B. die komplette Hotelrechnung für unseren "Schöne-Müllerin"-Star Graham F. Valentine spendet.
 
