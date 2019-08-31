@@ -5,6 +5,9 @@ title: Aktuelles
 published: true
 ---
 
+!(Bild)(/IMG_1158 (1).jpg)
+
+
 # Festival An den Ufern der Poesie in der Zielkurve    
 # Abschluss mit Büchners LENZ und einer BACCHANALE in Bacharach
 
