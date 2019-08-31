@@ -8,13 +8,9 @@ published: true
 
 # Tickets an der Tageskasse 
 
-telefonisch reservieren bei:    
-**Rhein-Nahe-Touristik**   
-Bacharach    
-Tel.  06743 919303     
+Resservierung niht erforderlich - die VIA Halle bietet aureichend Platz für alle
 
-# Preise 
-alle Vorstellungen = 19,50€ / erm. 10€    
+# Eintrittspreis  19,50€ / erm. 10€    
 
 **Ermäßigungen:**    
 Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
@@ -28,9 +24,9 @@ https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>
 
 ENDSPURT DES FESTIVALS mit    
 
-zum letzten Mal: Büchner. LENZ   in der VIA-Halle Bacharach am Samstag  31.8. 19:30 Uhr VIA Halle Bacharach
+zum letzten Mal: **Büchner. LENZ   in der VIA-Halle Bacharach am Samstag  31.8. 19:30 Uhr VIA Halle Bacharach**
 
-BACCHANALE in der Oberstraße Bacharach am Sonntag  1.9. ab 16:00 Uhr bis 20:00 Uhr - Eintritt frei -  
+**BACCHANALE in der Oberstraße Bacharach am Sonntag  1.9. ab 16:00 Uhr bis 20:00 Uhr - Eintritt frei**
 
 **31. August  Bacharach**    
 19:30 Uhr bis 21:00 Uhr       
