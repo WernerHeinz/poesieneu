@@ -3,6 +3,7 @@ path: /aktuell/
 date: '2017-11-07'
 title: Aktuelles
 published: true
+---
 
 
 
