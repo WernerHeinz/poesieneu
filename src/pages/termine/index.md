@@ -28,23 +28,19 @@ https://www.mittelrheinfestival-poesie.com/unterkunft-pauschalen   </a>
 
 ENDSPURT DES FESTIVALS mit    
 
-Büchner. LENZ   in der VIA-Halle Bacharach am Freitag 30.8. und Samstag  31.8. 
+zum letzten Mal: Büchner. LENZ   in der VIA-Halle Bacharach am Samstag  31.8. 19:30 Uhr VIA Halle Bacharach
 
 BACCHANALE in der Oberstraße Bacharach am Sonntag  1.9. ab 16:00 Uhr bis 20:00 Uhr - Eintritt frei -  
 
-
-
-# 30. August / 31. August  Bacharach    
-19:00 Uhr bis 21:00 Uhr       
+**31. August  Bacharach**    
+19:30 Uhr bis 21:00 Uhr       
 **Lenz. Georg Büchner.**   
 Theater Willy Praml    
 * VIA-Halle in der ehem. Sektkellerei Geiling Bacharach   
 
-
-
 ***Extra Fahrplan Loreley Fähre St. Goar***    
-30.8. bis 23.45 Uhr / 31.8. bis 0.30 Uhr         
-30.August: **Sonderfähre Niederheimbach-Lorch um 23:00 Uhr**  
+31.8. bis 0.30 Uhr         
+
 
 
 <a class="links" href="https://www.ticket-regional.de/events.php?mysearchEventtype=bacharach" target="_blank" rel="noopener noreferrer">
@@ -55,7 +51,7 @@ Ticket bestellen   </a>
 
 # 1. September  Bacharach    
 16:00 Uhr bis 20:00 Uhr  
-**Bacchanale. Trunkenes Fest zum NüchternWerden    
+**Bacchanale. Trunkenes Fest zum NüchternWerden   
 mit echten und gefälschten Mittelrheintalern        
 * Oberstraße Bacharach mit Schlussakkord im Rathaushof     
 
