@@ -5,15 +5,15 @@ title: Aktuelles
 published: true
 ---
 
-
-
-![Bild](/LENZ.jpg)
-
-
 # Festival An den Ufern der Poesie in der Zielkurve    
 # Abschluss mit Büchners LENZ und einer BACCHANALE in Bacharach
 
-Es sieht so aus, als wäre Willy Praml und seinem Ensemble die Integration als Neubürger mit Frankfurter Migrationshintergrund in das UNESCO Welterbe Oberes Mittelrheintal erfolgreich gelungen. Jedenfalls hat das Ensemble samt Technik seit Anfang August seinen gewöhnlichen Aufenthalt in Bacharach genommen, dort drei große Aufführungen des „Rabbi“ absolviert, Gastspiele von Michael Quast, dem Frankfurter Schauspiel Ensemble und dem Heinrich Heine Chor in den Nachbar-Gemeinden organisiert und jetzt selbst auf der rechten Rheinseite in Lorch und Kaub a.Rh. Schuberts Schöne Müllerin als Stadtführung für lebensmüde Musikliebhaber neu und auf sehr spezielle Weise inszeniert.    
+![Bild](/LENZ.jpg)
+
+Büchner.LENZ am 30./31.8. in der VIA Halle Baharach.   
+foto: katrin gloggengiesser    
+
+Es sieht so aus, als wäre Willy Praml und seinem Ensemble die Integration als Neubürger mit Frankfurter Migrationshintergrund in das UNESCO Welterbe Oberes Mittelrheintal erfolgreich gelungen. Jedenfalls hat das Ensemble samt Technik seit Anfang August seinen gewöhnlichen Aufenthalt in Bacharach genommen, dort drei große Aufführungen des „Rabbi“ absolviert, Gastspiele von Michael Quast, dem Fran. in der VIA Halle Bacharachkfurter Schauspiel Ensemble und dem Heinrich Heine Chor in den Nachbar-Gemeinden organisiert und jetzt selbst auf der rechten Rheinseite in Lorch und Kaub a.Rh. Schuberts Schöne Müllerin als Stadtführung für lebensmüde Musikliebhaber neu und auf sehr spezielle Weise inszeniert.    
 
 Hier einige Impressionen von der Schönen Müllerin gestern in Kaub mit Graham F. Valentine, Leonhard Dering und Muawia Harb   
 Fotos peter grün    
