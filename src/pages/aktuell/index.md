@@ -7,7 +7,7 @@ published: true
 
 
 
-![Bild](/IMG_1158 (1).jpg)
+![Bild](/LENZ.jpg)
 
 
 # Festival An den Ufern der Poesie in der Zielkurve    
