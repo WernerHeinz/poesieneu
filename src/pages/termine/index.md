@@ -15,20 +15,20 @@ Reservierung für LENZ  nicht erforderlich - die VIA Halle bietet aureichend Pla
 Ermäßigungen für Schüler/Studenten, Arbeitslose und Erwerbsgeminderte mit Nachweis    
   
 
-# ENDSPURT DES FESTIVALS mit    
+# ENDSPURT DES FESTIVALS     
 
 zum letzten Mal:    
 # 31.August Bacharach 
 19:30 Uhr - 21:00 Uhr  
-**Büchner. LENZ   in der VIA-Halle (ehem. Sektkellerei Geiling) Bacharach 
-**Extra Fahrplan Loreley Fähre St. Goar Samstag 31.8. bis 0.30 Uhr**    
+**Büchner. LENZ   in der VIA-Halle (ehem. Sektkellerei Geiling) Bacharach**   
+*Extra Fahrplan Loreley Fähre St. Goar Samstag 31.8. bis 0.30 Uhr*   
 
 
 # 1. September  Bacharach    
 16:00 Uhr bis 20:00 Uhr  
-**Bacchanale. Trunkenes Fest zum NüchternWerden   
+**Bacchanale. Trunkenes Fest zum NüchternWerden**  
 mit echten und gefälschten Mittelrheintalern        
-* Oberstraße Bacharach mit Schlussakkord im Rathaushof     
+*hin und her in der Oberstraße Bacharach mit Schlussakkord auf dem Marktplatz*     
 
 ---   
 
