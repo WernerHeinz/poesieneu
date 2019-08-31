@@ -3,9 +3,10 @@ path: /aktuell/
 date: '2017-11-07'
 title: Aktuelles
 published: true
----
 
-!(Bild)(/IMG_1158 (1).jpg)
+
+
+![Bild](/IMG_1158 (1).jpg)
 
 
 # Festival An den Ufern der Poesie in der Zielkurve    
