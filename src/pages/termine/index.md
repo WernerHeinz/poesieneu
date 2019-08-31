@@ -8,7 +8,7 @@ published: true
 
 # Tickets an der Tageskasse 
 
-Resservierung niht erforderlich - die VIA Halle bietet aureichend Platz für alle
+Reservierung für LENZ  nicht erforderlich - die VIA Halle bietet aureichend Platz für alle
 
 # Eintrittspreis  19,50€ / erm. 10€    
 
