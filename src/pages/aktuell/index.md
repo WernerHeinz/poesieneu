@@ -8,8 +8,9 @@ published: true
 # Bacharachs Oberstraße hat jetzt eine neue Attraktion
 Bacchanale-Glasmalerei von Michael Apitz
 
-![Bild](/LENZ.jpg)
-
+![Bild](/Apitz_20190901_185402.jpg)
+![Bild](/Apitz_20190901_194605.jpg)
+![Bild](/Apitz_20190901_185402.jpg)
 
 
 # Festival An den Ufern der Poesie in der Zielkurve    
