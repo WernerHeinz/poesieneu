@@ -5,6 +5,13 @@ title: Aktuelles
 published: true
 ---
 
+# Bacharachs Oberstraße hat jetzt eine neue Attraktion
+Bacchanale-Glasmalerei von Michael Apitz
+
+![Bild](/LENZ.jpg)
+
+
+
 # Festival An den Ufern der Poesie in der Zielkurve    
 # Abschluss mit Büchners LENZ und einer BACCHANALE in Bacharach
 
