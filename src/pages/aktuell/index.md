@@ -10,7 +10,7 @@ Bacchanale-Glasmalerei von Michael Apitz
 
 ![Bild](/Apitz_20190901_185402.jpg)
 ![Bild](/Apitz_20190901_194605.jpg)
-![Bild](/Apitz_20190901_185402.jpg)
+![Bild](/Apitz20190901_194853.jpg)
 
 
 # Festival An den Ufern der Poesie in der Zielkurve    
