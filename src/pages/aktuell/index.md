@@ -5,15 +5,17 @@ title: Aktuelles
 published: true
 ---
 
+
 # Bacharachs Oberstraße hat jetzt eine neue Attraktion
 Bacchanale-Glasmalerei von Michael Apitz
 
 ![Bild](/Apitz_20190901_185402.jpg)
 ![Bild](/Apitz_20190901_194605.jpg)
-![Bild](/Apitz20190901_194853.jpg)
 ![Bild](/Apitz_Bacc-9.jpg)
 
-# Und hier noch einige Impressionen aus der Bacchanale - leider haben wir zu wenig fotografiert
+
+# Festival An den Ufern der Poesie in der Zielkurve - Abschluss mit einer BACCHANALE in Bacharach  
+hier einige Impressionen aus der Bacchanale - leider haben wir zu wenig fotografiert
 ![Bild](/Bacc-1.jpg)
 ![Bild](/Bacc-2.jpg)
 ![Bild](/Bacc-3.jpg)
@@ -26,10 +28,7 @@ Bacchanale-Glasmalerei von Michael Apitz
 
 
 
-# Festival An den Ufern der Poesie in der Zielkurve    
-
-
-# Abschluss mit Büchners LENZ und einer ![Bild](/Bacc-1.jpg)BACCHANALE in Bacharach     
+# ...und Büchners LENZ in der wunderbaren VIA Halle Bacharach   
 
 ![Bild](/LENZ.jpg)
 
