@@ -11,10 +11,23 @@ Bacchanale-Glasmalerei von Michael Apitz
 ![Bild](/Apitz_20190901_185402.jpg)
 ![Bild](/Apitz_20190901_194605.jpg)
 ![Bild](/Apitz20190901_194853.jpg)
+![Bild](/Apitz_Bacc-9.jpg)
+
+Und hier noch einige Impressionen aus der Bacchanale - leider haben wir zu wenig fotografiert
+![Bild](/Bacc-1.jpg)
+![Bild](/Bacc-2.jpg)
+![Bild](/Bacc-3.jpg)
+![Bild](/Bacc-4.jpg)
+![Bild](/Bacc-5.jpg)
+![Bild](/Bacc-6.jpg)
+![Bild](/Bacc-7.jpg)
+![Bild](/Bacc-8.jpg)
+![Bild](/Bacc-9.jpg)
 
 
-# Festival An den Ufern der Poesie in der Zielkurve    
-# Abschluss mit Büchners LENZ und einer BACCHANALE in Bacharach
+
+# Festival An den Uf![Bild](/Bacc-1.jpg)ern der Poesie in der Zielkurve    
+# Abschluss mit Büchners LENZ und einer ![Bild](/Bacc-1.jpg)BACCHANALE in Bacharach
 
 ![Bild](/LENZ.jpg)
 
