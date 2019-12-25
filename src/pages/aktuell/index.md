@@ -8,7 +8,6 @@ published: true
 # Festival-Review als Plakat
 Unsere wunderbare Grafikerin Katrin Gloggengießer hat Szenenfotos aus den verschiedenen Festival-Inszenierungen in Bacharach, Kaub, Lorch,  Niederheimbach und Oberwesel auf einem Plakat zusammengestellt.
 Das Foto-Plakat wird ab 6.1. bei der Tourist-Information Bacharach ausliegen und kann kostenlos dort abgeholt werden. 
-
 [Plakat anzeigen](/Festival-Review-Plakat.pdf)
 
 
