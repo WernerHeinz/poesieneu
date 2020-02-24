@@ -29,7 +29,7 @@ Michael Apitz erläuterte seinen faszinierten Gästen die auch für einen versie
 
 Nachdem das Theater Willy Praml im August 2019 mit drei eigenen Inszenierungen und Gastspielen des Freien Schauspiel Ensembles Frankfurt und Michael Quasts Fliegender Volksbühne sowie des Heinrich Heine Chors Frankfurt zum dritten Mal das Festival "An den Ufern der Poesie" im Welterbetal ausgerichetet hatte bringt nun also ein Kulturaustausch in Gegenrichtung in originäres Kulturgewächs vom Mittelrhein nach Frankfurtan den Main.   
 
-Nebenbei: nicht die schlechtetest Variante der Tourismus-Werbung, adressiert an das Kultur-Publikum im Rhein-Main-Gebiet.
+Nebenbei: nicht die schlechteste Variante der Tourismus-Werbung, adressiert an das Kultur-Publikum im Rhein-Main-Gebiet.
 
 
 # Festival-Review als Plakat
