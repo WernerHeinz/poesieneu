@@ -6,11 +6,15 @@ published: true
 ---
 
 # Michael Apitz' Hinterglasmalerei "Wernerkapelle Bacharach" zu Gast in der Frankfurter Naxoshalle
-![Bild](/apitz-auf-naxos.jpg)
-![Bild](/apitz-naxos-vernissage.jpg)
-Seit dem 21.Februar ist Michael Apitz 2x2m große Hinterglasmalerei in der Frankfurter Naxos-Halle, der Spielstätte des Theaters Willy Praml, zu besichtigen. Das Bild war am 1.9.2020 als live-act des Malers während der "Bacchanale", dem theatralen Abschied des Festivals "An den Ufern der Poesie" 2019 in der Bacharacher Oberstraße entstanden und seitherdort im Schaufenster neben Mimo Calabreses Eisdiele ausgestellt.   
+![Bild](/apitz-auf-naxos.jpg)     
 
-Zur Vernissage in der voll besetzten Halle hatten unsere vier befreundeten Weingüter Friedrich Bastian, Dr. Randolf Kaeuer, Toni Jost und Jochen Ratzenberger ein paar Kistchen Bacharacher Riesling und Sekt vom Feinsten spendiert. Peter Keber,  Vorsitzender des Bauvereins Wernerkapelle, informierte das Frankfurter Publikum über die Geschichte der Wernerkapelle als gotisches Architekturkunstwerk,  antisemitischer Wallfahrtsort des Mittelalters und romantischer Projektionsfläche des Rheintourismus bis heute. Michael Apitz erläuterte seinen faszinierten Gästen die auch fürt einen versierten Landschaftsmaler nicht triviale Maltechnik dieses Hinterglasgemäldes und der Steeger Winzer Jochen Ratzenberger berichtete, wie seine Rotarier zusammen mit den VIA-Gründern Almut Lager und Norbert Kummermehr 2019 bereits zum zweiten Mal die Patenschaft über eine Festival-Inszenierung in dem wunderschönen Architekturdenkmal der ehemaligen Sektkellerei Geiling und heutigen VIA Halle übernahmen.
+Seit dem 21.Februar ist Michael Apitz 2x2m große Hinterglasmalerei in der Frankfurter Naxos-Halle, der Spielstätte des Theaters Willy Praml, zu besichtigen. Das Bild war am 1.9.2020 als live-act des Malers während der "Bacchanale", dem theatralen Abschied des Festivals "An den Ufern der Poesie" 2019 in der Bacharacher Oberstraße entstanden und seitherdort im Schaufenster neben Mimo Calabreses Eisdiele ausgestellt. 
+![Bild](/Apitz_Bacc-6.jpg)    
+
+Zur Vernissage in der voll besetzten Halle hatten unsere vier befreundeten Weingüter Friedrich Bastian, Dr. Randolf Kaeuer, Toni Jost und Jochen Ratzenberger ein paar Kistchen Bacharacher Riesling und Sekt vom Feinsten spendiert. Peter Keber,  Vorsitzender des Bauvereins Wernerkapelle, informierte das Frankfurter Publikum über die Geschichte der Wernerkapelle als gotisches Architekturkunstwerk,  antisemitischer Wallfahrtsort des Mittelalters und romantischer Projektionsfläche des Rheintourismus bis heute.    
+![Bild](/apitz-naxos-vernissage.jpg)    
+
+Michael Apitz erläuterte seinen faszinierten Gästen die auch fürt einen versierten Landschaftsmaler nicht triviale Maltechnik dieses Hinterglasgemäldes und der Steeger Winzer Jochen Ratzenberger berichtete, wie seine Rotarier zusammen mit den VIA-Gründern Almut Lager und Norbert Kummermehr 2019 bereits zum zweiten Mal die Patenschaft über eine Festival-Inszenierung in dem wunderschönen Architekturdenkmal der ehemaligen Sektkellerei Geiling und heutigen VIA Halle übernahmen.    
 Und eben diese 2019er Bacharacher Festival-Inszenierung von Büchners Erzählung LENZ wurde im Anschluss vor ausverkauftem Haus gezeigt.
 Nachdem im August 2019 das Theater Willy Praml mit drei eigenen Inszenierungen und Gastspielen des Freien Schauspiel Ensembles Frankfurt, der Fliegenden Volksbühne und des Heinrich Heine Chors im Welterbetal ausgerichetet hatte nun also ein Kulturaustausch in Gegenrichtung: vom Rhein an den Main. Nebenbei: nicht die schlechtetest Variante der Tourismus-Werbung, adressiert an Kultur-Fascinados aus Rhein-Main.
 
