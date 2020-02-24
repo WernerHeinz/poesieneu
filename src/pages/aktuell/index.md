@@ -5,8 +5,7 @@ title: Aktuelles
 published: true
 ---
 
-# Michael Apitz' Hinterglasmalerei "Wernerkapelle Bacharach" zu Gast in der Frankfurter Naxoshalle
-![Bild](/apitz-auf-naxos.jpg)     
+# Michael Apitz' Hinterglasmalerei "Wernerkapelle Bacharach" zu Gast in der Frankfurter Naxoshalle  
 
 Michael Apitz' 2x2m große Hinterglasmalerei ist jetzt bis zum Jahresende 2020 in der Frankfurter Naxos-Halle, der Spielstätte des Theaters Willy Praml, zu Gast.    
 
@@ -22,9 +21,9 @@ Peter Keber,  Vorsitzender des Bauvereins Wernerkapelle, informierte das Frankfu
 
 Michael Apitz erläuterte seinen faszinierten Gästen die auch für einen versierten Landschaftsmaler nicht triviale Maltechnik dieses Hinterglasgemäldes und der Steeger Winzer Jochen Ratzenberger berichtete, wie seine Rotarier zusammen mit den VIA-Gründern Almut Lager und Norbert Kummermehr 2019 bereits zum zweiten Mal die Patenschaft über eine Festival-Inszenierung in dem wunderschönen Architekturdenkmal der ehemaligen Sektkellerei Geiling und heutigen VIA Halle übernahmen. Eben diese 2019er Bacharacher Festival-Inszenierung von Büchners Erzählung LENZ wurde im Anschluss vor ausverkauftem Haus gezeigt.  
 
-![Bild](/lenz-naxos-2020-1)
-![Bild](/lenz-naxos-2020-2)
-![Bild](/lenz-naxos-2020-3)
+![Bild](/lenz-naxos-2020-1.jpg)
+![Bild](/lenz-naxos-2020-2.jpg)
+![Bild](/lenz-naxos-2020-3.jpg)
 
 Nachdem das Theater Willy Praml im August 2019 mit drei eigenen Inszenierungen und Gastspielen des Freien Schauspiel Ensembles Frankfurt und Michael Quasts Fliegender Volksbühne sowie des Heinrich Heine Chors Frankfurt zum dritten Mal das Festival "An den Ufern der Poesie" im Welterbetal ausgerichetet hatte bringt nun also ein Kulturaustausch in Gegenrichtung in originäres Kulturgewächs vom Mittelrhein nach Frankfurtan den Main.   
 
