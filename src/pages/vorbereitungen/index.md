@@ -1,28 +1,23 @@
 ---
 path: /heine
 date: '2017-11-07'
-title: Heine kommt wieder! - Im August 2019
+title: Heine kommt wieder! - Juni/Juli 2021
 published: true
 ---
 
 ![bild](/ufer-paddel.jpg)
 
 
-# 10. AUGUST - 1. SEPTEMBER 2019   
-# SCHIRMHERRSCHAFT Malu Dreyer
-**Ministerpräsidentin des Landes Rheinland-Pfalz**    
+# wir planen: 18. JUNI - 18.JULI 2021    
 
-# THEATERFESTIVAL FÜR RHEINSÜCHTIGE MELANCHOLIKER   
+
+# THEATERFESTIVAL IM BIENNALEN TURNUS
 **im Welterbe Oberes Mittelrheintal**   
-von - mit - über: Heinrich Heine, Karoline von Günderrode, Heinrich von Kleist, Jakob Michael Reinhold Lenz, E.T.A.Hoffmann, Franz Schubert, Georg Büchner & Christa Wolf   
-   
-Besuchen Sie das UNESCO-Welterbe Oberes Mittelrheintal – Bacharach, Kaub, Oberwesel, Lorch und Niederheimbach –   
-staunen Sie mit Dichtern und Dichterinnen über Deutschlands schönsten Grand Canyon –   
-und geraten Sie ins Schwärmen und Seufzen über tolle Texte und Lieder, wunderbare theatrale Spaziergänge und Inszenierungen in einer Kulisse, die schon Richard Wagner für die beste aller Bühnenbilder gehalten hat.   
 
-Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchsvolles Programm und möchte Sie verführen, mal nicht  nur eine Veranstaltung zu besuchen: Kommen Sie für zwei oder drei Tage.   
-Übernachten Sie am Rhein, wenn Sie nach Heine, E.T.A. Hoffmann, Schubert, Büchner, der Günderrode oder Christa Wolf - von Auslese, Spätlese oder Kabinett berauscht – keine Lust mehr haben, den Heimweg anzutreten; wenn Sie nicht das Glück haben, sowieso Mittelrheintaler zu sein. (Unter "Unterkunft Pauschalen" finden Sie auf dieser Website Pauschal-Pakete für einen verlängerten kulinarischen festival-Aufenthalt im Welterbetal) 
+Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchsvolles Programm und möchte Sie verführen, mal nicht  nur eine Veranstaltung zu besuchen: Kommen Sie gerne für zwei oder drei Tage und entdecken Sie große Texte und großartiges Theater in einer großen Landschaft.   
 
-Unser biennales Festival findet in 2019 nun schon zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinde zu einem beträchtlichen Programm angewachsen.
-Wir wünschen Ihnen und uns großes Vergnügen bei der Entdeckung großer Texte in einer großen Landschaft.     
+
+Unser biennales Festival fand 2019 zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinde zu einem beträchtlichen Programm angewachsen. Wir bemühen uns derzeit um die Finanzierung einer Fortsetzung in 2021 und sind guten Mutes, dass uns das gelingen wird: mit öffentlicher Förderung durch die Bundesländer des Welterbetals, mit Sponsoring durch Privatpersonen und Unternehmen, mit viel ehrenamtlichem Engagement sowie mit den Beiträgen unseres jährlich ewachsenden Publikums aus der Region und aus den bachbarten Ballungsgebieten.
+
+     
 
