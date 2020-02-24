@@ -16,7 +16,7 @@ Das Bild war am 1.9.2020 während der "Bacchanale", dem theatralen Abschied des 
 
 Zur Vernissage am 21. Februar 2020 in der voll besetzten Halle hatten vier Bacharacher Weingüter - Friedrich Bastian, Dr. Randolf Kauer, Toni Jost und Jochen Ratzenberger - einige Kistchen Bacharacher Riesling und Sekt vom Feinsten spendiert.    
 
-Peter Keber,  Vorsitzender des Bauvereins Wernerkapelle, informierte das Frankfurter Publikum über die Geschichte der Wernerkapelle als gotisches Architekturkunstwerk,  antisemitischer Wallfahrtsort des Mittelalters und der frühen Neuzeit bis heute faszinierende romantische  Projektionsfläche des Rheintourismus. Das außergewöhnliche, bereits mehr als drei Jahrzehnte anhaltende Engagement der Bacharacher Bürger für die baulichen Erhaltung ihres Wahrzeichens *und*  gleichzeitig die einzigartige Selbstaufklärung der Stadt über die Hintergründe und bedeutung ihres Baudenkmals im Verlauf der jahrhundertelangen Verfolgung des europäischen Judentums führte 2013 zu einer ersten Begegnung des Theaters Willy Praml mit Bacharach. Und an dieses nach wie vor lebendige Engagement knüpft die Inszenierung von Heinrich Heines Erzählung "Der Rabbi von Bacharach" an, die das Theater Willy Praml  seit 2015 in zweijährigem Turnus in der Ruine der Wernerkapelle und sechs weiteren Spielstätten in Bacharach präsentiert.   
+Peter Keber,  Vorsitzender des Bauvereins Wernerkapelle, informierte das Frankfurter Publikum über die Geschichte der Wernerkapelle als gotisches Architekturkunstwerk, jahrhundertelang Wallfahrtsort des Mittelalters und bis heute faszinierende romantische Projektionsfläche des Rheintourismus. Das außergewöhnliche, bereits mehr als drei Jahrzehnte anhaltende Engagement der Bacharacher Bürger für die baulichen Erhaltung ihres Wahrzeichens *und*  gleichzeitig die einzigartige Selbstaufklärung der Stadt über die Hintergründe und bedeutung ihres Baudenkmals im Verlauf der Verfolgungen des europäischen Judentums führte 2013 zu einer ersten Begegnung des Theaters Willy Praml mit Bacharach. Und an dieses nach wie vor lebendige Engagement knüpft die Inszenierung von Heinrich Heines Erzählung "Der Rabbi von Bacharach" an, die das Theater Willy Praml  seit 2015 in zweijährigem Turnus in der Ruine der Wernerkapelle und sechs weiteren Spielstätten in Bacharach präsentiert.   
 
 ![Bild](/apitz-naxos-vernissage.jpg)    
 
@@ -26,7 +26,7 @@ Michael Apitz erläuterte seinen faszinierten Gästen die auch für einen versie
 ![Bild](/lenz-naxos-2020-2)
 ![Bild](/lenz-naxos-2020-3)
 
-Nachdem das Theater Willy Praml im August 2019 mit drei eigenen Inszenierungen und Gastspielen des Freien Schauspiel Ensembles Frankfurt und Michael Quasts Fliegender Volksbühne sowie des Heinrich Heine Chors Frankfurt zum dritten Mal das Festival "An den Ufern der Poesie" im Welterbetal ausgerichetet hatte, nun also ein Kulturaustausch in Gegenrichtung - vom Mittelrhein an den Main.   
+Nachdem das Theater Willy Praml im August 2019 mit drei eigenen Inszenierungen und Gastspielen des Freien Schauspiel Ensembles Frankfurt und Michael Quasts Fliegender Volksbühne sowie des Heinrich Heine Chors Frankfurt zum dritten Mal das Festival "An den Ufern der Poesie" im Welterbetal ausgerichetet hatte bringt nun also ein Kulturaustausch in Gegenrichtung in originäres Kulturgewächs vom Mittelrhein nach Frankfurtan den Main.   
 
 Nebenbei: nicht die schlechtetest Variante der Tourismus-Werbung, adressiert an das Kultur-Publikum im Rhein-Main-Gebiet.
 
