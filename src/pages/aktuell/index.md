@@ -11,7 +11,7 @@ Während das Theater Willy Praml bereits an den Plänen für das theaterfestival
 ![Bild](/Bacchanale+Markt1_1.jpeg)     
 ![Bild](/Bacchanale+Markt1_2.jpeg)   
 
-Download des Ausstellungsflyers hier klicken ![hier](/Flyer_Bacchanale+Markt-1_Ansicht.pdf)   
+Download  Ausstellungsflyer [hier](/Flyer_Bacchanale+Markt-1_Ansicht.pdf)   
  
 Mit Blick auf das Abstandsgebot in Zeiten von Corona wird es keine Vernissage mit eng gedrängtem Publikum auf kleinem Raum geben. Die Ausstellung kann ab dem 2. Mai von draußen durch das Schaufenster betrachtet werden.  Abhängig von den Regelungen zur Infektionsvermeidung wird es an festglegten Zeiten Zutritt zur Ausstellung für Einzelpersonen geben.      
 
