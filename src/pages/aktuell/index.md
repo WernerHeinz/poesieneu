@@ -5,6 +5,26 @@ title: Aktuelles
 published: true
 ---
 
+# Kulturraum Markt1 in Bacharach eröffnet mit Retrospektive zur BACCHANALE 1019
+
+Während das Theater Willy Praml bereits an den Plänen für das theaterfestival "An den Ufern der Poesie" 2021 sitzt, startet am 2. Mai 2020 der neue Kunstraum Markt 1 als eine Art Ableger des Festivals in Bacharach mit seiner „Retrospektive Bacchanale 2019“.
+![Bild](/Bacchanale+Markt1_1.jpg)   
+![Bild](/Bacchanale+Markt1_2.jpg)   
+
+Download des Ausstellungsflyers hier klicken ![hier](/Flyer_Bacchanale+Markt-1_Ansicht.pdf)   
+ 
+Mit Blick auf das Abstandsgebot in Zeiten von Corona wird es keine Vernissage mit eng gedrängtem Publikum auf kleinem Raum geben. Die Ausstellung kann ab dem 2. Mai von draußen durch das Schaufenster betrachtet werden.  Abhängig von den Regelungen zur Infektionsvermeidung wird es an festglegten Zeiten Zutritt zur Ausstellung für Einzelpersonen geben.      
+
+Der Kulturraum Markt 1 ist ein Projekt des Verschönerungsvereins Bacharach 1873 e.V. und wird zukünftig dem mittelrheinischen Kunst- und Kulturschaffen als kleine, aber feine Bühne dienen.    
+Kuratiert wird der Kulturraum von Katrin Gloggengießer, die bereits sämtliche Flyer, Plakate und Medien des Festivals 2019 ehrenamtlich gestaltete.    
+Eine Anschubfinanzierung für die Herrichtung der Räume und die Präsentation der ersten Ausstellung im Zentrum Bacharachs leistet der Zweckverband Welterbetal mit Fördermitteln aus dem Programm Landkultur.    
+
+Unser besonderer Dank gilt auch der Großzügigkeit der Eigentümer der Liegenschaft, Torsten Renth und Jörg Burkart, die dem Kulturprojekt den Raum Markt 1 zu äußerst vorteilhaften Konditionen zur Verfügung stellen.     .
+
+Über dieses und weitere Projekte informiert die Website:
+www.markt1-bacharach.de   
+
+
 # Michael Apitz' Hinterglasmalerei "Wernerkapelle Bacharach" zu Gast in der Frankfurter Naxoshalle  
 
 Michael Apitz' 2x2m große Hinterglasmalerei ist jetzt bis zum Jahresende 2020 in der Frankfurter Naxos-Halle, der Spielstätte des Theaters Willy Praml, zu Gast.   
