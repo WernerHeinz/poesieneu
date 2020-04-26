@@ -7,9 +7,9 @@ published: true
 
 # Kulturraum Markt1 in Bacharach eröffnet mit Retrospektive zur BACCHANALE 2019, dem Abschlussfest des Festivals in der Bacharacher Oberstraße    
 
-Während das Theater Willy Praml bereits an den Plänen für das theaterfestival "An den Ufern der Poesie" 2021 sitzt, startet am 2. Mai 2020 der neue Kunstraum Markt 1 als eine Art Ableger des Festivals in Bacharach mit seiner „Retrospektive Bacchanale 2019“.
-![Bild](/Bacchanale+Markt1_1.jpg)   
-![Bild](/Bacchanale+Markt1_2.jpg)   
+Während das Theater Willy Praml bereits an den Plänen für das theaterfestival "An den Ufern der Poesie" 2021 sitzt, startet am 2. Mai 2020 der neue Kunstraum Markt 1 als eine Art Ableger des Festivals in Bacharach mit seiner „Retrospektive Bacchanale 2019“.     
+![Bild](/Bacchanale+Markt1_1.jpeg)     
+![Bild](/Bacchanale+Markt1_2.jpeg)   
 
 Download des Ausstellungsflyers hier klicken ![hier](/Flyer_Bacchanale+Markt-1_Ansicht.pdf)   
  
