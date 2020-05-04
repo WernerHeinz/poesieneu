@@ -4,16 +4,10 @@ date: '2017-11-07'
 title: Film und Fotodokumentation
 published: true
 ---
-# Filmdoku "An den Ufern der Poesie" 2017
 
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/bdF192KT_Hc" 
-
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
-# Heinrich Heines "Rabbi von Bacherach" 2015**   
-Fotos (Linda Butz) mit Auszügen aus den Texten der Inszenierung
+# "Der Rabbi von Bacherach. Heine. Stationen eines Traumas"    
+# Text-Auszüge und Szenenfotos       
+Fotos (Linda Butz) 
 
 
 **Szene 1: Wernerkapelle - Die Vorbereitung des Pogroms**
@@ -186,3 +180,13 @@ Wo ich das Liebste verlor.
     
 ![Matratzengruft1](/pubmg.jpg)
 ![Publikum](/pub.jpg)
+
+
+
+# Filmdoku "An den Ufern der Poesie" 2017
+
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/bdF192KT_Hc" 
+
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
