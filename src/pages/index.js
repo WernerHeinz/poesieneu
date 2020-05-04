@@ -42,12 +42,12 @@ class Menu extends React.Component{
      <ul>
          <li><Link to="/heine">Heine kehrt zurück. <br/></Link></li>
          <li><Link to="/aktuell">Aktuelles</Link></li>
+         <li><Link to="/archiv">Filme und Foto-Dokumentation</Link></li>
          <li><Link to="/termine">Tickets und Termine</Link></li>
          <li><Link to="/stimmen">Stimmen und Kommentare zum Festival</Link></li>
          <li><Link to="/programm">Programm 2019</Link> </li>
          <li><Link to="/links">Sponsoren-Unterstützer-Partner</Link></li>
          <li><Link to="/unterkunft-pauschalen">Unterkunft-Pauschalen</Link></li>
-         <li><Link to="/archiv">Filme und Foto-Dokumentation</Link></li>
          <li><Link to="/praml">Who is Who im Festival?</Link></li>
          <li><Link to="/presse">Presse</Link></li>
          <li><Link to="/kontakt">Kontakt</Link></li>
