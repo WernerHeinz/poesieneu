@@ -5,6 +5,7 @@ title: Aktuelles
 published: true
 ---
 
+![Bild](/logomontage.jpg)     
 # Kulturraum Markt1 in Bacharach eröffnet      
 *Retrospektive  BACCHANALE 2019*  02.Mai - 16. Juni 2020           
 
