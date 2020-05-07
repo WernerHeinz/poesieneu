@@ -12,6 +12,7 @@ Fotos (Linda Butz)
 
 # Szene 1: Wernerkapelle - Die Vorbereitung des Pogroms    
      
+     
 ![Kapelle](/kap1.jpeg)
 "Unterhalb des Rheingaus, wo die Ufer des Stromes ihre lachende Miene verlieren, Berg und Felsen, mit ihren abenteuerlichen Burgruinen, sich trotziger gebärden, und eine wildere, ernstere Herrlichkeit emporsteigt, dort liegt, wie eine schaurige Sage der Vorzeit, die finstre, uralte Stadt Bacherach. Nicht immer waren so morsch und verfallen diese Mauern mit ihren zahnlosen Zinnen und blinden Warttürmchen, in deren Luken der Wind pfeift und die Spatzen nisten; in diesen armselig häßlichen Lehmgassen, die man durch das zerrissene Tor erblickt, herrschte nicht immer jene öde Stille, die nur dann und wann unterbrochen wird von schreienden Kindern, keifenden Weibern und brüllenden Kühen. Diese Mauern waren einst stolz und stark, und in diesen Gassen bewegte sich frisches, freies Leben, Macht und Pracht, Lust und Leid, viel Liebe und viel Haß..."   
 
@@ -35,7 +36,8 @@ Dies geschah im Jahr 1287, und auch zu Bacherach, wo eine von diesen Sankt-Werne
 ![Pripetshik](/Ojfn.jpg)
 
 
-# Szene 2. Rheinufer Bacharach - Die Flucht auf dem Rhein und Saras Traum     
+# Szene 2. Rheinufer Bacharach - Die Flucht auf dem Rhein und Saras Traum         
+      
       
 ![Rheinzene](/rhein1.jpg)
 "...Lautlos und wie mit gebrochenen Gliedern war die schöne Sara in die Arme des Rabbi hingesunken, und langsam trug er sie hinab nach dem Ufer. Hier stand der stille Wilhelm, ein taubstummer aber bildschöner Knabe, der zum Unterhalt seiner alten Pflegemutter, einer Nachbarin des Rabbi, den Fischfang trieb und hier seinen Kahn angelegt hatte. Es war aber als erriete er schon gleich die Absicht des Rabbi, ja es schien als habe er eben auf ihn gewartet, um seine geschlossenen Lippen zog sich das lieblichste Mitleid, bedeutungstief ruhten seine großen blauen Augen auf der schöne Sara, und sorgsam trug er sie in den Kahn..."
@@ -66,7 +68,8 @@ Dies geschah im Jahr 1287, und auch zu Bacherach, wo eine von diesen Sankt-Werne
 ----
 
 # Szene 4: Rathaus Bacharach Sitzungssaal: "Deutschland, ein Wintermärchen"    
-     
+      
+      
 ![Winterreise](/wm1.jpg)
 Im traurigen Monat November war's,    
 Die Tage wurden trüber,    
@@ -101,7 +104,8 @@ Wird er gewaltig sich rütteln.
 ----  
     
 # Szene 5: Josefskapelle - Heinrich Heines Shylock-Kommentar     
-    
+      
+      
 ![Shylock1](/shy1.jpg)
 "...Ich bin ein Jude. Hat nicht ein Jude Augen? Hat nicht ein Jude Hände, Gliedmaßen, Werkzeuge, Sinne, Neigungen, Leidenschaften? Mit derselben Speise genährt, mit denselben Waffen verletzt, denselben Krankheiten unterworfen, mit denselben Mitteln geheilt, gewärmt und gekältet von eben dem Winter und Sommer, als ein Christ? Wenn ihr uns stecht, bluten wir nicht? Wenn ihr uns kitzelt, lachen wir nicht? Wenn ihr uns vergiftet, sterben wir nicht? Und wenn ihr uns beleidigt, sollen wir uns nicht rächen? Sind wir euch in allen Dingen ähnlich, so wollen wir's euch auch darin gleichtun. Wenn ein Jude einen Christen beleidigt, was ist seine Demut? Rache. Wenn ein Christ einen Juden beleidigt, was muß seine Geduld sein nach christlichem Vorbild?"     
 ![Shylock2](/shy2.jpg)
@@ -110,8 +114,9 @@ Wird er gewaltig sich rütteln.
 
   ----      
          
-# Szene 6: St.Nikolaus-Kirche - Dr. Heinrich Christus Heine.   
-
+# Szene 6: St.Nikolaus-Kirche - Dr. Heinrich Christus Heine.     
+       
+       
 ![Lucca1](/jh1.jpg)
 ".....Da plötzlich keuchte heran ein bleicher, bluttriefender Jude, mit einer Dornenkrone. auf dem Haupte und mit einem großen Holzkreuz auf der Schulter; und er warf "das Kreuz' auf den hohen Göttertisch, daß die goldnen Pokale zitterten. und die Götter verstummten und erblichen und immer bleicher wurden, bis sie endlich ganz in Nebel zerrannen. Nun gab's eine traurige Zeit, und die Welt wurde grau und dunkel. Es gab keine glücklichen Götter mehr, der Olymp wurde ein Lazarett, wo geschundene, gebratene und gespießte Götter langweilig umherschlichen, und ihre Wunden verbanden und triste Lieder sangen. Die Religion gewährte keine Freude mehr, sondern Trost; es war eine trübselige, blutrünstige Delinquentenreligion."          
 ![Lucca2](/jh2.jpg)
@@ -120,8 +125,9 @@ Wird er gewaltig sich rütteln.
  
 -----
   
-# Szene 7: Rathaus Innenhof -  Matratzengruft    
-     
+# Szene 7: Rathaus Innenhof -  Matratzengruft       
+       
+
 ![Matratzengruft1](/krümpe.jpg)
 "Aber existiere ich wirklich noch? Mein Leib ist so sehr in die Krümpe gegangen, daß schier nichts übriggeblieben als die Stimme "       
 "Kein grünes Blatt rauscht herein in meine Matratzengruft zu Paris, wo ich früh und spat nur  Wagengerassel, Gehämmer, Gekeife und Klaviergeklimper vernehme."     
