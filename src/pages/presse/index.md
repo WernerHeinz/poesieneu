@@ -7,7 +7,8 @@ published: true
 
 ## Pressespiegel Festival 2019
 Download Pressespiegel [hier](/pressespiegel-low.pdf)    
-      
+Download Pressespiegel hochauflösend [hier](/pressespiegel_high.pdf)      
+   
 -----
     
 
