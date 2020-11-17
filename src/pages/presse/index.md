@@ -6,7 +6,7 @@ published: true
 ---
 
 # Pressespiegel Festival 2019
-[Pressespiegel anzeigen](/Pressespiegel - An den Ufern der Poesie. low res.pdf.jpg)    
+[anzeigen](/Pressespiegel.pdf)    
 -----
     
 
