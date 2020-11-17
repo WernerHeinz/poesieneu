@@ -7,7 +7,7 @@ published: true
 
 ## Pressespiegel Festival 2019
 Download Pressespiegel [hier](/pressespiegel-low.pdf)    
-[hier](/pressespiegel-low.pdf)   
+      
 -----
     
 
