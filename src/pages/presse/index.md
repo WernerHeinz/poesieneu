@@ -5,6 +5,10 @@ date: '2017-11-07'
 published: true
 ---
 
+![Bild](/Pressespiegel - An den Ufern der Poesie. low res.pdf.jpg)     
+# Pressespiegel Festival 2019    
+    
+
 
 ## 2017 - Festival 'An den Ufern der Poesie' in Bacharach
 
