@@ -1,14 +1,17 @@
 ---
 path: /heine
 date: '2017-11-07'
-title: Heine kommt wieder! - Juni/Juli 2021
+title: Heine kommt wieder! 2021
 published: true
 ---
 
 ![bild](/ufer-paddel.jpg)
 
 
-# wir planen: 18. JUNI - 18.JULI 2021    
+# 18. JUNI - 18.JULI 2021    
+![bild](/programmflyer_titel.png)     
+PROGRAMM 2021 siehe "Aktuelles".        
+     
 
 
 # THEATERFESTIVAL IM BIENNALEN TURNUS
