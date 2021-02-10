@@ -11,7 +11,7 @@ published: true
     
     
 # "Der Rabbi von Bacherach. Heine. Stationen eines Traumas"    
-**Fotos** (Linda Butz) **Text-Auszüge und Szenenfotos** 
+**Text-Auszüge und Szenenfotos**(Linda Butz)
 
 
 # Szene 1: Wernerkapelle - Die Vorbereitung des Pogroms    
