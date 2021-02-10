@@ -5,8 +5,11 @@ title: Film und Fotodokumentation
 published: true
 ---
 
+# Archiv: Festival-Programm 2017
+[Programmflyer anzeigen](/Flyer Festival Ufer-der-Poesie.pdf)     
+
+**Text-Auszüge und Szenenfotos** 
 # "Der Rabbi von Bacherach. Heine. Stationen eines Traumas"    
-# Text-Auszüge und Szenenfotos       
 Fotos (Linda Butz) 
 
 
