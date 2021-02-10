@@ -8,7 +8,7 @@ published: true
 ![bild](/ufer-paddel.jpg)
 
 
-# 18. JUNI - 18.JULI 2021    
+# 18. JUNI - 4.JULI 2021    
 ![bild](/programmflyer_titel.png)     
 PROGRAMM 2021 siehe "Aktuelles".        
      
