@@ -12,7 +12,7 @@ export const Inhalt = () => (
         
         <img src="/ufer-paddel.jpg" alt="Titelbild" />
           
-        <p style={{fontWeight:'600'}}>geplant: 18.Juni bis 18. Juli 2021</p> 
+        <p style={{fontWeight:'600'}}>18.Juni bis 18. Juli 2021</p> 
         <p style={{fontWeight:'600'}}>THEATERFESTIVAL IM BIENNALEN TURNUS<br/>im Welterbe Oberes Mittelrheintal</p> 
        
        
