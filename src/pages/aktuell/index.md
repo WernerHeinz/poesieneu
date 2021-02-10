@@ -9,14 +9,15 @@ published: true
 # Programm Theaterfestival 2021      
 Download Programmflyer 2021 [hier](/Theaterfest_2021_A4_final.pdf)     
 Wir festspielen pandemie-gerecht. Vom 18.Juni bis 4. Juli 2021.    
-in Bacharach - Oberwesel - Kaub - Lorch   
+in Bacharach - Oberwesel - Kaub - Lorch    
 
-
+     
+      
+# Mai 2020: Kulturraum Markt1 in Bacharach eröffnet
 ![Bild](/logomontage.jpg)     
-# Kulturraum Markt1 in Bacharach eröffnet      
 *Retrospektive  BACCHANALE 2019*  02.Mai - 16. Juni 2020           
 
-Während das Theater Willy Praml bereits an den Plänen für das theaterfestival "An den Ufern der Poesie" 2021 sitzt, startet am 2. Mai 2020 der neue Kunstraum Markt 1 als eine Art Ableger des Festivals in Bacharach mit seiner „Retrospektive Bacchanale 2019“.   
+Am 2. Mai 2020 startete der neue Kunstraum Markt 1 als eine Art Ableger des Festivals in Bacharach mit seiner „Retrospektive Bacchanale 2019“.   
 
 zur Homepage von Markt 1    
 https://www.markt1-bacharach.de/    Kontakt:kontakt@markt1-bacharach.de    
