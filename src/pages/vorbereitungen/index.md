@@ -22,7 +22,7 @@ Das Festival AN DEN UFERN DER POESIE bietet Ihnen vier Wochen lang ein anspruchs
 Unser biennales Festival fand 2019 zum dritten Mal statt und ist durch den Zuspruch und die Förderung der Bundesländer Rheinland-Pfalz und Hessen und der beteiligten Städte und Gemeinden zu einem beachtlichen Programm angewachsen. 
 Inzwischen steht das Programm 2021 -  Angepasst an die Bedingungen, die uns die Pandemie auferlegt. Open Air. Abstand. Hygieneregeln selbstverständlich.
 
-Ermöglicht wird das Festival durch die finanzielle Förderung durch die beiden Bundesländer Rheinland-Pfalz und Hessen sowie durch das finanzielle und personelle Engagement des Zweckverbandes UNESCO Welterbe Oberes Mittelrheintal und das vielfältige ehrenamtliche Engagement von Bürgerinnen und Bürgern der gastgebenden Gemeinden Bacharach, Oberwesel, Kaub und Lorch. 
+Ermöglicht wird das Festival durch finanzielle Förderung der Bundesländer Rheinland-Pfalz und Hessen sowie durch das finanzielle und personelle Engagement des Zweckverbandes UNESCO Welterbe Oberes Mittelrheintal und das vielfältige ehrenamtliche Engagement von Bürgerinnen und Bürgern der gastgebenden Gemeinden Bacharach, Oberwesel, Kaub und Lorch. 
 
 Trotz aller Unterstützung sind wir weiter - wie auch in den Vorjahren - noch dringend angewiesen auf Sponsoring durch Privatpersonen und Unternehmen. 
 
