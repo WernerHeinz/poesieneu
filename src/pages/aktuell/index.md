@@ -8,7 +8,8 @@ published: true
 ![Bild](/programmflyer_titel.png)     
 # Programm Theaterfestival 2021      
 Download Programmflyer 2021 [hier](/Theaterfest_2021_A4_final.pdf)     
-Wir festspielen pandemie-gerecht. Vom 18.Juni bis 4. Juli 2021.    
+Wir festspielen pandemie-gerecht.   
+Vom 18.Juni bis 4. Juli 2021.    
 in Bacharach - Oberwesel - Kaub - Lorch    
 
      
@@ -27,11 +28,12 @@ https://www.markt1-bacharach.de/    Kontakt:kontakt@markt1-bacharach.de
 
 Download Ausstellungsflyer [hier](/Flyer_Bacchanale+Markt-1_Ansicht.pdf)   
  
-Mit Blick auf das Abstandsgebot in Zeiten von Corona wird es keine Vernissage mit eng gedrängtem Publikum auf kleinem Raum geben. Die Ausstellung kann ab dem 2. Mai von draußen durch das Schaufenster betrachtet werden.  Abhängig von den Regelungen zur Infektionsvermeidung wird es an festglegten Zeiten Zutritt zur Ausstellung für Einzelpersonen geben.      
+    
 
-Der Kulturraum Markt 1 ist ein Projekt des Verschönerungsvereins Bacharach 1873 e.V. und wird zukünftig dem mittelrheinischen Kunst- und Kulturschaffen als kleine, aber feine Bühne dienen.    
-Kuratiert wird der Kulturraum von Katrin Gloggengießer, die bereits sämtliche Flyer, Plakate und Medien des Festivals 2019 ehrenamtlich gestaltete.    
-Eine Anschubfinanzierung für die Herrichtung der Räume und die Präsentation der ersten Ausstellung im Zentrum Bacharachs leistet der Zweckverband Welterbetal mit Fördermitteln aus dem Programm Landkultur.    
+Der Kulturraum Markt 1 ist ein Projekt des Verschönerungsvereins Bacharach 1873 e.V. und soll den mittelrheinischen Kunst- und Kulturschaffen als kleine, aber feine Bühne dienen.    
+Kuratiert wird der Kulturraum von Katrin Gloggengießer, die seit 2017 auch die Flyer,Plakate und Medien des Festivals An den Ufern der Poesie gestaltet.   
+
+Eine Anschubfinanzierung für die Herrichtung der Räume und die Präsentation der ersten Ausstellung im Zentrum Bacharachs leistete der Zweckverband Welterbetal mit Fördermitteln aus dem Programm Landkultur.    
 
 Unser besonderer Dank gilt auch der Großzügigkeit der Eigentümer der Liegenschaft, Torsten Renth und Jörg Burkart, die dem Kulturprojekt den Raum Markt 1 zu äußerst vorteilhaften Konditionen zur Verfügung stellen.     .
 
@@ -41,12 +43,12 @@ www.markt1-bacharach.de
 
 # Michael Apitz' Hinterglasmalerei "Wernerkapelle Bacharach" zu Gast in der Frankfurter Naxoshalle  
 
-Michael Apitz' 2x2m große Hinterglasmalerei ist jetzt bis zum Jahresende 2020 in der Frankfurter Naxos-Halle, der Spielstätte des Theaters Willy Praml, zu Gast.   
+Michael Apitz' 2x2m große Hinterglasmalerei ist seit Februar 2020 in der Frankfurter Naxos-Halle, der Spielstätte des Theaters Willy Praml, zu Gast.   
 
 
 ![Bild](/apitz-naxos-vernissage.jpg)  
 
-Das Bild war am 1.9.2020 während der "Bacchanale", dem theatralen Abschied des Festivals "An den Ufern der Poesie" 2019 in der Bacharacher Oberstraße, als live-act des Malers entstanden und seither dort im Schaufenster neben Mimo Calabreses Eisdiele ausgestellt.  
+Das Bild war am 1.9.2019 während der "Bacchanale", dem theatralen Abschied des Festivals "An den Ufern der Poesie" 2019 in der Bacharacher Oberstraße, als live-act des Malers entstanden und seither dort im Schaufenster neben Mimo Calabreses Eisdiele ausgestellt.  
     
 ![Bild](/Apitz_Bacc-6.jpg)    
 
