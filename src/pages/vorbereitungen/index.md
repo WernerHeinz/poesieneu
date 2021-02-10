@@ -47,7 +47,6 @@ In der künstlerischen und organisatorischen Verantwortung der Regisseurin Heike
   
 Wir werden im Sommer 2021 alle Veranstaltungen unter den Hygienebedingungen anbieten, wie wir es jetzt auch tun.   
 Wir rechnen mit keiner besseren Lage. Die Sicherheit des Publikums hat oberste Priorität. Trotzdem hat es das Theater bei aller Geiselung durch ein kleines Virus bisher geschafft, sein Publikum weiterhin mit den großen Fragen der Welt zu infizieren.   
-Die Ufer des Rheins sollen deshalb auch 2021 wieder 
-# UFER DER POESIE # sein.
+Die Ufer des Rheins sollen deshalb auch 2021 wieder **UFER DER POESIE** sein.
 
 
