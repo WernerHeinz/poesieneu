@@ -8,9 +8,10 @@ published: true
 # Archiv: Festival-Programm 2017
 [Programmflyer anzeigen](/Flyer Festival Ufer-der-Poesie.pdf)     
 
-**Text-Auszüge und Szenenfotos** 
+    
+    
 # "Der Rabbi von Bacherach. Heine. Stationen eines Traumas"    
-Fotos (Linda Butz) 
+**Fotos** (Linda Butz) **Text-Auszüge und Szenenfotos** 
 
 
 # Szene 1: Wernerkapelle - Die Vorbereitung des Pogroms    
