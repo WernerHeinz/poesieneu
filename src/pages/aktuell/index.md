@@ -8,8 +8,8 @@ published: true
 ![Bild](/programmflyer_titel.png)     
 # Programm Theaterfestival 2021      
 Download Programmflyer 2021 [hier](/Theaterfest_2021_A4_final.pdf)     
-Wir festspielen. Vom 18.Juni bid 4. Juli 2021.    
-In Bacharach - Oberwesel - Kaub - Lorch   
+Wir festspielen pandemie-gerecht. Vom 18.Juni bis 4. Juli 2021.    
+in Bacharach - Oberwesel - Kaub - Lorch   
 
 
 ![Bild](/logomontage.jpg)     
