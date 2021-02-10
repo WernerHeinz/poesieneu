@@ -15,10 +15,9 @@ published: true
      
 
 
-# THEATERFESTIVAL IM BIENNALEN TURNUS
-**im Welterbe Oberes Mittelrheintal**   
+# THEATERFESTIVAL im Welterbe Oberes Mittelrheintal
 
-Seit 2015 gibt es das Theaterfestival im Oberen Mittelrheintal, das abwechselnd Orte an beiden Ufern dieses Abschnitts des Rheins bespielt.   
+Seit 2015 gibt es das Theaterfestival im Oberen Mittelrheintal, das in biennalem Turnus abwechselnd Orte an beiden Ufern dieses Abschnitts des Rheins bespielt.   
 Ausgangspunkt und Schwerpunkt des Festivals war und ist die Stadt Bacharach.    
 Kein Geringerer als **Heinrich Heine** war es, der diesem Rheinstädtchen die literarischen Weihen verliehen hat. Seine Erzählung **DER RABBI VON BACHERACH** greift eine hier angesiedelte antijüdische Ritualmordlegende auf, die seit dem Mittelalter zur Anheizung von Pogromen an der jüdischen Bevölkerung im gesamten Rheintal diente, bis zuletzt im vergangenen Jahrhundert mit dem Holocaust die systematische Auslöschung allen jüdischen Lebens in Deutschland und Europa unternommen wurde.    
     
