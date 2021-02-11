@@ -14,7 +14,7 @@ in Bacharach - Oberwesel - Kaub - Lorch
 
 
 # Begleitender Ausstellungsparcours in Bacharach und Oberwesel 
-![Bild](/Rotes Fenster.jpg)   
+![Bild](/RotesFenster.jpg)   
 https://kulturnetz-oberes-mittelrheintal.org/projekte/    
 Begleitend zum Festival veranstaltet und dokumentiert das K.O.M. einen Ausstellungsparcours „Landjudentum am Mittelrhein" in Bacharach und Oberwesel.
 Vom 18. Juni bis Ende August sind analoge und virtuelle Ausstellungen und Installationen in Bacharach und Oberwesel geplant, mit Leihgaben aus der 2020 im Museums Simmern gezeigten Ausstellung "Jüdisches Leben auf dem Lande im Hunsrück" sowie mit ergänzenden Fakten zur jüdischen Geschichte am Mittelrhein.
