@@ -12,7 +12,14 @@ Wir festspielen pandemie-gerecht.
 Vom 18.Juni bis 4. Juli 2021.    
 in Bacharach - Oberwesel - Kaub - Lorch    
 
-     
+
+# Begleitender Ausstellungsparcours in Bacharach und Oberwesel 
+https://kulturnetz-oberes-mittelrheintal.org/projekte/
+Begleitend zum Festival veranstaltet und dokumentiert das K.O.M. einen Ausstellungsparcours „Landjudentum am Mittelrhein" in Bacharach und Oberwesel.
+Vom 18. Juni bis Ende August sind analoge und virtuelle Ausstellungen und Installationen in Bacharach und Oberwesel geplant, mit Leihgaben aus der 2020 im Museums Simmern gezeigten Ausstellung "Jüdisches Leben auf dem Lande im Hunsrück" sowie mit ergänzenden Fakten zur jüdischen Geschichte am Mittelrhein.
+Die **Galerie Markt1** wird multimedial Zeitzeugen des 20. Jahrhunderts zu Wort kommen lassen sowie eine **Retrospektive zum roten Fenster des Künstlers Karl-Martin Hartmann**, das von 2007 bis 2010 in der Wernerkapelle Bacharach installiert war, ausstellen.
+Weitere Veranstaltungen und Ausstellungen – insbesondere zum **antisemitischen Wernerkult der Region** – sind in Oberwesel und in Bacharacher Schaufenstern und Kirchen geplant.    
+
       
 # Mai 2020: Kulturraum Markt1 in Bacharach eröffnet
 ![Bild](/logomontage.jpg)     
