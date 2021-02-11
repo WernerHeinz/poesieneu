@@ -1,7 +1,7 @@
 ---
 path: /archiv/
 date: '2017-11-07'
-title: Film und Fotodokumentation
+title: Archiv: Filme und Foto-Dokumentation
 published: true
 ---
 
