@@ -14,7 +14,8 @@ in Bacharach - Oberwesel - Kaub - Lorch
 
 
 # Begleitender Ausstellungsparcours in Bacharach und Oberwesel 
-https://kulturnetz-oberes-mittelrheintal.org/projekte/
+![Bild](/Rotes Fenster.jpg)   
+https://kulturnetz-oberes-mittelrheintal.org/projekte/    
 Begleitend zum Festival veranstaltet und dokumentiert das K.O.M. einen Ausstellungsparcours „Landjudentum am Mittelrhein" in Bacharach und Oberwesel.
 Vom 18. Juni bis Ende August sind analoge und virtuelle Ausstellungen und Installationen in Bacharach und Oberwesel geplant, mit Leihgaben aus der 2020 im Museums Simmern gezeigten Ausstellung "Jüdisches Leben auf dem Lande im Hunsrück" sowie mit ergänzenden Fakten zur jüdischen Geschichte am Mittelrhein.
 Die **Galerie Markt1** wird multimedial Zeitzeugen des 20. Jahrhunderts zu Wort kommen lassen sowie eine **Retrospektive zum roten Fenster des Künstlers Karl-Martin Hartmann**, das von 2007 bis 2010 in der Wernerkapelle Bacharach installiert war, ausstellen.
