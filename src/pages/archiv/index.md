@@ -5,6 +5,13 @@ title: Filme und Foto-Dokumentation
 published: true
 ---
 
+# Filmdoku "An den Ufern der Poesie" 2017
+
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/bdF192KT_Hc" 
+
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 # Archiv: Festival-Programm 2017
 [Programmflyer anzeigen](/Flyer Festival Ufer-der-Poesie.pdf)     
 
@@ -19,9 +26,6 @@ published: true
      
 ![Kapelle](/kap1.jpeg)
 "Unterhalb des Rheingaus, wo die Ufer des Stromes ihre lachende Miene verlieren, Berg und Felsen, mit ihren abenteuerlichen Burgruinen, sich trotziger gebärden, und eine wildere, ernstere Herrlichkeit emporsteigt, dort liegt, wie eine schaurige Sage der Vorzeit, die finstre, uralte Stadt Bacherach. Nicht immer waren so morsch und verfallen diese Mauern mit ihren zahnlosen Zinnen und blinden Warttürmchen, in deren Luken der Wind pfeift und die Spatzen nisten; in diesen armselig häßlichen Lehmgassen, die man durch das zerrissene Tor erblickt, herrschte nicht immer jene öde Stille, die nur dann und wann unterbrochen wird von schreienden Kindern, keifenden Weibern und brüllenden Kühen. Diese Mauern waren einst stolz und stark, und in diesen Gassen bewegte sich frisches, freies Leben, Macht und Pracht, Lust und Leid, viel Liebe und viel Haß..."   
-
-![Rabbiszene4](/wk4.jpg)
-"....Der herrschaftliche Vogt saß auf der hohen Burg Sareck, und wie sein Falke schoß er herab wenn man ihn rief und auch manchmal ungerufen. Die Geistlichkeit herrschte im Dunkeln durch die Verdunkelung des Geistes. Eine am meisten vereinzelte, ohnmächtige und vom Bürgerrechte allmählig verdrängte Körperschaft war die kleine Judengemeinde, die schon zur Römerzeit in Bacherach sich niedergelassen und späterhin, während der großen Judenverfolgung, ganze Scharen flüchtiger Glaubensbrüder in sich aufgenommen hatte...."
 
 ![Rabbiszene3](/wk3.jpg)
 "...Die große Judenverfolgung begann mit den Kreuzzügen und wütete am grimmigsten um die Mitte des vierzehnten Jahrhunderts, am Ende der großen Pest, die, wie jedes andre öffentliche Unglück, durch die Juden entstanden sein sollte, indem man behauptete, sie hätten den Zorn Gottes herabgeflucht und mit Hülfe der Aussätzigen die Brunnen vergiftet. Der gereizte Pöbel, besonders die Horden der Flagellanten, halbnackte Männer und Weiber, die zur Buße sich selbst geißelnd und ein tolles Marienlied singend, die Rheingegend und das übrige Süddeutschland durchzogen, ermordeten damals viele tausend Juden, oder marterten sie, oder tauften sie gewaltsam..."
@@ -118,7 +122,7 @@ Wird er gewaltig sich rütteln.
 
   ----      
          
-# Szene 6: St.Nikolaus-Kirche - Dr. Heinrich Christus Heine.     
+# Szene 6: St.Nikolaus-Kirche(2015), Peterskirche (2017) - Dr. Heinrich Christus Heine.     
        
        
 ![Lucca1](/jh1.jpg)
@@ -203,10 +207,5 @@ Wo ich das Liebste verlor.
 
 
 
-# Filmdoku "An den Ufern der Poesie" 2017
-
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/bdF192KT_Hc" 
-
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
