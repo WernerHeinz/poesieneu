@@ -5,7 +5,7 @@ title: Tickets
 published: true
 ---
 
-**Der Vorverkauf beginnt voraussichtlich am 15. April 2021**
+**Das Theaterfestival wurde keider pandemiebedingt für 2021 abgesagt**
 
   
 
