@@ -1,19 +1,20 @@
 ---
 path: /heine
 date: '2017-11-07'
-title: Heine kommt wieder! 2021
+title: Heine kommt wieder! 2023
 published: true
 ---
 
 ![bild](/ufer-paddel.jpg)
 
 
-# 18. JUNI - 4.JULI 2021    
-![bild](/programmflyer_titel.png)   
+# Pandemiebedingt abgesagt für 2021   
+Zu unserem größten Bedauern müssen wir mitteilen, dass das Theaterfestival 2021 pandemiebedingt abgesagt wurde. 
 
-**Download Programmflyer 2021** [hier](/Theaterfest_2021_A4_final.pdf)    
+
+
      
-
+dies waren unsere Vorbereitungen für 2021    
 
 # THEATERFESTIVAL im Welterbe Oberes Mittelrheintal
 
