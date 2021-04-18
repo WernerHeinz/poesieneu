@@ -7,7 +7,7 @@ export const Inhalt = () => (
      <Listen>
      
        
-        <h1>Heine kommt wieder! - LEIDER ERST 2023</h1>    
+        <h1>LEIDER ERST 2023    Heine kommt wieder!</h1>    
            
         
         <img src="/ufer-paddel.jpg" alt="Titelbild" />
