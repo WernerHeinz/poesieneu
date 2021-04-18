@@ -7,13 +7,13 @@ export const Inhalt = () => (
      <Listen>
      
        
-        <h1>Heine kommt wieder!</h1>    
+        <h1>Heine kommt wieder! - LEIDER ERST 2023</h1>    
            
         
         <img src="/ufer-paddel.jpg" alt="Titelbild" />
           
-        <p style={{fontWeight:'600'}}>LEIDER ERST 2023</p> 
-        <p style={{fontWeight:'600'}}>Pandemiebedingt abgesagt für 2021    THEATERFESTIVAL IM BIENNALEN TURNUS<br/>im Welterbe Oberes Mittelrheintal</p> 
+        <p style={{fontWeight:'600'}}>Pandemiebedingt abgesagt für 2021</p> 
+        <p style={{fontWeight:'600'}}>THEATERFESTIVAL IM BIENNALEN TURNUS<br/>im Welterbe Oberes Mittelrheintal</p> 
        
        
        
