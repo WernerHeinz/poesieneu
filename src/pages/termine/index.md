@@ -5,7 +5,7 @@ title: Tickets
 published: true
 ---
 
-**Das Theaterfestival wurde keider pandemiebedingt für 2021 abgesagt**
+**Das Theaterfestival wurde leider pandemiebedingt für 2021 abgesagt**
 
   
 
