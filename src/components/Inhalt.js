@@ -7,7 +7,7 @@ export const Inhalt = () => (
      <Listen>
      
        
-        <h1>An den Ufern der Poesie</h1>   
+        <h1></h1>   
     
                           
         <img src="/ufer-paddel.jpg" alt="Titelbild" />
