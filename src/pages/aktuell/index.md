@@ -6,17 +6,7 @@ published: true
 ---
 
 
-# Festival 2021 pandemiebedingt abgesagt
-Mit allergrößtem Bedauern teilen wir mit, dass der Zweckverband Welterbe Oberes Mittelrheintal am 16.4. entschieden hat, das Theaterfestival "An den Ufern der Poesie" pandemiebedingt abzusagen    
-    
-    
-Wir sind derzeit um Klärung bemüht, ob unsere Veranstaltungen anlässlich des Jubiläums "1700 Jahre Jüdisches Leben in Deutschland" bei rückläufigen Infektionszahlen im August oder September 2021 dennoch stattfinden können.     
-
-
-# ------     
-
-
-SCHADE!  Ein interessantes Programm hatten wir vorbereitet. 
+# Aktualisierungen demnächst
 
 
 ![Bild](/programmflyer_titel.png)     
