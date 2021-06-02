@@ -20,6 +20,8 @@ Nach der Absage des Festivals im Welterbetal ist die Heine-Inszenierung des Thea
 Infos, Termine und Reservierungen:    
 <iframe allowfullscreen="true" style="border:none;width:100%;height:500px;" src="//http://theaterwillypraml.de/heine-ich-rede-von-der-cholera/a></span>     
     
+                                                                                 ------   
+                                                                                 
         
 
 ![Bild](/programmflyer_titel.png)     
