@@ -21,10 +21,10 @@ Nach der Absage des Festivals im Welterbetal ist die Heine-Inszenierung des Thea
    ![Bild](/TWP_CHOLERA 2_Rebekka Waitz.jpg) 
 
 Infos, Termine und Reservierungen:    
-<a class="links" href="http://theaterwillypraml.de/heine-ich-rede-von-der-cholera" target="_blank" rel="noopener noreferrer"></a> 
+http://theaterwillypraml.de/heine-ich-rede-von-der-cholera/
 
 ...und ein Trailer    
-<a class="links" href="https://www.youtube.com/watch?v=Hz2BVqEeiNk" target="_blank" rel="noopener noreferrer"></a>    
+https://www.youtube.com/watch?v=Hz2BVqEeiNk   
     
                                                                                  ------   
                                                                                  
