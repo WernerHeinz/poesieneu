@@ -25,8 +25,9 @@ Infos, Termine und Reservierungen:
 Theater Willy Praml    </a>
 
 ...und ein Trailer    
-https://www.youtube.com/watch?v=Hz2BVqEeiNk   
-    
+<a class="links" href="https://www.youtube.com/watch?v=Hz2BVqEeiNk/" target="_blank" rel="noopener noreferrer">
+CHOLERTA-Trailer   </a>
+
                                                                                  ------   
                                                                                  
         
