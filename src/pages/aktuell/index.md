@@ -26,7 +26,7 @@ Theater Willy Praml    </a>
 
 ...und ein Trailer    
 <a class="links" href="https://www.youtube.com/watch?v=Hz2BVqEeiNk/" target="_blank" rel="noopener noreferrer">
-CHOLERTA-Trailer   </a>
+Heine_CHOLERA-Trailer   </a>
 
                                                                                  ------   
                                                                                  
