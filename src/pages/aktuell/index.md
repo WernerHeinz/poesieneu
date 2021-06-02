@@ -5,12 +5,17 @@ title: Aktuelles
 published: true
 ---
 
+# Festival 2021 pandemiebedingt abgesagt
+Zu unserem größten Bedauern wurde das Festival für 2021 pandemiebedingt abgesagt.   
+Wir versuchen derzeit in Zusammenarbeit mit dem Zweckverband und dem Kultursommer RLP zu klären, ob das Programm (fast) vollständig nach 2022 verlegt werden kann.   
+
+-----------    
+
 
 # Heine. ICH REDE VON DER CHOLERA    
 *Statt einer Premiere im WELTERBETAL nun ab 2.6. elf Vorstellungen in Frankfurt vor der Naxoshalle.*   
 Mit der Neuinszenierung von Heinrich Heines Bericht über die Cholera 1832 in Paris sollte das diesjährige Festival "An den Ufern der Poesie" am 18.6. in Bacharach eröffnet werden.  
-Zu unserem größten Bedauern wurde das Festival jedoch für 2021 pandemiebedingt abgesagt.   
-Wir versucher derzeit in Zusammenarbeit mit dem Zweckverband und dem Kultursommer RLP zu klären, ob das Programm (fast) vollständig nach 2022 verlegt werden kann.   
+
 
 Derweilen ist die Heine-Inszenierung des Theaters Willy Praml ab dem 2.6. zwei Wochen lang in Frankfurt zu erleben. 
 Infos, Termine und Reservierungen:    
