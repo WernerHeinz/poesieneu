@@ -19,13 +19,7 @@ Mit der Neuinszenierung von Heinrich Heines Bericht über die Cholera 1832 in Pa
 Nach der Absage des Festivals im Welterbetal ist die Heine-Inszenierung des Theaters Willy Praml nun ab dem 2.6. zwei Wochen lang in Frankfurt zu erleben. 
    
 
-
-Infos, Termine und Reservierungen:  
-<iframe allowfullscreen="true" style="border:none;width:100%;height:500px;" src="//e.issuu.com/embed.html?d=theaterfest_2021_web&u=hasenoderbein.de"></iframe>
-<span style={{fontSize:'.9rem'}}>by <a class="links" href="http://theaterwillypraml.de/heine-ich-rede-von-der-cholera/" target="_blank" rel="noopener noreferrer">
-Theater Willy Praml    </a>    
-
-...und ein Trailer    
+Trailer "Heine. Ich rede von der Cholera"   
 <iframe allowfullscreen="true" style="border:none;width:100%;height:500px;" src="//e.issuu.com/embed.html?d=theaterfest_2021_web&u=hasenoderbein.de"></iframe>
 <span style={{fontSize:'.9rem'}}>by <a class="links" href="https://www.youtube.com/watch?v=Hz2BVqEeiNk/" target="_blank" rel="noopener noreferrer">
 Heine_CHOLERA-Trailer   </a>    
