@@ -11,14 +11,14 @@ Wir versuchen derzeit in Zusammenarbeit mit dem Zweckverband und dem Kultursomme
 
 -----------    
 
-   ![Bild](/TWP_CHOLERA 3_Rebekka Waitz.jpg)    
+   
 # Heine. ICH REDE VON DER CHOLERA    
 *Statt einer Premiere im WELTERBETAL nun ab 2.6. elf Vorstellungen in Frankfurt vor der Naxoshalle.*   
 Mit der Neuinszenierung von Heinrich Heines Bericht über die Cholera 1832 in Paris sollte das diesjährige Festival "An den Ufern der Poesie" am 18.6. in Bacharach eröffnet werden.  
 
 Nach der Absage des Festivals im Welterbetal ist die Heine-Inszenierung des Theaters Willy Praml nun ab dem 2.6. zwei Wochen lang in Frankfurt zu erleben. 
    
-   ![Bild](/TWP_CHOLERA 2_Rebekka Waitz.jpg) 
+
 
 Infos, Termine und Reservierungen:  
 <iframe allowfullscreen="true" style="border:none;width:100%;height:500px;" src="//e.issuu.com/embed.html?d=theaterfest_2021_web&u=hasenoderbein.de"></iframe>
