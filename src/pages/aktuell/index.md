@@ -16,7 +16,7 @@ Wir versuchen derzeit in Zusammenarbeit mit dem Zweckverband und dem Kultursomme
 *Statt einer Premiere im WELTERBETAL nun ab 2.6. elf Vorstellungen in Frankfurt vor der Naxoshalle.*   
 Mit der Neuinszenierung von Heinrich Heines Bericht über die Cholera 1832 in Paris sollte das diesjährige Festival "An den Ufern der Poesie" am 18.6. in Bacharach eröffnet werden.  
 
-Nach der Absage des Festivals im Welterbetal ist die Heine-Inszenierung des Theaters Willy Praml nun ab dem 2.6. zwei Wochen lang in Frankfurt zu erleben. 
+Nach der Absage des Festivals im Welterbetal war die Heine-Inszenierung des Theaters Willy Praml vom 2.6. bis 20.6. in 13 komplett ausverkauften Vorstellungen open air vor der Frankfurter Naxos-Halle zu erleben. 
    
 
 Trailer "Heine. Ich rede von der Cholera"   
@@ -25,33 +25,6 @@ Trailer "Heine. Ich rede von der Cholera"
 Heine_CHOLERA-Trailer   </a>    
 
                                                                                  ------   
-               ------    
-               
-               
-        
-
-![Bild](/programmflyer_titel.png)     
-# Programm Theaterfestival 2021  
-
-<iframe allowfullscreen="true" style="border:none;width:100%;height:500px;" src="//e.issuu.com/embed.html?d=theaterfest_2021_web&u=hasenoderbein.de"></iframe>
-<span style={{fontSize:'.9rem'}}>by <a href="https://www.hasenoderbein.de/">Katrin Gloggengiesser</a></span>     
-
-Download Programmflyer 2021 [hier](/Theaterfest_2021_A4_final.pdf)     
-Wir festspielen pandemie-gerecht.   
-Vom 18.Juni bis 4. Juli 2021.    
-in Bacharach - Oberwesel - Kaub - Lorch    
-
-
-
-
-# Begleitender Ausstellungsparcours in Bacharach und Oberwesel 
-
-![Bild](/RotesFenster.jpg)   
-https://kulturnetz-oberes-mittelrheintal.org/projekte/    
-Begleitend zum Festival veranstaltet und dokumentiert das K.O.M. einen Ausstellungsparcours „Landjudentum am Mittelrhein" in Bacharach und Oberwesel.
-Vom 18. Juni bis Ende August sind analoge und virtuelle Ausstellungen und Installationen in Bacharach und Oberwesel geplant, mit Leihgaben aus der 2020 im Museums Simmern gezeigten Ausstellung "Jüdisches Leben auf dem Lande im Hunsrück" sowie mit ergänzenden Fakten zur jüdischen Geschichte am Mittelrhein.
-Die **Galerie Markt1** wird multimedial Zeitzeugen des 20. Jahrhunderts zu Wort kommen lassen sowie eine **Retrospektive zum roten Fenster des Künstlers Karl-Martin Hartmann**, das von 2007 bis 2010 in der Wernerkapelle Bacharach installiert war, ausstellen.
-Weitere Veranstaltungen und Ausstellungen – insbesondere zum **antisemitischen Wernerkult der Region** – sind in Oberwesel und in Bacharacher Schaufenstern und Kirchen geplant.    
 
       
 # Mai 2020: Kulturraum Markt1 in Bacharach eröffnet
