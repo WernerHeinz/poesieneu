@@ -1,7 +1,7 @@
 ---
 path: /heine
 date: '2017-11-07'
-title: Heine kommt wieder! 
+title: Festival verschoben nach 2022! 
 published: true
 ---
 
