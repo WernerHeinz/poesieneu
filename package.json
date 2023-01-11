@@ -18,7 +18,7 @@
     "gatsby-remark-responsive-iframe": "^2.0.8",
     "gatsby-remark-wrap-iframe": "^1.1.0",
     "gatsby-source-filesystem": "^2.0.4",
-    "gatsby-transformer-remark": "^2.2.2",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.4",
     "local-storage": "^1.4.2",
     "memoize-one": "^5.0.0",
